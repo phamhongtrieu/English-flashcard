@@ -29,6 +29,35 @@
         }
       ],
       "dataFile": "data/units/unit2.json"
+    },
+    {
+      "id": "unit3",
+      "number": 3,
+      "title": "Nutrition, Fitness & Healthy Lifestyle",
+      "description": "Từ vựng về dinh dưỡng, tập luyện, y tế phòng ngừa và lối sống lành mạnh từ Unit3.pdf.",
+      "sections": [
+        {
+          "id": "a",
+          "title": "Phần A: Chế độ dinh dưỡng & Thành phần thức ăn",
+          "description": "Hàng 1–13 trong PDF."
+        },
+        {
+          "id": "b",
+          "title": "Phần B: Thể hình, Tập luyện & Vận động",
+          "description": "Hàng 14–26 trong PDF."
+        },
+        {
+          "id": "c",
+          "title": "Phần C: Sức khỏe tổng thể & Y tế phòng ngừa",
+          "description": "Hàng 27–38 trong PDF."
+        },
+        {
+          "id": "d",
+          "title": "Phần D: Xu hướng lối sống lành mạnh & Thói quen",
+          "description": "Hàng 39–50 trong PDF."
+        }
+      ],
+      "dataFile": "data/units/unit3.json"
     }
   ]
 }

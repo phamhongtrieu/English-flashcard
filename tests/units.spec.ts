@@ -6,7 +6,7 @@ const manifest = JSON.parse(readFileSync(new URL('../public/data/units.json', im
 const unitData: UnitData = JSON.parse(readFileSync(new URL('../public/data/units/unit2.json', import.meta.url), 'utf8'))
 
 test('Dữ liệu xuất bản: 50 hàng, A/B/C/D, category, IDs và nghĩa nguồn', () => {
-  expect(manifest.units.map(unit => unit.id)).toEqual(['unit-2'])
+  expect(manifest.units.map(unit => unit.id)).toEqual(['unit-2', 'unit3'])
   expect(unitData.flashcards).toHaveLength(223)
   expect(new Set(unitData.flashcards.map(card => card.id)).size).toBe(223)
   expect([...new Set(unitData.flashcards.map(card => card.sourceRow))].sort((a, b) => a! - b!)).toEqual(Array.from({ length: 50 }, (_, i) => i + 1))
@@ -29,9 +29,9 @@ test('Dữ liệu xuất bản: 50 hàng, A/B/C/D, category, IDs và nghĩa ngu�
 
 test('Trang chủ dùng số lượng thật và mở đúng Unit, refresh giữ route', async ({ page }) => {
   await page.goto('/')
-  await expect(page.locator('.unit-card')).toHaveCount(1)
-  await expect(page.locator('.unit-meta')).toContainText('223 thẻ')
-  await page.locator('.unit-card').getByRole('link', { name: 'Bắt đầu học' }).click()
+  await expect(page.locator('.unit-card')).toHaveCount(2)
+  await expect(page.locator('.unit-card').first().locator('.unit-meta')).toContainText('223 thẻ')
+  await page.locator('.unit-card').first().getByRole('link', { name: 'Bắt đầu học' }).click()
   await expect(page).toHaveURL(/\/study\/unit-2$/)
   await expect(page.locator('.study-top')).toContainText('1 / 223')
   await page.reload()
@@ -77,7 +77,7 @@ for (const scenario of ['syntax', 'empty', 'duplicate', 'wrong-unit', 'wrong-sec
     expect(errors).toEqual([])
     await page.goto('/')
     await expect(page.getByRole('alert')).toBeVisible()
-    await expect(page.locator('.unit-card')).toHaveCount(0)
+    await expect(page.locator('.unit-card')).toHaveCount(scenario === 'manifest' ? 0 : 1)
   })
 }
 
@@ -88,7 +88,7 @@ test('Nhiều Unit qua fixture mạng, không xuất bản Unit giả; đổi Un
   await page.route('**/data/units.json', route => route.fulfill({ json: { schemaVersion: 1, units: [...manifest.units, fixtureUnit] } }))
   await page.route('**/data/units/fixture-unit.json', route => route.fulfill({ json: fixtureData }))
   await page.goto('/')
-  await expect(page.locator('.unit-card')).toHaveCount(2)
+  await expect(page.locator('.unit-card')).toHaveCount(3)
   await page.locator('.unit-card').first().getByRole('link', { name: 'Bắt đầu học' }).click()
   await page.getByRole('button', { name: 'Lật thẻ', exact: true }).click()
   await expect(page.getByRole('heading', { name: 'Physique', exact: true })).toBeVisible()
