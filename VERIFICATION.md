@@ -1,5 +1,7 @@
 # Kết quả kiểm tra Bước 1
 
+Kết quả mới nhất: **nhập và kiểm tra đáp án trên Flashcard**, xem [docs/typing-report.md](docs/typing-report.md). TypeScript/build đạt; **73/73 ca Playwright đạt**, gồm 12 ca luyện gõ và 61 ca hồi quy. Lựa chọn dùng key riêng `english-flashcard-typing-enabled-v1`; kết quả không tự đánh giá hay đổi tiến độ. Unit 2/3 giữ nguyên dữ liệu và ID (kiểm tra SHA-256). Responsive Light/Dark/mobile đạt trong Chrome mô phỏng; chưa thử thiết bị thật. Không push/deploy.
+
 Kết quả mới nhất: **bổ sung Unit 3**, xem [docs/unit3-report.md](docs/unit3-report.md). Đọc đủ 9 trang/50 hàng, xuất 217 thẻ; tổng catalog 2 Unit/440 thẻ. TypeScript/build đạt; **61/61 ca Playwright đạt**, gồm Unit 3, tiến độ độc lập, phát âm giả lập và responsive Light/Dark. Unit 2 giữ nguyên byte/ID (SHA-256 đối chiếu trước/sau). Có 22 ghi chú rà soát nguồn, giữ nguyên các mục nghi vấn. Không push/deploy.
 
 Kết quả mới nhất: **bổ sung phát âm tiếng Anh**, xem [docs/pronunciation-report.md](docs/pronunciation-report.md). TypeScript/build đạt; **55/55 ca Playwright đạt**, gồm 10 ca phát âm với engine giả lập. Kiểm tra native Chrome headless có 3 giọng en-US nhưng trả `synthesis-failed` cho Physique/Physical và cả trang Speech API tối giản; ứng dụng báo lỗi đúng. Chưa xác nhận âm thanh nghe được trên thiết bị thật hoặc Vercel. Không deploy, không sửa dữ liệu/ID/LocalStorage/logic đánh giá.

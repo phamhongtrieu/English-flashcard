@@ -17,6 +17,8 @@ import { matchesStudyMode } from '../utils/studyDeck'
 import { StorageNotice } from '../components/ui/StorageNotice'
 import { UnitProgress } from '../components/flashcards/UnitProgress'
 import type { StudyMode } from '../types/study'
+import { TypingAnswer } from '../components/flashcards/TypingAnswer'
+import { useTypingPreference } from '../hooks/useTypingPreference'
 
 export function StudyPage() {
   const { unitId } = useParams()
@@ -40,6 +42,7 @@ function UnitStudy({ id }: { id: string }) {
 }
 
 function StudySession({ loaded }: { loaded: LoadedUnit }) {
+  const typing = useTypingPreference()
   const { unit, data } = loaded
   const learning = useLearningProgress()
   const [search, setSearch] = useSearchParams()
@@ -62,7 +65,7 @@ function StudySession({ loaded }: { loaded: LoadedUnit }) {
     <StorageNotice />
     <StudyFilters mode={deck.mode} onMode={changeMode} unit={unit} filters={deck.filters} shuffled={deck.shuffled} count={cards.length} total={data.flashcards.length}
       onChange={deck.setFilters} onShuffle={deck.setShuffled} onReset={deck.resetFilters} />
-    {deck.cards.length ? <StudyDeck key={deck.revision} loaded={loaded} cards={cards} mode={deck.mode} restart={deck.restart} showAll={() => changeMode('all')} /> : <section className="study-empty panel" aria-label="Kết quả lọc">
+    {deck.cards.length ? <StudyDeck key={deck.revision} loaded={loaded} cards={cards} mode={deck.mode} restart={deck.restart} showAll={() => changeMode('all')} typing={typing} /> : <section className="study-empty panel" aria-label="Kết quả lọc">
       <h2>{deck.mode === 'learning' ? 'Không có từ chưa thuộc phù hợp' : deck.mode === 'new' ? 'Không còn thẻ chưa học phù hợp' : 'Không có thẻ phù hợp'}</h2><p>Hãy chọn bộ lọc hoặc chế độ học khác để tiếp tục.</p>
       {deck.mode !== 'all' && <button className="button button-primary" onClick={() => changeMode('all')}>Học tất cả thẻ</button>}
       <button type="button" className="button button-secondary" onClick={deck.resetFilters}><RotateCcw size={16} />Đặt lại bộ lọc</button>
@@ -75,7 +78,7 @@ function StudySession({ loaded }: { loaded: LoadedUnit }) {
   </div>
 }
 
-function StudyDeck({ loaded, cards, mode, restart, showAll }: { loaded: LoadedUnit; cards: Flashcard[]; mode: StudyMode; restart: () => void; showAll: () => void }) {
+function StudyDeck({ loaded, cards, mode, restart, showAll, typing }: { loaded: LoadedUnit; cards: Flashcard[]; mode: StudyMode; restart: () => void; showAll: () => void; typing: ReturnType<typeof useTypingPreference> }) {
   const { unit, data } = loaded
   const session = useFlashcardStudy(cards)
   const { statusOf, markCard } = useLearningProgress()
@@ -108,6 +111,7 @@ function StudyDeck({ loaded, cards, mode, restart, showAll }: { loaded: LoadedUn
       <StudyFlashcard card={card} flipped={flipped} onFlip={flip} unitName={unitLabel(unit)} onAnswerVisible={() => setReadyCardId(card.id)} />
       <p id="study-card-hint" className="study-hint" aria-live="polite">{flipped ? 'Mặt sau · Tiếng Anh' : 'Mặt trước · Tiếng Việt'} · Nhấn để lật thẻ</p>
       {reviewNotes.map(note => <p className="data-note" key={`${note.sourceRow}-${note.category}`}>Cần rà soát · Hàng {note.sourceRow}: {note.reason}</p>)}
+      <TypingAnswer key={card.id} card={card} flipped={flipped} enabled={typing.enabled} saved={typing.saved} onEnabled={typing.setEnabled} />
       <div className="study-controls" aria-label="Vùng điều khiển flashcard">
         <button className="button button-secondary" disabled={index === 0} onClick={previous}><ArrowLeft size={17} />Thẻ trước</button>
         <button className="button button-primary" onClick={flip}><RotateCcw size={17} />Lật thẻ</button>

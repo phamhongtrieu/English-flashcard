@@ -8,6 +8,8 @@ export interface Flashcard {
   category: FlashcardCategory
   vietnamese: string
   english: string
+  /** Optional explicit alternatives; never inferred from synonyms or slashes. */
+  acceptedAnswers?: string[]
   partOfSpeech: PartOfSpeech | null
   /** Số hàng trong PDF gốc; null chỉ dành cho dữ liệu minh họa cũ. */
   sourceRow: number | null

@@ -73,6 +73,7 @@ tests/                        # Route, dữ liệu, lật, điều hướng, l�
 - /statistics dùng dữ liệu thật: tổng thẻ, chưa học, đã thuộc, chưa thuộc và known/tổng × 100%, tổng hợp lẫn từng Unit. Trang chủ/danh sách Unit cũng có tiến độ và liên kết tiếp tục học.
 - Mỗi cặp Unit ID/Flashcard ID lưu một record riêng trong namespace english-flashcard-progress-v1. Không lưu nội dung từ vựng hoặc sửa JSON. Dữ liệu hỏng bị bỏ qua; storage bị chặn/quota lỗi thì báo chưa lưu và giữ kết quả mới trong phiên. Xem [schema và quy tắc lưu](docs/progress-storage.md).
 - Chưa có quiz hoặc upload PDF. Không có backend, database, đăng nhập hoặc admin.
+- Luyện gõ đáp án ngay dưới Flashcard, mặc định bật; Enter hoặc nút Kiểm tra báo đúng/sai, không tự lật/chuyển/đánh giá. Lựa chọn bật/tắt dùng key riêng `english-flashcard-typing-enabled-v1`. Xem [báo cáo luyện gõ](docs/typing-report.md).
 - Light/Dark Mode giữ hành vi lưu lựa chọn theme có sẵn từ bước trước.
 - Không thêm thư viện frontend mới ở Bước 5. Công cụ Python đọc PDF của bước trước chỉ phục vụ đối chiếu trong workspace, không nằm trong ứng dụng/build.
 - File PDF không được sao chép vào public hoặc dist. JSON demo cũ trong src/data không được dùng làm dữ liệu Unit xuất bản.
