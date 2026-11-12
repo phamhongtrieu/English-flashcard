@@ -59,9 +59,9 @@ function StudySession({ loaded }: { loaded: LoadedUnit }) {
     <Link className="text-link back-link" to="/"><ArrowLeft size={16} /> Về trang chủ</Link>
     <div className="page-heading">
       <Badge>{unitLabel(unit)}</Badge>
-      <h1>{unit.title}</h1><p>Một chút tập trung, thêm một từ mới.</p>
+      <h1>{unit.title}</h1>
     </div>
-    <div className="notice"><Info size={18} /><p>Nhấn vào thẻ hoặc nút “Lật thẻ” để xem đáp án. Dùng phím ← / → để chuyển thẻ.</p></div>
+    <p className="study-instructions"><Info size={15} /><span>Nhấn thẻ để lật · Phím ← / → để chuyển thẻ.</span></p>
     <StorageNotice />
     <StudyFilters mode={deck.mode} onMode={changeMode} unit={unit} filters={deck.filters} shuffled={deck.shuffled} count={cards.length} total={data.flashcards.length}
       onChange={deck.setFilters} onShuffle={deck.setShuffled} onReset={deck.resetFilters} />
@@ -79,7 +79,7 @@ function StudySession({ loaded }: { loaded: LoadedUnit }) {
 }
 
 function StudyDeck({ loaded, cards, mode, restart, showAll, typing }: { loaded: LoadedUnit; cards: Flashcard[]; mode: StudyMode; restart: () => void; showAll: () => void; typing: ReturnType<typeof useTypingPreference> }) {
-  const { unit, data } = loaded
+  const { unit } = loaded
   const session = useFlashcardStudy(cards)
   const { statusOf, markCard } = useLearningProgress()
   const { index, card, flipped, flip, previous, next } = session
@@ -104,13 +104,11 @@ function StudyDeck({ loaded, cards, mode, restart, showAll, typing }: { loaded: 
     <Link className="button button-secondary" to="/statistics">Xem thống kê</Link>
   </section>
   if (!card) return <section className="study-empty panel"><h2>{mode === 'learning' ? 'Không còn từ chưa thuộc trong lượt này' : 'Không còn thẻ phù hợp trong lượt này'}</h2><button className="button button-primary" onClick={showAll}>Học tất cả thẻ</button></section>
-  const reviewNotes = data.reviewNotes.filter(note => note.sourceRow === card.sourceRow && note.category === card.category)
   const statusLabels = { new: 'Chưa học', known: 'Đã thuộc', learning: 'Chưa thuộc' }
   return <section ref={workspace} className="study-workspace" aria-label="Khu vực học từ vựng">
       <div className="study-top"><span>Flashcard · {statusLabels[statusOf(unit.id, card.id)]}</span><span aria-live="polite" aria-atomic="true"><Badge subtle>{index + 1} / {cards.length}</Badge></span></div>
       <StudyFlashcard card={card} flipped={flipped} onFlip={flip} unitName={unitLabel(unit)} onAnswerVisible={() => setReadyCardId(card.id)} />
       <p id="study-card-hint" className="study-hint" aria-live="polite">{flipped ? 'Mặt sau · Tiếng Anh' : 'Mặt trước · Tiếng Việt'} · Nhấn để lật thẻ</p>
-      {reviewNotes.map(note => <p className="data-note" key={`${note.sourceRow}-${note.category}`}>Cần rà soát · Hàng {note.sourceRow}: {note.reason}</p>)}
       <TypingAnswer key={card.id} card={card} flipped={flipped} enabled={typing.enabled} saved={typing.saved} onEnabled={typing.setEnabled} />
       <div className="study-controls" aria-label="Vùng điều khiển flashcard">
         <button className="button button-secondary" disabled={index === 0} onClick={previous}><ArrowLeft size={17} />Thẻ trước</button>

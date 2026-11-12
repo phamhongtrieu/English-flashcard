@@ -1,3 +1,4 @@
+import { openStudyFilters } from './helpers/studyFilters'
 import { test, expect, chromium } from '@playwright/test'
 import type { Page } from '@playwright/test'
 import { readFileSync, mkdtempSync } from 'node:fs'
@@ -88,12 +89,16 @@ test('Tiếp tục học thẻ mới, chia sẻ trạng thái qua bộ lọc/tr�
   await page.getByRole('link', { name: 'Tiếp tục học thẻ chưa học', exact: true }).first().click()
   await expect(page.locator('.filter-count')).toHaveText('222 / 223 thẻ phù hợp')
   await expect(page.getByRole('heading', { name: second.vietnamese, exact: true })).toBeVisible()
+  await openStudyFilters(page)
   await page.getByLabel('Nhóm từ', { exact: true }).selectOption('word_family')
+  await openStudyFilters(page)
   await page.getByLabel('Loại từ', { exact: true }).selectOption('adv')
+  await openStudyFilters(page)
   await page.getByRole('switch', { name: 'Trộn thẻ' }).check()
   await expect(page.locator('.study-top')).toContainText('1 / 1')
   await rate(page, 'Chưa thuộc')
   await expect(page.getByRole('heading', { name: 'Đã hoàn thành lượt học!' })).toBeVisible()
+  await openStudyFilters(page)
   await page.getByLabel('Chế độ học', { exact: true }).selectOption('learning')
   await expect(page.locator('.study-top')).toContainText('Chưa thuộc')
   await rate(page, 'Đã thuộc')

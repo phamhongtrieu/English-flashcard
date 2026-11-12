@@ -51,7 +51,7 @@ Ví dụ một bản ghi trong dữ liệu Unit 2 (file thật chứa đủ 223 
 - `sourceRow` là STT hàng gốc, số nguyên dương. Với Unit 2: 1–50, không đánh số lại theo trang.
 - ID mỗi thẻ gồm namespace Unit, hàng nguồn, category và thứ tự mục trong ô. Không dùng index của toàn bộ bộ thẻ, timestamp hoặc random. Khi sửa bản dịch, giữ ID cũ. Nếu thêm mục vào ô, cấp hậu tố mới, không đánh lại ID các mục cũ.
 - Một từ xuất hiện ở các hàng/nhóm khác nhau vẫn giữ ngữ cảnh nguồn và ID riêng; không tự gộp mất thông tin.
-- `reviewNotes`: mảng `{ sourceRow, category, original, reason }`; một ghi chú áp dụng cho các thẻ cùng hàng và category, hiển thị ở trang học. Giữ nguyên ô gốc ở `original`. Ghi chú không phải từ vựng bổ sung.
+- `reviewNotes`: mảng `{ sourceRow, category, original, reason }`; ghi chú nội bộ áp dụng cho các thẻ cùng hàng và category, chỉ quản lý trong dữ liệu/tài liệu đối chiếu, không render trên giao diện người học. Giữ nguyên ô gốc ở `original`. Ghi chú không phải từ vựng bổ sung; chưa xây công cụ Admin.
 - Mỗi file xuất bản cần ít nhất một thẻ hợp lệ. ID không được trùng. Thiếu trường bắt buộc, category/POS lạ, ID hoặc chủ đề không khớp sẽ bị từ chối. JSON bị lỗi/HTTP lỗi được hiển thị thành thông báo; không rơi về bộ demo.
 
 ## Mở rộng Unit

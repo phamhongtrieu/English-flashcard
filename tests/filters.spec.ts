@@ -1,3 +1,4 @@
+import { openStudyFilters } from './helpers/studyFilters'
 import { test, expect } from '@playwright/test'
 import { readFileSync } from 'node:fs'
 import type { Flashcard } from '../src/types/flashcard'
@@ -31,6 +32,7 @@ test('Loại từ hỗn hợp, n.pl và null không suy đoán; tiện ích khô
 
 test('Từng bộ lọc chủ đề, nhóm từ, loại từ hiển thị đúng số lượng', async ({ page }) => {
   await page.goto('/study/unit-2')
+  await openStudyFilters(page)
   const section = page.getByLabel('Chủ đề', { exact: true })
   const category = page.getByLabel('Nhóm từ', { exact: true })
   const pos = page.getByLabel('Loại từ', { exact: true })
@@ -59,6 +61,7 @@ test('Từng bộ lọc chủ đề, nhóm từ, loại từ hiển thị đúng
 test('Bộ lọc kết hợp, reset đầu/mặt Việt, bàn phím và không có kết quả', async ({ page }) => {
   await page.emulateMedia({ reducedMotion: 'reduce' })
   await page.goto('/study/unit-2')
+  await openStudyFilters(page)
   const section = page.getByLabel('Chủ đề', { exact: true })
   const category = page.getByLabel('Nhóm từ', { exact: true })
   const pos = page.getByLabel('Loại từ', { exact: true })
@@ -99,7 +102,9 @@ test('Trộn chỉ tập đã lọc, không mất/trùng, giữ thứ tự khi l
   await page.emulateMedia({ reducedMotion: 'reduce' })
   await page.addInitScript(() => { Math.random = () => 0 })
   await page.goto('/study/unit-2')
+  await openStudyFilters(page)
   await page.getByLabel('Chủ đề', { exact: true }).selectOption('a')
+  await openStudyFilters(page)
   await page.getByLabel('Nhóm từ', { exact: true }).selectOption('base_word')
   const expected = cards.filter(card => card.section === 'a' && card.category === 'base_word').map(card => card.vietnamese)
   const toggle = page.getByRole('switch', { name: 'Trộn thẻ' })
@@ -130,6 +135,7 @@ test('Trộn chỉ tập đã lọc, không mất/trùng, giữ thứ tự khi l
   }
   // Đổi bộ lọc khi đang trộn phải tạo lượt mới chỉ gồm kết quả mới.
   await toggle.check()
+  await openStudyFilters(page)
   await page.getByLabel('Chủ đề', { exact: true }).selectOption('b')
   await expect(page.locator('.study-top')).toContainText('1 / 13')
   const sectionB = cards.filter(card => card.section === 'b' && card.category === 'base_word')
@@ -142,6 +148,7 @@ for (const width of [320, 390, 768, 1440]) {
     await page.goto('/study/unit-2')
     for (const dark of [false, true]) {
       await page.locator('html').evaluate((el, value) => el.classList.toggle('dark', value), dark)
+      await openStudyFilters(page)
       await page.getByLabel('Chủ đề', { exact: true }).selectOption('d')
       await expect(page.locator('.filter-count')).toHaveText('55 / 223 thẻ phù hợp')
       for (const select of await page.getByRole('combobox').all()) {
@@ -149,6 +156,7 @@ for (const width of [320, 390, 768, 1440]) {
         expect(box!.width).toBeGreaterThan(100)
         expect(box!.x + box!.width).toBeLessThanOrEqual(width)
       }
+      await openStudyFilters(page)
       await expect(page.getByRole('switch', { name: 'Trộn thẻ' })).toBeVisible()
       expect(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth)).toBe(true)
     }
