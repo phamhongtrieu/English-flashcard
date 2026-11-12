@@ -8,7 +8,7 @@ const cards: Flashcard[] = JSON.parse(readFileSync(new URL('../public/data/units
 test('Loại từ hỗn hợp, n.pl và null không suy đoán; tiện ích không sửa nguồn', () => {
   for (const [pos, matches] of [
     ['n/adj', ['n', 'adj']], ['v/adj', ['v', 'adj']], ['adj/n', ['adj', 'n']],
-    ['v/n', ['v', 'n']], ['n.pl', ['n']], ['adv', ['adv']], [null, ['other']],
+    ['v/n', ['v', 'n']], ['n/v', ['n', 'v']], ['phr.v', ['v']], ['n.pl', ['n']], ['adv', ['adv']], [null, ['other']],
   ] as const) {
     for (const filter of ['n', 'v', 'adj', 'adv', 'other'] as const) expect(matchesPartOfSpeech(pos, filter)).toBe((matches as readonly string[]).includes(filter))
     expect(matchesPartOfSpeech(pos, 'all')).toBe(true)

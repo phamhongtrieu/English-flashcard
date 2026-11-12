@@ -12,7 +12,7 @@ test('Các route trực tiếp, refresh, điều hướng và trang 404', async 
   }
   await page.getByRole('navigation').getByRole('link', { name: 'Học từ vựng' }).click()
   await expect(page).toHaveURL(/\/study$/)
-  await page.getByRole('link', { name: 'Bắt đầu học' }).click()
+  await page.getByRole('link', { name: 'Bắt đầu học' }).first().click()
   await expect(page.getByRole('button', { name: 'Lật thẻ', exact: true })).toBeEnabled()
   expect(errors).toEqual([])
 })
@@ -37,7 +37,7 @@ test('Chế độ sáng/tối đổi giao diện và lưu qua refresh, điều h
 for (const width of [320, 390, 768, 1440]) {
   test(`Responsive ${width}px, mọi trang trong hai chế độ`, async ({ page }) => {
     await page.setViewportSize({ width, height: 1000 })
-    for (const path of ['/', '/study', '/study/unit-2', '/statistics', '/404']) {
+    for (const path of ['/', '/study', '/study/unit-2', '/study/unit3', '/statistics', '/404']) {
       await page.goto(path)
       for (const dark of [false, true]) {
         await page.locator('html').evaluate((el, isDark) => el.classList.toggle('dark', isDark), dark)
@@ -69,7 +69,7 @@ test('Ảnh kiểm tra desktop và mobile', async ({ page }) => {
   await page.emulateMedia({ reducedMotion: 'reduce', colorScheme: 'light' })
   await page.setViewportSize({ width: 1440, height: 1100 })
   await page.goto('/')
-  await expect(page.locator('.unit-card')).toHaveCount(1)
+  await expect(page.locator('.unit-card')).toHaveCount(2)
   await page.screenshot({ path: 'test-results/home-desktop.png', fullPage: true })
   await page.setViewportSize({ width: 390, height: 844 })
   await page.screenshot({ path: 'test-results/home-mobile.png', fullPage: true })

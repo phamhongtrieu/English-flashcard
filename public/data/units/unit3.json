@@ -1,0 +1,2317 @@
+{
+  "schemaVersion": 1,
+  "unitId": "unit3",
+  "source": {
+    "fileName": "Unit3.pdf",
+    "pages": 9,
+    "sourceRowCount": 50,
+    "sha256": "2d813e0b0be0bfa5c9457f2b01b6acca5b3c6191769fad7a846bd3512de70fef",
+    "method": "Trích xuất văn bản và đối chiếu trực quan đủ 9 trang; chép 50 hàng, tách mục từ có dấu /, không suy đoán loại từ."
+  },
+  "flashcards": [
+    {
+      "id": "unit3-r001-base-word-01",
+      "unitId": "unit3",
+      "section": "a",
+      "category": "base_word",
+      "vietnamese": "Chế độ ăn uống",
+      "english": "Diet",
+      "partOfSpeech": "n/v",
+      "sourceRow": 1
+    },
+    {
+      "id": "unit3-r001-word-family-01",
+      "unitId": "unit3",
+      "section": "a",
+      "category": "word_family",
+      "vietnamese": "Thuộc chế độ ăn",
+      "english": "Dietary",
+      "partOfSpeech": "adj",
+      "sourceRow": 1
+    },
+    {
+      "id": "unit3-r001-synonym-01",
+      "unitId": "unit3",
+      "section": "a",
+      "category": "synonym",
+      "vietnamese": "Thói quen ăn uống",
+      "english": "Eating pattern",
+      "partOfSpeech": "n",
+      "sourceRow": 1
+    },
+    {
+      "id": "unit3-r001-collocation-01",
+      "unitId": "unit3",
+      "section": "a",
+      "category": "collocation",
+      "vietnamese": "Chế độ ăn cân bằng dưỡng chất",
+      "english": "Balanced diet",
+      "partOfSpeech": null,
+      "sourceRow": 1
+    },
+    {
+      "id": "unit3-r002-base-word-01",
+      "unitId": "unit3",
+      "section": "a",
+      "category": "base_word",
+      "vietnamese": "Calo (đơn vị năng lượng)",
+      "english": "Calorie",
+      "partOfSpeech": "n",
+      "sourceRow": 2
+    },
+    {
+      "id": "unit3-r002-word-family-01",
+      "unitId": "unit3",
+      "section": "a",
+      "category": "word_family",
+      "vietnamese": "Thuộc về calo",
+      "english": "Caloric",
+      "partOfSpeech": "adj",
+      "sourceRow": 2
+    },
+    {
+      "id": "unit3-r002-word-family-02",
+      "unitId": "unit3",
+      "section": "a",
+      "category": "word_family",
+      "vietnamese": "Thuộc về calo",
+      "english": "Calorific",
+      "partOfSpeech": "adj",
+      "sourceRow": 2
+    },
+    {
+      "id": "unit3-r002-synonym-01",
+      "unitId": "unit3",
+      "section": "a",
+      "category": "synonym",
+      "vietnamese": "Giá trị năng lượng",
+      "english": "Energy value",
+      "partOfSpeech": "n",
+      "sourceRow": 2
+    },
+    {
+      "id": "unit3-r002-collocation-01",
+      "unitId": "unit3",
+      "section": "a",
+      "category": "collocation",
+      "vietnamese": "Lượng calo nạp vào cơ thể",
+      "english": "Caloric intake",
+      "partOfSpeech": null,
+      "sourceRow": 2
+    },
+    {
+      "id": "unit3-r003-base-word-01",
+      "unitId": "unit3",
+      "section": "a",
+      "category": "base_word",
+      "vietnamese": "Chất đạm",
+      "english": "Protein",
+      "partOfSpeech": "n",
+      "sourceRow": 3
+    },
+    {
+      "id": "unit3-r003-word-family-01",
+      "unitId": "unit3",
+      "section": "a",
+      "category": "word_family",
+      "vietnamese": "Chứa nhiều đạm",
+      "english": "Proteinous",
+      "partOfSpeech": "adj",
+      "sourceRow": 3
+    },
+    {
+      "id": "unit3-r003-synonym-01",
+      "unitId": "unit3",
+      "section": "a",
+      "category": "synonym",
+      "vietnamese": "Axit amin (cấu thành đạm)",
+      "english": "Amino acid",
+      "partOfSpeech": "n",
+      "sourceRow": 3
+    },
+    {
+      "id": "unit3-r003-collocation-01",
+      "unitId": "unit3",
+      "section": "a",
+      "category": "collocation",
+      "vietnamese": "Đạm nạc (tốt cho cơ bắp)",
+      "english": "Lean protein",
+      "partOfSpeech": null,
+      "sourceRow": 3
+    },
+    {
+      "id": "unit3-r004-base-word-01",
+      "unitId": "unit3",
+      "section": "a",
+      "category": "base_word",
+      "vietnamese": "Chất bột đường",
+      "english": "Carbohydrate",
+      "partOfSpeech": "n",
+      "sourceRow": 4
+    },
+    {
+      "id": "unit3-r004-word-family-01",
+      "unitId": "unit3",
+      "section": "a",
+      "category": "word_family",
+      "vietnamese": "Nhiều tinh bột",
+      "english": "Carb-heavy",
+      "partOfSpeech": "adj",
+      "sourceRow": 4
+    },
+    {
+      "id": "unit3-r004-synonym-01",
+      "unitId": "unit3",
+      "section": "a",
+      "category": "synonym",
+      "vietnamese": "Tinh bột hấp thụ chậm",
+      "english": "Complex carb",
+      "partOfSpeech": "n",
+      "sourceRow": 4
+    },
+    {
+      "id": "unit3-r004-collocation-01",
+      "unitId": "unit3",
+      "section": "a",
+      "category": "collocation",
+      "vietnamese": "Giảm lượng tinh bột nạp vào",
+      "english": "Reduce carbohydrate intake",
+      "partOfSpeech": null,
+      "sourceRow": 4
+    },
+    {
+      "id": "unit3-r005-base-word-01",
+      "unitId": "unit3",
+      "section": "a",
+      "category": "base_word",
+      "vietnamese": "Chất béo, dầu mỡ",
+      "english": "Lipid",
+      "partOfSpeech": "n",
+      "sourceRow": 5
+    },
+    {
+      "id": "unit3-r005-word-family-01",
+      "unitId": "unit3",
+      "section": "a",
+      "category": "word_family",
+      "vietnamese": "Thuộc chất béo",
+      "english": "Lipidic",
+      "partOfSpeech": "adj",
+      "sourceRow": 5
+    },
+    {
+      "id": "unit3-r005-synonym-01",
+      "unitId": "unit3",
+      "section": "a",
+      "category": "synonym",
+      "vietnamese": "Chất béo",
+      "english": "Fat",
+      "partOfSpeech": "n/adj",
+      "sourceRow": 5
+    },
+    {
+      "id": "unit3-r005-synonym-02",
+      "unitId": "unit3",
+      "section": "a",
+      "category": "synonym",
+      "vietnamese": "Chất béo",
+      "english": "Fatty acids",
+      "partOfSpeech": "n/adj",
+      "sourceRow": 5
+    },
+    {
+      "id": "unit3-r005-collocation-01",
+      "unitId": "unit3",
+      "section": "a",
+      "category": "collocation",
+      "vietnamese": "Chất béo bão hòa (không tốt)",
+      "english": "Saturated fat",
+      "partOfSpeech": null,
+      "sourceRow": 5
+    },
+    {
+      "id": "unit3-r006-base-word-01",
+      "unitId": "unit3",
+      "section": "a",
+      "category": "base_word",
+      "vietnamese": "Sự trao đổi chất",
+      "english": "Metabolism",
+      "partOfSpeech": "n",
+      "sourceRow": 6
+    },
+    {
+      "id": "unit3-r006-word-family-01",
+      "unitId": "unit3",
+      "section": "a",
+      "category": "word_family",
+      "vietnamese": "Thuộc trao đổi chất",
+      "english": "Metabolic",
+      "partOfSpeech": "adj",
+      "sourceRow": 6
+    },
+    {
+      "id": "unit3-r006-synonym-01",
+      "unitId": "unit3",
+      "section": "a",
+      "category": "synonym",
+      "vietnamese": "Sự đốt cháy calo",
+      "english": "Caloric burn",
+      "partOfSpeech": "n",
+      "sourceRow": 6
+    },
+    {
+      "id": "unit3-r006-collocation-01",
+      "unitId": "unit3",
+      "section": "a",
+      "category": "collocation",
+      "vietnamese": "Tăng tốc độ trao đổi chất",
+      "english": "Boost metabolic rate",
+      "partOfSpeech": null,
+      "sourceRow": 6
+    },
+    {
+      "id": "unit3-r007-base-word-01",
+      "unitId": "unit3",
+      "section": "a",
+      "category": "base_word",
+      "vietnamese": "Chất phụ gia (trong thực phẩm)",
+      "english": "Additive",
+      "partOfSpeech": "n",
+      "sourceRow": 7
+    },
+    {
+      "id": "unit3-r007-word-family-01",
+      "unitId": "unit3",
+      "section": "a",
+      "category": "word_family",
+      "vietnamese": "Thêm vào",
+      "english": "Add",
+      "partOfSpeech": "v",
+      "sourceRow": 7
+    },
+    {
+      "id": "unit3-r007-synonym-01",
+      "unitId": "unit3",
+      "section": "a",
+      "category": "synonym",
+      "vietnamese": "Chất bảo quản thực phẩm",
+      "english": "Preservative",
+      "partOfSpeech": "n",
+      "sourceRow": 7
+    },
+    {
+      "id": "unit3-r007-collocation-01",
+      "unitId": "unit3",
+      "section": "a",
+      "category": "collocation",
+      "vietnamese": "Chất phụ gia nhân tạo",
+      "english": "Artificial additive",
+      "partOfSpeech": null,
+      "sourceRow": 7
+    },
+    {
+      "id": "unit3-r008-base-word-01",
+      "unitId": "unit3",
+      "section": "a",
+      "category": "base_word",
+      "vietnamese": "Hữu cơ (sạch, tự nhiên)",
+      "english": "Organic",
+      "partOfSpeech": "adj",
+      "sourceRow": 8
+    },
+    {
+      "id": "unit3-r008-word-family-01",
+      "unitId": "unit3",
+      "section": "a",
+      "category": "word_family",
+      "vietnamese": "Một cách hữu cơ",
+      "english": "Organically",
+      "partOfSpeech": "adv",
+      "sourceRow": 8
+    },
+    {
+      "id": "unit3-r008-synonym-01",
+      "unitId": "unit3",
+      "section": "a",
+      "category": "synonym",
+      "vietnamese": "Tự nhiên",
+      "english": "Natural",
+      "partOfSpeech": "adj",
+      "sourceRow": 8
+    },
+    {
+      "id": "unit3-r008-synonym-02",
+      "unitId": "unit3",
+      "section": "a",
+      "category": "synonym",
+      "vietnamese": "Không hóa chất",
+      "english": "Chemical-free",
+      "partOfSpeech": "adj",
+      "sourceRow": 8
+    },
+    {
+      "id": "unit3-r008-collocation-01",
+      "unitId": "unit3",
+      "section": "a",
+      "category": "collocation",
+      "vietnamese": "Nông sản hữu cơ",
+      "english": "Organic produce",
+      "partOfSpeech": null,
+      "sourceRow": 8
+    },
+    {
+      "id": "unit3-r009-base-word-01",
+      "unitId": "unit3",
+      "section": "a",
+      "category": "base_word",
+      "vietnamese": "Đã qua chế biến",
+      "english": "Processed",
+      "partOfSpeech": "adj",
+      "sourceRow": 9
+    },
+    {
+      "id": "unit3-r009-word-family-01",
+      "unitId": "unit3",
+      "section": "a",
+      "category": "word_family",
+      "vietnamese": "Quy trình chế biến",
+      "english": "Process",
+      "partOfSpeech": "v/n",
+      "sourceRow": 9
+    },
+    {
+      "id": "unit3-r009-synonym-01",
+      "unitId": "unit3",
+      "section": "a",
+      "category": "synonym",
+      "vietnamese": "Tinh chế, qua xử lý công nghiệp",
+      "english": "Refined",
+      "partOfSpeech": "adj",
+      "sourceRow": 9
+    },
+    {
+      "id": "unit3-r009-collocation-01",
+      "unitId": "unit3",
+      "section": "a",
+      "category": "collocation",
+      "vietnamese": "Thực phẩm chế biến sẵn",
+      "english": "Processed food",
+      "partOfSpeech": null,
+      "sourceRow": 9
+    },
+    {
+      "id": "unit3-r010-base-word-01",
+      "unitId": "unit3",
+      "section": "a",
+      "category": "base_word",
+      "vietnamese": "Thực phẩm bổ sung",
+      "english": "Supplements",
+      "partOfSpeech": "n",
+      "sourceRow": 10
+    },
+    {
+      "id": "unit3-r010-word-family-01",
+      "unitId": "unit3",
+      "section": "a",
+      "category": "word_family",
+      "vietnamese": "Bổ sung thêm",
+      "english": "Supplement",
+      "partOfSpeech": "v",
+      "sourceRow": 10
+    },
+    {
+      "id": "unit3-r010-synonym-01",
+      "unitId": "unit3",
+      "section": "a",
+      "category": "synonym",
+      "vietnamese": "Chất phụ trợ dinh dưỡng",
+      "english": "Dietary adjunct",
+      "partOfSpeech": "n",
+      "sourceRow": 10
+    },
+    {
+      "id": "unit3-r010-collocation-01",
+      "unitId": "unit3",
+      "section": "a",
+      "category": "collocation",
+      "vietnamese": "Uống vitamin bổ sung",
+      "english": "Take vitamin supplements",
+      "partOfSpeech": null,
+      "sourceRow": 10
+    },
+    {
+      "id": "unit3-r011-base-word-01",
+      "unitId": "unit3",
+      "section": "a",
+      "category": "base_word",
+      "vietnamese": "Sự cung cấp đủ nước",
+      "english": "Hydration",
+      "partOfSpeech": "n",
+      "sourceRow": 11
+    },
+    {
+      "id": "unit3-r011-word-family-01",
+      "unitId": "unit3",
+      "section": "a",
+      "category": "word_family",
+      "vietnamese": "Cấp nước cho cơ thể",
+      "english": "Hydrate",
+      "partOfSpeech": "v",
+      "sourceRow": 11
+    },
+    {
+      "id": "unit3-r011-synonym-01",
+      "unitId": "unit3",
+      "section": "a",
+      "category": "synonym",
+      "vietnamese": "Lượng chất lỏng nạp vào",
+      "english": "Fluid intake",
+      "partOfSpeech": "n",
+      "sourceRow": 11
+    },
+    {
+      "id": "unit3-r011-collocation-01",
+      "unitId": "unit3",
+      "section": "a",
+      "category": "collocation",
+      "vietnamese": "Duy trì đủ nước cho cơ thể",
+      "english": "Maintain proper hydration",
+      "partOfSpeech": null,
+      "sourceRow": 11
+    },
+    {
+      "id": "unit3-r012-base-word-01",
+      "unitId": "unit3",
+      "section": "a",
+      "category": "base_word",
+      "vietnamese": "Tình trạng mất nước",
+      "english": "Dehydration",
+      "partOfSpeech": "n",
+      "sourceRow": 12
+    },
+    {
+      "id": "unit3-r012-word-family-01",
+      "unitId": "unit3",
+      "section": "a",
+      "category": "word_family",
+      "vietnamese": "Làm mất nước",
+      "english": "Dehydrate",
+      "partOfSpeech": "v",
+      "sourceRow": 12
+    },
+    {
+      "id": "unit3-r012-synonym-01",
+      "unitId": "unit3",
+      "section": "a",
+      "category": "synonym",
+      "vietnamese": "Sự cạn kiệt nước",
+      "english": "Water depletion",
+      "partOfSpeech": "n",
+      "sourceRow": 12
+    },
+    {
+      "id": "unit3-r012-collocation-01",
+      "unitId": "unit3",
+      "section": "a",
+      "category": "collocation",
+      "vietnamese": "Nguy cơ bị mất nước",
+      "english": "Risk of dehydration",
+      "partOfSpeech": null,
+      "sourceRow": 12
+    },
+    {
+      "id": "unit3-r013-base-word-01",
+      "unitId": "unit3",
+      "section": "a",
+      "category": "base_word",
+      "vietnamese": "Suy dinh dưỡng",
+      "english": "Malnutrition",
+      "partOfSpeech": "n",
+      "sourceRow": 13
+    },
+    {
+      "id": "unit3-r013-word-family-01",
+      "unitId": "unit3",
+      "section": "a",
+      "category": "word_family",
+      "vietnamese": "Bị thiếu dinh dưỡng",
+      "english": "Malnourished",
+      "partOfSpeech": "adj",
+      "sourceRow": 13
+    },
+    {
+      "id": "unit3-r013-synonym-01",
+      "unitId": "unit3",
+      "section": "a",
+      "category": "synonym",
+      "vietnamese": "Tình trạng thiếu ăn",
+      "english": "Undernourishment",
+      "partOfSpeech": "n",
+      "sourceRow": 13
+    },
+    {
+      "id": "unit3-r013-collocation-01",
+      "unitId": "unit3",
+      "section": "a",
+      "category": "collocation",
+      "vietnamese": "Chống lại tình trạng suy dinh dưỡng",
+      "english": "Combat malnutrition",
+      "partOfSpeech": null,
+      "sourceRow": 13
+    },
+    {
+      "id": "unit3-r014-base-word-01",
+      "unitId": "unit3",
+      "section": "b",
+      "category": "base_word",
+      "vietnamese": "Thể lực, sức bền",
+      "english": "Stamina",
+      "partOfSpeech": "n",
+      "sourceRow": 14
+    },
+    {
+      "id": "unit3-r014-word-family-01",
+      "unitId": "unit3",
+      "section": "b",
+      "category": "word_family",
+      "vietnamese": "Nhị hoa (từ gốc khác)",
+      "english": "Stamen",
+      "partOfSpeech": "n",
+      "sourceRow": 14
+    },
+    {
+      "id": "unit3-r014-synonym-01",
+      "unitId": "unit3",
+      "section": "b",
+      "category": "synonym",
+      "vietnamese": "Sức chịu đựng",
+      "english": "Endurance",
+      "partOfSpeech": "n",
+      "sourceRow": 14
+    },
+    {
+      "id": "unit3-r014-synonym-02",
+      "unitId": "unit3",
+      "section": "b",
+      "category": "synonym",
+      "vietnamese": "Sức sống",
+      "english": "Vigor",
+      "partOfSpeech": "n",
+      "sourceRow": 14
+    },
+    {
+      "id": "unit3-r014-collocation-01",
+      "unitId": "unit3",
+      "section": "b",
+      "category": "collocation",
+      "vietnamese": "Xây dựng sức bền thể lực",
+      "english": "Build up stamina",
+      "partOfSpeech": null,
+      "sourceRow": 14
+    },
+    {
+      "id": "unit3-r015-base-word-01",
+      "unitId": "unit3",
+      "section": "b",
+      "category": "base_word",
+      "vietnamese": "Bài tập tim mạch",
+      "english": "Cardio",
+      "partOfSpeech": "n",
+      "sourceRow": 15
+    },
+    {
+      "id": "unit3-r015-word-family-01",
+      "unitId": "unit3",
+      "section": "b",
+      "category": "word_family",
+      "vietnamese": "Thuộc hệ tim mạch",
+      "english": "Cardiovascular",
+      "partOfSpeech": "adj",
+      "sourceRow": 15
+    },
+    {
+      "id": "unit3-r015-synonym-01",
+      "unitId": "unit3",
+      "section": "b",
+      "category": "synonym",
+      "vietnamese": "Bài tập thể dục nhịp điệu",
+      "english": "Aerobic exercise",
+      "partOfSpeech": "n",
+      "sourceRow": 15
+    },
+    {
+      "id": "unit3-r015-collocation-01",
+      "unitId": "unit3",
+      "section": "b",
+      "category": "collocation",
+      "vietnamese": "Tham gia tập cardio",
+      "english": "Engage in cardio workouts",
+      "partOfSpeech": null,
+      "sourceRow": 15
+    },
+    {
+      "id": "unit3-r016-base-word-01",
+      "unitId": "unit3",
+      "section": "b",
+      "category": "base_word",
+      "vietnamese": "Sự dẻo dai, linh hoạt",
+      "english": "Flexibility",
+      "partOfSpeech": "n",
+      "sourceRow": 16
+    },
+    {
+      "id": "unit3-r016-word-family-01",
+      "unitId": "unit3",
+      "section": "b",
+      "category": "word_family",
+      "vietnamese": "Linh hoạt, mềm dẻo",
+      "english": "Flexible",
+      "partOfSpeech": "adj",
+      "sourceRow": 16
+    },
+    {
+      "id": "unit3-r016-synonym-01",
+      "unitId": "unit3",
+      "section": "b",
+      "category": "synonym",
+      "vietnamese": "Sự nhanh nhẹn",
+      "english": "Agility",
+      "partOfSpeech": "n",
+      "sourceRow": 16
+    },
+    {
+      "id": "unit3-r016-synonym-02",
+      "unitId": "unit3",
+      "section": "b",
+      "category": "synonym",
+      "vietnamese": "Mềm mại",
+      "english": "Suppleness",
+      "partOfSpeech": "n",
+      "sourceRow": 16
+    },
+    {
+      "id": "unit3-r016-collocation-01",
+      "unitId": "unit3",
+      "section": "b",
+      "category": "collocation",
+      "vietnamese": "Cải thiện độ dẻo của khớp",
+      "english": "Improve joint flexibility",
+      "partOfSpeech": null,
+      "sourceRow": 16
+    },
+    {
+      "id": "unit3-r017-base-word-01",
+      "unitId": "unit3",
+      "section": "b",
+      "category": "base_word",
+      "vietnamese": "Hệ thống cơ bắp",
+      "english": "Musculature",
+      "partOfSpeech": "n",
+      "sourceRow": 17
+    },
+    {
+      "id": "unit3-r017-word-family-01",
+      "unitId": "unit3",
+      "section": "b",
+      "category": "word_family",
+      "vietnamese": "Vạm vỡ, có cơ bắp",
+      "english": "Muscular",
+      "partOfSpeech": "adj",
+      "sourceRow": 17
+    },
+    {
+      "id": "unit3-r017-synonym-01",
+      "unitId": "unit3",
+      "section": "b",
+      "category": "synonym",
+      "vietnamese": "Khối lượng cơ bắp",
+      "english": "Muscle mass",
+      "partOfSpeech": "n",
+      "sourceRow": 17
+    },
+    {
+      "id": "unit3-r017-collocation-01",
+      "unitId": "unit3",
+      "section": "b",
+      "category": "collocation",
+      "vietnamese": "Phát triển hệ cơ bắp vạm vỡ",
+      "english": "Develop robust musculature",
+      "partOfSpeech": null,
+      "sourceRow": 17
+    },
+    {
+      "id": "unit3-r018-base-word-01",
+      "unitId": "unit3",
+      "section": "b",
+      "category": "base_word",
+      "vietnamese": "Sự rèn luyện thể lực",
+      "english": "Conditioning",
+      "partOfSpeech": "n",
+      "sourceRow": 18
+    },
+    {
+      "id": "unit3-r018-word-family-01",
+      "unitId": "unit3",
+      "section": "b",
+      "category": "word_family",
+      "vietnamese": "Điều kiện / Rèn luyện",
+      "english": "Condition",
+      "partOfSpeech": "v/n",
+      "sourceRow": 18
+    },
+    {
+      "id": "unit3-r018-synonym-01",
+      "unitId": "unit3",
+      "section": "b",
+      "category": "synonym",
+      "vietnamese": "Huấn luyện thể chất",
+      "english": "Physical training",
+      "partOfSpeech": "n",
+      "sourceRow": 18
+    },
+    {
+      "id": "unit3-r018-collocation-01",
+      "unitId": "unit3",
+      "section": "b",
+      "category": "collocation",
+      "vietnamese": "Quá trình rèn luyện thể chất",
+      "english": "Physical conditioning",
+      "partOfSpeech": null,
+      "sourceRow": 18
+    },
+    {
+      "id": "unit3-r019-base-word-01",
+      "unitId": "unit3",
+      "section": "b",
+      "category": "base_word",
+      "vietnamese": "Sự gắng sức, tốn sức",
+      "english": "Exertion",
+      "partOfSpeech": "n",
+      "sourceRow": 19
+    },
+    {
+      "id": "unit3-r019-word-family-01",
+      "unitId": "unit3",
+      "section": "b",
+      "category": "word_family",
+      "vietnamese": "Gắng sức, dùng (sức lực)",
+      "english": "Exert",
+      "partOfSpeech": "v",
+      "sourceRow": 19
+    },
+    {
+      "id": "unit3-r019-synonym-01",
+      "unitId": "unit3",
+      "section": "b",
+      "category": "synonym",
+      "vietnamese": "Nỗ lực",
+      "english": "Effort",
+      "partOfSpeech": "n",
+      "sourceRow": 19
+    },
+    {
+      "id": "unit3-r019-synonym-02",
+      "unitId": "unit3",
+      "section": "b",
+      "category": "synonym",
+      "vietnamese": "Sự căng thẳng cơ",
+      "english": "Strain",
+      "partOfSpeech": "n",
+      "sourceRow": 19
+    },
+    {
+      "id": "unit3-r019-collocation-01",
+      "unitId": "unit3",
+      "section": "b",
+      "category": "collocation",
+      "vietnamese": "Sự gắng sức về thể xác",
+      "english": "Physical exertion",
+      "partOfSpeech": null,
+      "sourceRow": 19
+    },
+    {
+      "id": "unit3-r020-base-word-01",
+      "unitId": "unit3",
+      "section": "b",
+      "category": "base_word",
+      "vietnamese": "Ít vận động, ngồi nhiều",
+      "english": "Sedentary",
+      "partOfSpeech": "adj",
+      "sourceRow": 20
+    },
+    {
+      "id": "unit3-r020-word-family-01",
+      "unitId": "unit3",
+      "section": "b",
+      "category": "word_family",
+      "vietnamese": "Lối sống tĩnh tại",
+      "english": "Sedentariness",
+      "partOfSpeech": "n",
+      "sourceRow": 20
+    },
+    {
+      "id": "unit3-r020-synonym-01",
+      "unitId": "unit3",
+      "section": "b",
+      "category": "synonym",
+      "vietnamese": "Lối sống kém vận động",
+      "english": "Inactive lifestyle",
+      "partOfSpeech": "n",
+      "sourceRow": 20
+    },
+    {
+      "id": "unit3-r020-collocation-01",
+      "unitId": "unit3",
+      "section": "b",
+      "category": "collocation",
+      "vietnamese": "Chống lại lối sống ít vận động",
+      "english": "Counteract a sedentary lifestyle",
+      "partOfSpeech": null,
+      "sourceRow": 20
+    },
+    {
+      "id": "unit3-r021-base-word-01",
+      "unitId": "unit3",
+      "section": "b",
+      "category": "base_word",
+      "vietnamese": "Chế độ luyện tập/chăm sóc",
+      "english": "Regimen",
+      "partOfSpeech": "n",
+      "sourceRow": 21
+    },
+    {
+      "id": "unit3-r021-word-family-01",
+      "unitId": "unit3",
+      "section": "b",
+      "category": "word_family",
+      "vietnamese": "Chế độ chính trị/quản lý",
+      "english": "Regime",
+      "partOfSpeech": "n",
+      "sourceRow": 21
+    },
+    {
+      "id": "unit3-r021-synonym-01",
+      "unitId": "unit3",
+      "section": "b",
+      "category": "synonym",
+      "vietnamese": "Thói quen",
+      "english": "Routine",
+      "partOfSpeech": "n",
+      "sourceRow": 21
+    },
+    {
+      "id": "unit3-r021-synonym-02",
+      "unitId": "unit3",
+      "section": "b",
+      "category": "synonym",
+      "vietnamese": "Chương trình",
+      "english": "Program",
+      "partOfSpeech": "n",
+      "sourceRow": 21
+    },
+    {
+      "id": "unit3-r021-collocation-01",
+      "unitId": "unit3",
+      "section": "b",
+      "category": "collocation",
+      "vietnamese": "Chế độ tập luyện nghiêm ngặt",
+      "english": "Strict training regimen",
+      "partOfSpeech": null,
+      "sourceRow": 21
+    },
+    {
+      "id": "unit3-r022-base-word-01",
+      "unitId": "unit3",
+      "section": "b",
+      "category": "base_word",
+      "vietnamese": "Buổi tập thể hình/thể thao",
+      "english": "Work-out",
+      "partOfSpeech": "n/v",
+      "sourceRow": 22
+    },
+    {
+      "id": "unit3-r022-word-family-01",
+      "unitId": "unit3",
+      "section": "b",
+      "category": "word_family",
+      "vietnamese": "Tập luyện",
+      "english": "Exercise",
+      "partOfSpeech": "v/n",
+      "sourceRow": 22
+    },
+    {
+      "id": "unit3-r022-synonym-01",
+      "unitId": "unit3",
+      "section": "b",
+      "category": "synonym",
+      "vietnamese": "Buổi tập phòng gym",
+      "english": "Gym session",
+      "partOfSpeech": "n",
+      "sourceRow": 22
+    },
+    {
+      "id": "unit3-r022-collocation-01",
+      "unitId": "unit3",
+      "section": "b",
+      "category": "collocation",
+      "vietnamese": "Buổi tập cường độ cao",
+      "english": "Intense workout",
+      "partOfSpeech": null,
+      "sourceRow": 22
+    },
+    {
+      "id": "unit3-r023-base-word-01",
+      "unitId": "unit3",
+      "section": "b",
+      "category": "base_word",
+      "vietnamese": "Sự vắt kiệt sức, gắng quá độ",
+      "english": "Overexertion",
+      "partOfSpeech": "n",
+      "sourceRow": 23
+    },
+    {
+      "id": "unit3-r023-word-family-01",
+      "unitId": "unit3",
+      "section": "b",
+      "category": "word_family",
+      "vietnamese": "Gắng sức quá mức",
+      "english": "Overexert",
+      "partOfSpeech": "v",
+      "sourceRow": 23
+    },
+    {
+      "id": "unit3-r023-synonym-01",
+      "unitId": "unit3",
+      "section": "b",
+      "category": "synonym",
+      "vietnamese": "Tình trạng kiệt sức",
+      "english": "Burnout",
+      "partOfSpeech": "n",
+      "sourceRow": 23
+    },
+    {
+      "id": "unit3-r023-collocation-01",
+      "unitId": "unit3",
+      "section": "b",
+      "category": "collocation",
+      "vietnamese": "Tránh việc vắt kiệt sức lực",
+      "english": "Avoid physical overexertion",
+      "partOfSpeech": null,
+      "sourceRow": 23
+    },
+    {
+      "id": "unit3-r024-base-word-01",
+      "unitId": "unit3",
+      "section": "b",
+      "category": "base_word",
+      "vietnamese": "Vóc dáng, hình thể",
+      "english": "Physique",
+      "partOfSpeech": "n",
+      "sourceRow": 24
+    },
+    {
+      "id": "unit3-r024-word-family-01",
+      "unitId": "unit3",
+      "section": "b",
+      "category": "word_family",
+      "vietnamese": "Thuộc thể chất",
+      "english": "Physical",
+      "partOfSpeech": "adj",
+      "sourceRow": 24
+    },
+    {
+      "id": "unit3-r024-synonym-01",
+      "unitId": "unit3",
+      "section": "b",
+      "category": "synonym",
+      "vietnamese": "Hình dáng cơ thể",
+      "english": "Body shape",
+      "partOfSpeech": "n",
+      "sourceRow": 24
+    },
+    {
+      "id": "unit3-r024-collocation-01",
+      "unitId": "unit3",
+      "section": "b",
+      "category": "collocation",
+      "vietnamese": "Tạo hình vóc dáng cơ thể",
+      "english": "Sculpt one's physique",
+      "partOfSpeech": null,
+      "sourceRow": 24
+    },
+    {
+      "id": "unit3-r025-base-word-01",
+      "unitId": "unit3",
+      "section": "b",
+      "category": "base_word",
+      "vietnamese": "Làm săn chắc cơ thể",
+      "english": "Tone",
+      "partOfSpeech": "v/n",
+      "sourceRow": 25
+    },
+    {
+      "id": "unit3-r025-word-family-01",
+      "unitId": "unit3",
+      "section": "b",
+      "category": "word_family",
+      "vietnamese": "Săn chắc, thon gọn",
+      "english": "Toned",
+      "partOfSpeech": "adj",
+      "sourceRow": 25
+    },
+    {
+      "id": "unit3-r025-synonym-01",
+      "unitId": "unit3",
+      "section": "b",
+      "category": "synonym",
+      "vietnamese": "Làm cho săn lại",
+      "english": "Firm up",
+      "partOfSpeech": "phr.v",
+      "sourceRow": 25
+    },
+    {
+      "id": "unit3-r025-collocation-01",
+      "unitId": "unit3",
+      "section": "b",
+      "category": "collocation",
+      "vietnamese": "Làm săn chắc các nhóm cơ",
+      "english": "Tone up muscles",
+      "partOfSpeech": null,
+      "sourceRow": 25
+    },
+    {
+      "id": "unit3-r026-base-word-01",
+      "unitId": "unit3",
+      "section": "b",
+      "category": "base_word",
+      "vietnamese": "Sự hồi phục (sau tập)",
+      "english": "Recovery",
+      "partOfSpeech": "n",
+      "sourceRow": 26
+    },
+    {
+      "id": "unit3-r026-word-family-01",
+      "unitId": "unit3",
+      "section": "b",
+      "category": "word_family",
+      "vietnamese": "Hồi phục sức khỏe",
+      "english": "Recover",
+      "partOfSpeech": "v",
+      "sourceRow": 26
+    },
+    {
+      "id": "unit3-r026-synonym-01",
+      "unitId": "unit3",
+      "section": "b",
+      "category": "synonym",
+      "vietnamese": "Sự phục hồi",
+      "english": "Restoration",
+      "partOfSpeech": "n",
+      "sourceRow": 26
+    },
+    {
+      "id": "unit3-r026-synonym-02",
+      "unitId": "unit3",
+      "section": "b",
+      "category": "synonym",
+      "vietnamese": "Sự phục hồi",
+      "english": "Healing",
+      "partOfSpeech": "n",
+      "sourceRow": 26
+    },
+    {
+      "id": "unit3-r026-collocation-01",
+      "unitId": "unit3",
+      "section": "b",
+      "category": "collocation",
+      "vietnamese": "Thời gian phục hồi cơ bắp",
+      "english": "Muscle recovery time",
+      "partOfSpeech": null,
+      "sourceRow": 26
+    },
+    {
+      "id": "unit3-r027-base-word-01",
+      "unitId": "unit3",
+      "section": "c",
+      "category": "base_word",
+      "vietnamese": "Sức khỏe toàn diện",
+      "english": "Wellness",
+      "partOfSpeech": "n",
+      "sourceRow": 27
+    },
+    {
+      "id": "unit3-r027-word-family-01",
+      "unitId": "unit3",
+      "section": "c",
+      "category": "word_family",
+      "vietnamese": "Sự thịnh vượng, khỏe mạnh",
+      "english": "Well-being",
+      "partOfSpeech": "n",
+      "sourceRow": 27
+    },
+    {
+      "id": "unit3-r027-synonym-01",
+      "unitId": "unit3",
+      "section": "c",
+      "category": "synonym",
+      "vietnamese": "Tình trạng khỏe mạnh",
+      "english": "Healthiness",
+      "partOfSpeech": "n",
+      "sourceRow": 27
+    },
+    {
+      "id": "unit3-r027-collocation-01",
+      "unitId": "unit3",
+      "section": "c",
+      "category": "collocation",
+      "vietnamese": "Sức khỏe toàn diện (thể xác lẫn tinh thần)",
+      "english": "Holistic wellness",
+      "partOfSpeech": null,
+      "sourceRow": 27
+    },
+    {
+      "id": "unit3-r028-base-word-01",
+      "unitId": "unit3",
+      "section": "c",
+      "category": "base_word",
+      "vietnamese": "Tuổi thọ cao",
+      "english": "Longevity",
+      "partOfSpeech": "n",
+      "sourceRow": 28
+    },
+    {
+      "id": "unit3-r028-word-family-01",
+      "unitId": "unit3",
+      "section": "c",
+      "category": "word_family",
+      "vietnamese": "Sống lâu",
+      "english": "Long-lived",
+      "partOfSpeech": "adj",
+      "sourceRow": 28
+    },
+    {
+      "id": "unit3-r028-synonym-01",
+      "unitId": "unit3",
+      "section": "c",
+      "category": "synonym",
+      "vietnamese": "Vòng đời, tuổi thọ",
+      "english": "Life span",
+      "partOfSpeech": "n",
+      "sourceRow": 28
+    },
+    {
+      "id": "unit3-r028-collocation-01",
+      "unitId": "unit3",
+      "section": "c",
+      "category": "collocation",
+      "vietnamese": "Thúc đẩy sức khỏe và trường thọ",
+      "english": "Promote health and longevity",
+      "partOfSpeech": null,
+      "sourceRow": 28
+    },
+    {
+      "id": "unit3-r029-base-word-01",
+      "unitId": "unit3",
+      "section": "c",
+      "category": "base_word",
+      "vietnamese": "Mang tính phòng ngừa",
+      "english": "Preventive",
+      "partOfSpeech": "adj",
+      "sourceRow": 29
+    },
+    {
+      "id": "unit3-r029-word-family-01",
+      "unitId": "unit3",
+      "section": "c",
+      "category": "word_family",
+      "vietnamese": "Ngăn chặn",
+      "english": "Prevent",
+      "partOfSpeech": "v",
+      "sourceRow": 29
+    },
+    {
+      "id": "unit3-r029-synonym-01",
+      "unitId": "unit3",
+      "section": "c",
+      "category": "synonym",
+      "vietnamese": "Chủ động phòng tránh",
+      "english": "Proactive",
+      "partOfSpeech": "adj",
+      "sourceRow": 29
+    },
+    {
+      "id": "unit3-r029-collocation-01",
+      "unitId": "unit3",
+      "section": "c",
+      "category": "collocation",
+      "vietnamese": "Y tế dự phòng, chăm sóc sức khỏe chủ động",
+      "english": "Preventive healthcare",
+      "partOfSpeech": null,
+      "sourceRow": 29
+    },
+    {
+      "id": "unit3-r030-base-word-01",
+      "unitId": "unit3",
+      "section": "c",
+      "category": "base_word",
+      "vietnamese": "Sự sàng lọc bệnh",
+      "english": "Screening",
+      "partOfSpeech": "n",
+      "sourceRow": 30
+    },
+    {
+      "id": "unit3-r030-word-family-01",
+      "unitId": "unit3",
+      "section": "c",
+      "category": "word_family",
+      "vietnamese": "Sàng lọc, kiểm tra",
+      "english": "Screen",
+      "partOfSpeech": "v",
+      "sourceRow": 30
+    },
+    {
+      "id": "unit3-r030-synonym-01",
+      "unitId": "unit3",
+      "section": "c",
+      "category": "synonym",
+      "vietnamese": "Khám sức khỏe tổng quát",
+      "english": "Medical check-up",
+      "partOfSpeech": "n",
+      "sourceRow": 30
+    },
+    {
+      "id": "unit3-r030-collocation-01",
+      "unitId": "unit3",
+      "section": "c",
+      "category": "collocation",
+      "vietnamese": "Kiểm tra sức khỏe định kỳ",
+      "english": "Undergo routine health screening",
+      "partOfSpeech": null,
+      "sourceRow": 30
+    },
+    {
+      "id": "unit3-r031-base-word-01",
+      "unitId": "unit3",
+      "section": "c",
+      "category": "base_word",
+      "vietnamese": "Hệ thống vệ sinh",
+      "english": "Sanitation",
+      "partOfSpeech": "n",
+      "sourceRow": 31
+    },
+    {
+      "id": "unit3-r031-word-family-01",
+      "unitId": "unit3",
+      "section": "c",
+      "category": "word_family",
+      "vietnamese": "Thuộc vệ sinh",
+      "english": "Sanitary",
+      "partOfSpeech": "adj",
+      "sourceRow": 31
+    },
+    {
+      "id": "unit3-r031-synonym-01",
+      "unitId": "unit3",
+      "section": "c",
+      "category": "synonym",
+      "vietnamese": "Vệ sinh cá nhân/môi trường",
+      "english": "Hygiene",
+      "partOfSpeech": "n",
+      "sourceRow": 31
+    },
+    {
+      "id": "unit3-r031-collocation-01",
+      "unitId": "unit3",
+      "section": "c",
+      "category": "collocation",
+      "vietnamese": "Vệ sinh công cộng",
+      "english": "Public sanitation",
+      "partOfSpeech": null,
+      "sourceRow": 31
+    },
+    {
+      "id": "unit3-r032-base-word-01",
+      "unitId": "unit3",
+      "section": "c",
+      "category": "base_word",
+      "vietnamese": "Dễ lây nhiễm",
+      "english": "Contagious",
+      "partOfSpeech": "adj",
+      "sourceRow": 32
+    },
+    {
+      "id": "unit3-r032-word-family-01",
+      "unitId": "unit3",
+      "section": "c",
+      "category": "word_family",
+      "vietnamese": "Sự truyền bệnh",
+      "english": "Contagion",
+      "partOfSpeech": "n",
+      "sourceRow": 32
+    },
+    {
+      "id": "unit3-r032-synonym-01",
+      "unitId": "unit3",
+      "section": "c",
+      "category": "synonym",
+      "vietnamese": "Truyền nhiễm",
+      "english": "Infectious",
+      "partOfSpeech": "adj",
+      "sourceRow": 32
+    },
+    {
+      "id": "unit3-r032-synonym-02",
+      "unitId": "unit3",
+      "section": "c",
+      "category": "synonym",
+      "vietnamese": "Truyền nhiễm",
+      "english": "Transmissible",
+      "partOfSpeech": "adj",
+      "sourceRow": 32
+    },
+    {
+      "id": "unit3-r032-collocation-01",
+      "unitId": "unit3",
+      "section": "c",
+      "category": "collocation",
+      "vietnamese": "Bệnh truyền nhiễm",
+      "english": "Contagious disease",
+      "partOfSpeech": null,
+      "sourceRow": 32
+    },
+    {
+      "id": "unit3-r033-base-word-01",
+      "unitId": "unit3",
+      "section": "c",
+      "category": "base_word",
+      "vietnamese": "Làm giảm bớt (đau đớn)",
+      "english": "Alleviate",
+      "partOfSpeech": "v",
+      "sourceRow": 33
+    },
+    {
+      "id": "unit3-r033-word-family-01",
+      "unitId": "unit3",
+      "section": "c",
+      "category": "word_family",
+      "vietnamese": "Sự làm dịu bớt",
+      "english": "Alleviation",
+      "partOfSpeech": "n",
+      "sourceRow": 33
+    },
+    {
+      "id": "unit3-r033-synonym-01",
+      "unitId": "unit3",
+      "section": "c",
+      "category": "synonym",
+      "vietnamese": "Xoa dịu, giảm thiểu",
+      "english": "Relieve",
+      "partOfSpeech": "v",
+      "sourceRow": 33
+    },
+    {
+      "id": "unit3-r033-synonym-02",
+      "unitId": "unit3",
+      "section": "c",
+      "category": "synonym",
+      "vietnamese": "Xoa dịu, giảm thiểu",
+      "english": "Mitigate",
+      "partOfSpeech": "v",
+      "sourceRow": 33
+    },
+    {
+      "id": "unit3-r033-collocation-01",
+      "unitId": "unit3",
+      "section": "c",
+      "category": "collocation",
+      "vietnamese": "Giảm bớt các cơn đau mãn tính",
+      "english": "Alleviate chronic pain",
+      "partOfSpeech": null,
+      "sourceRow": 33
+    },
+    {
+      "id": "unit3-r034-base-word-01",
+      "unitId": "unit3",
+      "section": "c",
+      "category": "base_word",
+      "vietnamese": "Phục hồi chức năng",
+      "english": "Rehabilitation",
+      "partOfSpeech": "n",
+      "sourceRow": 34
+    },
+    {
+      "id": "unit3-r034-word-family-01",
+      "unitId": "unit3",
+      "section": "c",
+      "category": "word_family",
+      "vietnamese": "Phục hồi",
+      "english": "Rehabilitate",
+      "partOfSpeech": "v",
+      "sourceRow": 34
+    },
+    {
+      "id": "unit3-r034-synonym-01",
+      "unitId": "unit3",
+      "section": "c",
+      "category": "synonym",
+      "vietnamese": "Hồi phục thể chất",
+      "english": "Physical recovery",
+      "partOfSpeech": "n",
+      "sourceRow": 34
+    },
+    {
+      "id": "unit3-r034-collocation-01",
+      "unitId": "unit3",
+      "section": "c",
+      "category": "collocation",
+      "vietnamese": "Phục hồi sau chấn thương",
+      "english": "Post-injury rehabilitation",
+      "partOfSpeech": null,
+      "sourceRow": 34
+    },
+    {
+      "id": "unit3-r035-base-word-01",
+      "unitId": "unit3",
+      "section": "c",
+      "category": "base_word",
+      "vietnamese": "Có tác dụng chữa bệnh",
+      "english": "Therapeutic",
+      "partOfSpeech": "adj",
+      "sourceRow": 35
+    },
+    {
+      "id": "unit3-r035-word-family-01",
+      "unitId": "unit3",
+      "section": "c",
+      "category": "word_family",
+      "vietnamese": "Liệu pháp",
+      "english": "Therapy",
+      "partOfSpeech": "n",
+      "sourceRow": 35
+    },
+    {
+      "id": "unit3-r035-synonym-01",
+      "unitId": "unit3",
+      "section": "c",
+      "category": "synonym",
+      "vietnamese": "Chữa lành",
+      "english": "Curative",
+      "partOfSpeech": "adj",
+      "sourceRow": 35
+    },
+    {
+      "id": "unit3-r035-synonym-02",
+      "unitId": "unit3",
+      "section": "c",
+      "category": "synonym",
+      "vietnamese": "Chữa lành",
+      "english": "Healing",
+      "partOfSpeech": "adj",
+      "sourceRow": 35
+    },
+    {
+      "id": "unit3-r035-collocation-01",
+      "unitId": "unit3",
+      "section": "c",
+      "category": "collocation",
+      "vietnamese": "Lợi ích mang tính chữa bệnh",
+      "english": "Therapeutic benefits",
+      "partOfSpeech": null,
+      "sourceRow": 35
+    },
+    {
+      "id": "unit3-r036-base-word-01",
+      "unitId": "unit3",
+      "section": "c",
+      "category": "base_word",
+      "vietnamese": "Bệnh nhẹ, chứng bệnh vặt",
+      "english": "Ailment",
+      "partOfSpeech": "n",
+      "sourceRow": 36
+    },
+    {
+      "id": "unit3-r036-word-family-01",
+      "unitId": "unit3",
+      "section": "c",
+      "category": "word_family",
+      "vietnamese": "Gây đau ốm",
+      "english": "Ail",
+      "partOfSpeech": "v",
+      "sourceRow": 36
+    },
+    {
+      "id": "unit3-r036-synonym-01",
+      "unitId": "unit3",
+      "section": "c",
+      "category": "synonym",
+      "vietnamese": "Bệnh vặt thông thường",
+      "english": "Minor sickness",
+      "partOfSpeech": "n",
+      "sourceRow": 36
+    },
+    {
+      "id": "unit3-r036-collocation-01",
+      "unitId": "unit3",
+      "section": "c",
+      "category": "collocation",
+      "vietnamese": "Điều trị các chứng bệnh vặt",
+      "english": "Treat minor ailments",
+      "partOfSpeech": null,
+      "sourceRow": 36
+    },
+    {
+      "id": "unit3-r037-base-word-01",
+      "unitId": "unit3",
+      "section": "c",
+      "category": "base_word",
+      "vietnamese": "Sức sống mãnh liệt",
+      "english": "Vitality",
+      "partOfSpeech": "n",
+      "sourceRow": 37
+    },
+    {
+      "id": "unit3-r037-word-family-01",
+      "unitId": "unit3",
+      "section": "c",
+      "category": "word_family",
+      "vietnamese": "Quan trọng, tràn đầy sức sống",
+      "english": "Vital",
+      "partOfSpeech": "adj",
+      "sourceRow": 37
+    },
+    {
+      "id": "unit3-r037-synonym-01",
+      "unitId": "unit3",
+      "section": "c",
+      "category": "synonym",
+      "vietnamese": "Sức mạnh, năng lượng",
+      "english": "Vigour",
+      "partOfSpeech": "n",
+      "sourceRow": 37
+    },
+    {
+      "id": "unit3-r037-synonym-02",
+      "unitId": "unit3",
+      "section": "c",
+      "category": "synonym",
+      "vietnamese": "Sức mạnh, năng lượng",
+      "english": "Energy",
+      "partOfSpeech": "n",
+      "sourceRow": 37
+    },
+    {
+      "id": "unit3-r037-collocation-01",
+      "unitId": "unit3",
+      "section": "c",
+      "category": "collocation",
+      "vietnamese": "Khôi phục sức sống thể chất",
+      "english": "Restore physical vitality",
+      "partOfSpeech": null,
+      "sourceRow": 37
+    },
+    {
+      "id": "unit3-r038-base-word-01",
+      "unitId": "unit3",
+      "section": "c",
+      "category": "base_word",
+      "vietnamese": "Khỏe mạnh, vạm vỡ",
+      "english": "Robust",
+      "partOfSpeech": "adj",
+      "sourceRow": 38
+    },
+    {
+      "id": "unit3-r038-word-family-01",
+      "unitId": "unit3",
+      "section": "c",
+      "category": "word_family",
+      "vietnamese": "Sự tráng kiện",
+      "english": "Robustness",
+      "partOfSpeech": "n",
+      "sourceRow": 38
+    },
+    {
+      "id": "unit3-r038-synonym-01",
+      "unitId": "unit3",
+      "section": "c",
+      "category": "synonym",
+      "vietnamese": "Bền bỉ, cứng cáp",
+      "english": "Hardy",
+      "partOfSpeech": "adj",
+      "sourceRow": 38
+    },
+    {
+      "id": "unit3-r038-synonym-02",
+      "unitId": "unit3",
+      "section": "c",
+      "category": "synonym",
+      "vietnamese": "Bền bỉ, cứng cáp",
+      "english": "Sturdy",
+      "partOfSpeech": "adj",
+      "sourceRow": 38
+    },
+    {
+      "id": "unit3-r038-collocation-01",
+      "unitId": "unit3",
+      "section": "c",
+      "category": "collocation",
+      "vietnamese": "Duy trì sức khỏe tráng kiện",
+      "english": "Maintain robust health",
+      "partOfSpeech": null,
+      "sourceRow": 38
+    },
+    {
+      "id": "unit3-r039-base-word-01",
+      "unitId": "unit3",
+      "section": "d",
+      "category": "base_word",
+      "vietnamese": "Lối sống",
+      "english": "Lifestyle",
+      "partOfSpeech": "n",
+      "sourceRow": 39
+    },
+    {
+      "id": "unit3-r039-word-family-01",
+      "unitId": "unit3",
+      "section": "d",
+      "category": "word_family",
+      "vietnamese": "Phong cách sống",
+      "english": "Life-style",
+      "partOfSpeech": "n",
+      "sourceRow": 39
+    },
+    {
+      "id": "unit3-r039-synonym-01",
+      "unitId": "unit3",
+      "section": "d",
+      "category": "synonym",
+      "vietnamese": "Cách sinh hoạt",
+      "english": "Way of living",
+      "partOfSpeech": "n",
+      "sourceRow": 39
+    },
+    {
+      "id": "unit3-r039-collocation-01",
+      "unitId": "unit3",
+      "section": "d",
+      "category": "collocation",
+      "vietnamese": "Áp dụng lối sống lành mạnh",
+      "english": "Adopt a healthy lifestyle",
+      "partOfSpeech": null,
+      "sourceRow": 39
+    },
+    {
+      "id": "unit3-r040-base-word-01",
+      "unitId": "unit3",
+      "section": "d",
+      "category": "base_word",
+      "vietnamese": "Sự thải độc cơ thể",
+      "english": "Detoxification",
+      "partOfSpeech": "n",
+      "sourceRow": 40
+    },
+    {
+      "id": "unit3-r040-word-family-01",
+      "unitId": "unit3",
+      "section": "d",
+      "category": "word_family",
+      "vietnamese": "Thải độc",
+      "english": "Detox",
+      "partOfSpeech": "v/n",
+      "sourceRow": 40
+    },
+    {
+      "id": "unit3-r040-synonym-01",
+      "unitId": "unit3",
+      "section": "d",
+      "category": "synonym",
+      "vietnamese": "Sự thanh lọc",
+      "english": "Cleansing",
+      "partOfSpeech": "n",
+      "sourceRow": 40
+    },
+    {
+      "id": "unit3-r040-collocation-01",
+      "unitId": "unit3",
+      "section": "d",
+      "category": "collocation",
+      "vietnamese": "Thực hiện quá trình thải độc cơ thể",
+      "english": "Undergo a body detox",
+      "partOfSpeech": null,
+      "sourceRow": 40
+    },
+    {
+      "id": "unit3-r041-base-word-01",
+      "unitId": "unit3",
+      "section": "d",
+      "category": "base_word",
+      "vietnamese": "Trạng thái cân bằng",
+      "english": "Equilibrium",
+      "partOfSpeech": "n",
+      "sourceRow": 41
+    },
+    {
+      "id": "unit3-r041-word-family-01",
+      "unitId": "unit3",
+      "section": "d",
+      "category": "word_family",
+      "vietnamese": "Làm cân bằng",
+      "english": "Equilibrate",
+      "partOfSpeech": "v",
+      "sourceRow": 41
+    },
+    {
+      "id": "unit3-r041-synonym-01",
+      "unitId": "unit3",
+      "section": "d",
+      "category": "synonym",
+      "vietnamese": "Sự cân bằng, ổn định",
+      "english": "Balance",
+      "partOfSpeech": "n",
+      "sourceRow": 41
+    },
+    {
+      "id": "unit3-r041-synonym-02",
+      "unitId": "unit3",
+      "section": "d",
+      "category": "synonym",
+      "vietnamese": "Sự cân bằng, ổn định",
+      "english": "Stability",
+      "partOfSpeech": "n",
+      "sourceRow": 41
+    },
+    {
+      "id": "unit3-r041-collocation-01",
+      "unitId": "unit3",
+      "section": "d",
+      "category": "collocation",
+      "vietnamese": "Giữ cân bằng giữa thể xác và tâm hồn",
+      "english": "Maintain mind-body equilibrium",
+      "partOfSpeech": null,
+      "sourceRow": 41
+    },
+    {
+      "id": "unit3-r042-base-word-01",
+      "unitId": "unit3",
+      "section": "d",
+      "category": "base_word",
+      "vietnamese": "Sự điều độ, chừng mực",
+      "english": "Moderation",
+      "partOfSpeech": "n",
+      "sourceRow": 42
+    },
+    {
+      "id": "unit3-r042-word-family-01",
+      "unitId": "unit3",
+      "section": "d",
+      "category": "word_family",
+      "vietnamese": "Điều độ, ôn hòa",
+      "english": "Moderate",
+      "partOfSpeech": "adj",
+      "sourceRow": 42
+    },
+    {
+      "id": "unit3-r042-synonym-01",
+      "unitId": "unit3",
+      "section": "d",
+      "category": "synonym",
+      "vietnamese": "Tính tiết chế, điều độ",
+      "english": "Temperance",
+      "partOfSpeech": "n",
+      "sourceRow": 42
+    },
+    {
+      "id": "unit3-r042-collocation-01",
+      "unitId": "unit3",
+      "section": "d",
+      "category": "collocation",
+      "vietnamese": "Thực hiện ăn uống điều độ",
+      "english": "Practice moderation in diet",
+      "partOfSpeech": null,
+      "sourceRow": 42
+    },
+    {
+      "id": "unit3-r043-base-word-01",
+      "unitId": "unit3",
+      "section": "d",
+      "category": "base_word",
+      "vietnamese": "Thói quen",
+      "english": "Habit",
+      "partOfSpeech": "n",
+      "sourceRow": 43
+    },
+    {
+      "id": "unit3-r043-word-family-01",
+      "unitId": "unit3",
+      "section": "d",
+      "category": "word_family",
+      "vietnamese": "Mang tính thói quen",
+      "english": "Habitual",
+      "partOfSpeech": "adj",
+      "sourceRow": 43
+    },
+    {
+      "id": "unit3-r043-synonym-01",
+      "unitId": "unit3",
+      "section": "d",
+      "category": "synonym",
+      "vietnamese": "Thói quen, tập quán",
+      "english": "Custom",
+      "partOfSpeech": "n",
+      "sourceRow": 43
+    },
+    {
+      "id": "unit3-r043-synonym-02",
+      "unitId": "unit3",
+      "section": "d",
+      "category": "synonym",
+      "vietnamese": "Thói quen, tập quán",
+      "english": "Practice",
+      "partOfSpeech": "n",
+      "sourceRow": 43
+    },
+    {
+      "id": "unit3-r043-collocation-01",
+      "unitId": "unit3",
+      "section": "d",
+      "category": "collocation",
+      "vietnamese": "Nuôi dưỡng các thói quen lành mạnh",
+      "english": "Cultivate healthy habits",
+      "partOfSpeech": null,
+      "sourceRow": 43
+    },
+    {
+      "id": "unit3-r044-base-word-01",
+      "unitId": "unit3",
+      "section": "d",
+      "category": "base_word",
+      "vietnamese": "Mang tính phục hồi",
+      "english": "Restorative",
+      "partOfSpeech": "adj",
+      "sourceRow": 44
+    },
+    {
+      "id": "unit3-r044-word-family-01",
+      "unitId": "unit3",
+      "section": "d",
+      "category": "word_family",
+      "vietnamese": "Khôi phục lại",
+      "english": "Restore",
+      "partOfSpeech": "v",
+      "sourceRow": 44
+    },
+    {
+      "id": "unit3-r044-synonym-01",
+      "unitId": "unit3",
+      "section": "d",
+      "category": "synonym",
+      "vietnamese": "Trẻ hóa, phục hồi năng lượng",
+      "english": "Rejuvenating",
+      "partOfSpeech": "adj",
+      "sourceRow": 44
+    },
+    {
+      "id": "unit3-r044-collocation-01",
+      "unitId": "unit3",
+      "section": "d",
+      "category": "collocation",
+      "vietnamese": "Giấc ngủ sâu có tính phục hồi cơ thể",
+      "english": "Restorative sleep",
+      "partOfSpeech": null,
+      "sourceRow": 44
+    },
+    {
+      "id": "unit3-r045-base-word-01",
+      "unitId": "unit3",
+      "section": "d",
+      "category": "base_word",
+      "vietnamese": "Tình trạng kiệt sức (do áp lực)",
+      "english": "Burnout",
+      "partOfSpeech": "n",
+      "sourceRow": 45
+    },
+    {
+      "id": "unit3-r045-word-family-01",
+      "unitId": "unit3",
+      "section": "d",
+      "category": "word_family",
+      "vietnamese": "Kiệt sức",
+      "english": "Burn out",
+      "partOfSpeech": "phr.v",
+      "sourceRow": 45
+    },
+    {
+      "id": "unit3-r045-synonym-01",
+      "unitId": "unit3",
+      "section": "d",
+      "category": "synonym",
+      "vietnamese": "Sự kiệt quệ năng lượng",
+      "english": "Exhaustion",
+      "partOfSpeech": "n",
+      "sourceRow": 45
+    },
+    {
+      "id": "unit3-r045-collocation-01",
+      "unitId": "unit3",
+      "section": "d",
+      "category": "collocation",
+      "vietnamese": "Ngăn ngừa tình trạng kiệt sức tinh thần",
+      "english": "Prevent mental burnout",
+      "partOfSpeech": null,
+      "sourceRow": 45
+    },
+    {
+      "id": "unit3-r046-base-word-01",
+      "unitId": "unit3",
+      "section": "d",
+      "category": "base_word",
+      "vietnamese": "Việc tự chăm sóc bản thân",
+      "english": "Self-care",
+      "partOfSpeech": "n",
+      "sourceRow": 46
+    },
+    {
+      "id": "unit3-r046-word-family-01",
+      "unitId": "unit3",
+      "section": "d",
+      "category": "word_family",
+      "vietnamese": "Chăm sóc",
+      "english": "Care for",
+      "partOfSpeech": "v",
+      "sourceRow": 46
+    },
+    {
+      "id": "unit3-r046-synonym-01",
+      "unitId": "unit3",
+      "section": "d",
+      "category": "synonym",
+      "vietnamese": "Sự tự bảo dưỡng bản thân",
+      "english": "Personal upkeep",
+      "partOfSpeech": "n",
+      "sourceRow": 46
+    },
+    {
+      "id": "unit3-r046-collocation-01",
+      "unitId": "unit3",
+      "section": "d",
+      "category": "collocation",
+      "vietnamese": "Đặt việc tự chăm sóc bản thân lên hàng đầu",
+      "english": "Prioritize self-care",
+      "partOfSpeech": null,
+      "sourceRow": 46
+    },
+    {
+      "id": "unit3-r047-base-word-01",
+      "unitId": "unit3",
+      "section": "d",
+      "category": "base_word",
+      "vietnamese": "Sự sống lâu, trường thọ",
+      "english": "Longevity",
+      "partOfSpeech": "n",
+      "sourceRow": 47
+    },
+    {
+      "id": "unit3-r047-word-family-01",
+      "unitId": "unit3",
+      "section": "d",
+      "category": "word_family",
+      "vietnamese": "Sống thọ",
+      "english": "Long-lived",
+      "partOfSpeech": "adj",
+      "sourceRow": 47
+    },
+    {
+      "id": "unit3-r047-synonym-01",
+      "unitId": "unit3",
+      "section": "d",
+      "category": "synonym",
+      "vietnamese": "Vòng đời kéo dài",
+      "english": "Extended lifespan",
+      "partOfSpeech": "n",
+      "sourceRow": 47
+    },
+    {
+      "id": "unit3-r047-collocation-01",
+      "unitId": "unit3",
+      "section": "d",
+      "category": "collocation",
+      "vietnamese": "Bí quyết sống trường thọ",
+      "english": "Secrets to longevity",
+      "partOfSpeech": null,
+      "sourceRow": 47
+    },
+    {
+      "id": "unit3-r048-base-word-01",
+      "unitId": "unit3",
+      "section": "d",
+      "category": "base_word",
+      "vietnamese": "Sống tỉnh thức, chú tâm",
+      "english": "Mindful",
+      "partOfSpeech": "adj",
+      "sourceRow": 48
+    },
+    {
+      "id": "unit3-r048-word-family-01",
+      "unitId": "unit3",
+      "section": "d",
+      "category": "word_family",
+      "vietnamese": "Sự chánh niệm, tỉnh thức",
+      "english": "Mindfulness",
+      "partOfSpeech": "n",
+      "sourceRow": 48
+    },
+    {
+      "id": "unit3-r048-synonym-01",
+      "unitId": "unit3",
+      "section": "d",
+      "category": "synonym",
+      "vietnamese": "Tỉnh táo, có ý thức",
+      "english": "Attentive",
+      "partOfSpeech": "adj",
+      "sourceRow": 48
+    },
+    {
+      "id": "unit3-r048-synonym-02",
+      "unitId": "unit3",
+      "section": "d",
+      "category": "synonym",
+      "vietnamese": "Tỉnh táo, có ý thức",
+      "english": "Conscious",
+      "partOfSpeech": "adj",
+      "sourceRow": 48
+    },
+    {
+      "id": "unit3-r048-collocation-01",
+      "unitId": "unit3",
+      "section": "d",
+      "category": "collocation",
+      "vietnamese": "Thói quen ăn uống có ý thức, chậm rãi",
+      "english": "Mindful eating",
+      "partOfSpeech": null,
+      "sourceRow": 48
+    },
+    {
+      "id": "unit3-r049-base-word-01",
+      "unitId": "unit3",
+      "section": "d",
+      "category": "base_word",
+      "vietnamese": "Sức chịu đựng bền bỉ",
+      "english": "Endurance",
+      "partOfSpeech": "n",
+      "sourceRow": 49
+    },
+    {
+      "id": "unit3-r049-word-family-01",
+      "unitId": "unit3",
+      "section": "d",
+      "category": "word_family",
+      "vietnamese": "Chịu đựng, kéo dài",
+      "english": "Endure",
+      "partOfSpeech": "v",
+      "sourceRow": 49
+    },
+    {
+      "id": "unit3-r049-synonym-01",
+      "unitId": "unit3",
+      "section": "d",
+      "category": "synonym",
+      "vietnamese": "Sức bền",
+      "english": "Stamina",
+      "partOfSpeech": "n",
+      "sourceRow": 49
+    },
+    {
+      "id": "unit3-r049-synonym-02",
+      "unitId": "unit3",
+      "section": "d",
+      "category": "synonym",
+      "vietnamese": "Sự kiên trì",
+      "english": "Persistence",
+      "partOfSpeech": "n",
+      "sourceRow": 49
+    },
+    {
+      "id": "unit3-r049-collocation-01",
+      "unitId": "unit3",
+      "section": "d",
+      "category": "collocation",
+      "vietnamese": "Thử thách sức chịu đựng thể lực",
+      "english": "Test one's physical endurance",
+      "partOfSpeech": null,
+      "sourceRow": 49
+    },
+    {
+      "id": "unit3-r050-base-word-01",
+      "unitId": "unit3",
+      "section": "d",
+      "category": "base_word",
+      "vietnamese": "Tình trạng hạnh phúc, khỏe mạnh",
+      "english": "Well-being",
+      "partOfSpeech": "n",
+      "sourceRow": 50
+    },
+    {
+      "id": "unit3-r050-word-family-01",
+      "unitId": "unit3",
+      "section": "d",
+      "category": "word_family",
+      "vietnamese": "Sự khỏe mạnh toàn diện",
+      "english": "Wellness",
+      "partOfSpeech": "n",
+      "sourceRow": 50
+    },
+    {
+      "id": "unit3-r050-synonym-01",
+      "unitId": "unit3",
+      "section": "d",
+      "category": "synonym",
+      "vietnamese": "Sức khỏe và niềm vui",
+      "english": "Happiness and health",
+      "partOfSpeech": "n",
+      "sourceRow": 50
+    },
+    {
+      "id": "unit3-r050-collocation-01",
+      "unitId": "unit3",
+      "section": "d",
+      "category": "collocation",
+      "vietnamese": "Nâng cao mức độ khỏe mạnh toàn diện",
+      "english": "Enhance overall well-being",
+      "partOfSpeech": null,
+      "sourceRow": 50
+    }
+  ],
+  "reviewNotes": [
+    {
+      "sourceRow": 1,
+      "category": "base_word",
+      "original": "Diet (n/v): Chế độ ăn uống",
+      "reason": "Diet: PDF ghi n/v nhưng chỉ cung cấp nghĩa “Chế độ ăn uống”; giữ nguyên, không tự thêm nghĩa động từ."
+    },
+    {
+      "sourceRow": 2,
+      "category": "word_family",
+      "original": "Caloric / Calorific (adj): Thuộc về calo",
+      "reason": "PDF dùng chung một nghĩa cho nhiều mục từ. Đã tách mục tiếng Anh và giữ nguyên toàn bộ nghĩa, loại từ nguồn cho mỗi thẻ; cần rà soát nghĩa riêng nếu muốn chi tiết hơn."
+    },
+    {
+      "sourceRow": 5,
+      "category": "synonym",
+      "original": "Fat / Fatty acids (n/adj): Chất béo",
+      "reason": "PDF dùng chung một nghĩa cho nhiều mục từ. Đã tách mục tiếng Anh và giữ nguyên toàn bộ nghĩa, loại từ nguồn cho mỗi thẻ; cần rà soát nghĩa riêng nếu muốn chi tiết hơn."
+    },
+    {
+      "sourceRow": 5,
+      "category": "synonym",
+      "original": "Fat / Fatty acids (n/adj): Chất béo",
+      "reason": "Fat / Fatty acids cùng mang n/adj trong PDF; giữ n/adj cho cả hai, không suy đoán phân bổ loại từ. Cần duyệt tính chính xác của loại từ."
+    },
+    {
+      "sourceRow": 9,
+      "category": "word_family",
+      "original": "Process (v/n): Quy trình chế biến",
+      "reason": "Process: nguồn ghi v/n nhưng nghĩa “Quy trình chế biến” không phân biệt từng loại từ; giữ nguyên."
+    },
+    {
+      "sourceRow": 14,
+      "category": "word_family",
+      "original": "Stamen (n): Nhị hoa (từ gốc khác)",
+      "reason": "Stamen được xếp Word Family của Stamina dù PDF ghi “Nhị hoa (từ gốc khác)”. Giữ nguyên mục và category, chờ người dùng duyệt; không tự sửa hoặc bỏ."
+    },
+    {
+      "sourceRow": 18,
+      "category": "word_family",
+      "original": "Condition (v/n): Điều kiện / Rèn luyện",
+      "reason": "Condition: v/n đi kèm “Điều kiện / Rèn luyện”; không ánh xạ nghĩa theo thứ tự loại từ, giữ một thẻ với toàn bộ nghĩa."
+    },
+    {
+      "sourceRow": 21,
+      "category": "word_family",
+      "original": "Regime (n): Chế độ chính trị/quản lý",
+      "reason": "Regime nằm ở cột Word Family của Regimen với nghĩa chính trị/quản lý; giữ nguyên và cần duyệt quan hệ nhóm từ."
+    },
+    {
+      "sourceRow": 22,
+      "category": "base_word",
+      "original": "Work-out (n/v): Buổi tập thể hình/thể thao",
+      "reason": "Work-out: giữ cách viết và n/v của nguồn, dù nghĩa được cung cấp chỉ diễn đạt buổi tập; không tự chuẩn hóa thành workout."
+    },
+    {
+      "sourceRow": 22,
+      "category": "word_family",
+      "original": "Exercise (v/n): Tập luyện",
+      "reason": "Exercise được xếp Word Family của Work-out; giữ nguyên category nguồn, cần duyệt quan hệ nhóm từ."
+    },
+    {
+      "sourceRow": 25,
+      "category": "base_word",
+      "original": "Tone (v/n): Làm săn chắc cơ thể",
+      "reason": "Tone: PDF ghi v/n nhưng chỉ có nghĩa “Làm săn chắc cơ thể”; giữ nguyên, không bổ sung nghĩa danh từ."
+    },
+    {
+      "sourceRow": 26,
+      "category": "synonym",
+      "original": "Restoration / Healing (n): Sự phục hồi",
+      "reason": "PDF dùng chung một nghĩa cho nhiều mục từ. Đã tách mục tiếng Anh và giữ nguyên toàn bộ nghĩa, loại từ nguồn cho mỗi thẻ; cần rà soát nghĩa riêng nếu muốn chi tiết hơn."
+    },
+    {
+      "sourceRow": 27,
+      "category": "word_family",
+      "original": "Well-being (n): Sự thịnh vượng, khỏe mạnh",
+      "reason": "Well-being được xếp Word Family của Wellness, nghĩa “Sự thịnh vượng, khỏe mạnh”; giữ nguyên, cần duyệt quan hệ nhóm từ."
+    },
+    {
+      "sourceRow": 32,
+      "category": "synonym",
+      "original": "Infectious / Transmissible (adj): Truyền nhiễm",
+      "reason": "PDF dùng chung một nghĩa cho nhiều mục từ. Đã tách mục tiếng Anh và giữ nguyên toàn bộ nghĩa, loại từ nguồn cho mỗi thẻ; cần rà soát nghĩa riêng nếu muốn chi tiết hơn."
+    },
+    {
+      "sourceRow": 33,
+      "category": "synonym",
+      "original": "Relieve / Mitigate (v): Xoa dịu, giảm thiểu",
+      "reason": "PDF dùng chung một nghĩa cho nhiều mục từ. Đã tách mục tiếng Anh và giữ nguyên toàn bộ nghĩa, loại từ nguồn cho mỗi thẻ; cần rà soát nghĩa riêng nếu muốn chi tiết hơn."
+    },
+    {
+      "sourceRow": 35,
+      "category": "synonym",
+      "original": "Curative / Healing (adj): Chữa lành",
+      "reason": "PDF dùng chung một nghĩa cho nhiều mục từ. Đã tách mục tiếng Anh và giữ nguyên toàn bộ nghĩa, loại từ nguồn cho mỗi thẻ; cần rà soát nghĩa riêng nếu muốn chi tiết hơn."
+    },
+    {
+      "sourceRow": 37,
+      "category": "synonym",
+      "original": "Vigour / Energy (n): Sức mạnh, năng lượng",
+      "reason": "PDF dùng chung một nghĩa cho nhiều mục từ. Đã tách mục tiếng Anh và giữ nguyên toàn bộ nghĩa, loại từ nguồn cho mỗi thẻ; cần rà soát nghĩa riêng nếu muốn chi tiết hơn."
+    },
+    {
+      "sourceRow": 38,
+      "category": "synonym",
+      "original": "Hardy / Sturdy (adj): Bền bỉ, cứng cáp",
+      "reason": "PDF dùng chung một nghĩa cho nhiều mục từ. Đã tách mục tiếng Anh và giữ nguyên toàn bộ nghĩa, loại từ nguồn cho mỗi thẻ; cần rà soát nghĩa riêng nếu muốn chi tiết hơn."
+    },
+    {
+      "sourceRow": 41,
+      "category": "synonym",
+      "original": "Balance / Stability (n): Sự cân bằng, ổn định",
+      "reason": "PDF dùng chung một nghĩa cho nhiều mục từ. Đã tách mục tiếng Anh và giữ nguyên toàn bộ nghĩa, loại từ nguồn cho mỗi thẻ; cần rà soát nghĩa riêng nếu muốn chi tiết hơn."
+    },
+    {
+      "sourceRow": 43,
+      "category": "synonym",
+      "original": "Custom / Practice (n): Thói quen, tập quán",
+      "reason": "PDF dùng chung một nghĩa cho nhiều mục từ. Đã tách mục tiếng Anh và giữ nguyên toàn bộ nghĩa, loại từ nguồn cho mỗi thẻ; cần rà soát nghĩa riêng nếu muốn chi tiết hơn."
+    },
+    {
+      "sourceRow": 48,
+      "category": "synonym",
+      "original": "Attentive / Conscious (adj): Tỉnh táo, có ý thức",
+      "reason": "PDF dùng chung một nghĩa cho nhiều mục từ. Đã tách mục tiếng Anh và giữ nguyên toàn bộ nghĩa, loại từ nguồn cho mỗi thẻ; cần rà soát nghĩa riêng nếu muốn chi tiết hơn."
+    },
+    {
+      "sourceRow": 50,
+      "category": "word_family",
+      "original": "Wellness (n): Sự khỏe mạnh toàn diện",
+      "reason": "Wellness được xếp Word Family của Well-being; giữ nguyên, cần duyệt quan hệ nhóm từ."
+    }
+  ]
+}

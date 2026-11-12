@@ -8,6 +8,7 @@ import { parseCardStatus, progressKey, summarizeProgress } from '../src/utils/pr
 
 const data: UnitData = JSON.parse(readFileSync(new URL('../public/data/units/unit2.json', import.meta.url), 'utf8'))
 const manifest = JSON.parse(readFileSync(new URL('../public/data/units.json', import.meta.url), 'utf8')) as { schemaVersion: number; units: Unit[] }
+const catalogTotal = manifest.units.reduce((total, unit) => total + JSON.parse(readFileSync(new URL(`../public/${unit.dataFile}`, import.meta.url), 'utf8')).flashcards.length, 0)
 const first = data.flashcards[0], second = data.flashcards[1], third = data.flashcards[2]
 async function seed(page: Page, entries: { unitId: string; cardId: string; status: string }[]) {
   await page.goto('/')
@@ -52,10 +53,10 @@ test('Đánh dấu, tự chuyển, đổi đánh giá và refresh: chỉ cập n
   await expect(page.locator('.study-top')).toContainText('Đã thuộc')
   await page.getByRole('navigation').getByRole('link', { name: 'Thống kê' }).click()
   const metrics = page.getByRole('region', { name: 'Thống kê tổng hợp' })
-  await expect(metrics.locator('.metric-card').nth(0).locator('strong')).toHaveText('223 thẻ')
-  await expect(metrics.locator('.metric-card').nth(1).locator('strong')).toHaveText('221 thẻ')
+  await expect(metrics.locator('.metric-card').nth(0).locator('strong')).toHaveText(`${catalogTotal} thẻ`)
+  await expect(metrics.locator('.metric-card').nth(1).locator('strong')).toHaveText(`${catalogTotal - 2} thẻ`)
   await expect(metrics.locator('.metric-card').nth(2).locator('strong')).toHaveText('2 thẻ')
-  await expect(page.getByRole('progressbar', { name: 'Tỷ lệ đã thuộc tổng hợp' })).toHaveAttribute('aria-valuenow', '0.9')
+  await expect(page.getByRole('progressbar', { name: 'Tỷ lệ đã thuộc tổng hợp' })).toHaveAttribute('aria-valuenow', String(Math.round(2 / catalogTotal * 10000) / 100))
 })
 
 test('Ôn tập thu ngắn danh sách không bỏ qua thẻ; learning còn lại, thẻ cuối hoàn thành', async ({ page }) => {
@@ -84,7 +85,7 @@ test('Tiếp tục học thẻ mới, chia sẻ trạng thái qua bộ lọc/tr�
   await page.emulateMedia({ reducedMotion: 'reduce' })
   await seed(page, [{ unitId: first.unitId, cardId: first.id, status: 'known' }])
   await page.goto('/')
-  await page.getByRole('link', { name: 'Tiếp tục học thẻ chưa học', exact: true }).click()
+  await page.getByRole('link', { name: 'Tiếp tục học thẻ chưa học', exact: true }).first().click()
   await expect(page.locator('.filter-count')).toHaveText('222 / 223 thẻ phù hợp')
   await expect(page.getByRole('heading', { name: second.vietnamese, exact: true })).toBeVisible()
   await page.getByLabel('Nhóm từ', { exact: true }).selectOption('word_family')
@@ -128,6 +129,7 @@ test('LocalStorage bị chặn: vẫn học/thống kê trong phiên và báo kh
 })
 
 test('Unit rỗng và catalog rỗng: không crash, thống kê không chia cho 0', async ({ page }) => {
+  await page.route('**/data/units.json', route => route.fulfill({ json: { ...manifest, units: [manifest.units[0]] } }))
   await page.route('**/data/units/unit2.json', route => route.fulfill({ json: { ...data, flashcards: [] } }))
   await page.goto('/study/unit-2')
   await expect(page.getByRole('alert')).toBeVisible()
@@ -153,7 +155,7 @@ test('Chuyển Unit và thống kê theo Unit: kết quả đánh giá độc l�
   expect(JSON.parse((await stored(page, first))!).status).toBe('known')
   expect(JSON.parse((await stored(page, card))!).status).toBe('learning')
   await page.getByRole('navigation').getByRole('link', { name: 'Thống kê' }).click()
-  await expect(page.locator('.metric-card').first().locator('strong')).toHaveText('224 thẻ')
+  await expect(page.locator('.metric-card').first().locator('strong')).toHaveText(`${catalogTotal + 1} thẻ`)
   await expect(page.getByRole('region', { name: `Thống kê ${unit.title}` })).toContainText('1 chưa thuộc')
 })
 

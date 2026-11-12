@@ -1,7 +1,7 @@
 import type { LoadedUnit, Unit, UnitData } from '../types/flashcard'
 
 const categories = new Set(['base_word', 'word_family', 'synonym', 'collocation'])
-const parts = new Set(['n', 'v', 'adj', 'adv', 'v/adj', 'n/adj', 'adj/n', 'v/n', 'n.pl'])
+const parts = new Set(['n', 'v', 'adj', 'adv', 'v/adj', 'n/adj', 'adj/n', 'v/n', 'n/v', 'n.pl', 'phr.v'])
 const object = (value: unknown): value is Record<string, unknown> => typeof value === 'object' && value !== null && !Array.isArray(value)
 const text = (value: unknown): value is string => typeof value === 'string' && value.trim().length > 0
 const identifier = (value: unknown): value is string => text(value) && /^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(value)

@@ -9,7 +9,10 @@ export const defaultStudyFilters = (): StudyFilters => ({ section: 'all', catego
 
 export function matchesPartOfSpeech(value: Flashcard['partOfSpeech'], filter: PartOfSpeechFilter): boolean {
   if (filter === 'all') return true
-  const parts = value?.toLowerCase().split('/').map(part => part.trim() === 'n.pl' ? 'n' : part.trim()) ?? []
+  const parts = value?.toLowerCase().split('/').map(part => {
+    const normalized = part.trim()
+    return normalized === 'n.pl' ? 'n' : normalized === 'phr.v' ? 'v' : normalized
+  }) ?? []
   const known = parts.filter(part => ['n', 'v', 'adj', 'adv'].includes(part))
   return filter === 'other' ? known.length === 0 : known.includes(filter)
 }

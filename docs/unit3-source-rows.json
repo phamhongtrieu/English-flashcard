@@ -1,0 +1,1311 @@
+{
+  "source": {
+    "fileName": "Unit3.pdf",
+    "pages": 9,
+    "sourceRowCount": 50,
+    "sha256": "2d813e0b0be0bfa5c9457f2b01b6acca5b3c6191769fad7a846bd3512de70fef",
+    "method": "Trích xuất văn bản và đối chiếu trực quan đủ 9 trang; chép 50 hàng, tách mục từ có dấu /, không suy đoán loại từ."
+  },
+  "rows": [
+    {
+      "sourceRow": 1,
+      "section": "a",
+      "cells": {
+        "base_word": {
+          "english": "Diet",
+          "partOfSpeech": "n/v",
+          "vietnamese": "Chế độ ăn uống"
+        },
+        "word_family": {
+          "english": "Dietary",
+          "partOfSpeech": "adj",
+          "vietnamese": "Thuộc chế độ ăn"
+        },
+        "synonym": {
+          "english": "Eating pattern",
+          "partOfSpeech": "n",
+          "vietnamese": "Thói quen ăn uống"
+        },
+        "collocation": {
+          "english": "Balanced diet",
+          "partOfSpeech": null,
+          "vietnamese": "Chế độ ăn cân bằng dưỡng chất"
+        }
+      }
+    },
+    {
+      "sourceRow": 2,
+      "section": "a",
+      "cells": {
+        "base_word": {
+          "english": "Calorie",
+          "partOfSpeech": "n",
+          "vietnamese": "Calo (đơn vị năng lượng)"
+        },
+        "word_family": {
+          "english": "Caloric / Calorific",
+          "partOfSpeech": "adj",
+          "vietnamese": "Thuộc về calo"
+        },
+        "synonym": {
+          "english": "Energy value",
+          "partOfSpeech": "n",
+          "vietnamese": "Giá trị năng lượng"
+        },
+        "collocation": {
+          "english": "Caloric intake",
+          "partOfSpeech": null,
+          "vietnamese": "Lượng calo nạp vào cơ thể"
+        }
+      }
+    },
+    {
+      "sourceRow": 3,
+      "section": "a",
+      "cells": {
+        "base_word": {
+          "english": "Protein",
+          "partOfSpeech": "n",
+          "vietnamese": "Chất đạm"
+        },
+        "word_family": {
+          "english": "Proteinous",
+          "partOfSpeech": "adj",
+          "vietnamese": "Chứa nhiều đạm"
+        },
+        "synonym": {
+          "english": "Amino acid",
+          "partOfSpeech": "n",
+          "vietnamese": "Axit amin (cấu thành đạm)"
+        },
+        "collocation": {
+          "english": "Lean protein",
+          "partOfSpeech": null,
+          "vietnamese": "Đạm nạc (tốt cho cơ bắp)"
+        }
+      }
+    },
+    {
+      "sourceRow": 4,
+      "section": "a",
+      "cells": {
+        "base_word": {
+          "english": "Carbohydrate",
+          "partOfSpeech": "n",
+          "vietnamese": "Chất bột đường"
+        },
+        "word_family": {
+          "english": "Carb-heavy",
+          "partOfSpeech": "adj",
+          "vietnamese": "Nhiều tinh bột"
+        },
+        "synonym": {
+          "english": "Complex carb",
+          "partOfSpeech": "n",
+          "vietnamese": "Tinh bột hấp thụ chậm"
+        },
+        "collocation": {
+          "english": "Reduce carbohydrate intake",
+          "partOfSpeech": null,
+          "vietnamese": "Giảm lượng tinh bột nạp vào"
+        }
+      }
+    },
+    {
+      "sourceRow": 5,
+      "section": "a",
+      "cells": {
+        "base_word": {
+          "english": "Lipid",
+          "partOfSpeech": "n",
+          "vietnamese": "Chất béo, dầu mỡ"
+        },
+        "word_family": {
+          "english": "Lipidic",
+          "partOfSpeech": "adj",
+          "vietnamese": "Thuộc chất béo"
+        },
+        "synonym": {
+          "english": "Fat / Fatty acids",
+          "partOfSpeech": "n/adj",
+          "vietnamese": "Chất béo"
+        },
+        "collocation": {
+          "english": "Saturated fat",
+          "partOfSpeech": null,
+          "vietnamese": "Chất béo bão hòa (không tốt)"
+        }
+      }
+    },
+    {
+      "sourceRow": 6,
+      "section": "a",
+      "cells": {
+        "base_word": {
+          "english": "Metabolism",
+          "partOfSpeech": "n",
+          "vietnamese": "Sự trao đổi chất"
+        },
+        "word_family": {
+          "english": "Metabolic",
+          "partOfSpeech": "adj",
+          "vietnamese": "Thuộc trao đổi chất"
+        },
+        "synonym": {
+          "english": "Caloric burn",
+          "partOfSpeech": "n",
+          "vietnamese": "Sự đốt cháy calo"
+        },
+        "collocation": {
+          "english": "Boost metabolic rate",
+          "partOfSpeech": null,
+          "vietnamese": "Tăng tốc độ trao đổi chất"
+        }
+      }
+    },
+    {
+      "sourceRow": 7,
+      "section": "a",
+      "cells": {
+        "base_word": {
+          "english": "Additive",
+          "partOfSpeech": "n",
+          "vietnamese": "Chất phụ gia (trong thực phẩm)"
+        },
+        "word_family": {
+          "english": "Add",
+          "partOfSpeech": "v",
+          "vietnamese": "Thêm vào"
+        },
+        "synonym": {
+          "english": "Preservative",
+          "partOfSpeech": "n",
+          "vietnamese": "Chất bảo quản thực phẩm"
+        },
+        "collocation": {
+          "english": "Artificial additive",
+          "partOfSpeech": null,
+          "vietnamese": "Chất phụ gia nhân tạo"
+        }
+      }
+    },
+    {
+      "sourceRow": 8,
+      "section": "a",
+      "cells": {
+        "base_word": {
+          "english": "Organic",
+          "partOfSpeech": "adj",
+          "vietnamese": "Hữu cơ (sạch, tự nhiên)"
+        },
+        "word_family": {
+          "english": "Organically",
+          "partOfSpeech": "adv",
+          "vietnamese": "Một cách hữu cơ"
+        },
+        "synonym": {
+          "english": "Natural / Chemical-free",
+          "partOfSpeech": "adj",
+          "vietnamese": "Tự nhiên / Không hóa chất"
+        },
+        "collocation": {
+          "english": "Organic produce",
+          "partOfSpeech": null,
+          "vietnamese": "Nông sản hữu cơ"
+        }
+      }
+    },
+    {
+      "sourceRow": 9,
+      "section": "a",
+      "cells": {
+        "base_word": {
+          "english": "Processed",
+          "partOfSpeech": "adj",
+          "vietnamese": "Đã qua chế biến"
+        },
+        "word_family": {
+          "english": "Process",
+          "partOfSpeech": "v/n",
+          "vietnamese": "Quy trình chế biến"
+        },
+        "synonym": {
+          "english": "Refined",
+          "partOfSpeech": "adj",
+          "vietnamese": "Tinh chế, qua xử lý công nghiệp"
+        },
+        "collocation": {
+          "english": "Processed food",
+          "partOfSpeech": null,
+          "vietnamese": "Thực phẩm chế biến sẵn"
+        }
+      }
+    },
+    {
+      "sourceRow": 10,
+      "section": "a",
+      "cells": {
+        "base_word": {
+          "english": "Supplements",
+          "partOfSpeech": "n",
+          "vietnamese": "Thực phẩm bổ sung"
+        },
+        "word_family": {
+          "english": "Supplement",
+          "partOfSpeech": "v",
+          "vietnamese": "Bổ sung thêm"
+        },
+        "synonym": {
+          "english": "Dietary adjunct",
+          "partOfSpeech": "n",
+          "vietnamese": "Chất phụ trợ dinh dưỡng"
+        },
+        "collocation": {
+          "english": "Take vitamin supplements",
+          "partOfSpeech": null,
+          "vietnamese": "Uống vitamin bổ sung"
+        }
+      }
+    },
+    {
+      "sourceRow": 11,
+      "section": "a",
+      "cells": {
+        "base_word": {
+          "english": "Hydration",
+          "partOfSpeech": "n",
+          "vietnamese": "Sự cung cấp đủ nước"
+        },
+        "word_family": {
+          "english": "Hydrate",
+          "partOfSpeech": "v",
+          "vietnamese": "Cấp nước cho cơ thể"
+        },
+        "synonym": {
+          "english": "Fluid intake",
+          "partOfSpeech": "n",
+          "vietnamese": "Lượng chất lỏng nạp vào"
+        },
+        "collocation": {
+          "english": "Maintain proper hydration",
+          "partOfSpeech": null,
+          "vietnamese": "Duy trì đủ nước cho cơ thể"
+        }
+      }
+    },
+    {
+      "sourceRow": 12,
+      "section": "a",
+      "cells": {
+        "base_word": {
+          "english": "Dehydration",
+          "partOfSpeech": "n",
+          "vietnamese": "Tình trạng mất nước"
+        },
+        "word_family": {
+          "english": "Dehydrate",
+          "partOfSpeech": "v",
+          "vietnamese": "Làm mất nước"
+        },
+        "synonym": {
+          "english": "Water depletion",
+          "partOfSpeech": "n",
+          "vietnamese": "Sự cạn kiệt nước"
+        },
+        "collocation": {
+          "english": "Risk of dehydration",
+          "partOfSpeech": null,
+          "vietnamese": "Nguy cơ bị mất nước"
+        }
+      }
+    },
+    {
+      "sourceRow": 13,
+      "section": "a",
+      "cells": {
+        "base_word": {
+          "english": "Malnutrition",
+          "partOfSpeech": "n",
+          "vietnamese": "Suy dinh dưỡng"
+        },
+        "word_family": {
+          "english": "Malnourished",
+          "partOfSpeech": "adj",
+          "vietnamese": "Bị thiếu dinh dưỡng"
+        },
+        "synonym": {
+          "english": "Undernourishment",
+          "partOfSpeech": "n",
+          "vietnamese": "Tình trạng thiếu ăn"
+        },
+        "collocation": {
+          "english": "Combat malnutrition",
+          "partOfSpeech": null,
+          "vietnamese": "Chống lại tình trạng suy dinh dưỡng"
+        }
+      }
+    },
+    {
+      "sourceRow": 14,
+      "section": "b",
+      "cells": {
+        "base_word": {
+          "english": "Stamina",
+          "partOfSpeech": "n",
+          "vietnamese": "Thể lực, sức bền"
+        },
+        "word_family": {
+          "english": "Stamen",
+          "partOfSpeech": "n",
+          "vietnamese": "Nhị hoa (từ gốc khác)"
+        },
+        "synonym": {
+          "english": "Endurance / Vigor",
+          "partOfSpeech": "n",
+          "vietnamese": "Sức chịu đựng / Sức sống"
+        },
+        "collocation": {
+          "english": "Build up stamina",
+          "partOfSpeech": null,
+          "vietnamese": "Xây dựng sức bền thể lực"
+        }
+      }
+    },
+    {
+      "sourceRow": 15,
+      "section": "b",
+      "cells": {
+        "base_word": {
+          "english": "Cardio",
+          "partOfSpeech": "n",
+          "vietnamese": "Bài tập tim mạch"
+        },
+        "word_family": {
+          "english": "Cardiovascular",
+          "partOfSpeech": "adj",
+          "vietnamese": "Thuộc hệ tim mạch"
+        },
+        "synonym": {
+          "english": "Aerobic exercise",
+          "partOfSpeech": "n",
+          "vietnamese": "Bài tập thể dục nhịp điệu"
+        },
+        "collocation": {
+          "english": "Engage in cardio workouts",
+          "partOfSpeech": null,
+          "vietnamese": "Tham gia tập cardio"
+        }
+      }
+    },
+    {
+      "sourceRow": 16,
+      "section": "b",
+      "cells": {
+        "base_word": {
+          "english": "Flexibility",
+          "partOfSpeech": "n",
+          "vietnamese": "Sự dẻo dai, linh hoạt"
+        },
+        "word_family": {
+          "english": "Flexible",
+          "partOfSpeech": "adj",
+          "vietnamese": "Linh hoạt, mềm dẻo"
+        },
+        "synonym": {
+          "english": "Agility / Suppleness",
+          "partOfSpeech": "n",
+          "vietnamese": "Sự nhanh nhẹn / Mềm mại"
+        },
+        "collocation": {
+          "english": "Improve joint flexibility",
+          "partOfSpeech": null,
+          "vietnamese": "Cải thiện độ dẻo của khớp"
+        }
+      }
+    },
+    {
+      "sourceRow": 17,
+      "section": "b",
+      "cells": {
+        "base_word": {
+          "english": "Musculature",
+          "partOfSpeech": "n",
+          "vietnamese": "Hệ thống cơ bắp"
+        },
+        "word_family": {
+          "english": "Muscular",
+          "partOfSpeech": "adj",
+          "vietnamese": "Vạm vỡ, có cơ bắp"
+        },
+        "synonym": {
+          "english": "Muscle mass",
+          "partOfSpeech": "n",
+          "vietnamese": "Khối lượng cơ bắp"
+        },
+        "collocation": {
+          "english": "Develop robust musculature",
+          "partOfSpeech": null,
+          "vietnamese": "Phát triển hệ cơ bắp vạm vỡ"
+        }
+      }
+    },
+    {
+      "sourceRow": 18,
+      "section": "b",
+      "cells": {
+        "base_word": {
+          "english": "Conditioning",
+          "partOfSpeech": "n",
+          "vietnamese": "Sự rèn luyện thể lực"
+        },
+        "word_family": {
+          "english": "Condition",
+          "partOfSpeech": "v/n",
+          "vietnamese": "Điều kiện / Rèn luyện"
+        },
+        "synonym": {
+          "english": "Physical training",
+          "partOfSpeech": "n",
+          "vietnamese": "Huấn luyện thể chất"
+        },
+        "collocation": {
+          "english": "Physical conditioning",
+          "partOfSpeech": null,
+          "vietnamese": "Quá trình rèn luyện thể chất"
+        }
+      }
+    },
+    {
+      "sourceRow": 19,
+      "section": "b",
+      "cells": {
+        "base_word": {
+          "english": "Exertion",
+          "partOfSpeech": "n",
+          "vietnamese": "Sự gắng sức, tốn sức"
+        },
+        "word_family": {
+          "english": "Exert",
+          "partOfSpeech": "v",
+          "vietnamese": "Gắng sức, dùng (sức lực)"
+        },
+        "synonym": {
+          "english": "Effort / Strain",
+          "partOfSpeech": "n",
+          "vietnamese": "Nỗ lực / Sự căng thẳng cơ"
+        },
+        "collocation": {
+          "english": "Physical exertion",
+          "partOfSpeech": null,
+          "vietnamese": "Sự gắng sức về thể xác"
+        }
+      }
+    },
+    {
+      "sourceRow": 20,
+      "section": "b",
+      "cells": {
+        "base_word": {
+          "english": "Sedentary",
+          "partOfSpeech": "adj",
+          "vietnamese": "Ít vận động, ngồi nhiều"
+        },
+        "word_family": {
+          "english": "Sedentariness",
+          "partOfSpeech": "n",
+          "vietnamese": "Lối sống tĩnh tại"
+        },
+        "synonym": {
+          "english": "Inactive lifestyle",
+          "partOfSpeech": "n",
+          "vietnamese": "Lối sống kém vận động"
+        },
+        "collocation": {
+          "english": "Counteract a sedentary lifestyle",
+          "partOfSpeech": null,
+          "vietnamese": "Chống lại lối sống ít vận động"
+        }
+      }
+    },
+    {
+      "sourceRow": 21,
+      "section": "b",
+      "cells": {
+        "base_word": {
+          "english": "Regimen",
+          "partOfSpeech": "n",
+          "vietnamese": "Chế độ luyện tập/chăm sóc"
+        },
+        "word_family": {
+          "english": "Regime",
+          "partOfSpeech": "n",
+          "vietnamese": "Chế độ chính trị/quản lý"
+        },
+        "synonym": {
+          "english": "Routine / Program",
+          "partOfSpeech": "n",
+          "vietnamese": "Thói quen / Chương trình"
+        },
+        "collocation": {
+          "english": "Strict training regimen",
+          "partOfSpeech": null,
+          "vietnamese": "Chế độ tập luyện nghiêm ngặt"
+        }
+      }
+    },
+    {
+      "sourceRow": 22,
+      "section": "b",
+      "cells": {
+        "base_word": {
+          "english": "Work-out",
+          "partOfSpeech": "n/v",
+          "vietnamese": "Buổi tập thể hình/thể thao"
+        },
+        "word_family": {
+          "english": "Exercise",
+          "partOfSpeech": "v/n",
+          "vietnamese": "Tập luyện"
+        },
+        "synonym": {
+          "english": "Gym session",
+          "partOfSpeech": "n",
+          "vietnamese": "Buổi tập phòng gym"
+        },
+        "collocation": {
+          "english": "Intense workout",
+          "partOfSpeech": null,
+          "vietnamese": "Buổi tập cường độ cao"
+        }
+      }
+    },
+    {
+      "sourceRow": 23,
+      "section": "b",
+      "cells": {
+        "base_word": {
+          "english": "Overexertion",
+          "partOfSpeech": "n",
+          "vietnamese": "Sự vắt kiệt sức, gắng quá độ"
+        },
+        "word_family": {
+          "english": "Overexert",
+          "partOfSpeech": "v",
+          "vietnamese": "Gắng sức quá mức"
+        },
+        "synonym": {
+          "english": "Burnout",
+          "partOfSpeech": "n",
+          "vietnamese": "Tình trạng kiệt sức"
+        },
+        "collocation": {
+          "english": "Avoid physical overexertion",
+          "partOfSpeech": null,
+          "vietnamese": "Tránh việc vắt kiệt sức lực"
+        }
+      }
+    },
+    {
+      "sourceRow": 24,
+      "section": "b",
+      "cells": {
+        "base_word": {
+          "english": "Physique",
+          "partOfSpeech": "n",
+          "vietnamese": "Vóc dáng, hình thể"
+        },
+        "word_family": {
+          "english": "Physical",
+          "partOfSpeech": "adj",
+          "vietnamese": "Thuộc thể chất"
+        },
+        "synonym": {
+          "english": "Body shape",
+          "partOfSpeech": "n",
+          "vietnamese": "Hình dáng cơ thể"
+        },
+        "collocation": {
+          "english": "Sculpt one's physique",
+          "partOfSpeech": null,
+          "vietnamese": "Tạo hình vóc dáng cơ thể"
+        }
+      }
+    },
+    {
+      "sourceRow": 25,
+      "section": "b",
+      "cells": {
+        "base_word": {
+          "english": "Tone",
+          "partOfSpeech": "v/n",
+          "vietnamese": "Làm săn chắc cơ thể"
+        },
+        "word_family": {
+          "english": "Toned",
+          "partOfSpeech": "adj",
+          "vietnamese": "Săn chắc, thon gọn"
+        },
+        "synonym": {
+          "english": "Firm up",
+          "partOfSpeech": "phr.v",
+          "vietnamese": "Làm cho săn lại"
+        },
+        "collocation": {
+          "english": "Tone up muscles",
+          "partOfSpeech": null,
+          "vietnamese": "Làm săn chắc các nhóm cơ"
+        }
+      }
+    },
+    {
+      "sourceRow": 26,
+      "section": "b",
+      "cells": {
+        "base_word": {
+          "english": "Recovery",
+          "partOfSpeech": "n",
+          "vietnamese": "Sự hồi phục (sau tập)"
+        },
+        "word_family": {
+          "english": "Recover",
+          "partOfSpeech": "v",
+          "vietnamese": "Hồi phục sức khỏe"
+        },
+        "synonym": {
+          "english": "Restoration / Healing",
+          "partOfSpeech": "n",
+          "vietnamese": "Sự phục hồi"
+        },
+        "collocation": {
+          "english": "Muscle recovery time",
+          "partOfSpeech": null,
+          "vietnamese": "Thời gian phục hồi cơ bắp"
+        }
+      }
+    },
+    {
+      "sourceRow": 27,
+      "section": "c",
+      "cells": {
+        "base_word": {
+          "english": "Wellness",
+          "partOfSpeech": "n",
+          "vietnamese": "Sức khỏe toàn diện"
+        },
+        "word_family": {
+          "english": "Well-being",
+          "partOfSpeech": "n",
+          "vietnamese": "Sự thịnh vượng, khỏe mạnh"
+        },
+        "synonym": {
+          "english": "Healthiness",
+          "partOfSpeech": "n",
+          "vietnamese": "Tình trạng khỏe mạnh"
+        },
+        "collocation": {
+          "english": "Holistic wellness",
+          "partOfSpeech": null,
+          "vietnamese": "Sức khỏe toàn diện (thể xác lẫn tinh thần)"
+        }
+      }
+    },
+    {
+      "sourceRow": 28,
+      "section": "c",
+      "cells": {
+        "base_word": {
+          "english": "Longevity",
+          "partOfSpeech": "n",
+          "vietnamese": "Tuổi thọ cao"
+        },
+        "word_family": {
+          "english": "Long-lived",
+          "partOfSpeech": "adj",
+          "vietnamese": "Sống lâu"
+        },
+        "synonym": {
+          "english": "Life span",
+          "partOfSpeech": "n",
+          "vietnamese": "Vòng đời, tuổi thọ"
+        },
+        "collocation": {
+          "english": "Promote health and longevity",
+          "partOfSpeech": null,
+          "vietnamese": "Thúc đẩy sức khỏe và trường thọ"
+        }
+      }
+    },
+    {
+      "sourceRow": 29,
+      "section": "c",
+      "cells": {
+        "base_word": {
+          "english": "Preventive",
+          "partOfSpeech": "adj",
+          "vietnamese": "Mang tính phòng ngừa"
+        },
+        "word_family": {
+          "english": "Prevent",
+          "partOfSpeech": "v",
+          "vietnamese": "Ngăn chặn"
+        },
+        "synonym": {
+          "english": "Proactive",
+          "partOfSpeech": "adj",
+          "vietnamese": "Chủ động phòng tránh"
+        },
+        "collocation": {
+          "english": "Preventive healthcare",
+          "partOfSpeech": null,
+          "vietnamese": "Y tế dự phòng, chăm sóc sức khỏe chủ động"
+        }
+      }
+    },
+    {
+      "sourceRow": 30,
+      "section": "c",
+      "cells": {
+        "base_word": {
+          "english": "Screening",
+          "partOfSpeech": "n",
+          "vietnamese": "Sự sàng lọc bệnh"
+        },
+        "word_family": {
+          "english": "Screen",
+          "partOfSpeech": "v",
+          "vietnamese": "Sàng lọc, kiểm tra"
+        },
+        "synonym": {
+          "english": "Medical check-up",
+          "partOfSpeech": "n",
+          "vietnamese": "Khám sức khỏe tổng quát"
+        },
+        "collocation": {
+          "english": "Undergo routine health screening",
+          "partOfSpeech": null,
+          "vietnamese": "Kiểm tra sức khỏe định kỳ"
+        }
+      }
+    },
+    {
+      "sourceRow": 31,
+      "section": "c",
+      "cells": {
+        "base_word": {
+          "english": "Sanitation",
+          "partOfSpeech": "n",
+          "vietnamese": "Hệ thống vệ sinh"
+        },
+        "word_family": {
+          "english": "Sanitary",
+          "partOfSpeech": "adj",
+          "vietnamese": "Thuộc vệ sinh"
+        },
+        "synonym": {
+          "english": "Hygiene",
+          "partOfSpeech": "n",
+          "vietnamese": "Vệ sinh cá nhân/môi trường"
+        },
+        "collocation": {
+          "english": "Public sanitation",
+          "partOfSpeech": null,
+          "vietnamese": "Vệ sinh công cộng"
+        }
+      }
+    },
+    {
+      "sourceRow": 32,
+      "section": "c",
+      "cells": {
+        "base_word": {
+          "english": "Contagious",
+          "partOfSpeech": "adj",
+          "vietnamese": "Dễ lây nhiễm"
+        },
+        "word_family": {
+          "english": "Contagion",
+          "partOfSpeech": "n",
+          "vietnamese": "Sự truyền bệnh"
+        },
+        "synonym": {
+          "english": "Infectious / Transmissible",
+          "partOfSpeech": "adj",
+          "vietnamese": "Truyền nhiễm"
+        },
+        "collocation": {
+          "english": "Contagious disease",
+          "partOfSpeech": null,
+          "vietnamese": "Bệnh truyền nhiễm"
+        }
+      }
+    },
+    {
+      "sourceRow": 33,
+      "section": "c",
+      "cells": {
+        "base_word": {
+          "english": "Alleviate",
+          "partOfSpeech": "v",
+          "vietnamese": "Làm giảm bớt (đau đớn)"
+        },
+        "word_family": {
+          "english": "Alleviation",
+          "partOfSpeech": "n",
+          "vietnamese": "Sự làm dịu bớt"
+        },
+        "synonym": {
+          "english": "Relieve / Mitigate",
+          "partOfSpeech": "v",
+          "vietnamese": "Xoa dịu, giảm thiểu"
+        },
+        "collocation": {
+          "english": "Alleviate chronic pain",
+          "partOfSpeech": null,
+          "vietnamese": "Giảm bớt các cơn đau mãn tính"
+        }
+      }
+    },
+    {
+      "sourceRow": 34,
+      "section": "c",
+      "cells": {
+        "base_word": {
+          "english": "Rehabilitation",
+          "partOfSpeech": "n",
+          "vietnamese": "Phục hồi chức năng"
+        },
+        "word_family": {
+          "english": "Rehabilitate",
+          "partOfSpeech": "v",
+          "vietnamese": "Phục hồi"
+        },
+        "synonym": {
+          "english": "Physical recovery",
+          "partOfSpeech": "n",
+          "vietnamese": "Hồi phục thể chất"
+        },
+        "collocation": {
+          "english": "Post-injury rehabilitation",
+          "partOfSpeech": null,
+          "vietnamese": "Phục hồi sau chấn thương"
+        }
+      }
+    },
+    {
+      "sourceRow": 35,
+      "section": "c",
+      "cells": {
+        "base_word": {
+          "english": "Therapeutic",
+          "partOfSpeech": "adj",
+          "vietnamese": "Có tác dụng chữa bệnh"
+        },
+        "word_family": {
+          "english": "Therapy",
+          "partOfSpeech": "n",
+          "vietnamese": "Liệu pháp"
+        },
+        "synonym": {
+          "english": "Curative / Healing",
+          "partOfSpeech": "adj",
+          "vietnamese": "Chữa lành"
+        },
+        "collocation": {
+          "english": "Therapeutic benefits",
+          "partOfSpeech": null,
+          "vietnamese": "Lợi ích mang tính chữa bệnh"
+        }
+      }
+    },
+    {
+      "sourceRow": 36,
+      "section": "c",
+      "cells": {
+        "base_word": {
+          "english": "Ailment",
+          "partOfSpeech": "n",
+          "vietnamese": "Bệnh nhẹ, chứng bệnh vặt"
+        },
+        "word_family": {
+          "english": "Ail",
+          "partOfSpeech": "v",
+          "vietnamese": "Gây đau ốm"
+        },
+        "synonym": {
+          "english": "Minor sickness",
+          "partOfSpeech": "n",
+          "vietnamese": "Bệnh vặt thông thường"
+        },
+        "collocation": {
+          "english": "Treat minor ailments",
+          "partOfSpeech": null,
+          "vietnamese": "Điều trị các chứng bệnh vặt"
+        }
+      }
+    },
+    {
+      "sourceRow": 37,
+      "section": "c",
+      "cells": {
+        "base_word": {
+          "english": "Vitality",
+          "partOfSpeech": "n",
+          "vietnamese": "Sức sống mãnh liệt"
+        },
+        "word_family": {
+          "english": "Vital",
+          "partOfSpeech": "adj",
+          "vietnamese": "Quan trọng, tràn đầy sức sống"
+        },
+        "synonym": {
+          "english": "Vigour / Energy",
+          "partOfSpeech": "n",
+          "vietnamese": "Sức mạnh, năng lượng"
+        },
+        "collocation": {
+          "english": "Restore physical vitality",
+          "partOfSpeech": null,
+          "vietnamese": "Khôi phục sức sống thể chất"
+        }
+      }
+    },
+    {
+      "sourceRow": 38,
+      "section": "c",
+      "cells": {
+        "base_word": {
+          "english": "Robust",
+          "partOfSpeech": "adj",
+          "vietnamese": "Khỏe mạnh, vạm vỡ"
+        },
+        "word_family": {
+          "english": "Robustness",
+          "partOfSpeech": "n",
+          "vietnamese": "Sự tráng kiện"
+        },
+        "synonym": {
+          "english": "Hardy / Sturdy",
+          "partOfSpeech": "adj",
+          "vietnamese": "Bền bỉ, cứng cáp"
+        },
+        "collocation": {
+          "english": "Maintain robust health",
+          "partOfSpeech": null,
+          "vietnamese": "Duy trì sức khỏe tráng kiện"
+        }
+      }
+    },
+    {
+      "sourceRow": 39,
+      "section": "d",
+      "cells": {
+        "base_word": {
+          "english": "Lifestyle",
+          "partOfSpeech": "n",
+          "vietnamese": "Lối sống"
+        },
+        "word_family": {
+          "english": "Life-style",
+          "partOfSpeech": "n",
+          "vietnamese": "Phong cách sống"
+        },
+        "synonym": {
+          "english": "Way of living",
+          "partOfSpeech": "n",
+          "vietnamese": "Cách sinh hoạt"
+        },
+        "collocation": {
+          "english": "Adopt a healthy lifestyle",
+          "partOfSpeech": null,
+          "vietnamese": "Áp dụng lối sống lành mạnh"
+        }
+      }
+    },
+    {
+      "sourceRow": 40,
+      "section": "d",
+      "cells": {
+        "base_word": {
+          "english": "Detoxification",
+          "partOfSpeech": "n",
+          "vietnamese": "Sự thải độc cơ thể"
+        },
+        "word_family": {
+          "english": "Detox",
+          "partOfSpeech": "v/n",
+          "vietnamese": "Thải độc"
+        },
+        "synonym": {
+          "english": "Cleansing",
+          "partOfSpeech": "n",
+          "vietnamese": "Sự thanh lọc"
+        },
+        "collocation": {
+          "english": "Undergo a body detox",
+          "partOfSpeech": null,
+          "vietnamese": "Thực hiện quá trình thải độc cơ thể"
+        }
+      }
+    },
+    {
+      "sourceRow": 41,
+      "section": "d",
+      "cells": {
+        "base_word": {
+          "english": "Equilibrium",
+          "partOfSpeech": "n",
+          "vietnamese": "Trạng thái cân bằng"
+        },
+        "word_family": {
+          "english": "Equilibrate",
+          "partOfSpeech": "v",
+          "vietnamese": "Làm cân bằng"
+        },
+        "synonym": {
+          "english": "Balance / Stability",
+          "partOfSpeech": "n",
+          "vietnamese": "Sự cân bằng, ổn định"
+        },
+        "collocation": {
+          "english": "Maintain mind-body equilibrium",
+          "partOfSpeech": null,
+          "vietnamese": "Giữ cân bằng giữa thể xác và tâm hồn"
+        }
+      }
+    },
+    {
+      "sourceRow": 42,
+      "section": "d",
+      "cells": {
+        "base_word": {
+          "english": "Moderation",
+          "partOfSpeech": "n",
+          "vietnamese": "Sự điều độ, chừng mực"
+        },
+        "word_family": {
+          "english": "Moderate",
+          "partOfSpeech": "adj",
+          "vietnamese": "Điều độ, ôn hòa"
+        },
+        "synonym": {
+          "english": "Temperance",
+          "partOfSpeech": "n",
+          "vietnamese": "Tính tiết chế, điều độ"
+        },
+        "collocation": {
+          "english": "Practice moderation in diet",
+          "partOfSpeech": null,
+          "vietnamese": "Thực hiện ăn uống điều độ"
+        }
+      }
+    },
+    {
+      "sourceRow": 43,
+      "section": "d",
+      "cells": {
+        "base_word": {
+          "english": "Habit",
+          "partOfSpeech": "n",
+          "vietnamese": "Thói quen"
+        },
+        "word_family": {
+          "english": "Habitual",
+          "partOfSpeech": "adj",
+          "vietnamese": "Mang tính thói quen"
+        },
+        "synonym": {
+          "english": "Custom / Practice",
+          "partOfSpeech": "n",
+          "vietnamese": "Thói quen, tập quán"
+        },
+        "collocation": {
+          "english": "Cultivate healthy habits",
+          "partOfSpeech": null,
+          "vietnamese": "Nuôi dưỡng các thói quen lành mạnh"
+        }
+      }
+    },
+    {
+      "sourceRow": 44,
+      "section": "d",
+      "cells": {
+        "base_word": {
+          "english": "Restorative",
+          "partOfSpeech": "adj",
+          "vietnamese": "Mang tính phục hồi"
+        },
+        "word_family": {
+          "english": "Restore",
+          "partOfSpeech": "v",
+          "vietnamese": "Khôi phục lại"
+        },
+        "synonym": {
+          "english": "Rejuvenating",
+          "partOfSpeech": "adj",
+          "vietnamese": "Trẻ hóa, phục hồi năng lượng"
+        },
+        "collocation": {
+          "english": "Restorative sleep",
+          "partOfSpeech": null,
+          "vietnamese": "Giấc ngủ sâu có tính phục hồi cơ thể"
+        }
+      }
+    },
+    {
+      "sourceRow": 45,
+      "section": "d",
+      "cells": {
+        "base_word": {
+          "english": "Burnout",
+          "partOfSpeech": "n",
+          "vietnamese": "Tình trạng kiệt sức (do áp lực)"
+        },
+        "word_family": {
+          "english": "Burn out",
+          "partOfSpeech": "phr.v",
+          "vietnamese": "Kiệt sức"
+        },
+        "synonym": {
+          "english": "Exhaustion",
+          "partOfSpeech": "n",
+          "vietnamese": "Sự kiệt quệ năng lượng"
+        },
+        "collocation": {
+          "english": "Prevent mental burnout",
+          "partOfSpeech": null,
+          "vietnamese": "Ngăn ngừa tình trạng kiệt sức tinh thần"
+        }
+      }
+    },
+    {
+      "sourceRow": 46,
+      "section": "d",
+      "cells": {
+        "base_word": {
+          "english": "Self-care",
+          "partOfSpeech": "n",
+          "vietnamese": "Việc tự chăm sóc bản thân"
+        },
+        "word_family": {
+          "english": "Care for",
+          "partOfSpeech": "v",
+          "vietnamese": "Chăm sóc"
+        },
+        "synonym": {
+          "english": "Personal upkeep",
+          "partOfSpeech": "n",
+          "vietnamese": "Sự tự bảo dưỡng bản thân"
+        },
+        "collocation": {
+          "english": "Prioritize self-care",
+          "partOfSpeech": null,
+          "vietnamese": "Đặt việc tự chăm sóc bản thân lên hàng đầu"
+        }
+      }
+    },
+    {
+      "sourceRow": 47,
+      "section": "d",
+      "cells": {
+        "base_word": {
+          "english": "Longevity",
+          "partOfSpeech": "n",
+          "vietnamese": "Sự sống lâu, trường thọ"
+        },
+        "word_family": {
+          "english": "Long-lived",
+          "partOfSpeech": "adj",
+          "vietnamese": "Sống thọ"
+        },
+        "synonym": {
+          "english": "Extended lifespan",
+          "partOfSpeech": "n",
+          "vietnamese": "Vòng đời kéo dài"
+        },
+        "collocation": {
+          "english": "Secrets to longevity",
+          "partOfSpeech": null,
+          "vietnamese": "Bí quyết sống trường thọ"
+        }
+      }
+    },
+    {
+      "sourceRow": 48,
+      "section": "d",
+      "cells": {
+        "base_word": {
+          "english": "Mindful",
+          "partOfSpeech": "adj",
+          "vietnamese": "Sống tỉnh thức, chú tâm"
+        },
+        "word_family": {
+          "english": "Mindfulness",
+          "partOfSpeech": "n",
+          "vietnamese": "Sự chánh niệm, tỉnh thức"
+        },
+        "synonym": {
+          "english": "Attentive / Conscious",
+          "partOfSpeech": "adj",
+          "vietnamese": "Tỉnh táo, có ý thức"
+        },
+        "collocation": {
+          "english": "Mindful eating",
+          "partOfSpeech": null,
+          "vietnamese": "Thói quen ăn uống có ý thức, chậm rãi"
+        }
+      }
+    },
+    {
+      "sourceRow": 49,
+      "section": "d",
+      "cells": {
+        "base_word": {
+          "english": "Endurance",
+          "partOfSpeech": "n",
+          "vietnamese": "Sức chịu đựng bền bỉ"
+        },
+        "word_family": {
+          "english": "Endure",
+          "partOfSpeech": "v",
+          "vietnamese": "Chịu đựng, kéo dài"
+        },
+        "synonym": {
+          "english": "Stamina / Persistence",
+          "partOfSpeech": "n",
+          "vietnamese": "Sức bền / Sự kiên trì"
+        },
+        "collocation": {
+          "english": "Test one's physical endurance",
+          "partOfSpeech": null,
+          "vietnamese": "Thử thách sức chịu đựng thể lực"
+        }
+      }
+    },
+    {
+      "sourceRow": 50,
+      "section": "d",
+      "cells": {
+        "base_word": {
+          "english": "Well-being",
+          "partOfSpeech": "n",
+          "vietnamese": "Tình trạng hạnh phúc, khỏe mạnh"
+        },
+        "word_family": {
+          "english": "Wellness",
+          "partOfSpeech": "n",
+          "vietnamese": "Sự khỏe mạnh toàn diện"
+        },
+        "synonym": {
+          "english": "Happiness and health",
+          "partOfSpeech": "n",
+          "vietnamese": "Sức khỏe và niềm vui"
+        },
+        "collocation": {
+          "english": "Enhance overall well-being",
+          "partOfSpeech": null,
+          "vietnamese": "Nâng cao mức độ khỏe mạnh toàn diện"
+        }
+      }
+    }
+  ]
+}

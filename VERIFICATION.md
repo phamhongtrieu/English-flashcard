@@ -1,5 +1,9 @@
 # Kết quả kiểm tra Bước 1
 
+Kết quả mới nhất: **bổ sung Unit 3**, xem [docs/unit3-report.md](docs/unit3-report.md). Đọc đủ 9 trang/50 hàng, xuất 217 thẻ; tổng catalog 2 Unit/440 thẻ. TypeScript/build đạt; **61/61 ca Playwright đạt**, gồm Unit 3, tiến độ độc lập, phát âm giả lập và responsive Light/Dark. Unit 2 giữ nguyên byte/ID (SHA-256 đối chiếu trước/sau). Có 22 ghi chú rà soát nguồn, giữ nguyên các mục nghi vấn. Không push/deploy.
+
+Kết quả mới nhất: **bổ sung phát âm tiếng Anh**, xem [docs/pronunciation-report.md](docs/pronunciation-report.md). TypeScript/build đạt; **55/55 ca Playwright đạt**, gồm 10 ca phát âm với engine giả lập. Kiểm tra native Chrome headless có 3 giọng en-US nhưng trả `synthesis-failed` cho Physique/Physical và cả trang Speech API tối giản; ứng dụng báo lỗi đúng. Chưa xác nhận âm thanh nghe được trên thiết bị thật hoặc Vercel. Không deploy, không sửa dữ liệu/ID/LocalStorage/logic đánh giá.
+
 Kết quả mới nhất: **Giai đoạn 2 — Bước 5**, xem [docs/step5-report.md](docs/step5-report.md). TypeScript/build đạt; **45/45 ca Playwright đạt** trong lần chạy toàn bộ, gồm persistence qua refresh và đóng/mở lại Chrome, lỗi storage/quota và phục hồi quyền ghi, ôn tập và thẻ cuối. Các phần dưới là lịch sử trước khi tích hợp tiến độ thật.
 
 Kết quả mới nhất: **Giai đoạn 2 — Bước 4**, xem [docs/step4-report.md](docs/step4-report.md). Đã xác nhận Bước 3A hoạt động trước khi sửa; TypeScript/build đạt; 34 ca kiểm thử đã đạt qua lần chạy toàn bộ và chạy lại hai ca cuối. Nội dung bên dưới là lịch sử các bước trước.

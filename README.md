@@ -28,6 +28,7 @@ Build xuất ra dist/. Playwright dùng Google Chrome đã cài trên máy và k
 public/data/
   units.json                  # Manifest Unit xuất bản
   units/unit2.json             # 223 thẻ, 50 hàng PDF và reviewNotes
+  units/unit3.json             # 217 thẻ, 50 hàng PDF và reviewNotes
 src/
   components/layout/          # Header, navigation, footer
   components/ui/              # Badge, ProgressBar, DataState
@@ -47,15 +48,20 @@ docs/
   unit2-review.md              # Nguồn, số lượng, 19 mục cần rà soát
   unit2-source-rows.json       # 50 hàng × 4 ô để đối chiếu
   unit2-counts.json            # Tổng hợp số lượng
+  unit3-report.md              # Báo cáo tích hợp, rà soát và kiểm thử Unit 3
+  unit3-source-rows.json       # Bản đối chiếu 50 hàng × 4 ô Unit 3
+  unit3-counts.json            # Số lượng Unit 3 theo section/category
 scripts/import-unit2.py        # Tái tạo JSON từ bản chép đã đối chiếu
+scripts/import-unit3.py        # Chỉ tái tạo JSON và audit Unit 3
 tests/                        # Route, dữ liệu, lật, điều hướng, lỗi, responsive
 ```
 
 ## Hành vi hiện tại
 
 - Trang chủ đọc manifest và chỉ hiển thị Unit có dữ liệu được kiểm tra hợp lệ; số thẻ lấy từ mảng thực tế.
-- /study: chọn Unit. /study/:unitId: tải bộ thẻ đã đăng ký. Hiện chỉ xuất bản Unit 2, không tạo Unit 1/3.
+- /study: chọn Unit. /study/:unitId: tải bộ thẻ đã đăng ký. Đã xuất bản Unit 2 (223 thẻ) và Unit 3 (217 thẻ); Unit 3 mở tại /study/unit3. Không tạo Unit 1 giả. Xem [báo cáo Unit 3](docs/unit3-report.md).
 - Lật Y 180° hai chiều bằng nhấn/chạm/nút; Space/Enter khi focus thẻ. ←/→ điều hướng khi không nhập liệu. Chuyển thẻ về tiếng Việt; nút bị vô hiệu hóa tại biên.
+- Nút loa trên mặt tiếng Anh của trang học dùng Web Speech API, ưu tiên en-US, rate 0.9. Chỉ đọc khi nhấn, hủy khi đổi thẻ/về mặt Việt/rời trang; nút loa không làm lật thẻ. Thiếu API/giọng English hoặc engine lỗi sẽ có thông báo. Không cần thư viện TTS/API key. Xem [báo cáo phát âm](docs/pronunciation-report.md).
 - Ba bộ lọc kết hợp: chủ đề lấy từ Unit hiện tại, category và loại từ. Bộ đếm dùng kết quả đã lọc; không có kết quả sẽ ẩn thẻ/điều khiển và cho phép đặt lại bộ lọc.
 - Loại từ ghép khớp từng thành phần: n/adj thuộc cả danh từ và tính từ, v/adj thuộc động từ và tính từ, n.pl thuộc danh từ. null thuộc Khác/Không xác định, không suy đoán loại từ từ nghĩa hoặc từ tiếng Anh.
 - Trộn thẻ dùng Fisher–Yates trên bản sao kết quả lọc, chỉ tạo thứ tự khi đổi bộ lọc/bật trộn/đặt lại. Lật, chuyển thẻ và render lại giữ nguyên thứ tự lượt hiện tại. Tắt trộn về thứ tự JSON trong bộ lọc hiện tại.
