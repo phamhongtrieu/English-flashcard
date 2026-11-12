@@ -83,8 +83,8 @@ for (const scenario of ['syntax', 'empty', 'duplicate', 'wrong-unit', 'wrong-sec
 
 test('Nhiều Unit qua fixture mạng, không xuất bản Unit giả; đổi Unit không giữ thẻ cũ', async ({ page }) => {
   // Chỉ fixture trong bộ nhớ trình duyệt, dùng lại dữ liệu PDF, không tạo file Unit mới.
-  const fixtureUnit: Unit = { ...manifest.units[0], id: 'fixture-unit', number: undefined, title: 'Bộ dữ liệu kiểm thử', dataFile: 'data/units/fixture-unit.json' }
-  const fixtureData: UnitData = { schemaVersion: 1, unitId: fixtureUnit.id, flashcards: [{ ...unitData.flashcards.at(-1)!, id: 'fixture-unit-r050-collocation-01', unitId: fixtureUnit.id }], reviewNotes: [] }
+  const fixtureUnit: Unit = { ...manifest.units[0], id: 'fixture-unit', number: undefined, title: 'Bộ dữ liệu kiểm thử', sections: [{ id: 'custom-topic', title: 'Chủ đề kiểm thử', description: '' }], dataFile: 'data/units/fixture-unit.json' }
+  const fixtureData: UnitData = { schemaVersion: 1, unitId: fixtureUnit.id, flashcards: [{ ...unitData.flashcards.at(-1)!, id: 'fixture-unit-r050-collocation-01', unitId: fixtureUnit.id, section: 'custom-topic' }], reviewNotes: [] }
   await page.route('**/data/units.json', route => route.fulfill({ json: { schemaVersion: 1, units: [...manifest.units, fixtureUnit] } }))
   await page.route('**/data/units/fixture-unit.json', route => route.fulfill({ json: fixtureData }))
   await page.goto('/')
@@ -92,6 +92,8 @@ test('Nhiều Unit qua fixture mạng, không xuất bản Unit giả; đổi Un
   await page.locator('.unit-card').first().getByRole('link', { name: 'Bắt đầu học' }).click()
   await page.getByRole('button', { name: 'Lật thẻ', exact: true }).click()
   await expect(page.getByRole('heading', { name: 'Physique', exact: true })).toBeVisible()
+  await page.getByLabel('Chủ đề', { exact: true }).selectOption('c')
+  await page.getByRole('switch', { name: 'Trộn thẻ' }).check()
   let release!: () => void
   const gate = new Promise<void>(resolve => { release = resolve })
   await page.route('**/data/units/fixture-unit.json', async route => { await gate; await route.fulfill({ json: fixtureData }) })
@@ -104,6 +106,9 @@ test('Nhiều Unit qua fixture mạng, không xuất bản Unit giả; đổi Un
   await expect(page.getByRole('heading', { name: 'Physique', exact: true })).toHaveCount(0)
   release()
   await expect(page.getByRole('heading', { level: 1 })).toHaveText(fixtureUnit.title)
+  await expect(page.getByLabel('Chủ đề', { exact: true })).toHaveValue('all')
+  expect(await page.getByLabel('Chủ đề', { exact: true }).locator('option').evaluateAll(options => options.map(option => (option as HTMLOptionElement).value))).toEqual(['all', 'custom-topic'])
+  await expect(page.getByRole('switch', { name: 'Trộn thẻ' })).not.toBeChecked()
   await expect(page.locator('.study-top')).toContainText('1 / 1')
   await expect(page.getByRole('button', { name: 'Lật flashcard' })).toHaveAttribute('aria-pressed', 'false')
   await expect(page.getByRole('heading', { name: fixtureData.flashcards[0].vietnamese, exact: true })).toBeVisible()

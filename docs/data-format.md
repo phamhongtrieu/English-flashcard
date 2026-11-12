@@ -61,6 +61,6 @@ Ví dụ một bản ghi trong dữ liệu Unit 2 (file thật chứa đủ 223 
 4. Thêm file vào `public/data/units/`, đăng ký Unit trong manifest sau khi kiểm tra.
 5. Build và kiểm thử `/study/<id>`, dữ liệu đầu/cuối và các nhánh lỗi trước khi deploy.
 
-Luồng Upload → Trích xuất → Kiểm tra → Xuất JSON chỉ được chuẩn bị bằng format này; chưa xây công cụ upload. Các file demo cũ trong `src/data/flashcards.json` và `src/data/units.json` được giữ nguyên, không dùng làm nguồn học/xuất bản. Trang thống kê vẫn là số liệu minh họa riêng.
+Luồng Upload → Trích xuất → Kiểm tra → Xuất JSON chỉ được chuẩn bị bằng format này; chưa xây công cụ upload. Các file demo cũ trong `src/data/flashcards.json` và `src/data/units.json` được giữ nguyên, không dùng làm nguồn học/xuất bản. Từ Bước 5, trang thống kê sử dụng trạng thái học riêng từ LocalStorage; xem [progress-storage.md](progress-storage.md).
 
 `scripts/import-unit2.py` tái tạo dữ liệu từ bản chép đã đối chiếu cả 6 trang, không phải trình trích xuất PDF tổng quát. Script giữ các Unit khác trong manifest nếu đã có, chỉ thay thế bản ghi Unit 2. Không chạy lại script sau khi chỉnh sửa JSON thủ công mà chưa cập nhật bản chép tương ứng.

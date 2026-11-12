@@ -110,4 +110,34 @@ nav { display: flex; gap: 9px; }
 .study-flashcard-back { transform: rotateY(180deg); }
 .study-flashcard-face .flashcard { height: 100%; }
 .units-section .unit-card + .unit-card { margin-top: 24px; }
+.study-filters { padding: 20px; margin-block: 24px; }
+.study-mode-label { display: flex; flex-direction: column; gap: 7px; font-size: 11px; color: var(--muted); margin-top: 17px; }
+.study-mode-label select { width: 100%; min-height: 42px; padding: 10px 8px; font: inherit; color: var(--text); background: var(--subtle); border: 1px solid var(--border); border-radius: 8px; }
+.study-mode-label select:focus-visible { outline: 3px solid var(--primary); outline-offset: 3px; }
+.unit-learning-progress { width: 100%; margin-block: 15px; }
+.unit-learning-progress p { font-size: 10px; color: var(--muted); line-height: 1.8; margin-bottom: 8px; }
+.unit-learning-progress .text-link { margin-top: 10px; font-size: 11px; }
+.study-completion .button, .study-empty .button { margin: 5px; }
+.statistics-actions { display: flex; gap: 12px; flex-wrap: wrap; margin-top: 22px; }
+.unit-statistics { margin-top: 24px; }
+.progress-metrics { grid-template-columns: repeat(4, 1fr); }
+@media (max-width: 800px) { .progress-metrics { grid-template-columns: repeat(2, 1fr); } }
+@media (max-width: 480px) { .progress-metrics { grid-template-columns: 1fr; }.assessment-controls { gap: 12px; }.assessment-controls .button { font-size: 12px; } }
+.filter-heading, .filter-footer { display: flex; align-items: center; justify-content: space-between; gap: 14px; flex-wrap: wrap; }
+.filter-heading h2 { display: inline-flex; align-items: center; gap: 8px; font-size: 14px; font-weight: 600; }
+.filter-heading h2 svg { color: var(--primary); }
+.filter-fields { display: grid; grid-template-columns: 1.2fr 1fr 1fr; gap: 12px; margin-block: 18px; }
+.filter-fields label { min-width: 0; display: flex; flex-direction: column; gap: 7px; font-size: 11px; color: var(--muted); }
+.filter-fields select { width: 100%; min-width: 0; min-height: 42px; padding: 10px 8px; font: inherit; color: var(--text); background: var(--subtle); border: 1px solid var(--border); border-radius: 8px; text-overflow: ellipsis; }
+.filter-fields select:focus-visible, .shuffle-control input:focus-visible { outline: 3px solid var(--primary); outline-offset: 3px; }
+.filter-count { font-size: 12px; color: var(--primary); font-weight: 600; }
+.shuffle-control { display: inline-flex; align-items: center; gap: 8px; min-height: 40px; font-size: 12px; cursor: pointer; }
+.shuffle-control input { width: 17px; height: 17px; accent-color: #7960ce; cursor: pointer; }
+.shuffle-control svg { color: var(--primary); }
+.filter-summary { font-size: 10px; color: var(--muted); line-height: 1.8; margin-top: 9px; overflow-wrap: anywhere; }
+.filter-help { font-size: 10px; color: var(--muted); line-height: 1.8; margin-top: 5px; }
+.study-empty { padding: 30px 20px; text-align: center; margin-block: 30px; }
+.study-empty h2 { font-size: 18px; font-weight: 600; }
+.study-empty p { font-size: 12px; color: var(--muted); line-height: 1.8; margin-block: 12px 20px; }
+@media (max-width: 600px) { .filter-fields { grid-template-columns: 1fr; gap: 14px; }.study-filters { padding: 17px; }.filter-heading h2 { font-size: 13px; }.filter-heading .text-link { font-size: 11px; } }
 @media (prefers-reduced-motion: reduce) { *, *::before, *::after { scroll-behavior: auto !important; transition: none !important; animation: none !important; } }
