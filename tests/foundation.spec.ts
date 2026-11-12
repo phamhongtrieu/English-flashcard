@@ -49,7 +49,7 @@ for (const width of [320, 390, 768, 1440]) {
   })
 }
 
-test('Trang học không đọc/ghi tiến độ và vẫn chạy khi LocalStorage bị chặn', async ({ page }) => {
+test('Chỉ lật/chuyển chưa ghi đánh giá; vẫn chạy khi LocalStorage bị chặn', async ({ page }) => {
   await page.goto('/')
   await page.evaluate(() => localStorage.setItem('ef-progress-v1', '{untouched'))
   await page.goto('/study/unit-2')

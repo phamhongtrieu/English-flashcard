@@ -1,10 +1,8 @@
-import { useEffect, useState } from 'react'
-import { loadProgress, saveProgress } from '../utils/progress'
+import { useContext } from 'react'
+import { ProgressContext } from '../components/layout/ProgressProvider'
 
-/** Chỉ đọc/khởi tạo tiến độ ở Bước 1; thao tác học sẽ được nối ở bước sau. */
 export function useLearningProgress() {
-  const [progress] = useState(loadProgress)
-  const [storageAvailable, setStorageAvailable] = useState(true)
-  useEffect(() => { setStorageAvailable(saveProgress(progress)) }, [progress])
-  return { progress, storageAvailable }
+  const context = useContext(ProgressContext)
+  if (!context) throw new Error('Thiếu ProgressProvider.')
+  return context
 }

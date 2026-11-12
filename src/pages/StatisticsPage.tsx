@@ -1,12 +1,45 @@
-import { BookOpen, CheckCheck, CircleDashed, ChartNoAxesCombined, Info } from 'lucide-react'
-import { demoStatistics } from '../data'
+import { BookOpen, CheckCheck, CircleDashed, ChartNoAxesCombined } from 'lucide-react'
+import { Link } from 'react-router-dom'
 import { Badge } from '../components/ui/Badge'
 import { ProgressBar } from '../components/ui/ProgressBar'
-import { percentage } from '../utils/percentage'
+import { DataState } from '../components/ui/DataState'
+import { StorageNotice } from '../components/ui/StorageNotice'
+import { useUnitCatalog } from '../hooks/useUnitData'
+import { useLearningProgress } from '../hooks/useLearningProgress'
+import { summarizeProgress } from '../utils/progress'
+import { unitStudyPath } from '../services/unitLoader'
 
 export function StatisticsPage() {
-  const demo = demoStatistics
-  const value = percentage(demo.studied, demo.total)
-  const metrics = [{ label: 'Tổng số thẻ đã học', value: demo.studied, icon: BookOpen, color: 'purple' }, { label: 'Số thẻ đã thuộc', value: demo.mastered, icon: CheckCheck, color: 'green' }, { label: 'Số thẻ chưa thuộc', value: demo.unmastered, icon: CircleDashed, color: 'orange' }]
-  return <div className="page-shell"><div className="page-heading"><Badge><ChartNoAxesCombined size={14} /> GÓC NHÌN HỌC TẬP</Badge><h1>Mỗi bước nhỏ đều đáng nhớ.</h1><p>Theo dõi hành trình học từ vựng của bạn.</p></div><div className="notice"><Info size={18} /><p><strong>Dữ liệu demo.</strong> Các số liệu dưới đây chỉ minh họa giao diện, không phản ánh tiến độ học thực tế và không ghi vào LocalStorage.</p></div><section className="metrics-grid" aria-label="Số liệu demo">{metrics.map(({ label, value: count, icon: Icon, color }) => <article className="metric-card panel" key={label}><div><span className={`metric-icon ${color}`}><Icon size={23} /></span><Badge subtle>Demo</Badge></div><p>{label}</p><strong>{count.toString().padStart(2, '0')}<span> thẻ</span></strong></article>)}</section><section className="statistics-progress panel"><div className="section-heading"><div><h2>Tiến độ học</h2><p>{demo.unitLabel}</p></div><Badge>Demo</Badge></div><div className="progress-summary"><strong>{value}%</strong><span>{demo.studied}/{demo.total} thẻ đã học (demo)</span></div><ProgressBar value={value} label="Tiến độ minh họa, dữ liệu demo" /><div className="progress-legend"><span><i className="legend-dot" />Đã học (demo): {demo.studied}</span><span><i className="legend-dot muted" />Chưa học (demo): {demo.total - demo.studied}</span></div></section><p className="page-footnote">Thống kê từ tiến độ thực tế sẽ được kết nối khi chức năng học được phát triển.</p></div>
+  const { data, error } = useUnitCatalog()
+  const { progress, storageAvailable } = useLearningProgress()
+  if (!data) return <DataState error={error} />
+  const stats = summarizeProgress(data.entries.flatMap(entry => entry.data.flashcards), progress)
+  const metrics = [
+    { label: 'Tổng số Flashcard', value: stats.total, icon: BookOpen, color: 'purple' },
+    { label: 'Chưa học', value: stats.new, icon: CircleDashed, color: 'purple' },
+    { label: 'Đã thuộc', value: stats.known, icon: CheckCheck, color: 'green' },
+    { label: 'Chưa thuộc', value: stats.learning, icon: CircleDashed, color: 'orange' },
+  ]
+  return <div className="page-shell">
+    <div className="page-heading"><Badge><ChartNoAxesCombined size={14} /> GÓC NHÌN HỌC TẬP</Badge><h1>Mỗi bước nhỏ đều đáng nhớ.</h1><p>Theo dõi hành trình học từ vựng của bạn.</p></div>
+    <StorageNotice />
+    {data.warnings.map(warning => <div className="notice" role="alert" key={warning}>{warning}</div>)}
+    <section className="metrics-grid progress-metrics" aria-label="Thống kê tổng hợp">{metrics.map(({ label, value, icon: Icon, color }) => <article className="metric-card panel" key={label}><div><span className={`metric-icon ${color}`}><Icon size={23} /></span></div><p>{label}</p><strong>{value}<span> thẻ</span></strong></article>)}</section>
+    <section className="statistics-progress panel">
+      <div className="section-heading"><div><h2>Tiến độ học</h2><p>Tổng hợp các Unit đã xuất bản có dữ liệu hợp lệ.</p></div><Badge>{data.entries.length} Unit</Badge></div>
+      <div className="progress-summary"><strong>{stats.percent}%</strong><span>{stats.known}/{stats.total} thẻ đã thuộc</span></div>
+      <ProgressBar value={stats.percent} label="Tỷ lệ đã thuộc tổng hợp" />
+      <p className="page-footnote">{storageAvailable ? 'Tiến độ được lưu trên trình duyệt này, không đồng bộ giữa các thiết bị.' : 'Đang hiển thị tiến độ trong phiên hiện tại; chưa thể lưu vào trình duyệt.'}</p>
+    </section>
+    {data.entries.map(({ unit, data: unitData }) => {
+      const summary = summarizeProgress(unitData.flashcards, progress)
+      return <section className="statistics-progress panel unit-statistics" key={unit.id} aria-label={`Thống kê ${unit.title}`}>
+        <div className="section-heading"><div><h2>{unit.title}</h2><p>{summary.total} thẻ · {summary.new} chưa học · {summary.known} đã thuộc · {summary.learning} chưa thuộc</p></div></div>
+        <div className="progress-summary"><strong>{summary.percent}%</strong><span>Tỷ lệ đã thuộc</span></div>
+        <ProgressBar value={summary.percent} label={`Tỷ lệ đã thuộc ${unit.title}`} />
+        <div className="statistics-actions"><Link className="button button-primary" to={`${unitStudyPath(unit)}?mode=new`}>Tiếp tục học thẻ chưa học</Link><Link className="button button-secondary" to={`${unitStudyPath(unit)}?mode=learning`}>Ôn tập từ chưa thuộc</Link></div>
+      </section>
+    })}
+    {!data.entries.length && <p className="page-footnote">Chưa có Unit hợp lệ để thống kê.</p>}
+  </div>
 }

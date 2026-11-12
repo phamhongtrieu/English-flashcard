@@ -37,8 +37,8 @@ test('Toàn bộ thẻ Unit 2: lật hai chiều, thứ tự, reset mặt trư�
     await flip.click()
   }
   await expect(previous).toBeDisabled()
-  await expect(page.getByRole('button', { name: 'Đã thuộc' })).toBeDisabled()
-  await expect(page.getByRole('button', { name: 'Cần ôn lại' })).toBeDisabled()
+  await expect(page.getByRole('button', { name: 'Đã thuộc', exact: true })).toBeEnabled()
+  await expect(page.getByRole('button', { name: 'Chưa thuộc', exact: true })).toBeEnabled()
 })
 
 test('Bàn phím: Space/Enter lật một lần, bỏ qua giữ phím và không chuyển khi nhập liệu', async ({ page }) => {
@@ -86,10 +86,14 @@ test('Animation 180 độ trên mobile: chạm, kích thước ổn định và 
   const card = page.getByRole('button', { name: 'Lật flashcard', exact: true })
   const rotator = page.locator('.study-flashcard-rotator')
   await card.scrollIntoViewIfNeeded()
-  const before = await card.boundingBox()
+  const cardBox = () => card.evaluate(element => {
+    const box = element.getBoundingClientRect()
+    return { x: box.x + scrollX, y: box.y + scrollY, width: box.width, height: box.height }
+  })
+  const before = await cardBox()
   await card.tap()
   await expect.poll(() => rotator.evaluate(el => new DOMMatrix(getComputedStyle(el).transform).m11)).toBeCloseTo(-1, 4)
-  expect(await card.boundingBox()).toEqual(before)
+  expect(await cardBox()).toEqual(before)
   const back = page.locator('.study-flashcard-back')
   expect(await back.evaluate(el => getComputedStyle(el).backfaceVisibility)).toBe('hidden')
   expect(await back.evaluate(el => {
@@ -99,7 +103,7 @@ test('Animation 180 độ trên mobile: chạm, kích thước ổn định và 
   await page.screenshot({ path: 'test-results/study-mobile-answer.png', fullPage: true })
   await card.tap()
   await expect.poll(() => rotator.evaluate(el => new DOMMatrix(getComputedStyle(el).transform).m11)).toBeCloseTo(1, 4)
-  expect(await card.boundingBox()).toEqual(before)
+  expect(await cardBox()).toEqual(before)
   for (let index = 1; index < 5; index++) {
     await page.getByRole('button', { name: 'Thẻ tiếp' }).tap()
     const front = await card.boundingBox()

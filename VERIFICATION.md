@@ -1,5 +1,9 @@
 # Kết quả kiểm tra Bước 1
 
+Kết quả mới nhất: **Giai đoạn 2 — Bước 5**, xem [docs/step5-report.md](docs/step5-report.md). TypeScript/build đạt; **45/45 ca Playwright đạt** trong lần chạy toàn bộ, gồm persistence qua refresh và đóng/mở lại Chrome, lỗi storage/quota và phục hồi quyền ghi, ôn tập và thẻ cuối. Các phần dưới là lịch sử trước khi tích hợp tiến độ thật.
+
+Kết quả mới nhất: **Giai đoạn 2 — Bước 4**, xem [docs/step4-report.md](docs/step4-report.md). Đã xác nhận Bước 3A hoạt động trước khi sửa; TypeScript/build đạt; 34 ca kiểm thử đã đạt qua lần chạy toàn bộ và chạy lại hai ca cuối. Nội dung bên dưới là lịch sử các bước trước.
+
 Kết quả hiện tại của **Bước 3A**: xem [docs/step3a-report.md](docs/step3a-report.md). TypeScript/build đạt; 26 ca kiểm thử đã đạt qua lần chạy toàn bộ và chạy lại hai ca cuối. Bộ dữ liệu xuất bản gồm 1 Unit/223 thẻ/50 hàng. Các phần bên dưới là lịch sử kiểm tra trước khi chuyển sang manifest và dữ liệu PDF thật.
 
 ## Cập nhật Bước 2
