@@ -1,3 +1,4 @@
+import { openStudyFilters } from './helpers/studyFilters'
 import { test, expect } from '@playwright/test'
 import type { Page } from '@playwright/test'
 import { readFileSync } from 'node:fs'
@@ -122,10 +123,12 @@ test('Enter kiểm tra, Space nhập, mũi tên sửa văn bản; phím tắt th
 
 test('Cụm nhiều từ; đổi bộ lọc, mode, trộn và Unit reset kết quả kể cả cùng thẻ đầu', async ({ page }) => {
   await page.goto('/study/unit-2')
+  await openStudyFilters(page)
   await page.getByLabel('Nhóm từ', { exact: true }).selectOption('collocation')
   await input(page).fill('  ATHLETIC    physique ')
   await check(page).click()
   await expect(result(page)).toHaveText('Chính xác!')
+  await openStudyFilters(page)
   await page.getByLabel('Chủ đề', { exact: true }).selectOption('a')
   await expect(input(page)).toHaveValue('')
   await expect(result(page)).toBeEmpty()
@@ -136,6 +139,7 @@ test('Cụm nhiều từ; đổi bộ lọc, mode, trộn và Unit reset kết q
   ]) {
     await input(page).fill('attempt')
     await check(page).click()
+    await openStudyFilters(page)
     await change()
     await expect(input(page)).toHaveValue('')
     await expect(result(page)).toBeEmpty()
@@ -218,6 +222,7 @@ for (const scenario of ['blocked', 'corrupt', 'quota'] as const) {
     await expect(input(page)).toBeVisible()
     await toggle(page).uncheck()
     await expect(input(page)).toHaveCount(0)
+    await openStudyFilters(page)
     await page.getByLabel('Chủ đề', { exact: true }).selectOption('a')
     await expect(toggle(page)).not.toBeChecked()
     await toggle(page).check()

@@ -1,0 +1,135 @@
+import { test, expect } from '@playwright/test'
+import type { Page } from '@playwright/test'
+import { MASCOT_MOTION_KEY } from '../src/hooks/useMascotWalk'
+
+const mascot = (page: Page) => page.getByRole('complementary', { name: 'Bạn đồng hành khủng long' })
+const toggle = (page: Page) => page.getByRole('switch', { name: 'Bật/tắt chuyển động linh vật', exact: true })
+const input = (page: Page) => page.getByRole('textbox', { name: 'Đáp án tiếng Anh', exact: true })
+const check = (page: Page) => page.getByRole('button', { name: 'Kiểm tra', exact: true })
+const body = (page: Page) => mascot(page).locator('.mascot-illustration')
+const x = (page: Page) => mascot(page).locator('.mascot-walker').evaluate(el => new DOMMatrix(getComputedStyle(el).transform).m41)
+
+test('Đi chậm 8 giây, dừng 2 giây, quay mặt và đi ngược; focus dừng ngay tại vị trí hiện tại', async ({ page }) => {
+  test.setTimeout(35_000)
+  await page.addInitScript(() => { Math.random = () => 0 })
+  await page.goto('/study/unit-2')
+  await expect(mascot(page)).toHaveAttribute('data-walking', 'true')
+  await expect(mascot(page)).toHaveAttribute('data-direction', 'right')
+  await expect(mascot(page).locator('.mascot-facing')).toHaveCSS('transform', 'matrix(-1, 0, 0, 1, 0, 0)')
+  const initial = await x(page)
+  await expect.poll(() => x(page)).toBeGreaterThan(initial + 2)
+  await expect(mascot(page)).toHaveAttribute('data-walking', 'false', { timeout: 10_000 })
+  const end = await x(page)
+  expect(end).toBeGreaterThan(50)
+  await expect(mascot(page)).toHaveAttribute('data-walking', 'true', { timeout: 4500 })
+  await expect(mascot(page)).toHaveAttribute('data-direction', 'left')
+  await expect.poll(() => x(page)).toBeLessThan(end - 2)
+  await input(page).focus()
+  await expect(mascot(page)).toHaveAttribute('data-walking', 'false')
+  const stopped = await x(page)
+  await page.waitForTimeout(350)
+  expect(await x(page)).toBeCloseTo(stopped, 1)
+  await expect(mascot(page).locator('.mascot-facing')).toHaveCSS('transform', 'matrix(1, 0, 0, 1, 0, 0)')
+})
+
+test('Đúng: nhảy rồi bình thường; sai: lắc nhẹ; chuyển thẻ khi đang đi không lỗi', async ({ page }) => {
+  const errors: string[] = []
+  page.on('pageerror', error => errors.push(error.message))
+  await page.goto('/study/unit-2')
+  await expect(mascot(page)).toHaveAttribute('data-walking', 'true')
+  await input(page).fill('Physique')
+  await input(page).press('Enter')
+  await expect(mascot(page)).toHaveAttribute('data-state', 'correct')
+  await expect(body(page)).toHaveAttribute('data-reacting', 'true')
+  await expect(mascot(page)).toHaveAttribute('data-walking', 'false')
+  await expect(mascot(page).locator('.mascot-sparkles')).toHaveCount(1)
+  await expect(body(page)).toHaveAttribute('data-reacting', 'false')
+  await expect(mascot(page)).toHaveAttribute('data-walking', 'true')
+  await input(page).fill('wrong')
+  await check(page).click()
+  await expect(mascot(page)).toHaveAttribute('data-state', 'incorrect')
+  await expect(mascot(page)).toHaveAttribute('data-walking', 'false')
+  await expect(body(page)).toHaveAttribute('data-reacting', 'false')
+  await input(page).fill('')
+  await input(page).blur()
+  await expect(mascot(page)).toHaveAttribute('data-walking', 'true')
+  await page.getByRole('button', { name: 'Thẻ tiếp' }).click()
+  await expect(mascot(page)).toHaveAttribute('data-state', 'idle')
+  await expect(mascot(page)).toHaveAttribute('data-walking', 'true')
+  await page.getByRole('button', { name: 'Lật thẻ', exact: true }).click()
+  await expect(mascot(page)).toHaveCount(0)
+  await page.getByRole('navigation').getByRole('link', { name: 'Thống kê' }).click()
+  expect(errors).toEqual([])
+})
+
+test('Công tắc lưu key riêng, tắt đi dạo vẫn phản ứng; refresh và đổi Unit giữ lựa chọn', async ({ page }) => {
+  await page.goto('/study/unit-2')
+  const progress = await page.evaluate(() => Object.fromEntries(Object.entries(localStorage).filter(([key]) => key.startsWith('english-flashcard-progress'))))
+  await expect(toggle(page)).toBeChecked()
+  await toggle(page).uncheck()
+  await expect(mascot(page)).toHaveAttribute('data-walking', 'false')
+  expect(await page.evaluate(key => localStorage.getItem(key), MASCOT_MOTION_KEY)).toBe('false')
+  await input(page).fill('Physique')
+  await check(page).click()
+  await expect(body(page)).toHaveAttribute('data-reacting', 'true')
+  await expect(body(page)).toHaveAttribute('data-reacting', 'false')
+  await expect(mascot(page)).toHaveAttribute('data-walking', 'false')
+  await page.reload()
+  await expect(toggle(page)).not.toBeChecked()
+  await page.goto('/study/unit3')
+  await expect(toggle(page)).not.toBeChecked()
+  await toggle(page).check()
+  await expect(mascot(page)).toHaveAttribute('data-walking', 'true')
+  expect(await page.evaluate(() => Object.fromEntries(Object.entries(localStorage).filter(([key]) => key.startsWith('english-flashcard-progress'))))).toEqual(progress)
+})
+
+test('Resize desktop/mobile 375/430px: đường đi không che nội dung hoặc tạo tràn ngang', async ({ page }) => {
+  await page.goto('/study/unit3')
+  for (const width of [1440, 768, 375, 430, 320, 1440]) {
+    await page.setViewportSize({ width, height: 1000 })
+    for (const dark of [false, true]) {
+      await page.locator('html').evaluate((el, dark) => el.classList.toggle('dark', dark), dark)
+      const lane = (await mascot(page).locator('.mascot-lane').boundingBox())!
+      const character = (await body(page).boundingBox())!
+      expect(character.x).toBeGreaterThanOrEqual(lane.x - 1)
+      expect(character.x + character.width).toBeLessThanOrEqual(lane.x + lane.width + 1)
+      for (const selector of ['.study-flashcard', '.typing-input-row', '.study-controls', '.study-filters', '.study-progress']) {
+        const box = (await page.locator(selector).boundingBox())!
+        expect(lane.x < box.x + box.width && lane.x + lane.width > box.x && lane.y < box.y + box.height && lane.y + lane.height > box.y).toBe(false)
+      }
+      expect(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth)).toBe(true)
+    }
+  }
+  await page.locator('.typing-answer').screenshot({ path: 'test-results/mascot-walk-desktop.png' })
+  await page.setViewportSize({ width: 375, height: 1000 })
+  await page.locator('.typing-answer').screenshot({ path: 'test-results/mascot-walk-mobile.png' })
+})
+
+test('Reduced motion và tab ẩn dừng đi lại; khôi phục không nhảy vị trí', async ({ page }) => {
+  await page.goto('/study/unit-2')
+  await expect(mascot(page)).toHaveAttribute('data-walking', 'true')
+  await page.emulateMedia({ reducedMotion: 'reduce' })
+  await expect(mascot(page)).toHaveAttribute('data-walking', 'false')
+  const stopped = await x(page)
+  await page.waitForTimeout(250)
+  expect(await x(page)).toBeCloseTo(stopped, 1)
+  await page.emulateMedia({ reducedMotion: 'no-preference' })
+  await expect(mascot(page)).toHaveAttribute('data-walking', 'true')
+  await page.evaluate(() => { Object.defineProperty(document, 'hidden', { configurable: true, value: true }); document.dispatchEvent(new Event('visibilitychange')) })
+  await expect(mascot(page)).toHaveAttribute('data-walking', 'false')
+  const hidden = await x(page)
+  await page.waitForTimeout(250)
+  expect(await x(page)).toBeCloseTo(hidden, 1)
+  await page.evaluate(() => { Object.defineProperty(document, 'hidden', { configurable: true, value: false }); document.dispatchEvent(new Event('visibilitychange')) })
+  await expect(mascot(page)).toHaveAttribute('data-walking', 'true')
+})
+
+test('Storage bị chặn: công tắc dùng được trong phiên, không crash', async ({ page }) => {
+  await page.addInitScript(() => Object.defineProperty(window, 'localStorage', { get: () => { throw new Error('blocked') } }))
+  await page.goto('/study/unit-2')
+  await toggle(page).uncheck()
+  await expect(mascot(page)).toHaveAttribute('data-walking', 'false')
+  await expect(mascot(page).getByRole('status')).toHaveText('Chưa thể lưu lựa chọn chuyển động.')
+  await toggle(page).check()
+  await expect(mascot(page)).toHaveAttribute('data-walking', 'true')
+})

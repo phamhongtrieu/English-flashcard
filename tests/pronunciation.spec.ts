@@ -1,3 +1,4 @@
+import { openStudyFilters } from './helpers/studyFilters'
 import { test, expect } from '@playwright/test'
 import type { BrowserContext, Page } from '@playwright/test'
 import { readFileSync } from 'node:fs'
@@ -31,7 +32,9 @@ test('Unit 3 phát âm đúng từ/cụm dài; chuyển Unit hủy đọc, khôn
   await back(page)
   await speaker(page).click()
   expect(await page.evaluate(() => speechTest.calls.at(-1)?.text)).toBe('Diet')
+  await openStudyFilters(page)
   await page.getByLabel('Chủ đề', { exact: true }).selectOption('c')
+  await openStudyFilters(page)
   await page.getByLabel('Nhóm từ', { exact: true }).selectOption('collocation')
   const subset = unit3Data.flashcards.filter(card => card.section === 'c' && card.category === 'collocation')
   const longest = subset.reduce((a, b) => a.english.length > b.english.length ? a : b)
@@ -244,7 +247,9 @@ test('Mobile touch, cụm dài, Dark Mode và kích thước thẻ ổn định'
     await mockSpeech(context)
     const page = await context.newPage()
     await page.goto('http://127.0.0.1:4173/study/unit-2')
+    await openStudyFilters(page)
     await page.getByLabel('Chủ đề', { exact: true }).selectOption('c')
+    await openStudyFilters(page)
     await page.getByLabel('Nhóm từ', { exact: true }).selectOption('collocation')
     const subset = data.flashcards.filter(card => card.section === 'c' && card.category === 'collocation')
     const longest = subset.reduce((result, card) => card.english.length > result.english.length ? card : result)

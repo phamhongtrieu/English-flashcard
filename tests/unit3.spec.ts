@@ -1,3 +1,4 @@
+import { openStudyFilters } from './helpers/studyFilters'
 import { test, expect } from '@playwright/test'
 import { readFileSync } from 'node:fs'
 import { createHash } from 'node:crypto'
@@ -103,6 +104,7 @@ test('Chuyển Unit thật: Physique trùng từ nhưng trạng thái độc l�
   await page.goto('/study/unit3?mode=learning')
   await expect(page.locator('.filter-count')).toHaveText('1 / 217 thẻ phù hợp')
   await expect(page.getByRole('heading', { name: newCard.vietnamese, exact: true })).toBeVisible()
+  await openStudyFilters(page)
   await page.getByRole('switch', { name: 'Trộn thẻ' }).check()
   await page.getByRole('button', { name: 'Lật thẻ', exact: true }).click()
   await page.getByRole('button', { name: 'Đã thuộc', exact: true }).click()
@@ -124,16 +126,23 @@ test('Chuyển Unit thật: Physique trùng từ nhưng trạng thái độc l�
 test('Unit 3: bộ lọc nguồn, trộn bật/tắt và trạng thái rỗng', async ({ page }) => {
   await page.goto('/study/unit3')
   for (const [section, count] of Object.entries({ a: 55, b: 57, c: 53, d: 52 })) {
+    await openStudyFilters(page)
     await page.getByLabel('Chủ đề', { exact: true }).selectOption(section)
     await expect(page.locator('.filter-count')).toHaveText(`${count} / 217 thẻ phù hợp`)
   }
+  await openStudyFilters(page)
   await page.getByLabel('Chủ đề', { exact: true }).selectOption('b')
+  await openStudyFilters(page)
   await page.getByLabel('Nhóm từ', { exact: true }).selectOption('synonym')
+  await openStudyFilters(page)
   await page.getByLabel('Loại từ', { exact: true }).selectOption('v')
   await expect(page.locator('.filter-count')).toHaveText('1 / 217 thẻ phù hợp')
   await expect(page.getByRole('heading', { name: 'Làm cho săn lại', exact: true })).toBeVisible()
+  await openStudyFilters(page)
   await page.getByRole('switch', { name: 'Trộn thẻ' }).check()
+  await openStudyFilters(page)
   await page.getByRole('switch', { name: 'Trộn thẻ' }).uncheck()
+  await openStudyFilters(page)
   await page.getByLabel('Nhóm từ', { exact: true }).selectOption('collocation')
   await expect(page.getByRole('heading', { name: 'Không có thẻ phù hợp' })).toBeVisible()
   await expect(page.getByRole('button', { name: 'Lật flashcard', exact: true })).toHaveCount(0)

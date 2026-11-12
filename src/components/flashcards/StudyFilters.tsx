@@ -1,4 +1,5 @@
-import { RotateCcw, Shuffle, SlidersHorizontal } from 'lucide-react'
+import { ChevronDown, RotateCcw, Shuffle, SlidersHorizontal } from 'lucide-react'
+import { useId, useState } from 'react'
 import type { Unit } from '../../types/flashcard'
 import type { StudyFilters as Filters, PartOfSpeechFilter, StudyMode } from '../../types/study'
 
@@ -29,6 +30,8 @@ interface Props {
 }
 
 export function StudyFilters({ unit, filters, shuffled, count, total, onChange, onShuffle, onReset, mode, onMode }: Props) {
+  const [expanded, setExpanded] = useState(false)
+  const contentId = useId()
   const active = [
     filters.section !== 'all' ? unit.sections.find(section => section.id === filters.section)?.title : undefined,
     filters.category !== 'all' ? categoryOptions.find(option => option.value === filters.category)?.label : undefined,
@@ -36,7 +39,9 @@ export function StudyFilters({ unit, filters, shuffled, count, total, onChange, 
   ].filter(Boolean)
 
   return <section className="study-filters panel" aria-label="Bộ lọc Flashcard">
-    <div className="filter-heading"><h2><SlidersHorizontal size={17} />Bộ lọc Flashcard</h2><button className="text-link" type="button" onClick={onReset}><RotateCcw size={14} />Đặt lại bộ lọc</button></div>
+    <div className="filter-heading"><h2><button className="filter-toggle" type="button" aria-expanded={expanded} aria-controls={contentId} onClick={() => setExpanded(value => !value)}><SlidersHorizontal size={17} />Bộ lọc Flashcard<ChevronDown className={expanded ? 'is-expanded' : ''} size={16} /></button></h2><p role="status" className="filter-count">{count} / {total} thẻ phù hợp</p></div>
+    <p className="filter-summary">Đang áp dụng: {mode === 'learning' ? 'Ôn tập từ chưa thuộc · ' : mode === 'new' ? 'Thẻ chưa học · ' : ''}{active.length ? active.join(' · ') : 'Tất cả thẻ'} · {shuffled ? 'Đang trộn' : 'Thứ tự gốc'}</p>
+    <div id={contentId} hidden={!expanded}>
     <label className="study-mode-label">Chế độ học<select aria-label="Chế độ học" value={mode} onChange={event => onMode(event.target.value as StudyMode)}>
       <option value="all">Tất cả thẻ</option><option value="new">Tiếp tục học thẻ chưa học</option><option value="learning">Ôn tập từ chưa thuộc</option>
     </select></label>
@@ -51,10 +56,10 @@ export function StudyFilters({ unit, filters, shuffled, count, total, onChange, 
         {posOptions.map(option => <option key={option.value} value={option.value}>{option.label}</option>)}
       </select></label>
     </div>
-    <div className="filter-footer"><p role="status" className="filter-count">{count} / {total} thẻ phù hợp</p>
+    <div className="filter-footer"><button className="text-link" type="button" onClick={onReset}><RotateCcw size={14} />Đặt lại bộ lọc</button>
       <label className="shuffle-control"><input type="checkbox" role="switch" checked={shuffled} onChange={event => onShuffle(event.target.checked)} /><Shuffle size={15} />Trộn thẻ</label>
     </div>
-    <p className="filter-summary">Đang áp dụng: {active.length ? active.join(' · ') : 'Tất cả thẻ'} · {shuffled ? 'Đang trộn' : 'Thứ tự gốc'}</p>
     <p className="filter-help">Đổi bộ lọc hoặc bật/tắt trộn sẽ bắt đầu lại từ thẻ đầu. Đặt lại bộ lọc giữ lựa chọn trộn hiện tại.</p>
+    </div>
   </section>
 }

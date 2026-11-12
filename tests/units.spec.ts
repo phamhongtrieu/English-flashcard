@@ -1,3 +1,4 @@
+import { openStudyFilters } from './helpers/studyFilters'
 import { test, expect } from '@playwright/test'
 import { readFileSync } from 'node:fs'
 import type { Unit, UnitData } from '../src/types/flashcard'
@@ -92,7 +93,9 @@ test('Nhiều Unit qua fixture mạng, không xuất bản Unit giả; đổi Un
   await page.locator('.unit-card').first().getByRole('link', { name: 'Bắt đầu học' }).click()
   await page.getByRole('button', { name: 'Lật thẻ', exact: true }).click()
   await expect(page.getByRole('heading', { name: 'Physique', exact: true })).toBeVisible()
+  await openStudyFilters(page)
   await page.getByLabel('Chủ đề', { exact: true }).selectOption('c')
+  await openStudyFilters(page)
   await page.getByRole('switch', { name: 'Trộn thẻ' }).check()
   let release!: () => void
   const gate = new Promise<void>(resolve => { release = resolve })
@@ -108,6 +111,7 @@ test('Nhiều Unit qua fixture mạng, không xuất bản Unit giả; đổi Un
   await expect(page.getByRole('heading', { level: 1 })).toHaveText(fixtureUnit.title)
   await expect(page.getByLabel('Chủ đề', { exact: true })).toHaveValue('all')
   expect(await page.getByLabel('Chủ đề', { exact: true }).locator('option').evaluateAll(options => options.map(option => (option as HTMLOptionElement).value))).toEqual(['all', 'custom-topic'])
+  await openStudyFilters(page)
   await expect(page.getByRole('switch', { name: 'Trộn thẻ' })).not.toBeChecked()
   await expect(page.locator('.study-top')).toContainText('1 / 1')
   await expect(page.getByRole('button', { name: 'Lật flashcard' })).toHaveAttribute('aria-pressed', 'false')

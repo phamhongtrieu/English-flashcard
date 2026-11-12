@@ -1,5 +1,11 @@
 # Kết quả kiểm tra Bước 1
 
+Kết quả mới nhất: **tối ưu trình bày trang học**, xem [docs/study-layout-report.md](docs/study-layout-report.md). TypeScript/build đạt; **88/88 ca Playwright đạt**. Bộ lọc mặc định thu gọn, summary luôn hiện, đóng/mở không reset lựa chọn hoặc câu trả lời. Thẻ/input nằm trong viewport đầu ở các kích thước đã kiểm tra gồm 375×812 và 390×844; hỗ trợ Light/Dark. Ghi chú nội bộ không render cho người học nhưng giữ nguyên trong dữ liệu. Không đổi mascot, Unit/ID/progress; không push/deploy.
+
+Kết quả mới nhất: **khủng long chibi tự di chuyển**, xem [docs/mascot-motion-report.md](docs/mascot-motion-report.md). TypeScript/build đạt; **85/85 ca Playwright đạt**, gồm 6 ca đi lại và 79 ca hồi quy. Kiểm tra đi/nghỉ/đổi hướng, dừng khi nhập, phản ứng đúng/sai, resize gồm mobile 375/430px, Light/Dark, reduced motion thay đổi trực tiếp, visibility và công tắc lưu key riêng. Giữ nguyên SVG, dữ liệu Unit/ID và progress; không push/deploy.
+
+Kết quả mới nhất: **khủng long chibi đồng hành luyện gõ**, xem [docs/mascot-report.md](docs/mascot-report.md). TypeScript/build đạt; **79/79 ca Playwright đạt**, gồm 6 ca mascot và 73 ca hồi quy. Đã kiểm tra đủ idle/typing/correct/incorrect, reset, câu thoại ổn định, bố cục desktop/mobile Light/Dark và reduced motion. SVG tự vẽ, không thêm dependency, không thay dữ liệu Unit/ID/tiến độ. Không push/deploy.
+
 Kết quả mới nhất: **nhập và kiểm tra đáp án trên Flashcard**, xem [docs/typing-report.md](docs/typing-report.md). TypeScript/build đạt; **73/73 ca Playwright đạt**, gồm 12 ca luyện gõ và 61 ca hồi quy. Lựa chọn dùng key riêng `english-flashcard-typing-enabled-v1`; kết quả không tự đánh giá hay đổi tiến độ. Unit 2/3 giữ nguyên dữ liệu và ID (kiểm tra SHA-256). Responsive Light/Dark/mobile đạt trong Chrome mô phỏng; chưa thử thiết bị thật. Không push/deploy.
 
 Kết quả mới nhất: **bổ sung Unit 3**, xem [docs/unit3-report.md](docs/unit3-report.md). Đọc đủ 9 trang/50 hàng, xuất 217 thẻ; tổng catalog 2 Unit/440 thẻ. TypeScript/build đạt; **61/61 ca Playwright đạt**, gồm Unit 3, tiến độ độc lập, phát âm giả lập và responsive Light/Dark. Unit 2 giữ nguyên byte/ID (SHA-256 đối chiếu trước/sau). Có 22 ghi chú rà soát nguồn, giữ nguyên các mục nghi vấn. Không push/deploy.
