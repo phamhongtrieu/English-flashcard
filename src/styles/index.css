@@ -103,6 +103,19 @@ nav { display: flex; gap: 9px; }
 .hero-visual .floating-note { right: 8px !important; bottom: 25px; }
 .hero-visual .visual-caption { bottom: 0; }
 @media (max-width: 480px) { .hero-visual .flashcard-content h3 { font-size: 23px; }.hero-visual .floating-note { padding: 9px 12px; bottom: 22px; }.hero-visual .flashcard { padding-inline: 17px; } }
+.typing-answer { margin-top: 16px; }
+.typing-toggle { min-height: 44px; color: var(--muted); }
+.typing-input-row { display: flex; gap: 8px; }
+.typing-input-row > input { flex: 1; min-width: 0; min-height: 44px; border: 1px solid var(--border); border-radius: 10px; padding: 11px 13px; font: inherit; font-size: 16px; color: var(--text); background: var(--surface); }
+.typing-input-row > input::placeholder { color: var(--muted); font-size: 12px; }
+.typing-input-row > input:focus-visible { outline: 2px solid var(--primary); outline-offset: 2px; }
+.typing-result { min-height: 23px; margin-top: 6px; font-size: 12px; line-height: 1.8; }
+.typing-result.correct { color: #22734a; }
+.typing-result.incorrect { color: #b23c49; }
+.dark .typing-result.correct { color: #91d9b0; }
+.dark .typing-result.incorrect { color: #ffabb6; }
+.typing-storage-notice { color: var(--muted); font-size: 11px; line-height: 1.8; margin-bottom: 8px; }
+@media (max-width: 380px) { .typing-input-row { flex-wrap: wrap; }.typing-input-row > input { flex-basis: 100%; }.typing-input-row > button { width: 100%; } }
 .study-flashcard { perspective: 1200px; cursor: pointer; touch-action: manipulation; border-radius: 17px; }
 .study-flashcard:focus-visible { outline: 3px solid var(--primary); outline-offset: 5px; }
 .study-flashcard-rotator { display: grid; transform-style: preserve-3d; }

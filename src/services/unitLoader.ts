@@ -32,6 +32,7 @@ export function validateUnitData(value: unknown, unit: Unit): UnitData {
     if (!object(card) || !identifier(card.id) || !card.id.startsWith(`${unit.id}-`) || ids.has(card.id)
       || card.unitId !== unit.id || !unit.sections.some(section => section.id === card.section)
       || !text(card.english) || !text(card.vietnamese) || !text(card.category) || !categories.has(card.category)
+      || (card.acceptedAnswers !== undefined && (!Array.isArray(card.acceptedAnswers) || !card.acceptedAnswers.length || !card.acceptedAnswers.every(text)))
       || (card.partOfSpeech !== null && (!text(card.partOfSpeech) || !parts.has(card.partOfSpeech)))
       || !Number.isInteger(card.sourceRow) || Number(card.sourceRow) < 1) throw new Error(`Flashcard của ${unit.title} không hợp lệ, sai Unit hoặc trùng ID.`)
     ids.add(card.id)

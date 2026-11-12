@@ -44,6 +44,7 @@ Ví dụ một bản ghi trong dữ liệu Unit 2 (file thật chứa đủ 223 
 ```
 
 - `source` là metadata xuất xứ tùy chọn, không chứa PDF. Không ảnh hưởng logic học.
+- `acceptedAnswers` là trường tùy chọn `string[]` không rỗng, mỗi chuỗi phải có nội dung. Khi được khai báo, luyện gõ chấp nhận thêm các đáp án này bên cạnh `english`. Không suy đoán đồng nghĩa hay tách dấu `/`. Dữ liệu Unit hiện có chưa thêm trường này và không bị sửa.
 - `category`: `base_word`, `word_family`, `synonym`, `collocation`.
 - `partOfSpeech`: `n`, `v`, `adj`, `adv`, `v/adj`, `n/adj`, `adj/n`, `v/n`, `n/v`, `n.pl`, `phr.v` hoặc `null`. Giữ thứ tự và loại từ nguồn. `n/v` khớp cả danh từ và động từ; `phr.v` khớp bộ lọc động từ. `null` khi PDF không ghi, không tự suy diễn.
 - `section` phải khớp ID chủ đề trong manifest; `unitId` phải khớp Unit được chọn.
