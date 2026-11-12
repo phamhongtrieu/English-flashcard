@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "units": [
+    {
+      "id": "unit-2",
+      "number": 2,
+      "title": "Human Development & Health",
+      "description": "Từ vựng về cấu trúc cơ thể, sức khỏe, nhận thức và tâm lý học từ Unit2.pdf.",
+      "sections": [
+        {
+          "id": "a",
+          "title": "Phần A: Cấu trúc cơ thể & Sự phát triển sinh học",
+          "description": "Hàng 1–13 trong PDF."
+        },
+        {
+          "id": "b",
+          "title": "Phần B: Sức khỏe thể chất, Bệnh tật & Dinh dưỡng",
+          "description": "Hàng 14–26 trong PDF."
+        },
+        {
+          "id": "c",
+          "title": "Phần C: Nhận thức, Trí tuệ & Tư duy",
+          "description": "Hàng 27–38 trong PDF."
+        },
+        {
+          "id": "d",
+          "title": "Phần D: Tâm lý học, Cảm xúc & Sự phát triển tinh thần",
+          "description": "Hàng 39–50 trong PDF."
+        }
+      ],
+      "dataFile": "data/units/unit2.json"
+    }
+  ]
+}

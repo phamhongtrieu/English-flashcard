@@ -1,0 +1,7 @@
+[
+  { "id": "u2-001", "unitId": "unit-2", "section": "physical", "category": "base_word", "vietnamese": "Vóc dáng cơ thể", "english": "Physique", "partOfSpeech": "n", "sourceRow": null },
+  { "id": "u2-002", "unitId": "unit-2", "section": "physical", "category": "word_family", "vietnamese": "Thuộc thể chất", "english": "Physical", "partOfSpeech": "adj", "sourceRow": null },
+  { "id": "u2-003", "unitId": "unit-2", "section": "development", "category": "base_word", "vietnamese": "Quá trình trưởng thành", "english": "Maturation", "partOfSpeech": "n", "sourceRow": null },
+  { "id": "u2-004", "unitId": "unit-2", "section": "development", "category": "word_family", "vietnamese": "Trưởng thành", "english": "Mature", "partOfSpeech": "v/adj", "sourceRow": null },
+  { "id": "u2-005", "unitId": "unit-2", "section": "mental", "category": "base_word", "vietnamese": "Sự lo âu, bồn chồn", "english": "Anxiety", "partOfSpeech": "n", "sourceRow": null }
+]

@@ -1,0 +1,17 @@
+{
+  "total": 223,
+  "sections": {
+    "a": 57,
+    "b": 56,
+    "c": 55,
+    "d": 55
+  },
+  "categories": {
+    "base_word": 50,
+    "word_family": 50,
+    "synonym": 73,
+    "collocation": 50
+  },
+  "sourceRows": 50,
+  "reviewNotes": 19
+}

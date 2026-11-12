@@ -1,0 +1,1355 @@
+{
+  "sourceFile": "Unit2.pdf",
+  "rows": [
+    {
+      "sourceRow": 1,
+      "section": "a",
+      "page": 1,
+      "cells": {
+        "base_word": {
+          "english": "Physique",
+          "partOfSpeech": "n",
+          "vietnamese": "Vóc dáng cơ thể"
+        },
+        "word_family": {
+          "english": "Physical",
+          "partOfSpeech": "adj",
+          "vietnamese": "Thuộc thể chất"
+        },
+        "synonym": {
+          "english": "Build / Constitution",
+          "partOfSpeech": "n",
+          "vietnamese": "Thể hình, thể trạng"
+        },
+        "collocation": {
+          "english": "Athletic physique",
+          "partOfSpeech": null,
+          "vietnamese": "Vóc dáng thể thao, săn chắc"
+        }
+      }
+    },
+    {
+      "sourceRow": 2,
+      "section": "a",
+      "page": 1,
+      "cells": {
+        "base_word": {
+          "english": "Stature",
+          "partOfSpeech": "n",
+          "vietnamese": "Vóc người / Tầm vóc"
+        },
+        "word_family": {
+          "english": "Statuesque",
+          "partOfSpeech": "adj",
+          "vietnamese": "Cao ráo, uy nghi"
+        },
+        "synonym": {
+          "english": "Height / Standing",
+          "partOfSpeech": "n",
+          "vietnamese": "Chiều cao / Vị thế"
+        },
+        "collocation": {
+          "english": "Grow in stature",
+          "partOfSpeech": null,
+          "vietnamese": "Phát triển tầm vóc / Nâng cao vị thế"
+        }
+      }
+    },
+    {
+      "sourceRow": 3,
+      "section": "a",
+      "page": 1,
+      "cells": {
+        "base_word": {
+          "english": "Maturation",
+          "partOfSpeech": "n",
+          "vietnamese": "Quá trình trưởng thành"
+        },
+        "word_family": {
+          "english": "Mature",
+          "partOfSpeech": "v/adj",
+          "vietnamese": "Trưởng thành"
+        },
+        "synonym": {
+          "english": "Development",
+          "partOfSpeech": "n",
+          "vietnamese": "Sự phát triển"
+        },
+        "collocation": {
+          "english": "Biological maturation",
+          "partOfSpeech": null,
+          "vietnamese": "Sự trưởng thành sinh học"
+        }
+      }
+    },
+    {
+      "sourceRow": 4,
+      "section": "a",
+      "page": 1,
+      "cells": {
+        "base_word": {
+          "english": "Puberty",
+          "partOfSpeech": "n",
+          "vietnamese": "Tuổi dậy thì"
+        },
+        "word_family": {
+          "english": "Pubescent",
+          "partOfSpeech": "adj",
+          "vietnamese": "Đến tuổi dậy thì"
+        },
+        "synonym": {
+          "english": "Adolescence",
+          "partOfSpeech": "n",
+          "vietnamese": "Tuổi vị thành niên"
+        },
+        "collocation": {
+          "english": "Reach puberty",
+          "partOfSpeech": null,
+          "vietnamese": "Đến tuổi dậy thì"
+        }
+      }
+    },
+    {
+      "sourceRow": 5,
+      "section": "a",
+      "page": 1,
+      "cells": {
+        "base_word": {
+          "english": "Metabolism",
+          "partOfSpeech": "n",
+          "vietnamese": "Quá trình trao đổi chất"
+        },
+        "word_family": {
+          "english": "Metabolic",
+          "partOfSpeech": "adj",
+          "vietnamese": "Thuộc trao đổi chất"
+        },
+        "synonym": {
+          "english": "Anabolism/Catabolism",
+          "partOfSpeech": "n",
+          "vietnamese": "Đồng/Dị hóa"
+        },
+        "collocation": {
+          "english": "Boost metabolism",
+          "partOfSpeech": null,
+          "vietnamese": "Tăng cường trao đổi chất"
+        }
+      }
+    },
+    {
+      "sourceRow": 6,
+      "section": "a",
+      "page": 1,
+      "cells": {
+        "base_word": {
+          "english": "Anatomy",
+          "partOfSpeech": "n",
+          "vietnamese": "Giải ph học"
+        },
+        "word_family": {
+          "english": "Anatomical",
+          "partOfSpeech": "adj",
+          "vietnamese": "Thuộc giải phẫu"
+        },
+        "synonym": {
+          "english": "Body structure",
+          "partOfSpeech": "n",
+          "vietnamese": "Cấu trúc cơ thể"
+        },
+        "collocation": {
+          "english": "Human anatomy",
+          "partOfSpeech": null,
+          "vietnamese": "Giải phẫu cơ thể người"
+        }
+      }
+    },
+    {
+      "sourceRow": 7,
+      "section": "a",
+      "page": 1,
+      "cells": {
+        "base_word": {
+          "english": "Physiology",
+          "partOfSpeech": "n",
+          "vietnamese": "Sinh lý học"
+        },
+        "word_family": {
+          "english": "Physiological",
+          "partOfSpeech": "adj",
+          "vietnamese": "Thuộc sinh lý"
+        },
+        "synonym": {
+          "english": "Bodily function",
+          "partOfSpeech": "n",
+          "vietnamese": "Chức năng cơ thể"
+        },
+        "collocation": {
+          "english": "Physiological changes",
+          "partOfSpeech": null,
+          "vietnamese": "Những biến đổi sinh lý"
+        }
+      }
+    },
+    {
+      "sourceRow": 8,
+      "section": "a",
+      "page": 1,
+      "cells": {
+        "base_word": {
+          "english": "Longevity",
+          "partOfSpeech": "n",
+          "vietnamese": "Tuổi thọ"
+        },
+        "word_family": {
+          "english": "Long-lived",
+          "partOfSpeech": "adj",
+          "vietnamese": "Sống lâu"
+        },
+        "synonym": {
+          "english": "Life expectancy",
+          "partOfSpeech": "n",
+          "vietnamese": "Kỳ vọng sống"
+        },
+        "collocation": {
+          "english": "Ensure longevity",
+          "partOfSpeech": null,
+          "vietnamese": "Đảm bảo trường thọ"
+        }
+      }
+    },
+    {
+      "sourceRow": 9,
+      "section": "a",
+      "page": 1,
+      "cells": {
+        "base_word": {
+          "english": "Senility",
+          "partOfSpeech": "n",
+          "vietnamese": "Sự lão suy, lú lẫn tuổi già"
+        },
+        "word_family": {
+          "english": "Senile",
+          "partOfSpeech": "adj",
+          "vietnamese": "Lão suy, già nua"
+        },
+        "synonym": {
+          "english": "Old age / Cognitive decline",
+          "partOfSpeech": "n",
+          "vietnamese": "Tuổi già / Suy giảm nhận thức"
+        },
+        "collocation": {
+          "english": "Show signs of senility",
+          "partOfSpeech": null,
+          "vietnamese": "Cho thấy dấu hiệu lú lẫn"
+        }
+      }
+    },
+    {
+      "sourceRow": 10,
+      "section": "a",
+      "page": 2,
+      "cells": {
+        "base_word": {
+          "english": "Degeneration",
+          "partOfSpeech": "n",
+          "vietnamese": "Sự thoái hóa"
+        },
+        "word_family": {
+          "english": "Degenerate",
+          "partOfSpeech": "v/adj",
+          "vietnamese": "Thoái hóa"
+        },
+        "synonym": {
+          "english": "Deterioration",
+          "partOfSpeech": "n",
+          "vietnamese": "Sự xuống cấp, suy giảm"
+        },
+        "collocation": {
+          "english": "Joint degeneration",
+          "partOfSpeech": null,
+          "vietnamese": "Sự thoái hóa khớp"
+        }
+      }
+    },
+    {
+      "sourceRow": 11,
+      "section": "a",
+      "page": 2,
+      "cells": {
+        "base_word": {
+          "english": "Vigour",
+          "partOfSpeech": "n",
+          "vietnamese": "Sức sống, sự cường tráng"
+        },
+        "word_family": {
+          "english": "Vigorous",
+          "partOfSpeech": "adj",
+          "vietnamese": "Mạnh mẽ, tràn năng lượng"
+        },
+        "synonym": {
+          "english": "Vitality",
+          "partOfSpeech": "n",
+          "vietnamese": "Sức sống mãnh liệt"
+        },
+        "collocation": {
+          "english": "Youthful vigour",
+          "partOfSpeech": null,
+          "vietnamese": "Sức sống tuổi trẻ"
+        }
+      }
+    },
+    {
+      "sourceRow": 12,
+      "section": "a",
+      "page": 2,
+      "cells": {
+        "base_word": {
+          "english": "Robust",
+          "partOfSpeech": "adj",
+          "vietnamese": "Khỏe mạnh, vạm vỡ"
+        },
+        "word_family": {
+          "english": "Robustness",
+          "partOfSpeech": "n",
+          "vietnamese": "Sự tráng kiện"
+        },
+        "synonym": {
+          "english": "Sturdy / Hardiness",
+          "partOfSpeech": "adj/n",
+          "vietnamese": "Cứng cáp, bền bỉ"
+        },
+        "collocation": {
+          "english": "Robust health",
+          "partOfSpeech": null,
+          "vietnamese": "Sức khỏe cường tráng"
+        }
+      }
+    },
+    {
+      "sourceRow": 13,
+      "section": "a",
+      "page": 2,
+      "cells": {
+        "base_word": {
+          "english": "Frailty",
+          "partOfSpeech": "n",
+          "vietnamese": "Sự yếu ớt, mỏng manh"
+        },
+        "word_family": {
+          "english": "Frail",
+          "partOfSpeech": "adj",
+          "vietnamese": "Yếu ớt, dễ tổn thương"
+        },
+        "synonym": {
+          "english": "Vulnerability",
+          "partOfSpeech": "n",
+          "vietnamese": "Tính dễ bị tổn thương"
+        },
+        "collocation": {
+          "english": "Physical frailty",
+          "partOfSpeech": null,
+          "vietnamese": "Sự yếu ớt về thể xác"
+        }
+      }
+    },
+    {
+      "sourceRow": 14,
+      "section": "b",
+      "page": 2,
+      "cells": {
+        "base_word": {
+          "english": "Nutrient",
+          "partOfSpeech": "n",
+          "vietnamese": "Chất dinh dưỡng"
+        },
+        "word_family": {
+          "english": "Nutrition",
+          "partOfSpeech": "n",
+          "vietnamese": "Dinh dưỡng học"
+        },
+        "synonym": {
+          "english": "Nourishment",
+          "partOfSpeech": "n",
+          "vietnamese": "Chất nuôi dưỡng"
+        },
+        "collocation": {
+          "english": "Essential nutrients",
+          "partOfSpeech": null,
+          "vietnamese": "Các chất dinh dưỡng thiết yếu"
+        }
+      }
+    },
+    {
+      "sourceRow": 15,
+      "section": "b",
+      "page": 2,
+      "cells": {
+        "base_word": {
+          "english": "Malnutrition",
+          "partOfSpeech": "n",
+          "vietnamese": "Suy dinh dưỡng"
+        },
+        "word_family": {
+          "english": "Malnourished",
+          "partOfSpeech": "adj",
+          "vietnamese": "Bị suy dinh dưỡng"
+        },
+        "synonym": {
+          "english": "Undernourishment",
+          "partOfSpeech": "n",
+          "vietnamese": "Thiếu ăn, thiếu dưỡng chất"
+        },
+        "collocation": {
+          "english": "Severe malnutrition",
+          "partOfSpeech": null,
+          "vietnamese": "Tình trạng suy dinh dưỡng nặng"
+        }
+      }
+    },
+    {
+      "sourceRow": 16,
+      "section": "b",
+      "page": 2,
+      "cells": {
+        "base_word": {
+          "english": "Obesity",
+          "partOfSpeech": "n",
+          "vietnamese": "Bệnh béo phì"
+        },
+        "word_family": {
+          "english": "Obese",
+          "partOfSpeech": "adj",
+          "vietnamese": "Béo phì"
+        },
+        "synonym": {
+          "english": "Overweight",
+          "partOfSpeech": "adj",
+          "vietnamese": "Thừa cân"
+        },
+        "collocation": {
+          "english": "Childhood obesity",
+          "partOfSpeech": null,
+          "vietnamese": "Béo phì ở trẻ em"
+        }
+      }
+    },
+    {
+      "sourceRow": 17,
+      "section": "b",
+      "page": 2,
+      "cells": {
+        "base_word": {
+          "english": "Sedentary",
+          "partOfSpeech": "adj",
+          "vietnamese": "Ít vận động, ngồi nhiều"
+        },
+        "word_family": {
+          "english": "Sedentariness",
+          "partOfSpeech": "n",
+          "vietnamese": "Lối sống tĩnh tại"
+        },
+        "synonym": {
+          "english": "Inactive",
+          "partOfSpeech": "adj",
+          "vietnamese": "Kém vận động"
+        },
+        "collocation": {
+          "english": "Sedentary lifestyle",
+          "partOfSpeech": null,
+          "vietnamese": "Lối sống ít vận động"
+        }
+      }
+    },
+    {
+      "sourceRow": 18,
+      "section": "b",
+      "page": 2,
+      "cells": {
+        "base_word": {
+          "english": "Immunity",
+          "partOfSpeech": "n",
+          "vietnamese": "Hệ miễn dịch / Sức đề kháng"
+        },
+        "word_family": {
+          "english": "Immune",
+          "partOfSpeech": "adj",
+          "vietnamese": "Miễn dịch"
+        },
+        "synonym": {
+          "english": "Resistance",
+          "partOfSpeech": "n",
+          "vietnamese": "Sức kháng bệnh"
+        },
+        "collocation": {
+          "english": "Boost the immune system",
+          "partOfSpeech": null,
+          "vietnamese": "Tăng cường hệ miễn dịch"
+        }
+      }
+    },
+    {
+      "sourceRow": 19,
+      "section": "b",
+      "page": 3,
+      "cells": {
+        "base_word": {
+          "english": "Ailment",
+          "partOfSpeech": "n",
+          "vietnamese": "Bệnh tật nhẹ, ốm vặt"
+        },
+        "word_family": {
+          "english": "Ail",
+          "partOfSpeech": "v",
+          "vietnamese": "Gây đau ốm"
+        },
+        "synonym": {
+          "english": "Minor illness / Malady",
+          "partOfSpeech": "n",
+          "vietnamese": "Bệnh nhẹ / Cơn đau"
+        },
+        "collocation": {
+          "english": "Common ailments",
+          "partOfSpeech": null,
+          "vietnamese": "Các bệnh vặt thông thường"
+        }
+      }
+    },
+    {
+      "sourceRow": 20,
+      "section": "b",
+      "page": 3,
+      "cells": {
+        "base_word": {
+          "english": "Chronic",
+          "partOfSpeech": "adj",
+          "vietnamese": "Mãn tính (bệnh kéo dài)"
+        },
+        "word_family": {
+          "english": "Chronicity",
+          "partOfSpeech": "n",
+          "vietnamese": "Tính mãn tính"
+        },
+        "synonym": {
+          "english": "Long-standing",
+          "partOfSpeech": "adj",
+          "vietnamese": "Kéo dài lâu năm"
+        },
+        "collocation": {
+          "english": "Chronic disease",
+          "partOfSpeech": null,
+          "vietnamese": "Bệnh mãn tính"
+        }
+      }
+    },
+    {
+      "sourceRow": 21,
+      "section": "b",
+      "page": 3,
+      "cells": {
+        "base_word": {
+          "english": "Epidemic",
+          "partOfSpeech": "n/adj",
+          "vietnamese": "Bệnh dịch, dịch lan rộng"
+        },
+        "word_family": {
+          "english": "Pandemic",
+          "partOfSpeech": "n",
+          "vietnamese": "Đại dịch toàn cầu"
+        },
+        "synonym": {
+          "english": "Outbreak",
+          "partOfSpeech": "n",
+          "vietnamese": "Sự bùng phát dịch"
+        },
+        "collocation": {
+          "english": "Combat an epidemic",
+          "partOfSpeech": null,
+          "vietnamese": "Chống lại dịch bệnh"
+        }
+      }
+    },
+    {
+      "sourceRow": 22,
+      "section": "b",
+      "page": 3,
+      "cells": {
+        "base_word": {
+          "english": "Symptom",
+          "partOfSpeech": "n",
+          "vietnamese": "Triệu chứng bệnh"
+        },
+        "word_family": {
+          "english": "Symptomatic",
+          "partOfSpeech": "adj",
+          "vietnamese": "Có triệu chứng"
+        },
+        "synonym": {
+          "english": "Sign / Manifestation",
+          "partOfSpeech": "n",
+          "vietnamese": "Dấu hiệu / Biểu hiện"
+        },
+        "collocation": {
+          "english": "Exhibiting symptoms",
+          "partOfSpeech": null,
+          "vietnamese": "Biểu hiện các triệu chứng"
+        }
+      }
+    },
+    {
+      "sourceRow": 23,
+      "section": "b",
+      "page": 3,
+      "cells": {
+        "base_word": {
+          "english": "Diagnosis",
+          "partOfSpeech": "n",
+          "vietnamese": "Sự chẩn đoán"
+        },
+        "word_family": {
+          "english": "Diagnose",
+          "partOfSpeech": "v",
+          "vietnamese": "Chẩn đoán bệnh"
+        },
+        "synonym": {
+          "english": "Detection / Identification",
+          "partOfSpeech": "n",
+          "vietnamese": "Sự phát hiện"
+        },
+        "collocation": {
+          "english": "Early diagnosis",
+          "partOfSpeech": null,
+          "vietnamese": "Chẩn đoán sớm"
+        }
+      }
+    },
+    {
+      "sourceRow": 24,
+      "section": "b",
+      "page": 3,
+      "cells": {
+        "base_word": {
+          "english": "Therapy",
+          "partOfSpeech": "n",
+          "vietnamese": "Liệu pháp điều trị"
+        },
+        "word_family": {
+          "english": "Therapeutic",
+          "partOfSpeech": "adj",
+          "vietnamese": "Mang tính chữa bệnh"
+        },
+        "synonym": {
+          "english": "Treatment / Remedy",
+          "partOfSpeech": "n",
+          "vietnamese": "Phương pháp chữa trị"
+        },
+        "collocation": {
+          "english": "Physical therapy",
+          "partOfSpeech": null,
+          "vietnamese": "Vật lý trị liệu"
+        }
+      }
+    },
+    {
+      "sourceRow": 25,
+      "section": "b",
+      "page": 3,
+      "cells": {
+        "base_word": {
+          "english": "Rehabilitation",
+          "partOfSpeech": "n",
+          "vietnamese": "Sự phục hồi chức năng"
+        },
+        "word_family": {
+          "english": "Rehabilitate",
+          "partOfSpeech": "v",
+          "vietnamese": "Phục hồi"
+        },
+        "synonym": {
+          "english": "Recovery",
+          "partOfSpeech": "n",
+          "vietnamese": "Sự hồi phục"
+        },
+        "collocation": {
+          "english": "Undergo rehabilitation",
+          "partOfSpeech": null,
+          "vietnamese": "Trải qua phục hồi chức năng"
+        }
+      }
+    },
+    {
+      "sourceRow": 26,
+      "section": "b",
+      "page": 3,
+      "cells": {
+        "base_word": {
+          "english": "Wellness",
+          "partOfSpeech": "n",
+          "vietnamese": "Tình trạng khỏe mạnh toàn diện"
+        },
+        "word_family": {
+          "english": "Well-being",
+          "partOfSpeech": "n",
+          "vietnamese": "Sự thịnh vượng, khỏe mạnh"
+        },
+        "synonym": {
+          "english": "Fitness",
+          "partOfSpeech": "n",
+          "vietnamese": "Thể hình, sự sung sức"
+        },
+        "collocation": {
+          "english": "Mental and physical wellness",
+          "partOfSpeech": null,
+          "vietnamese": "Sức khỏe thể chất và tinh thần"
+        }
+      }
+    },
+    {
+      "sourceRow": 27,
+      "section": "c",
+      "page": 4,
+      "cells": {
+        "base_word": {
+          "english": "Cognition",
+          "partOfSpeech": "n",
+          "vietnamese": "Nhận thức, quá trình nhận thức"
+        },
+        "word_family": {
+          "english": "Cognitive",
+          "partOfSpeech": "adj",
+          "vietnamese": "Thuộc nhận thức"
+        },
+        "synonym": {
+          "english": "Perception",
+          "partOfSpeech": "n",
+          "vietnamese": "Sự nhận thức, cảm nhận"
+        },
+        "collocation": {
+          "english": "Cognitive development",
+          "partOfSpeech": null,
+          "vietnamese": "Sự phát triển nhận thức"
+        }
+      }
+    },
+    {
+      "sourceRow": 28,
+      "section": "c",
+      "page": 4,
+      "cells": {
+        "base_word": {
+          "english": "Intellect",
+          "partOfSpeech": "n",
+          "vietnamese": "Trí tuệ, khả năng tư duy"
+        },
+        "word_family": {
+          "english": "Intellectual",
+          "partOfSpeech": "adj/n",
+          "vietnamese": "Thuộc trí tuệ / Tri thức"
+        },
+        "synonym": {
+          "english": "Intelligence",
+          "partOfSpeech": "n",
+          "vietnamese": "Trí thông minh"
+        },
+        "collocation": {
+          "english": "Intellectual capacity",
+          "partOfSpeech": null,
+          "vietnamese": "Năng lực trí tuệ"
+        }
+      }
+    },
+    {
+      "sourceRow": 29,
+      "section": "c",
+      "page": 4,
+      "cells": {
+        "base_word": {
+          "english": "Acumen",
+          "partOfSpeech": "n",
+          "vietnamese": "Sự nhạy bén, sắc sảo"
+        },
+        "word_family": {
+          "english": "Acute",
+          "partOfSpeech": "adj",
+          "vietnamese": "Sắc bén, nhạy bén"
+        },
+        "synonym": {
+          "english": "Shrewdness",
+          "partOfSpeech": "n",
+          "vietnamese": "Sự khôn ngoan, sắc sảo"
+        },
+        "collocation": {
+          "english": "Business acumen",
+          "partOfSpeech": null,
+          "vietnamese": "Sự nhạy bén trong kinh doanh"
+        }
+      }
+    },
+    {
+      "sourceRow": 30,
+      "section": "c",
+      "page": 4,
+      "cells": {
+        "base_word": {
+          "english": "Perception",
+          "partOfSpeech": "n",
+          "vietnamese": "Sự nhận thức, góc nhìn"
+        },
+        "word_family": {
+          "english": "Perceive",
+          "partOfSpeech": "v",
+          "vietnamese": "Nhận thức, nhìn nhận"
+        },
+        "synonym": {
+          "english": "Viewpoint / Insight",
+          "partOfSpeech": "n",
+          "vietnamese": "Góc nhìn / Sự thấu hiểu"
+        },
+        "collocation": {
+          "english": "Change public perception",
+          "partOfSpeech": null,
+          "vietnamese": "Thay đổi nhận thức công chúng"
+        }
+      }
+    },
+    {
+      "sourceRow": 31,
+      "section": "c",
+      "page": 4,
+      "cells": {
+        "base_word": {
+          "english": "Comprehend",
+          "partOfSpeech": "v",
+          "vietnamese": "Lĩnh hội, hiểu thấu đáo"
+        },
+        "word_family": {
+          "english": "Comprehension",
+          "partOfSpeech": "n",
+          "vietnamese": "Sự hiểu biết"
+        },
+        "synonym": {
+          "english": "Fathom / Grasp",
+          "partOfSpeech": "v",
+          "vietnamese": "Thấu hiểu / Nắm bắt"
+        },
+        "collocation": {
+          "english": "Beyond comprehension",
+          "partOfSpeech": null,
+          "vietnamese": "Vượt quá tầm hiểu biết"
+        }
+      }
+    },
+    {
+      "sourceRow": 32,
+      "section": "c",
+      "page": 4,
+      "cells": {
+        "base_word": {
+          "english": "Reasoning",
+          "partOfSpeech": "n",
+          "vietnamese": "Lập luận, lý luận"
+        },
+        "word_family": {
+          "english": "Reason",
+          "partOfSpeech": "v/n",
+          "vietnamese": "Suy luận / Lý do"
+        },
+        "synonym": {
+          "english": "Logic / Rationale",
+          "partOfSpeech": "n",
+          "vietnamese": "Lập luận logic"
+        },
+        "collocation": {
+          "english": "Logical reasoning",
+          "partOfSpeech": null,
+          "vietnamese": "Khả năng lập luận logic"
+        }
+      }
+    },
+    {
+      "sourceRow": 33,
+      "section": "c",
+      "page": 4,
+      "cells": {
+        "base_word": {
+          "english": "Faculty",
+          "partOfSpeech": "n",
+          "vietnamese": "Năng lực (của tâm trí/cơ thể)"
+        },
+        "word_family": {
+          "english": "Faculties",
+          "partOfSpeech": "n.pl",
+          "vietnamese": "Các giác quan/khả năng"
+        },
+        "synonym": {
+          "english": "Capability / Power",
+          "partOfSpeech": "n",
+          "vietnamese": "Năng lực"
+        },
+        "collocation": {
+          "english": "Mental faculties",
+          "partOfSpeech": null,
+          "vietnamese": "Các chức năng tinh thần/trí tuệ"
+        }
+      }
+    },
+    {
+      "sourceRow": 34,
+      "section": "c",
+      "page": 4,
+      "cells": {
+        "base_word": {
+          "english": "Stimulate",
+          "partOfSpeech": "v",
+          "vietnamese": "Kích thích, khơi gợi"
+        },
+        "word_family": {
+          "english": "Stimulation",
+          "partOfSpeech": "n",
+          "vietnamese": "Sự kích thích"
+        },
+        "synonym": {
+          "english": "Provoke / Spur",
+          "partOfSpeech": "v",
+          "vietnamese": "Kích thích, thúc đẩy"
+        },
+        "collocation": {
+          "english": "Stimulate intellectual growth",
+          "partOfSpeech": null,
+          "vietnamese": "Kích thích phát triển trí tuệ"
+        }
+      }
+    },
+    {
+      "sourceRow": 35,
+      "section": "c",
+      "page": 4,
+      "cells": {
+        "base_word": {
+          "english": "Aptitude",
+          "partOfSpeech": "n",
+          "vietnamese": "Năng khiếu, sở trường"
+        },
+        "word_family": {
+          "english": "Apt",
+          "partOfSpeech": "adj",
+          "vietnamese": "Có khiếu, thích hợp"
+        },
+        "synonym": {
+          "english": "Talent / Flair",
+          "partOfSpeech": "n",
+          "vietnamese": "Tài năng / Thiên hướng"
+        },
+        "collocation": {
+          "english": "Natural aptitude for",
+          "partOfSpeech": null,
+          "vietnamese": "Năng khiếu bẩm sinh về môn gì"
+        }
+      }
+    },
+    {
+      "sourceRow": 36,
+      "section": "c",
+      "page": 5,
+      "cells": {
+        "base_word": {
+          "english": "Retention",
+          "partOfSpeech": "n",
+          "vietnamese": "Khả năng ghi nhớ, lưu giữ"
+        },
+        "word_family": {
+          "english": "Retain",
+          "partOfSpeech": "v",
+          "vietnamese": "Giữ lại, ghi nhớ"
+        },
+        "synonym": {
+          "english": "Memory / Recollection",
+          "partOfSpeech": "n",
+          "vietnamese": "Trí nhớ"
+        },
+        "collocation": {
+          "english": "Memory retention",
+          "partOfSpeech": null,
+          "vietnamese": "Khả năng lưu giữ trí nhớ"
+        }
+      }
+    },
+    {
+      "sourceRow": 37,
+      "section": "c",
+      "page": 5,
+      "cells": {
+        "base_word": {
+          "english": "Abstract",
+          "partOfSpeech": "adj",
+          "vietnamese": "Trừu tượng"
+        },
+        "word_family": {
+          "english": "Abstraction",
+          "partOfSpeech": "n",
+          "vietnamese": "Tính trừu tượng"
+        },
+        "synonym": {
+          "english": "Theoretical",
+          "partOfSpeech": "adj",
+          "vietnamese": "Mang tính lý thuyết"
+        },
+        "collocation": {
+          "english": "Abstract thinking",
+          "partOfSpeech": null,
+          "vietnamese": "Tư duy trừu tượng"
+        }
+      }
+    },
+    {
+      "sourceRow": 38,
+      "section": "c",
+      "page": 5,
+      "cells": {
+        "base_word": {
+          "english": "Intuition",
+          "partOfSpeech": "n",
+          "vietnamese": "trực giác"
+        },
+        "word_family": {
+          "english": "Intuitive",
+          "partOfSpeech": "adj",
+          "vietnamese": "Mang tính trực giác"
+        },
+        "synonym": {
+          "english": "Instinct",
+          "partOfSpeech": "n",
+          "vietnamese": "Bản năng"
+        },
+        "collocation": {
+          "english": "Trust one's intuition",
+          "partOfSpeech": null,
+          "vietnamese": "Tin vào trực giác của bản thân"
+        }
+      }
+    },
+    {
+      "sourceRow": 39,
+      "section": "d",
+      "page": 5,
+      "cells": {
+        "base_word": {
+          "english": "Psychology",
+          "partOfSpeech": "n",
+          "vietnamese": "Tâm lý học"
+        },
+        "word_family": {
+          "english": "Psychological",
+          "partOfSpeech": "adj",
+          "vietnamese": "Thuộc tâm lý"
+        },
+        "synonym": {
+          "english": "Mental",
+          "partOfSpeech": "adj",
+          "vietnamese": "Thuộc về tâm trí"
+        },
+        "collocation": {
+          "english": "Psychological barrier",
+          "partOfSpeech": null,
+          "vietnamese": "Rào cản tâm lý"
+        }
+      }
+    },
+    {
+      "sourceRow": 40,
+      "section": "d",
+      "page": 5,
+      "cells": {
+        "base_word": {
+          "english": "Subconscious",
+          "partOfSpeech": "n/adj",
+          "vietnamese": "Tiềm thức"
+        },
+        "word_family": {
+          "english": "Subconsciously",
+          "partOfSpeech": "adv",
+          "vietnamese": "Trong tiềm thức"
+        },
+        "synonym": {
+          "english": "Unconscious",
+          "partOfSpeech": "n/adj",
+          "vietnamese": "Vô thức"
+        },
+        "collocation": {
+          "english": "Subconscious mind",
+          "partOfSpeech": null,
+          "vietnamese": "Tâm trí tiềm thức"
+        }
+      }
+    },
+    {
+      "sourceRow": 41,
+      "section": "d",
+      "page": 5,
+      "cells": {
+        "base_word": {
+          "english": "Resilience",
+          "partOfSpeech": "n",
+          "vietnamese": "Khả năng phục hồi tâm lý, kiên cường"
+        },
+        "word_family": {
+          "english": "Resilient",
+          "partOfSpeech": "adj",
+          "vietnamese": "Kiên cường, bền bỉ"
+        },
+        "synonym": {
+          "english": "Toughness / Bouncing back",
+          "partOfSpeech": "n",
+          "vietnamese": "Sự dai sức"
+        },
+        "collocation": {
+          "english": "Build emotional resilience",
+          "partOfSpeech": null,
+          "vietnamese": "Xây dựng sự kiên cường cảm xúc"
+        }
+      }
+    },
+    {
+      "sourceRow": 42,
+      "section": "d",
+      "page": 5,
+      "cells": {
+        "base_word": {
+          "english": "Vulnerability",
+          "partOfSpeech": "n",
+          "vietnamese": "Tính dễ bị tổn thương"
+        },
+        "word_family": {
+          "english": "Vulnerable",
+          "partOfSpeech": "adj",
+          "vietnamese": "Dễ bị tổn thương"
+        },
+        "synonym": {
+          "english": "Susceptibility",
+          "partOfSpeech": "n",
+          "vietnamese": "Tính nhạy cảm, dễ nhiễm"
+        },
+        "collocation": {
+          "english": "Emotional vulnerability",
+          "partOfSpeech": null,
+          "vietnamese": "Sự dễ tổn thương về cảm xúc"
+        }
+      }
+    },
+    {
+      "sourceRow": 43,
+      "section": "d",
+      "page": 5,
+      "cells": {
+        "base_word": {
+          "english": "Trauma",
+          "partOfSpeech": "n",
+          "vietnamese": "Chấn thương tâm lý"
+        },
+        "word_family": {
+          "english": "Traumatic",
+          "partOfSpeech": "adj",
+          "vietnamese": "Gây chấn thương sâu sắc"
+        },
+        "synonym": {
+          "english": "Psychological shock",
+          "partOfSpeech": "n",
+          "vietnamese": "Cú sốc tâm lý"
+        },
+        "collocation": {
+          "english": "Childhood trauma",
+          "partOfSpeech": null,
+          "vietnamese": "Chấn thương thời thơ ấu"
+        }
+      }
+    },
+    {
+      "sourceRow": 44,
+      "section": "d",
+      "page": 6,
+      "cells": {
+        "base_word": {
+          "english": "Anxiety",
+          "partOfSpeech": "n",
+          "vietnamese": "Sự lo âu, bồn chồn"
+        },
+        "word_family": {
+          "english": "Anxious",
+          "partOfSpeech": "adj",
+          "vietnamese": "Lo lắng"
+        },
+        "synonym": {
+          "english": "Apprehension / Distress",
+          "partOfSpeech": "n",
+          "vietnamese": "Sự sợ hãi lo âu"
+        },
+        "collocation": {
+          "english": "Deal with anxiety",
+          "partOfSpeech": null,
+          "vietnamese": "Đối phó với sự lo âu"
+        }
+      }
+    },
+    {
+      "sourceRow": 45,
+      "section": "d",
+      "page": 6,
+      "cells": {
+        "base_word": {
+          "english": "Coping",
+          "partOfSpeech": "n/adj",
+          "vietnamese": "Sự đối phó, đương đầu"
+        },
+        "word_family": {
+          "english": "Cope",
+          "partOfSpeech": "v",
+          "vietnamese": "Đương đầu, vượt qua"
+        },
+        "synonym": {
+          "english": "Managing / Handling",
+          "partOfSpeech": "v",
+          "vietnamese": "Xử lý, quản lý"
+        },
+        "collocation": {
+          "english": "Coping mechanisms",
+          "partOfSpeech": null,
+          "vietnamese": "Cơ chế đối phó với áp lực"
+        }
+      }
+    },
+    {
+      "sourceRow": 46,
+      "section": "d",
+      "page": 6,
+      "cells": {
+        "base_word": {
+          "english": "Inhibition",
+          "partOfSpeech": "n",
+          "vietnamese": "Sự ức chế, sự rụt rè"
+        },
+        "word_family": {
+          "english": "Inhibit",
+          "partOfSpeech": "v",
+          "vietnamese": "Cản trở, ức chế"
+        },
+        "synonym": {
+          "english": "Constraint / Restraint",
+          "partOfSpeech": "n",
+          "vietnamese": "Sự kìm hãm"
+        },
+        "collocation": {
+          "english": "Overcome inhibitions",
+          "partOfSpeech": null,
+          "vietnamese": "Vượt qua sự rụt rè, e ngại"
+        }
+      }
+    },
+    {
+      "sourceRow": 47,
+      "section": "d",
+      "page": 6,
+      "cells": {
+        "base_word": {
+          "english": "Ego",
+          "partOfSpeech": "n",
+          "vietnamese": "Cái tôi, lòng tự ái"
+        },
+        "word_family": {
+          "english": "Egotistic",
+          "partOfSpeech": "adj",
+          "vietnamese": "Ích kỷ, tự cao"
+        },
+        "synonym": {
+          "english": "Self-esteem / Pride",
+          "partOfSpeech": "n",
+          "vietnamese": "Lòng tự trọng"
+        },
+        "collocation": {
+          "english": "Boost self-esteem",
+          "partOfSpeech": null,
+          "vietnamese": "Nâng cao lòng tự trọng"
+        }
+      }
+    },
+    {
+      "sourceRow": 48,
+      "section": "d",
+      "page": 6,
+      "cells": {
+        "base_word": {
+          "english": "Alienation",
+          "partOfSpeech": "n",
+          "vietnamese": "Sự tha hóa, cảm giác bị cô lập"
+        },
+        "word_family": {
+          "english": "Alienate",
+          "partOfSpeech": "v",
+          "vietnamese": "Làm xa lánh, cô lập"
+        },
+        "synonym": {
+          "english": "Isolation / Estrangement",
+          "partOfSpeech": "n",
+          "vietnamese": "Sự cô lập"
+        },
+        "collocation": {
+          "english": "Feel a sense of alienation",
+          "partOfSpeech": null,
+          "vietnamese": "Cảm thấy bị cô lập với xã hội"
+        }
+      }
+    },
+    {
+      "sourceRow": 49,
+      "section": "d",
+      "page": 6,
+      "cells": {
+        "base_word": {
+          "english": "Catharsis",
+          "partOfSpeech": "n",
+          "vietnamese": "Sự giải tỏa cảm xúc"
+        },
+        "word_family": {
+          "english": "Cathartic",
+          "partOfSpeech": "adj",
+          "vietnamese": "Mang tính giải tỏa"
+        },
+        "synonym": {
+          "english": "Emotional release",
+          "partOfSpeech": "n",
+          "vietnamese": "Sự trút bỏ cảm xúc"
+        },
+        "collocation": {
+          "english": "Achieve catharsis",
+          "partOfSpeech": null,
+          "vietnamese": "Đạt được sự giải tỏa tâm lý"
+        }
+      }
+    },
+    {
+      "sourceRow": 50,
+      "section": "d",
+      "page": 6,
+      "cells": {
+        "base_word": {
+          "english": "Equanimity",
+          "partOfSpeech": "n",
+          "vietnamese": "Sự bình thản, điềm tĩnh"
+        },
+        "word_family": {
+          "english": "Equanimous",
+          "partOfSpeech": "adj",
+          "vietnamese": "Điềm tĩnh"
+        },
+        "synonym": {
+          "english": "Composure / Serenity",
+          "partOfSpeech": "n",
+          "vietnamese": "Sự tĩnh tâm"
+        },
+        "collocation": {
+          "english": "Maintain equanimity",
+          "partOfSpeech": null,
+          "vietnamese": "Giữ sự điềm tĩnh trong nghịch cảnh"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,2358 @@
+{
+  "schemaVersion": 1,
+  "unitId": "unit-2",
+  "source": {
+    "fileName": "Unit2.pdf",
+    "pages": 6,
+    "sourceRowCount": 50,
+    "method": "Text extraction and visual verification of all six pages"
+  },
+  "flashcards": [
+    {
+      "id": "unit-2-r001-base-word-01",
+      "unitId": "unit-2",
+      "section": "a",
+      "category": "base_word",
+      "vietnamese": "Vóc dáng cơ thể",
+      "english": "Physique",
+      "partOfSpeech": "n",
+      "sourceRow": 1
+    },
+    {
+      "id": "unit-2-r001-word-family-01",
+      "unitId": "unit-2",
+      "section": "a",
+      "category": "word_family",
+      "vietnamese": "Thuộc thể chất",
+      "english": "Physical",
+      "partOfSpeech": "adj",
+      "sourceRow": 1
+    },
+    {
+      "id": "unit-2-r001-synonym-01",
+      "unitId": "unit-2",
+      "section": "a",
+      "category": "synonym",
+      "vietnamese": "Thể hình",
+      "english": "Build",
+      "partOfSpeech": "n",
+      "sourceRow": 1
+    },
+    {
+      "id": "unit-2-r001-synonym-02",
+      "unitId": "unit-2",
+      "section": "a",
+      "category": "synonym",
+      "vietnamese": "thể trạng",
+      "english": "Constitution",
+      "partOfSpeech": "n",
+      "sourceRow": 1
+    },
+    {
+      "id": "unit-2-r001-collocation-01",
+      "unitId": "unit-2",
+      "section": "a",
+      "category": "collocation",
+      "vietnamese": "Vóc dáng thể thao, săn chắc",
+      "english": "Athletic physique",
+      "partOfSpeech": null,
+      "sourceRow": 1
+    },
+    {
+      "id": "unit-2-r002-base-word-01",
+      "unitId": "unit-2",
+      "section": "a",
+      "category": "base_word",
+      "vietnamese": "Vóc người / Tầm vóc",
+      "english": "Stature",
+      "partOfSpeech": "n",
+      "sourceRow": 2
+    },
+    {
+      "id": "unit-2-r002-word-family-01",
+      "unitId": "unit-2",
+      "section": "a",
+      "category": "word_family",
+      "vietnamese": "Cao ráo, uy nghi",
+      "english": "Statuesque",
+      "partOfSpeech": "adj",
+      "sourceRow": 2
+    },
+    {
+      "id": "unit-2-r002-synonym-01",
+      "unitId": "unit-2",
+      "section": "a",
+      "category": "synonym",
+      "vietnamese": "Chiều cao",
+      "english": "Height",
+      "partOfSpeech": "n",
+      "sourceRow": 2
+    },
+    {
+      "id": "unit-2-r002-synonym-02",
+      "unitId": "unit-2",
+      "section": "a",
+      "category": "synonym",
+      "vietnamese": "Vị thế",
+      "english": "Standing",
+      "partOfSpeech": "n",
+      "sourceRow": 2
+    },
+    {
+      "id": "unit-2-r002-collocation-01",
+      "unitId": "unit-2",
+      "section": "a",
+      "category": "collocation",
+      "vietnamese": "Phát triển tầm vóc / Nâng cao vị thế",
+      "english": "Grow in stature",
+      "partOfSpeech": null,
+      "sourceRow": 2
+    },
+    {
+      "id": "unit-2-r003-base-word-01",
+      "unitId": "unit-2",
+      "section": "a",
+      "category": "base_word",
+      "vietnamese": "Quá trình trưởng thành",
+      "english": "Maturation",
+      "partOfSpeech": "n",
+      "sourceRow": 3
+    },
+    {
+      "id": "unit-2-r003-word-family-01",
+      "unitId": "unit-2",
+      "section": "a",
+      "category": "word_family",
+      "vietnamese": "Trưởng thành",
+      "english": "Mature",
+      "partOfSpeech": "v/adj",
+      "sourceRow": 3
+    },
+    {
+      "id": "unit-2-r003-synonym-01",
+      "unitId": "unit-2",
+      "section": "a",
+      "category": "synonym",
+      "vietnamese": "Sự phát triển",
+      "english": "Development",
+      "partOfSpeech": "n",
+      "sourceRow": 3
+    },
+    {
+      "id": "unit-2-r003-collocation-01",
+      "unitId": "unit-2",
+      "section": "a",
+      "category": "collocation",
+      "vietnamese": "Sự trưởng thành sinh học",
+      "english": "Biological maturation",
+      "partOfSpeech": null,
+      "sourceRow": 3
+    },
+    {
+      "id": "unit-2-r004-base-word-01",
+      "unitId": "unit-2",
+      "section": "a",
+      "category": "base_word",
+      "vietnamese": "Tuổi dậy thì",
+      "english": "Puberty",
+      "partOfSpeech": "n",
+      "sourceRow": 4
+    },
+    {
+      "id": "unit-2-r004-word-family-01",
+      "unitId": "unit-2",
+      "section": "a",
+      "category": "word_family",
+      "vietnamese": "Đến tuổi dậy thì",
+      "english": "Pubescent",
+      "partOfSpeech": "adj",
+      "sourceRow": 4
+    },
+    {
+      "id": "unit-2-r004-synonym-01",
+      "unitId": "unit-2",
+      "section": "a",
+      "category": "synonym",
+      "vietnamese": "Tuổi vị thành niên",
+      "english": "Adolescence",
+      "partOfSpeech": "n",
+      "sourceRow": 4
+    },
+    {
+      "id": "unit-2-r004-collocation-01",
+      "unitId": "unit-2",
+      "section": "a",
+      "category": "collocation",
+      "vietnamese": "Đến tuổi dậy thì",
+      "english": "Reach puberty",
+      "partOfSpeech": null,
+      "sourceRow": 4
+    },
+    {
+      "id": "unit-2-r005-base-word-01",
+      "unitId": "unit-2",
+      "section": "a",
+      "category": "base_word",
+      "vietnamese": "Quá trình trao đổi chất",
+      "english": "Metabolism",
+      "partOfSpeech": "n",
+      "sourceRow": 5
+    },
+    {
+      "id": "unit-2-r005-word-family-01",
+      "unitId": "unit-2",
+      "section": "a",
+      "category": "word_family",
+      "vietnamese": "Thuộc trao đổi chất",
+      "english": "Metabolic",
+      "partOfSpeech": "adj",
+      "sourceRow": 5
+    },
+    {
+      "id": "unit-2-r005-synonym-01",
+      "unitId": "unit-2",
+      "section": "a",
+      "category": "synonym",
+      "vietnamese": "Đồng hóa",
+      "english": "Anabolism",
+      "partOfSpeech": "n",
+      "sourceRow": 5
+    },
+    {
+      "id": "unit-2-r005-synonym-02",
+      "unitId": "unit-2",
+      "section": "a",
+      "category": "synonym",
+      "vietnamese": "Dị hóa",
+      "english": "Catabolism",
+      "partOfSpeech": "n",
+      "sourceRow": 5
+    },
+    {
+      "id": "unit-2-r005-collocation-01",
+      "unitId": "unit-2",
+      "section": "a",
+      "category": "collocation",
+      "vietnamese": "Tăng cường trao đổi chất",
+      "english": "Boost metabolism",
+      "partOfSpeech": null,
+      "sourceRow": 5
+    },
+    {
+      "id": "unit-2-r006-base-word-01",
+      "unitId": "unit-2",
+      "section": "a",
+      "category": "base_word",
+      "vietnamese": "Giải ph học",
+      "english": "Anatomy",
+      "partOfSpeech": "n",
+      "sourceRow": 6
+    },
+    {
+      "id": "unit-2-r006-word-family-01",
+      "unitId": "unit-2",
+      "section": "a",
+      "category": "word_family",
+      "vietnamese": "Thuộc giải phẫu",
+      "english": "Anatomical",
+      "partOfSpeech": "adj",
+      "sourceRow": 6
+    },
+    {
+      "id": "unit-2-r006-synonym-01",
+      "unitId": "unit-2",
+      "section": "a",
+      "category": "synonym",
+      "vietnamese": "Cấu trúc cơ thể",
+      "english": "Body structure",
+      "partOfSpeech": "n",
+      "sourceRow": 6
+    },
+    {
+      "id": "unit-2-r006-collocation-01",
+      "unitId": "unit-2",
+      "section": "a",
+      "category": "collocation",
+      "vietnamese": "Giải phẫu cơ thể người",
+      "english": "Human anatomy",
+      "partOfSpeech": null,
+      "sourceRow": 6
+    },
+    {
+      "id": "unit-2-r007-base-word-01",
+      "unitId": "unit-2",
+      "section": "a",
+      "category": "base_word",
+      "vietnamese": "Sinh lý học",
+      "english": "Physiology",
+      "partOfSpeech": "n",
+      "sourceRow": 7
+    },
+    {
+      "id": "unit-2-r007-word-family-01",
+      "unitId": "unit-2",
+      "section": "a",
+      "category": "word_family",
+      "vietnamese": "Thuộc sinh lý",
+      "english": "Physiological",
+      "partOfSpeech": "adj",
+      "sourceRow": 7
+    },
+    {
+      "id": "unit-2-r007-synonym-01",
+      "unitId": "unit-2",
+      "section": "a",
+      "category": "synonym",
+      "vietnamese": "Chức năng cơ thể",
+      "english": "Bodily function",
+      "partOfSpeech": "n",
+      "sourceRow": 7
+    },
+    {
+      "id": "unit-2-r007-collocation-01",
+      "unitId": "unit-2",
+      "section": "a",
+      "category": "collocation",
+      "vietnamese": "Những biến đổi sinh lý",
+      "english": "Physiological changes",
+      "partOfSpeech": null,
+      "sourceRow": 7
+    },
+    {
+      "id": "unit-2-r008-base-word-01",
+      "unitId": "unit-2",
+      "section": "a",
+      "category": "base_word",
+      "vietnamese": "Tuổi thọ",
+      "english": "Longevity",
+      "partOfSpeech": "n",
+      "sourceRow": 8
+    },
+    {
+      "id": "unit-2-r008-word-family-01",
+      "unitId": "unit-2",
+      "section": "a",
+      "category": "word_family",
+      "vietnamese": "Sống lâu",
+      "english": "Long-lived",
+      "partOfSpeech": "adj",
+      "sourceRow": 8
+    },
+    {
+      "id": "unit-2-r008-synonym-01",
+      "unitId": "unit-2",
+      "section": "a",
+      "category": "synonym",
+      "vietnamese": "Kỳ vọng sống",
+      "english": "Life expectancy",
+      "partOfSpeech": "n",
+      "sourceRow": 8
+    },
+    {
+      "id": "unit-2-r008-collocation-01",
+      "unitId": "unit-2",
+      "section": "a",
+      "category": "collocation",
+      "vietnamese": "Đảm bảo trường thọ",
+      "english": "Ensure longevity",
+      "partOfSpeech": null,
+      "sourceRow": 8
+    },
+    {
+      "id": "unit-2-r009-base-word-01",
+      "unitId": "unit-2",
+      "section": "a",
+      "category": "base_word",
+      "vietnamese": "Sự lão suy, lú lẫn tuổi già",
+      "english": "Senility",
+      "partOfSpeech": "n",
+      "sourceRow": 9
+    },
+    {
+      "id": "unit-2-r009-word-family-01",
+      "unitId": "unit-2",
+      "section": "a",
+      "category": "word_family",
+      "vietnamese": "Lão suy, già nua",
+      "english": "Senile",
+      "partOfSpeech": "adj",
+      "sourceRow": 9
+    },
+    {
+      "id": "unit-2-r009-synonym-01",
+      "unitId": "unit-2",
+      "section": "a",
+      "category": "synonym",
+      "vietnamese": "Tuổi già",
+      "english": "Old age",
+      "partOfSpeech": "n",
+      "sourceRow": 9
+    },
+    {
+      "id": "unit-2-r009-synonym-02",
+      "unitId": "unit-2",
+      "section": "a",
+      "category": "synonym",
+      "vietnamese": "Suy giảm nhận thức",
+      "english": "Cognitive decline",
+      "partOfSpeech": "n",
+      "sourceRow": 9
+    },
+    {
+      "id": "unit-2-r009-collocation-01",
+      "unitId": "unit-2",
+      "section": "a",
+      "category": "collocation",
+      "vietnamese": "Cho thấy dấu hiệu lú lẫn",
+      "english": "Show signs of senility",
+      "partOfSpeech": null,
+      "sourceRow": 9
+    },
+    {
+      "id": "unit-2-r010-base-word-01",
+      "unitId": "unit-2",
+      "section": "a",
+      "category": "base_word",
+      "vietnamese": "Sự thoái hóa",
+      "english": "Degeneration",
+      "partOfSpeech": "n",
+      "sourceRow": 10
+    },
+    {
+      "id": "unit-2-r010-word-family-01",
+      "unitId": "unit-2",
+      "section": "a",
+      "category": "word_family",
+      "vietnamese": "Thoái hóa",
+      "english": "Degenerate",
+      "partOfSpeech": "v/adj",
+      "sourceRow": 10
+    },
+    {
+      "id": "unit-2-r010-synonym-01",
+      "unitId": "unit-2",
+      "section": "a",
+      "category": "synonym",
+      "vietnamese": "Sự xuống cấp, suy giảm",
+      "english": "Deterioration",
+      "partOfSpeech": "n",
+      "sourceRow": 10
+    },
+    {
+      "id": "unit-2-r010-collocation-01",
+      "unitId": "unit-2",
+      "section": "a",
+      "category": "collocation",
+      "vietnamese": "Sự thoái hóa khớp",
+      "english": "Joint degeneration",
+      "partOfSpeech": null,
+      "sourceRow": 10
+    },
+    {
+      "id": "unit-2-r011-base-word-01",
+      "unitId": "unit-2",
+      "section": "a",
+      "category": "base_word",
+      "vietnamese": "Sức sống, sự cường tráng",
+      "english": "Vigour",
+      "partOfSpeech": "n",
+      "sourceRow": 11
+    },
+    {
+      "id": "unit-2-r011-word-family-01",
+      "unitId": "unit-2",
+      "section": "a",
+      "category": "word_family",
+      "vietnamese": "Mạnh mẽ, tràn năng lượng",
+      "english": "Vigorous",
+      "partOfSpeech": "adj",
+      "sourceRow": 11
+    },
+    {
+      "id": "unit-2-r011-synonym-01",
+      "unitId": "unit-2",
+      "section": "a",
+      "category": "synonym",
+      "vietnamese": "Sức sống mãnh liệt",
+      "english": "Vitality",
+      "partOfSpeech": "n",
+      "sourceRow": 11
+    },
+    {
+      "id": "unit-2-r011-collocation-01",
+      "unitId": "unit-2",
+      "section": "a",
+      "category": "collocation",
+      "vietnamese": "Sức sống tuổi trẻ",
+      "english": "Youthful vigour",
+      "partOfSpeech": null,
+      "sourceRow": 11
+    },
+    {
+      "id": "unit-2-r012-base-word-01",
+      "unitId": "unit-2",
+      "section": "a",
+      "category": "base_word",
+      "vietnamese": "Khỏe mạnh, vạm vỡ",
+      "english": "Robust",
+      "partOfSpeech": "adj",
+      "sourceRow": 12
+    },
+    {
+      "id": "unit-2-r012-word-family-01",
+      "unitId": "unit-2",
+      "section": "a",
+      "category": "word_family",
+      "vietnamese": "Sự tráng kiện",
+      "english": "Robustness",
+      "partOfSpeech": "n",
+      "sourceRow": 12
+    },
+    {
+      "id": "unit-2-r012-synonym-01",
+      "unitId": "unit-2",
+      "section": "a",
+      "category": "synonym",
+      "vietnamese": "Cứng cáp",
+      "english": "Sturdy",
+      "partOfSpeech": "adj",
+      "sourceRow": 12
+    },
+    {
+      "id": "unit-2-r012-synonym-02",
+      "unitId": "unit-2",
+      "section": "a",
+      "category": "synonym",
+      "vietnamese": "bền bỉ",
+      "english": "Hardiness",
+      "partOfSpeech": "n",
+      "sourceRow": 12
+    },
+    {
+      "id": "unit-2-r012-collocation-01",
+      "unitId": "unit-2",
+      "section": "a",
+      "category": "collocation",
+      "vietnamese": "Sức khỏe cường tráng",
+      "english": "Robust health",
+      "partOfSpeech": null,
+      "sourceRow": 12
+    },
+    {
+      "id": "unit-2-r013-base-word-01",
+      "unitId": "unit-2",
+      "section": "a",
+      "category": "base_word",
+      "vietnamese": "Sự yếu ớt, mỏng manh",
+      "english": "Frailty",
+      "partOfSpeech": "n",
+      "sourceRow": 13
+    },
+    {
+      "id": "unit-2-r013-word-family-01",
+      "unitId": "unit-2",
+      "section": "a",
+      "category": "word_family",
+      "vietnamese": "Yếu ớt, dễ tổn thương",
+      "english": "Frail",
+      "partOfSpeech": "adj",
+      "sourceRow": 13
+    },
+    {
+      "id": "unit-2-r013-synonym-01",
+      "unitId": "unit-2",
+      "section": "a",
+      "category": "synonym",
+      "vietnamese": "Tính dễ bị tổn thương",
+      "english": "Vulnerability",
+      "partOfSpeech": "n",
+      "sourceRow": 13
+    },
+    {
+      "id": "unit-2-r013-collocation-01",
+      "unitId": "unit-2",
+      "section": "a",
+      "category": "collocation",
+      "vietnamese": "Sự yếu ớt về thể xác",
+      "english": "Physical frailty",
+      "partOfSpeech": null,
+      "sourceRow": 13
+    },
+    {
+      "id": "unit-2-r014-base-word-01",
+      "unitId": "unit-2",
+      "section": "b",
+      "category": "base_word",
+      "vietnamese": "Chất dinh dưỡng",
+      "english": "Nutrient",
+      "partOfSpeech": "n",
+      "sourceRow": 14
+    },
+    {
+      "id": "unit-2-r014-word-family-01",
+      "unitId": "unit-2",
+      "section": "b",
+      "category": "word_family",
+      "vietnamese": "Dinh dưỡng học",
+      "english": "Nutrition",
+      "partOfSpeech": "n",
+      "sourceRow": 14
+    },
+    {
+      "id": "unit-2-r014-synonym-01",
+      "unitId": "unit-2",
+      "section": "b",
+      "category": "synonym",
+      "vietnamese": "Chất nuôi dưỡng",
+      "english": "Nourishment",
+      "partOfSpeech": "n",
+      "sourceRow": 14
+    },
+    {
+      "id": "unit-2-r014-collocation-01",
+      "unitId": "unit-2",
+      "section": "b",
+      "category": "collocation",
+      "vietnamese": "Các chất dinh dưỡng thiết yếu",
+      "english": "Essential nutrients",
+      "partOfSpeech": null,
+      "sourceRow": 14
+    },
+    {
+      "id": "unit-2-r015-base-word-01",
+      "unitId": "unit-2",
+      "section": "b",
+      "category": "base_word",
+      "vietnamese": "Suy dinh dưỡng",
+      "english": "Malnutrition",
+      "partOfSpeech": "n",
+      "sourceRow": 15
+    },
+    {
+      "id": "unit-2-r015-word-family-01",
+      "unitId": "unit-2",
+      "section": "b",
+      "category": "word_family",
+      "vietnamese": "Bị suy dinh dưỡng",
+      "english": "Malnourished",
+      "partOfSpeech": "adj",
+      "sourceRow": 15
+    },
+    {
+      "id": "unit-2-r015-synonym-01",
+      "unitId": "unit-2",
+      "section": "b",
+      "category": "synonym",
+      "vietnamese": "Thiếu ăn, thiếu dưỡng chất",
+      "english": "Undernourishment",
+      "partOfSpeech": "n",
+      "sourceRow": 15
+    },
+    {
+      "id": "unit-2-r015-collocation-01",
+      "unitId": "unit-2",
+      "section": "b",
+      "category": "collocation",
+      "vietnamese": "Tình trạng suy dinh dưỡng nặng",
+      "english": "Severe malnutrition",
+      "partOfSpeech": null,
+      "sourceRow": 15
+    },
+    {
+      "id": "unit-2-r016-base-word-01",
+      "unitId": "unit-2",
+      "section": "b",
+      "category": "base_word",
+      "vietnamese": "Bệnh béo phì",
+      "english": "Obesity",
+      "partOfSpeech": "n",
+      "sourceRow": 16
+    },
+    {
+      "id": "unit-2-r016-word-family-01",
+      "unitId": "unit-2",
+      "section": "b",
+      "category": "word_family",
+      "vietnamese": "Béo phì",
+      "english": "Obese",
+      "partOfSpeech": "adj",
+      "sourceRow": 16
+    },
+    {
+      "id": "unit-2-r016-synonym-01",
+      "unitId": "unit-2",
+      "section": "b",
+      "category": "synonym",
+      "vietnamese": "Thừa cân",
+      "english": "Overweight",
+      "partOfSpeech": "adj",
+      "sourceRow": 16
+    },
+    {
+      "id": "unit-2-r016-collocation-01",
+      "unitId": "unit-2",
+      "section": "b",
+      "category": "collocation",
+      "vietnamese": "Béo phì ở trẻ em",
+      "english": "Childhood obesity",
+      "partOfSpeech": null,
+      "sourceRow": 16
+    },
+    {
+      "id": "unit-2-r017-base-word-01",
+      "unitId": "unit-2",
+      "section": "b",
+      "category": "base_word",
+      "vietnamese": "Ít vận động, ngồi nhiều",
+      "english": "Sedentary",
+      "partOfSpeech": "adj",
+      "sourceRow": 17
+    },
+    {
+      "id": "unit-2-r017-word-family-01",
+      "unitId": "unit-2",
+      "section": "b",
+      "category": "word_family",
+      "vietnamese": "Lối sống tĩnh tại",
+      "english": "Sedentariness",
+      "partOfSpeech": "n",
+      "sourceRow": 17
+    },
+    {
+      "id": "unit-2-r017-synonym-01",
+      "unitId": "unit-2",
+      "section": "b",
+      "category": "synonym",
+      "vietnamese": "Kém vận động",
+      "english": "Inactive",
+      "partOfSpeech": "adj",
+      "sourceRow": 17
+    },
+    {
+      "id": "unit-2-r017-collocation-01",
+      "unitId": "unit-2",
+      "section": "b",
+      "category": "collocation",
+      "vietnamese": "Lối sống ít vận động",
+      "english": "Sedentary lifestyle",
+      "partOfSpeech": null,
+      "sourceRow": 17
+    },
+    {
+      "id": "unit-2-r018-base-word-01",
+      "unitId": "unit-2",
+      "section": "b",
+      "category": "base_word",
+      "vietnamese": "Hệ miễn dịch / Sức đề kháng",
+      "english": "Immunity",
+      "partOfSpeech": "n",
+      "sourceRow": 18
+    },
+    {
+      "id": "unit-2-r018-word-family-01",
+      "unitId": "unit-2",
+      "section": "b",
+      "category": "word_family",
+      "vietnamese": "Miễn dịch",
+      "english": "Immune",
+      "partOfSpeech": "adj",
+      "sourceRow": 18
+    },
+    {
+      "id": "unit-2-r018-synonym-01",
+      "unitId": "unit-2",
+      "section": "b",
+      "category": "synonym",
+      "vietnamese": "Sức kháng bệnh",
+      "english": "Resistance",
+      "partOfSpeech": "n",
+      "sourceRow": 18
+    },
+    {
+      "id": "unit-2-r018-collocation-01",
+      "unitId": "unit-2",
+      "section": "b",
+      "category": "collocation",
+      "vietnamese": "Tăng cường hệ miễn dịch",
+      "english": "Boost the immune system",
+      "partOfSpeech": null,
+      "sourceRow": 18
+    },
+    {
+      "id": "unit-2-r019-base-word-01",
+      "unitId": "unit-2",
+      "section": "b",
+      "category": "base_word",
+      "vietnamese": "Bệnh tật nhẹ, ốm vặt",
+      "english": "Ailment",
+      "partOfSpeech": "n",
+      "sourceRow": 19
+    },
+    {
+      "id": "unit-2-r019-word-family-01",
+      "unitId": "unit-2",
+      "section": "b",
+      "category": "word_family",
+      "vietnamese": "Gây đau ốm",
+      "english": "Ail",
+      "partOfSpeech": "v",
+      "sourceRow": 19
+    },
+    {
+      "id": "unit-2-r019-synonym-01",
+      "unitId": "unit-2",
+      "section": "b",
+      "category": "synonym",
+      "vietnamese": "Bệnh nhẹ",
+      "english": "Minor illness",
+      "partOfSpeech": "n",
+      "sourceRow": 19
+    },
+    {
+      "id": "unit-2-r019-synonym-02",
+      "unitId": "unit-2",
+      "section": "b",
+      "category": "synonym",
+      "vietnamese": "Cơn đau",
+      "english": "Malady",
+      "partOfSpeech": "n",
+      "sourceRow": 19
+    },
+    {
+      "id": "unit-2-r019-collocation-01",
+      "unitId": "unit-2",
+      "section": "b",
+      "category": "collocation",
+      "vietnamese": "Các bệnh vặt thông thường",
+      "english": "Common ailments",
+      "partOfSpeech": null,
+      "sourceRow": 19
+    },
+    {
+      "id": "unit-2-r020-base-word-01",
+      "unitId": "unit-2",
+      "section": "b",
+      "category": "base_word",
+      "vietnamese": "Mãn tính (bệnh kéo dài)",
+      "english": "Chronic",
+      "partOfSpeech": "adj",
+      "sourceRow": 20
+    },
+    {
+      "id": "unit-2-r020-word-family-01",
+      "unitId": "unit-2",
+      "section": "b",
+      "category": "word_family",
+      "vietnamese": "Tính mãn tính",
+      "english": "Chronicity",
+      "partOfSpeech": "n",
+      "sourceRow": 20
+    },
+    {
+      "id": "unit-2-r020-synonym-01",
+      "unitId": "unit-2",
+      "section": "b",
+      "category": "synonym",
+      "vietnamese": "Kéo dài lâu năm",
+      "english": "Long-standing",
+      "partOfSpeech": "adj",
+      "sourceRow": 20
+    },
+    {
+      "id": "unit-2-r020-collocation-01",
+      "unitId": "unit-2",
+      "section": "b",
+      "category": "collocation",
+      "vietnamese": "Bệnh mãn tính",
+      "english": "Chronic disease",
+      "partOfSpeech": null,
+      "sourceRow": 20
+    },
+    {
+      "id": "unit-2-r021-base-word-01",
+      "unitId": "unit-2",
+      "section": "b",
+      "category": "base_word",
+      "vietnamese": "Bệnh dịch, dịch lan rộng",
+      "english": "Epidemic",
+      "partOfSpeech": "n/adj",
+      "sourceRow": 21
+    },
+    {
+      "id": "unit-2-r021-word-family-01",
+      "unitId": "unit-2",
+      "section": "b",
+      "category": "word_family",
+      "vietnamese": "Đại dịch toàn cầu",
+      "english": "Pandemic",
+      "partOfSpeech": "n",
+      "sourceRow": 21
+    },
+    {
+      "id": "unit-2-r021-synonym-01",
+      "unitId": "unit-2",
+      "section": "b",
+      "category": "synonym",
+      "vietnamese": "Sự bùng phát dịch",
+      "english": "Outbreak",
+      "partOfSpeech": "n",
+      "sourceRow": 21
+    },
+    {
+      "id": "unit-2-r021-collocation-01",
+      "unitId": "unit-2",
+      "section": "b",
+      "category": "collocation",
+      "vietnamese": "Chống lại dịch bệnh",
+      "english": "Combat an epidemic",
+      "partOfSpeech": null,
+      "sourceRow": 21
+    },
+    {
+      "id": "unit-2-r022-base-word-01",
+      "unitId": "unit-2",
+      "section": "b",
+      "category": "base_word",
+      "vietnamese": "Triệu chứng bệnh",
+      "english": "Symptom",
+      "partOfSpeech": "n",
+      "sourceRow": 22
+    },
+    {
+      "id": "unit-2-r022-word-family-01",
+      "unitId": "unit-2",
+      "section": "b",
+      "category": "word_family",
+      "vietnamese": "Có triệu chứng",
+      "english": "Symptomatic",
+      "partOfSpeech": "adj",
+      "sourceRow": 22
+    },
+    {
+      "id": "unit-2-r022-synonym-01",
+      "unitId": "unit-2",
+      "section": "b",
+      "category": "synonym",
+      "vietnamese": "Dấu hiệu",
+      "english": "Sign",
+      "partOfSpeech": "n",
+      "sourceRow": 22
+    },
+    {
+      "id": "unit-2-r022-synonym-02",
+      "unitId": "unit-2",
+      "section": "b",
+      "category": "synonym",
+      "vietnamese": "Biểu hiện",
+      "english": "Manifestation",
+      "partOfSpeech": "n",
+      "sourceRow": 22
+    },
+    {
+      "id": "unit-2-r022-collocation-01",
+      "unitId": "unit-2",
+      "section": "b",
+      "category": "collocation",
+      "vietnamese": "Biểu hiện các triệu chứng",
+      "english": "Exhibiting symptoms",
+      "partOfSpeech": null,
+      "sourceRow": 22
+    },
+    {
+      "id": "unit-2-r023-base-word-01",
+      "unitId": "unit-2",
+      "section": "b",
+      "category": "base_word",
+      "vietnamese": "Sự chẩn đoán",
+      "english": "Diagnosis",
+      "partOfSpeech": "n",
+      "sourceRow": 23
+    },
+    {
+      "id": "unit-2-r023-word-family-01",
+      "unitId": "unit-2",
+      "section": "b",
+      "category": "word_family",
+      "vietnamese": "Chẩn đoán bệnh",
+      "english": "Diagnose",
+      "partOfSpeech": "v",
+      "sourceRow": 23
+    },
+    {
+      "id": "unit-2-r023-synonym-01",
+      "unitId": "unit-2",
+      "section": "b",
+      "category": "synonym",
+      "vietnamese": "Sự phát hiện",
+      "english": "Detection",
+      "partOfSpeech": "n",
+      "sourceRow": 23
+    },
+    {
+      "id": "unit-2-r023-synonym-02",
+      "unitId": "unit-2",
+      "section": "b",
+      "category": "synonym",
+      "vietnamese": "Sự phát hiện",
+      "english": "Identification",
+      "partOfSpeech": "n",
+      "sourceRow": 23
+    },
+    {
+      "id": "unit-2-r023-collocation-01",
+      "unitId": "unit-2",
+      "section": "b",
+      "category": "collocation",
+      "vietnamese": "Chẩn đoán sớm",
+      "english": "Early diagnosis",
+      "partOfSpeech": null,
+      "sourceRow": 23
+    },
+    {
+      "id": "unit-2-r024-base-word-01",
+      "unitId": "unit-2",
+      "section": "b",
+      "category": "base_word",
+      "vietnamese": "Liệu pháp điều trị",
+      "english": "Therapy",
+      "partOfSpeech": "n",
+      "sourceRow": 24
+    },
+    {
+      "id": "unit-2-r024-word-family-01",
+      "unitId": "unit-2",
+      "section": "b",
+      "category": "word_family",
+      "vietnamese": "Mang tính chữa bệnh",
+      "english": "Therapeutic",
+      "partOfSpeech": "adj",
+      "sourceRow": 24
+    },
+    {
+      "id": "unit-2-r024-synonym-01",
+      "unitId": "unit-2",
+      "section": "b",
+      "category": "synonym",
+      "vietnamese": "Phương pháp chữa trị",
+      "english": "Treatment",
+      "partOfSpeech": "n",
+      "sourceRow": 24
+    },
+    {
+      "id": "unit-2-r024-synonym-02",
+      "unitId": "unit-2",
+      "section": "b",
+      "category": "synonym",
+      "vietnamese": "Phương pháp chữa trị",
+      "english": "Remedy",
+      "partOfSpeech": "n",
+      "sourceRow": 24
+    },
+    {
+      "id": "unit-2-r024-collocation-01",
+      "unitId": "unit-2",
+      "section": "b",
+      "category": "collocation",
+      "vietnamese": "Vật lý trị liệu",
+      "english": "Physical therapy",
+      "partOfSpeech": null,
+      "sourceRow": 24
+    },
+    {
+      "id": "unit-2-r025-base-word-01",
+      "unitId": "unit-2",
+      "section": "b",
+      "category": "base_word",
+      "vietnamese": "Sự phục hồi chức năng",
+      "english": "Rehabilitation",
+      "partOfSpeech": "n",
+      "sourceRow": 25
+    },
+    {
+      "id": "unit-2-r025-word-family-01",
+      "unitId": "unit-2",
+      "section": "b",
+      "category": "word_family",
+      "vietnamese": "Phục hồi",
+      "english": "Rehabilitate",
+      "partOfSpeech": "v",
+      "sourceRow": 25
+    },
+    {
+      "id": "unit-2-r025-synonym-01",
+      "unitId": "unit-2",
+      "section": "b",
+      "category": "synonym",
+      "vietnamese": "Sự hồi phục",
+      "english": "Recovery",
+      "partOfSpeech": "n",
+      "sourceRow": 25
+    },
+    {
+      "id": "unit-2-r025-collocation-01",
+      "unitId": "unit-2",
+      "section": "b",
+      "category": "collocation",
+      "vietnamese": "Trải qua phục hồi chức năng",
+      "english": "Undergo rehabilitation",
+      "partOfSpeech": null,
+      "sourceRow": 25
+    },
+    {
+      "id": "unit-2-r026-base-word-01",
+      "unitId": "unit-2",
+      "section": "b",
+      "category": "base_word",
+      "vietnamese": "Tình trạng khỏe mạnh toàn diện",
+      "english": "Wellness",
+      "partOfSpeech": "n",
+      "sourceRow": 26
+    },
+    {
+      "id": "unit-2-r026-word-family-01",
+      "unitId": "unit-2",
+      "section": "b",
+      "category": "word_family",
+      "vietnamese": "Sự thịnh vượng, khỏe mạnh",
+      "english": "Well-being",
+      "partOfSpeech": "n",
+      "sourceRow": 26
+    },
+    {
+      "id": "unit-2-r026-synonym-01",
+      "unitId": "unit-2",
+      "section": "b",
+      "category": "synonym",
+      "vietnamese": "Thể hình, sự sung sức",
+      "english": "Fitness",
+      "partOfSpeech": "n",
+      "sourceRow": 26
+    },
+    {
+      "id": "unit-2-r026-collocation-01",
+      "unitId": "unit-2",
+      "section": "b",
+      "category": "collocation",
+      "vietnamese": "Sức khỏe thể chất và tinh thần",
+      "english": "Mental and physical wellness",
+      "partOfSpeech": null,
+      "sourceRow": 26
+    },
+    {
+      "id": "unit-2-r027-base-word-01",
+      "unitId": "unit-2",
+      "section": "c",
+      "category": "base_word",
+      "vietnamese": "Nhận thức, quá trình nhận thức",
+      "english": "Cognition",
+      "partOfSpeech": "n",
+      "sourceRow": 27
+    },
+    {
+      "id": "unit-2-r027-word-family-01",
+      "unitId": "unit-2",
+      "section": "c",
+      "category": "word_family",
+      "vietnamese": "Thuộc nhận thức",
+      "english": "Cognitive",
+      "partOfSpeech": "adj",
+      "sourceRow": 27
+    },
+    {
+      "id": "unit-2-r027-synonym-01",
+      "unitId": "unit-2",
+      "section": "c",
+      "category": "synonym",
+      "vietnamese": "Sự nhận thức, cảm nhận",
+      "english": "Perception",
+      "partOfSpeech": "n",
+      "sourceRow": 27
+    },
+    {
+      "id": "unit-2-r027-collocation-01",
+      "unitId": "unit-2",
+      "section": "c",
+      "category": "collocation",
+      "vietnamese": "Sự phát triển nhận thức",
+      "english": "Cognitive development",
+      "partOfSpeech": null,
+      "sourceRow": 27
+    },
+    {
+      "id": "unit-2-r028-base-word-01",
+      "unitId": "unit-2",
+      "section": "c",
+      "category": "base_word",
+      "vietnamese": "Trí tuệ, khả năng tư duy",
+      "english": "Intellect",
+      "partOfSpeech": "n",
+      "sourceRow": 28
+    },
+    {
+      "id": "unit-2-r028-word-family-01",
+      "unitId": "unit-2",
+      "section": "c",
+      "category": "word_family",
+      "vietnamese": "Thuộc trí tuệ / Tri thức",
+      "english": "Intellectual",
+      "partOfSpeech": "adj/n",
+      "sourceRow": 28
+    },
+    {
+      "id": "unit-2-r028-synonym-01",
+      "unitId": "unit-2",
+      "section": "c",
+      "category": "synonym",
+      "vietnamese": "Trí thông minh",
+      "english": "Intelligence",
+      "partOfSpeech": "n",
+      "sourceRow": 28
+    },
+    {
+      "id": "unit-2-r028-collocation-01",
+      "unitId": "unit-2",
+      "section": "c",
+      "category": "collocation",
+      "vietnamese": "Năng lực trí tuệ",
+      "english": "Intellectual capacity",
+      "partOfSpeech": null,
+      "sourceRow": 28
+    },
+    {
+      "id": "unit-2-r029-base-word-01",
+      "unitId": "unit-2",
+      "section": "c",
+      "category": "base_word",
+      "vietnamese": "Sự nhạy bén, sắc sảo",
+      "english": "Acumen",
+      "partOfSpeech": "n",
+      "sourceRow": 29
+    },
+    {
+      "id": "unit-2-r029-word-family-01",
+      "unitId": "unit-2",
+      "section": "c",
+      "category": "word_family",
+      "vietnamese": "Sắc bén, nhạy bén",
+      "english": "Acute",
+      "partOfSpeech": "adj",
+      "sourceRow": 29
+    },
+    {
+      "id": "unit-2-r029-synonym-01",
+      "unitId": "unit-2",
+      "section": "c",
+      "category": "synonym",
+      "vietnamese": "Sự khôn ngoan, sắc sảo",
+      "english": "Shrewdness",
+      "partOfSpeech": "n",
+      "sourceRow": 29
+    },
+    {
+      "id": "unit-2-r029-collocation-01",
+      "unitId": "unit-2",
+      "section": "c",
+      "category": "collocation",
+      "vietnamese": "Sự nhạy bén trong kinh doanh",
+      "english": "Business acumen",
+      "partOfSpeech": null,
+      "sourceRow": 29
+    },
+    {
+      "id": "unit-2-r030-base-word-01",
+      "unitId": "unit-2",
+      "section": "c",
+      "category": "base_word",
+      "vietnamese": "Sự nhận thức, góc nhìn",
+      "english": "Perception",
+      "partOfSpeech": "n",
+      "sourceRow": 30
+    },
+    {
+      "id": "unit-2-r030-word-family-01",
+      "unitId": "unit-2",
+      "section": "c",
+      "category": "word_family",
+      "vietnamese": "Nhận thức, nhìn nhận",
+      "english": "Perceive",
+      "partOfSpeech": "v",
+      "sourceRow": 30
+    },
+    {
+      "id": "unit-2-r030-synonym-01",
+      "unitId": "unit-2",
+      "section": "c",
+      "category": "synonym",
+      "vietnamese": "Góc nhìn",
+      "english": "Viewpoint",
+      "partOfSpeech": "n",
+      "sourceRow": 30
+    },
+    {
+      "id": "unit-2-r030-synonym-02",
+      "unitId": "unit-2",
+      "section": "c",
+      "category": "synonym",
+      "vietnamese": "Sự thấu hiểu",
+      "english": "Insight",
+      "partOfSpeech": "n",
+      "sourceRow": 30
+    },
+    {
+      "id": "unit-2-r030-collocation-01",
+      "unitId": "unit-2",
+      "section": "c",
+      "category": "collocation",
+      "vietnamese": "Thay đổi nhận thức công chúng",
+      "english": "Change public perception",
+      "partOfSpeech": null,
+      "sourceRow": 30
+    },
+    {
+      "id": "unit-2-r031-base-word-01",
+      "unitId": "unit-2",
+      "section": "c",
+      "category": "base_word",
+      "vietnamese": "Lĩnh hội, hiểu thấu đáo",
+      "english": "Comprehend",
+      "partOfSpeech": "v",
+      "sourceRow": 31
+    },
+    {
+      "id": "unit-2-r031-word-family-01",
+      "unitId": "unit-2",
+      "section": "c",
+      "category": "word_family",
+      "vietnamese": "Sự hiểu biết",
+      "english": "Comprehension",
+      "partOfSpeech": "n",
+      "sourceRow": 31
+    },
+    {
+      "id": "unit-2-r031-synonym-01",
+      "unitId": "unit-2",
+      "section": "c",
+      "category": "synonym",
+      "vietnamese": "Thấu hiểu",
+      "english": "Fathom",
+      "partOfSpeech": "v",
+      "sourceRow": 31
+    },
+    {
+      "id": "unit-2-r031-synonym-02",
+      "unitId": "unit-2",
+      "section": "c",
+      "category": "synonym",
+      "vietnamese": "Nắm bắt",
+      "english": "Grasp",
+      "partOfSpeech": "v",
+      "sourceRow": 31
+    },
+    {
+      "id": "unit-2-r031-collocation-01",
+      "unitId": "unit-2",
+      "section": "c",
+      "category": "collocation",
+      "vietnamese": "Vượt quá tầm hiểu biết",
+      "english": "Beyond comprehension",
+      "partOfSpeech": null,
+      "sourceRow": 31
+    },
+    {
+      "id": "unit-2-r032-base-word-01",
+      "unitId": "unit-2",
+      "section": "c",
+      "category": "base_word",
+      "vietnamese": "Lập luận, lý luận",
+      "english": "Reasoning",
+      "partOfSpeech": "n",
+      "sourceRow": 32
+    },
+    {
+      "id": "unit-2-r032-word-family-01",
+      "unitId": "unit-2",
+      "section": "c",
+      "category": "word_family",
+      "vietnamese": "Suy luận / Lý do",
+      "english": "Reason",
+      "partOfSpeech": "v/n",
+      "sourceRow": 32
+    },
+    {
+      "id": "unit-2-r032-synonym-01",
+      "unitId": "unit-2",
+      "section": "c",
+      "category": "synonym",
+      "vietnamese": "Lập luận logic",
+      "english": "Logic",
+      "partOfSpeech": "n",
+      "sourceRow": 32
+    },
+    {
+      "id": "unit-2-r032-synonym-02",
+      "unitId": "unit-2",
+      "section": "c",
+      "category": "synonym",
+      "vietnamese": "Lập luận logic",
+      "english": "Rationale",
+      "partOfSpeech": "n",
+      "sourceRow": 32
+    },
+    {
+      "id": "unit-2-r032-collocation-01",
+      "unitId": "unit-2",
+      "section": "c",
+      "category": "collocation",
+      "vietnamese": "Khả năng lập luận logic",
+      "english": "Logical reasoning",
+      "partOfSpeech": null,
+      "sourceRow": 32
+    },
+    {
+      "id": "unit-2-r033-base-word-01",
+      "unitId": "unit-2",
+      "section": "c",
+      "category": "base_word",
+      "vietnamese": "Năng lực (của tâm trí/cơ thể)",
+      "english": "Faculty",
+      "partOfSpeech": "n",
+      "sourceRow": 33
+    },
+    {
+      "id": "unit-2-r033-word-family-01",
+      "unitId": "unit-2",
+      "section": "c",
+      "category": "word_family",
+      "vietnamese": "Các giác quan/khả năng",
+      "english": "Faculties",
+      "partOfSpeech": "n.pl",
+      "sourceRow": 33
+    },
+    {
+      "id": "unit-2-r033-synonym-01",
+      "unitId": "unit-2",
+      "section": "c",
+      "category": "synonym",
+      "vietnamese": "Năng lực",
+      "english": "Capability",
+      "partOfSpeech": "n",
+      "sourceRow": 33
+    },
+    {
+      "id": "unit-2-r033-synonym-02",
+      "unitId": "unit-2",
+      "section": "c",
+      "category": "synonym",
+      "vietnamese": "Năng lực",
+      "english": "Power",
+      "partOfSpeech": "n",
+      "sourceRow": 33
+    },
+    {
+      "id": "unit-2-r033-collocation-01",
+      "unitId": "unit-2",
+      "section": "c",
+      "category": "collocation",
+      "vietnamese": "Các chức năng tinh thần/trí tuệ",
+      "english": "Mental faculties",
+      "partOfSpeech": null,
+      "sourceRow": 33
+    },
+    {
+      "id": "unit-2-r034-base-word-01",
+      "unitId": "unit-2",
+      "section": "c",
+      "category": "base_word",
+      "vietnamese": "Kích thích, khơi gợi",
+      "english": "Stimulate",
+      "partOfSpeech": "v",
+      "sourceRow": 34
+    },
+    {
+      "id": "unit-2-r034-word-family-01",
+      "unitId": "unit-2",
+      "section": "c",
+      "category": "word_family",
+      "vietnamese": "Sự kích thích",
+      "english": "Stimulation",
+      "partOfSpeech": "n",
+      "sourceRow": 34
+    },
+    {
+      "id": "unit-2-r034-synonym-01",
+      "unitId": "unit-2",
+      "section": "c",
+      "category": "synonym",
+      "vietnamese": "Kích thích",
+      "english": "Provoke",
+      "partOfSpeech": "v",
+      "sourceRow": 34
+    },
+    {
+      "id": "unit-2-r034-synonym-02",
+      "unitId": "unit-2",
+      "section": "c",
+      "category": "synonym",
+      "vietnamese": "thúc đẩy",
+      "english": "Spur",
+      "partOfSpeech": "v",
+      "sourceRow": 34
+    },
+    {
+      "id": "unit-2-r034-collocation-01",
+      "unitId": "unit-2",
+      "section": "c",
+      "category": "collocation",
+      "vietnamese": "Kích thích phát triển trí tuệ",
+      "english": "Stimulate intellectual growth",
+      "partOfSpeech": null,
+      "sourceRow": 34
+    },
+    {
+      "id": "unit-2-r035-base-word-01",
+      "unitId": "unit-2",
+      "section": "c",
+      "category": "base_word",
+      "vietnamese": "Năng khiếu, sở trường",
+      "english": "Aptitude",
+      "partOfSpeech": "n",
+      "sourceRow": 35
+    },
+    {
+      "id": "unit-2-r035-word-family-01",
+      "unitId": "unit-2",
+      "section": "c",
+      "category": "word_family",
+      "vietnamese": "Có khiếu, thích hợp",
+      "english": "Apt",
+      "partOfSpeech": "adj",
+      "sourceRow": 35
+    },
+    {
+      "id": "unit-2-r035-synonym-01",
+      "unitId": "unit-2",
+      "section": "c",
+      "category": "synonym",
+      "vietnamese": "Tài năng",
+      "english": "Talent",
+      "partOfSpeech": "n",
+      "sourceRow": 35
+    },
+    {
+      "id": "unit-2-r035-synonym-02",
+      "unitId": "unit-2",
+      "section": "c",
+      "category": "synonym",
+      "vietnamese": "Thiên hướng",
+      "english": "Flair",
+      "partOfSpeech": "n",
+      "sourceRow": 35
+    },
+    {
+      "id": "unit-2-r035-collocation-01",
+      "unitId": "unit-2",
+      "section": "c",
+      "category": "collocation",
+      "vietnamese": "Năng khiếu bẩm sinh về môn gì",
+      "english": "Natural aptitude for",
+      "partOfSpeech": null,
+      "sourceRow": 35
+    },
+    {
+      "id": "unit-2-r036-base-word-01",
+      "unitId": "unit-2",
+      "section": "c",
+      "category": "base_word",
+      "vietnamese": "Khả năng ghi nhớ, lưu giữ",
+      "english": "Retention",
+      "partOfSpeech": "n",
+      "sourceRow": 36
+    },
+    {
+      "id": "unit-2-r036-word-family-01",
+      "unitId": "unit-2",
+      "section": "c",
+      "category": "word_family",
+      "vietnamese": "Giữ lại, ghi nhớ",
+      "english": "Retain",
+      "partOfSpeech": "v",
+      "sourceRow": 36
+    },
+    {
+      "id": "unit-2-r036-synonym-01",
+      "unitId": "unit-2",
+      "section": "c",
+      "category": "synonym",
+      "vietnamese": "Trí nhớ",
+      "english": "Memory",
+      "partOfSpeech": "n",
+      "sourceRow": 36
+    },
+    {
+      "id": "unit-2-r036-synonym-02",
+      "unitId": "unit-2",
+      "section": "c",
+      "category": "synonym",
+      "vietnamese": "Trí nhớ",
+      "english": "Recollection",
+      "partOfSpeech": "n",
+      "sourceRow": 36
+    },
+    {
+      "id": "unit-2-r036-collocation-01",
+      "unitId": "unit-2",
+      "section": "c",
+      "category": "collocation",
+      "vietnamese": "Khả năng lưu giữ trí nhớ",
+      "english": "Memory retention",
+      "partOfSpeech": null,
+      "sourceRow": 36
+    },
+    {
+      "id": "unit-2-r037-base-word-01",
+      "unitId": "unit-2",
+      "section": "c",
+      "category": "base_word",
+      "vietnamese": "Trừu tượng",
+      "english": "Abstract",
+      "partOfSpeech": "adj",
+      "sourceRow": 37
+    },
+    {
+      "id": "unit-2-r037-word-family-01",
+      "unitId": "unit-2",
+      "section": "c",
+      "category": "word_family",
+      "vietnamese": "Tính trừu tượng",
+      "english": "Abstraction",
+      "partOfSpeech": "n",
+      "sourceRow": 37
+    },
+    {
+      "id": "unit-2-r037-synonym-01",
+      "unitId": "unit-2",
+      "section": "c",
+      "category": "synonym",
+      "vietnamese": "Mang tính lý thuyết",
+      "english": "Theoretical",
+      "partOfSpeech": "adj",
+      "sourceRow": 37
+    },
+    {
+      "id": "unit-2-r037-collocation-01",
+      "unitId": "unit-2",
+      "section": "c",
+      "category": "collocation",
+      "vietnamese": "Tư duy trừu tượng",
+      "english": "Abstract thinking",
+      "partOfSpeech": null,
+      "sourceRow": 37
+    },
+    {
+      "id": "unit-2-r038-base-word-01",
+      "unitId": "unit-2",
+      "section": "c",
+      "category": "base_word",
+      "vietnamese": "trực giác",
+      "english": "Intuition",
+      "partOfSpeech": "n",
+      "sourceRow": 38
+    },
+    {
+      "id": "unit-2-r038-word-family-01",
+      "unitId": "unit-2",
+      "section": "c",
+      "category": "word_family",
+      "vietnamese": "Mang tính trực giác",
+      "english": "Intuitive",
+      "partOfSpeech": "adj",
+      "sourceRow": 38
+    },
+    {
+      "id": "unit-2-r038-synonym-01",
+      "unitId": "unit-2",
+      "section": "c",
+      "category": "synonym",
+      "vietnamese": "Bản năng",
+      "english": "Instinct",
+      "partOfSpeech": "n",
+      "sourceRow": 38
+    },
+    {
+      "id": "unit-2-r038-collocation-01",
+      "unitId": "unit-2",
+      "section": "c",
+      "category": "collocation",
+      "vietnamese": "Tin vào trực giác của bản thân",
+      "english": "Trust one's intuition",
+      "partOfSpeech": null,
+      "sourceRow": 38
+    },
+    {
+      "id": "unit-2-r039-base-word-01",
+      "unitId": "unit-2",
+      "section": "d",
+      "category": "base_word",
+      "vietnamese": "Tâm lý học",
+      "english": "Psychology",
+      "partOfSpeech": "n",
+      "sourceRow": 39
+    },
+    {
+      "id": "unit-2-r039-word-family-01",
+      "unitId": "unit-2",
+      "section": "d",
+      "category": "word_family",
+      "vietnamese": "Thuộc tâm lý",
+      "english": "Psychological",
+      "partOfSpeech": "adj",
+      "sourceRow": 39
+    },
+    {
+      "id": "unit-2-r039-synonym-01",
+      "unitId": "unit-2",
+      "section": "d",
+      "category": "synonym",
+      "vietnamese": "Thuộc về tâm trí",
+      "english": "Mental",
+      "partOfSpeech": "adj",
+      "sourceRow": 39
+    },
+    {
+      "id": "unit-2-r039-collocation-01",
+      "unitId": "unit-2",
+      "section": "d",
+      "category": "collocation",
+      "vietnamese": "Rào cản tâm lý",
+      "english": "Psychological barrier",
+      "partOfSpeech": null,
+      "sourceRow": 39
+    },
+    {
+      "id": "unit-2-r040-base-word-01",
+      "unitId": "unit-2",
+      "section": "d",
+      "category": "base_word",
+      "vietnamese": "Tiềm thức",
+      "english": "Subconscious",
+      "partOfSpeech": "n/adj",
+      "sourceRow": 40
+    },
+    {
+      "id": "unit-2-r040-word-family-01",
+      "unitId": "unit-2",
+      "section": "d",
+      "category": "word_family",
+      "vietnamese": "Trong tiềm thức",
+      "english": "Subconsciously",
+      "partOfSpeech": "adv",
+      "sourceRow": 40
+    },
+    {
+      "id": "unit-2-r040-synonym-01",
+      "unitId": "unit-2",
+      "section": "d",
+      "category": "synonym",
+      "vietnamese": "Vô thức",
+      "english": "Unconscious",
+      "partOfSpeech": "n/adj",
+      "sourceRow": 40
+    },
+    {
+      "id": "unit-2-r040-collocation-01",
+      "unitId": "unit-2",
+      "section": "d",
+      "category": "collocation",
+      "vietnamese": "Tâm trí tiềm thức",
+      "english": "Subconscious mind",
+      "partOfSpeech": null,
+      "sourceRow": 40
+    },
+    {
+      "id": "unit-2-r041-base-word-01",
+      "unitId": "unit-2",
+      "section": "d",
+      "category": "base_word",
+      "vietnamese": "Khả năng phục hồi tâm lý, kiên cường",
+      "english": "Resilience",
+      "partOfSpeech": "n",
+      "sourceRow": 41
+    },
+    {
+      "id": "unit-2-r041-word-family-01",
+      "unitId": "unit-2",
+      "section": "d",
+      "category": "word_family",
+      "vietnamese": "Kiên cường, bền bỉ",
+      "english": "Resilient",
+      "partOfSpeech": "adj",
+      "sourceRow": 41
+    },
+    {
+      "id": "unit-2-r041-synonym-01",
+      "unitId": "unit-2",
+      "section": "d",
+      "category": "synonym",
+      "vietnamese": "Sự dai sức",
+      "english": "Toughness",
+      "partOfSpeech": "n",
+      "sourceRow": 41
+    },
+    {
+      "id": "unit-2-r041-synonym-02",
+      "unitId": "unit-2",
+      "section": "d",
+      "category": "synonym",
+      "vietnamese": "Sự dai sức",
+      "english": "Bouncing back",
+      "partOfSpeech": "n",
+      "sourceRow": 41
+    },
+    {
+      "id": "unit-2-r041-collocation-01",
+      "unitId": "unit-2",
+      "section": "d",
+      "category": "collocation",
+      "vietnamese": "Xây dựng sự kiên cường cảm xúc",
+      "english": "Build emotional resilience",
+      "partOfSpeech": null,
+      "sourceRow": 41
+    },
+    {
+      "id": "unit-2-r042-base-word-01",
+      "unitId": "unit-2",
+      "section": "d",
+      "category": "base_word",
+      "vietnamese": "Tính dễ bị tổn thương",
+      "english": "Vulnerability",
+      "partOfSpeech": "n",
+      "sourceRow": 42
+    },
+    {
+      "id": "unit-2-r042-word-family-01",
+      "unitId": "unit-2",
+      "section": "d",
+      "category": "word_family",
+      "vietnamese": "Dễ bị tổn thương",
+      "english": "Vulnerable",
+      "partOfSpeech": "adj",
+      "sourceRow": 42
+    },
+    {
+      "id": "unit-2-r042-synonym-01",
+      "unitId": "unit-2",
+      "section": "d",
+      "category": "synonym",
+      "vietnamese": "Tính nhạy cảm, dễ nhiễm",
+      "english": "Susceptibility",
+      "partOfSpeech": "n",
+      "sourceRow": 42
+    },
+    {
+      "id": "unit-2-r042-collocation-01",
+      "unitId": "unit-2",
+      "section": "d",
+      "category": "collocation",
+      "vietnamese": "Sự dễ tổn thương về cảm xúc",
+      "english": "Emotional vulnerability",
+      "partOfSpeech": null,
+      "sourceRow": 42
+    },
+    {
+      "id": "unit-2-r043-base-word-01",
+      "unitId": "unit-2",
+      "section": "d",
+      "category": "base_word",
+      "vietnamese": "Chấn thương tâm lý",
+      "english": "Trauma",
+      "partOfSpeech": "n",
+      "sourceRow": 43
+    },
+    {
+      "id": "unit-2-r043-word-family-01",
+      "unitId": "unit-2",
+      "section": "d",
+      "category": "word_family",
+      "vietnamese": "Gây chấn thương sâu sắc",
+      "english": "Traumatic",
+      "partOfSpeech": "adj",
+      "sourceRow": 43
+    },
+    {
+      "id": "unit-2-r043-synonym-01",
+      "unitId": "unit-2",
+      "section": "d",
+      "category": "synonym",
+      "vietnamese": "Cú sốc tâm lý",
+      "english": "Psychological shock",
+      "partOfSpeech": "n",
+      "sourceRow": 43
+    },
+    {
+      "id": "unit-2-r043-collocation-01",
+      "unitId": "unit-2",
+      "section": "d",
+      "category": "collocation",
+      "vietnamese": "Chấn thương thời thơ ấu",
+      "english": "Childhood trauma",
+      "partOfSpeech": null,
+      "sourceRow": 43
+    },
+    {
+      "id": "unit-2-r044-base-word-01",
+      "unitId": "unit-2",
+      "section": "d",
+      "category": "base_word",
+      "vietnamese": "Sự lo âu, bồn chồn",
+      "english": "Anxiety",
+      "partOfSpeech": "n",
+      "sourceRow": 44
+    },
+    {
+      "id": "unit-2-r044-word-family-01",
+      "unitId": "unit-2",
+      "section": "d",
+      "category": "word_family",
+      "vietnamese": "Lo lắng",
+      "english": "Anxious",
+      "partOfSpeech": "adj",
+      "sourceRow": 44
+    },
+    {
+      "id": "unit-2-r044-synonym-01",
+      "unitId": "unit-2",
+      "section": "d",
+      "category": "synonym",
+      "vietnamese": "Sự sợ hãi lo âu",
+      "english": "Apprehension",
+      "partOfSpeech": "n",
+      "sourceRow": 44
+    },
+    {
+      "id": "unit-2-r044-synonym-02",
+      "unitId": "unit-2",
+      "section": "d",
+      "category": "synonym",
+      "vietnamese": "Sự sợ hãi lo âu",
+      "english": "Distress",
+      "partOfSpeech": "n",
+      "sourceRow": 44
+    },
+    {
+      "id": "unit-2-r044-collocation-01",
+      "unitId": "unit-2",
+      "section": "d",
+      "category": "collocation",
+      "vietnamese": "Đối phó với sự lo âu",
+      "english": "Deal with anxiety",
+      "partOfSpeech": null,
+      "sourceRow": 44
+    },
+    {
+      "id": "unit-2-r045-base-word-01",
+      "unitId": "unit-2",
+      "section": "d",
+      "category": "base_word",
+      "vietnamese": "Sự đối phó, đương đầu",
+      "english": "Coping",
+      "partOfSpeech": "n/adj",
+      "sourceRow": 45
+    },
+    {
+      "id": "unit-2-r045-word-family-01",
+      "unitId": "unit-2",
+      "section": "d",
+      "category": "word_family",
+      "vietnamese": "Đương đầu, vượt qua",
+      "english": "Cope",
+      "partOfSpeech": "v",
+      "sourceRow": 45
+    },
+    {
+      "id": "unit-2-r045-synonym-01",
+      "unitId": "unit-2",
+      "section": "d",
+      "category": "synonym",
+      "vietnamese": "Xử lý, quản lý",
+      "english": "Managing",
+      "partOfSpeech": "v",
+      "sourceRow": 45
+    },
+    {
+      "id": "unit-2-r045-synonym-02",
+      "unitId": "unit-2",
+      "section": "d",
+      "category": "synonym",
+      "vietnamese": "Xử lý, quản lý",
+      "english": "Handling",
+      "partOfSpeech": "v",
+      "sourceRow": 45
+    },
+    {
+      "id": "unit-2-r045-collocation-01",
+      "unitId": "unit-2",
+      "section": "d",
+      "category": "collocation",
+      "vietnamese": "Cơ chế đối phó với áp lực",
+      "english": "Coping mechanisms",
+      "partOfSpeech": null,
+      "sourceRow": 45
+    },
+    {
+      "id": "unit-2-r046-base-word-01",
+      "unitId": "unit-2",
+      "section": "d",
+      "category": "base_word",
+      "vietnamese": "Sự ức chế, sự rụt rè",
+      "english": "Inhibition",
+      "partOfSpeech": "n",
+      "sourceRow": 46
+    },
+    {
+      "id": "unit-2-r046-word-family-01",
+      "unitId": "unit-2",
+      "section": "d",
+      "category": "word_family",
+      "vietnamese": "Cản trở, ức chế",
+      "english": "Inhibit",
+      "partOfSpeech": "v",
+      "sourceRow": 46
+    },
+    {
+      "id": "unit-2-r046-synonym-01",
+      "unitId": "unit-2",
+      "section": "d",
+      "category": "synonym",
+      "vietnamese": "Sự kìm hãm",
+      "english": "Constraint",
+      "partOfSpeech": "n",
+      "sourceRow": 46
+    },
+    {
+      "id": "unit-2-r046-synonym-02",
+      "unitId": "unit-2",
+      "section": "d",
+      "category": "synonym",
+      "vietnamese": "Sự kìm hãm",
+      "english": "Restraint",
+      "partOfSpeech": "n",
+      "sourceRow": 46
+    },
+    {
+      "id": "unit-2-r046-collocation-01",
+      "unitId": "unit-2",
+      "section": "d",
+      "category": "collocation",
+      "vietnamese": "Vượt qua sự rụt rè, e ngại",
+      "english": "Overcome inhibitions",
+      "partOfSpeech": null,
+      "sourceRow": 46
+    },
+    {
+      "id": "unit-2-r047-base-word-01",
+      "unitId": "unit-2",
+      "section": "d",
+      "category": "base_word",
+      "vietnamese": "Cái tôi, lòng tự ái",
+      "english": "Ego",
+      "partOfSpeech": "n",
+      "sourceRow": 47
+    },
+    {
+      "id": "unit-2-r047-word-family-01",
+      "unitId": "unit-2",
+      "section": "d",
+      "category": "word_family",
+      "vietnamese": "Ích kỷ, tự cao",
+      "english": "Egotistic",
+      "partOfSpeech": "adj",
+      "sourceRow": 47
+    },
+    {
+      "id": "unit-2-r047-synonym-01",
+      "unitId": "unit-2",
+      "section": "d",
+      "category": "synonym",
+      "vietnamese": "Lòng tự trọng",
+      "english": "Self-esteem",
+      "partOfSpeech": "n",
+      "sourceRow": 47
+    },
+    {
+      "id": "unit-2-r047-synonym-02",
+      "unitId": "unit-2",
+      "section": "d",
+      "category": "synonym",
+      "vietnamese": "Lòng tự trọng",
+      "english": "Pride",
+      "partOfSpeech": "n",
+      "sourceRow": 47
+    },
+    {
+      "id": "unit-2-r047-collocation-01",
+      "unitId": "unit-2",
+      "section": "d",
+      "category": "collocation",
+      "vietnamese": "Nâng cao lòng tự trọng",
+      "english": "Boost self-esteem",
+      "partOfSpeech": null,
+      "sourceRow": 47
+    },
+    {
+      "id": "unit-2-r048-base-word-01",
+      "unitId": "unit-2",
+      "section": "d",
+      "category": "base_word",
+      "vietnamese": "Sự tha hóa, cảm giác bị cô lập",
+      "english": "Alienation",
+      "partOfSpeech": "n",
+      "sourceRow": 48
+    },
+    {
+      "id": "unit-2-r048-word-family-01",
+      "unitId": "unit-2",
+      "section": "d",
+      "category": "word_family",
+      "vietnamese": "Làm xa lánh, cô lập",
+      "english": "Alienate",
+      "partOfSpeech": "v",
+      "sourceRow": 48
+    },
+    {
+      "id": "unit-2-r048-synonym-01",
+      "unitId": "unit-2",
+      "section": "d",
+      "category": "synonym",
+      "vietnamese": "Sự cô lập",
+      "english": "Isolation",
+      "partOfSpeech": "n",
+      "sourceRow": 48
+    },
+    {
+      "id": "unit-2-r048-synonym-02",
+      "unitId": "unit-2",
+      "section": "d",
+      "category": "synonym",
+      "vietnamese": "Sự cô lập",
+      "english": "Estrangement",
+      "partOfSpeech": "n",
+      "sourceRow": 48
+    },
+    {
+      "id": "unit-2-r048-collocation-01",
+      "unitId": "unit-2",
+      "section": "d",
+      "category": "collocation",
+      "vietnamese": "Cảm thấy bị cô lập với xã hội",
+      "english": "Feel a sense of alienation",
+      "partOfSpeech": null,
+      "sourceRow": 48
+    },
+    {
+      "id": "unit-2-r049-base-word-01",
+      "unitId": "unit-2",
+      "section": "d",
+      "category": "base_word",
+      "vietnamese": "Sự giải tỏa cảm xúc",
+      "english": "Catharsis",
+      "partOfSpeech": "n",
+      "sourceRow": 49
+    },
+    {
+      "id": "unit-2-r049-word-family-01",
+      "unitId": "unit-2",
+      "section": "d",
+      "category": "word_family",
+      "vietnamese": "Mang tính giải tỏa",
+      "english": "Cathartic",
+      "partOfSpeech": "adj",
+      "sourceRow": 49
+    },
+    {
+      "id": "unit-2-r049-synonym-01",
+      "unitId": "unit-2",
+      "section": "d",
+      "category": "synonym",
+      "vietnamese": "Sự trút bỏ cảm xúc",
+      "english": "Emotional release",
+      "partOfSpeech": "n",
+      "sourceRow": 49
+    },
+    {
+      "id": "unit-2-r049-collocation-01",
+      "unitId": "unit-2",
+      "section": "d",
+      "category": "collocation",
+      "vietnamese": "Đạt được sự giải tỏa tâm lý",
+      "english": "Achieve catharsis",
+      "partOfSpeech": null,
+      "sourceRow": 49
+    },
+    {
+      "id": "unit-2-r050-base-word-01",
+      "unitId": "unit-2",
+      "section": "d",
+      "category": "base_word",
+      "vietnamese": "Sự bình thản, điềm tĩnh",
+      "english": "Equanimity",
+      "partOfSpeech": "n",
+      "sourceRow": 50
+    },
+    {
+      "id": "unit-2-r050-word-family-01",
+      "unitId": "unit-2",
+      "section": "d",
+      "category": "word_family",
+      "vietnamese": "Điềm tĩnh",
+      "english": "Equanimous",
+      "partOfSpeech": "adj",
+      "sourceRow": 50
+    },
+    {
+      "id": "unit-2-r050-synonym-01",
+      "unitId": "unit-2",
+      "section": "d",
+      "category": "synonym",
+      "vietnamese": "Sự tĩnh tâm",
+      "english": "Composure",
+      "partOfSpeech": "n",
+      "sourceRow": 50
+    },
+    {
+      "id": "unit-2-r050-synonym-02",
+      "unitId": "unit-2",
+      "section": "d",
+      "category": "synonym",
+      "vietnamese": "Sự tĩnh tâm",
+      "english": "Serenity",
+      "partOfSpeech": "n",
+      "sourceRow": 50
+    },
+    {
+      "id": "unit-2-r050-collocation-01",
+      "unitId": "unit-2",
+      "section": "d",
+      "category": "collocation",
+      "vietnamese": "Giữ sự điềm tĩnh trong nghịch cảnh",
+      "english": "Maintain equanimity",
+      "partOfSpeech": null,
+      "sourceRow": 50
+    }
+  ],
+  "reviewNotes": [
+    {
+      "sourceRow": 1,
+      "category": "synonym",
+      "original": "Build / Constitution (n): Thể hình, thể trạng",
+      "reason": "Nghĩa ghép bằng dấu phẩy; tách theo thứ tự Build → Thể hình, Constitution → thể trạng. Cần duyệt ánh xạ."
+    },
+    {
+      "sourceRow": 5,
+      "category": "synonym",
+      "original": "Anabolism/Catabolism (n): Đồng/Dị hóa",
+      "reason": "Nguồn viết rút gọn Đồng/Dị hóa; triển khai thành Đồng hóa và Dị hóa, không bổ sung nghĩa."
+    },
+    {
+      "sourceRow": 6,
+      "category": "base_word",
+      "original": "Anatomy (n): Giải ph học",
+      "reason": "PDF in Giải ph học, có dấu hiệu thiếu chữ. Giữ nguyên, chưa tự sửa thành Giải phẫu học."
+    },
+    {
+      "sourceRow": 12,
+      "category": "synonym",
+      "original": "Sturdy / Hardiness (adj/n): Cứng cáp, bền bỉ",
+      "reason": "Tách adj/n theo thứ tự Sturdy/Hardiness, giữ nguyên Cứng cáp/bền bỉ; cần rà soát loại từ và bản dịch của Hardiness."
+    },
+    {
+      "sourceRow": 19,
+      "category": "synonym",
+      "original": "Minor illness / Malady (n): Bệnh nhẹ / Cơn đau",
+      "reason": "Giữ ánh xạ theo thứ tự Minor illness → Bệnh nhẹ, Malady → Cơn đau; cần rà soát bản dịch Malady trong nguồn."
+    },
+    {
+      "sourceRow": 23,
+      "category": "synonym",
+      "original": "Detection / Identification (n): Sự phát hiện",
+      "reason": "PDF chỉ cung cấp một nghĩa chung cho hai từ/cụm. Mỗi từ có một thẻ, cùng giữ nguyên nghĩa nguồn; cần rà soát bản dịch riêng trước khi xác nhận nội dung."
+    },
+    {
+      "sourceRow": 24,
+      "category": "synonym",
+      "original": "Treatment / Remedy (n): Phương pháp chữa trị",
+      "reason": "PDF chỉ cung cấp một nghĩa chung cho hai từ/cụm. Mỗi từ có một thẻ, cùng giữ nguyên nghĩa nguồn; cần rà soát bản dịch riêng trước khi xác nhận nội dung."
+    },
+    {
+      "sourceRow": 28,
+      "category": "word_family",
+      "original": "Intellectual (adj/n): Thuộc trí tuệ / Tri thức",
+      "reason": "PDF ghi Tri thức cho Intellectual (adj/n); giữ nguyên cách viết, cần rà soát nghĩa danh từ."
+    },
+    {
+      "sourceRow": 32,
+      "category": "synonym",
+      "original": "Logic / Rationale (n): Lập luận logic",
+      "reason": "PDF chỉ cung cấp một nghĩa chung cho hai từ/cụm. Mỗi từ có một thẻ, cùng giữ nguyên nghĩa nguồn; cần rà soát bản dịch riêng trước khi xác nhận nội dung."
+    },
+    {
+      "sourceRow": 33,
+      "category": "synonym",
+      "original": "Capability / Power (n): Năng lực",
+      "reason": "PDF chỉ cung cấp một nghĩa chung cho hai từ/cụm. Mỗi từ có một thẻ, cùng giữ nguyên nghĩa nguồn; cần rà soát bản dịch riêng trước khi xác nhận nội dung."
+    },
+    {
+      "sourceRow": 34,
+      "category": "synonym",
+      "original": "Provoke / Spur (v): Kích thích, thúc đẩy",
+      "reason": "Nghĩa ghép bằng dấu phẩy; tách theo thứ tự Provoke → Kích thích, Spur → thúc đẩy. Cần duyệt ánh xạ."
+    },
+    {
+      "sourceRow": 36,
+      "category": "synonym",
+      "original": "Memory / Recollection (n): Trí nhớ",
+      "reason": "PDF chỉ cung cấp một nghĩa chung cho hai từ/cụm. Mỗi từ có một thẻ, cùng giữ nguyên nghĩa nguồn; cần rà soát bản dịch riêng trước khi xác nhận nội dung."
+    },
+    {
+      "sourceRow": 41,
+      "category": "synonym",
+      "original": "Toughness / Bouncing back (n): Sự dai sức",
+      "reason": "PDF chỉ cung cấp một nghĩa chung cho hai từ/cụm. Mỗi từ có một thẻ, cùng giữ nguyên nghĩa nguồn; cần rà soát bản dịch riêng trước khi xác nhận nội dung."
+    },
+    {
+      "sourceRow": 44,
+      "category": "synonym",
+      "original": "Apprehension / Distress (n): Sự sợ hãi lo âu",
+      "reason": "PDF chỉ cung cấp một nghĩa chung cho hai từ/cụm. Mỗi từ có một thẻ, cùng giữ nguyên nghĩa nguồn; cần rà soát bản dịch riêng trước khi xác nhận nội dung."
+    },
+    {
+      "sourceRow": 45,
+      "category": "synonym",
+      "original": "Managing / Handling (v): Xử lý, quản lý",
+      "reason": "PDF chỉ cung cấp một nghĩa chung cho hai từ/cụm. Mỗi từ có một thẻ, cùng giữ nguyên nghĩa nguồn; cần rà soát bản dịch riêng trước khi xác nhận nội dung."
+    },
+    {
+      "sourceRow": 46,
+      "category": "synonym",
+      "original": "Constraint / Restraint (n): Sự kìm hãm",
+      "reason": "PDF chỉ cung cấp một nghĩa chung cho hai từ/cụm. Mỗi từ có một thẻ, cùng giữ nguyên nghĩa nguồn; cần rà soát bản dịch riêng trước khi xác nhận nội dung."
+    },
+    {
+      "sourceRow": 47,
+      "category": "synonym",
+      "original": "Self-esteem / Pride (n): Lòng tự trọng",
+      "reason": "PDF chỉ cung cấp một nghĩa chung cho hai từ/cụm. Mỗi từ có một thẻ, cùng giữ nguyên nghĩa nguồn; cần rà soát bản dịch riêng trước khi xác nhận nội dung."
+    },
+    {
+      "sourceRow": 48,
+      "category": "synonym",
+      "original": "Isolation / Estrangement (n): Sự cô lập",
+      "reason": "PDF chỉ cung cấp một nghĩa chung cho hai từ/cụm. Mỗi từ có một thẻ, cùng giữ nguyên nghĩa nguồn; cần rà soát bản dịch riêng trước khi xác nhận nội dung."
+    },
+    {
+      "sourceRow": 50,
+      "category": "synonym",
+      "original": "Composure / Serenity (n): Sự tĩnh tâm",
+      "reason": "PDF chỉ cung cấp một nghĩa chung cho hai từ/cụm. Mỗi từ có một thẻ, cùng giữ nguyên nghĩa nguồn; cần rà soát bản dịch riêng trước khi xác nhận nội dung."
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "unit-2",
+    "number": 2,
+    "title": "Human Development & Health",
+    "description": "Khám phá từ vựng về sự phát triển của con người và sức khỏe.",
+    "sections": [
+      { "id": "physical", "title": "Thể chất & cơ thể", "description": "Từ vựng về cơ thể và đặc điểm thể chất." },
+      { "id": "development", "title": "Sự phát triển", "description": "Từ vựng về quá trình trưởng thành." },
+      { "id": "mental", "title": "Sức khỏe tinh thần", "description": "Từ vựng về cảm xúc và tâm lý." },
+      { "id": "health", "title": "Sức khỏe & đời sống", "description": "Nhóm dự kiến, chưa có thẻ demo." }
+    ]
+  }
+]
