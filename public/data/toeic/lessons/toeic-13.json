@@ -1,0 +1,228 @@
+{
+  "schemaVersion": 1,
+  "collectionId": "toeic-vocabulary",
+  "lessonId": "toeic-13",
+  "approval": {
+    "rightsStatus": "verified",
+    "rightsReference": "Unlocked by explicit user instruction on 2026-11-18; common English words, project-authored concise Vietnamese Quiz prompts, parts of speech, and reviewed 4-option sets only; no third-party examples, explanations, images, or audio.",
+    "contentStatus": "approved"
+  },
+  "entries": [
+    {
+      "id": "toeic600-5067157de85d5d515fb50e24aa424fc4",
+      "lessonId": "toeic-13",
+      "english": "advanced",
+      "vietnamese": "Tiên tiến",
+      "partOfSpeech": "adj.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "advanced"
+        ],
+        "distractorIds": [
+          "toeic600-e11e0575cd7e03a2a61bda94bcc12dcb",
+          "toeic600-0da6fdfa6376000ccc93405a11249ac2",
+          "toeic600-67fb38c5a1440296d416005a3566787c"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-5e7f88d920269c5616b5bf2c0145a4b8",
+      "lessonId": "toeic-13",
+      "english": "association",
+      "vietnamese": "Hiệp hội",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "association"
+        ],
+        "distractorIds": [
+          "toeic600-67fb38c5a1440296d416005a3566787c",
+          "toeic600-4e8163542e9c964ab05b6f2814d3f37e",
+          "toeic600-0da6fdfa6376000ccc93405a11249ac2"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-d098e26c5c7ca31422f6d850246f261d",
+      "lessonId": "toeic-13",
+      "english": "balance",
+      "vietnamese": "Đối chiếu, cân đối thu chi",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "balance"
+        ],
+        "distractorIds": [
+          "toeic600-0da6fdfa6376000ccc93405a11249ac2",
+          "toeic600-67fb38c5a1440296d416005a3566787c",
+          "toeic600-4e8163542e9c964ab05b6f2814d3f37e"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-e11e0575cd7e03a2a61bda94bcc12dcb",
+      "lessonId": "toeic-13",
+      "english": "multiple",
+      "vietnamese": "Gồm nhiều phần, nhiều người",
+      "partOfSpeech": "adj.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "multiple"
+        ],
+        "distractorIds": [
+          "toeic600-4e8163542e9c964ab05b6f2814d3f37e",
+          "toeic600-0da6fdfa6376000ccc93405a11249ac2",
+          "toeic600-67fb38c5a1440296d416005a3566787c"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-cd6710ca9a4c960580f9aa03720e6cc1",
+      "lessonId": "toeic-13",
+      "english": "condition",
+      "vietnamese": "Tình trạng của một vật",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "condition"
+        ],
+        "distractorIds": [
+          "toeic600-0da6fdfa6376000ccc93405a11249ac2",
+          "toeic600-67fb38c5a1440296d416005a3566787c",
+          "toeic600-4e8163542e9c964ab05b6f2814d3f37e"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-0da6fdfa6376000ccc93405a11249ac2",
+      "lessonId": "toeic-13",
+      "english": "dividend",
+      "vietnamese": "Cổ tức",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "dividend"
+        ],
+        "distractorIds": [
+          "toeic600-67fb38c5a1440296d416005a3566787c",
+          "toeic600-4e8163542e9c964ab05b6f2814d3f37e",
+          "toeic600-e11e0575cd7e03a2a61bda94bcc12dcb"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-24c9a52a48ad5ad09a0d35f7b736f118",
+      "lessonId": "toeic-13",
+      "english": "emphasize",
+      "vietnamese": "Nhấn mạnh",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "emphasize"
+        ],
+        "distractorIds": [
+          "toeic600-e11e0575cd7e03a2a61bda94bcc12dcb",
+          "toeic600-0da6fdfa6376000ccc93405a11249ac2",
+          "toeic600-67fb38c5a1440296d416005a3566787c"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-ad4447209ba6567bb1db5d2345da2cc8",
+      "lessonId": "toeic-13",
+      "english": "list",
+      "vietnamese": "Danh sách",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "list"
+        ],
+        "distractorIds": [
+          "toeic600-67fb38c5a1440296d416005a3566787c",
+          "toeic600-4e8163542e9c964ab05b6f2814d3f37e",
+          "toeic600-0da6fdfa6376000ccc93405a11249ac2"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-6fbadb25b58cc9cc0e34a5407f331c97",
+      "lessonId": "toeic-13",
+      "english": "lock into",
+      "vietnamese": "Ràng buộc vào một lựa chọn khó thay đổi",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "lock into"
+        ],
+        "distractorIds": [
+          "toeic600-4e8163542e9c964ab05b6f2814d3f37e",
+          "toeic600-e11e0575cd7e03a2a61bda94bcc12dcb",
+          "toeic600-0da6fdfa6376000ccc93405a11249ac2"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-4e8163542e9c964ab05b6f2814d3f37e",
+      "lessonId": "toeic-13",
+      "english": "recognition",
+      "vietnamese": "Sự ghi nhận, công nhận",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "recognition"
+        ],
+        "distractorIds": [
+          "toeic600-0da6fdfa6376000ccc93405a11249ac2",
+          "toeic600-67fb38c5a1440296d416005a3566787c",
+          "toeic600-e11e0575cd7e03a2a61bda94bcc12dcb"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-fa2e00d04385e24e18d461446e10e8e2",
+      "lessonId": "toeic-13",
+      "english": "remind",
+      "vietnamese": "Nhắc nhở",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "remind"
+        ],
+        "distractorIds": [
+          "toeic600-0da6fdfa6376000ccc93405a11249ac2",
+          "toeic600-67fb38c5a1440296d416005a3566787c",
+          "toeic600-4e8163542e9c964ab05b6f2814d3f37e"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-67fb38c5a1440296d416005a3566787c",
+      "lessonId": "toeic-13",
+      "english": "thrill",
+      "vietnamese": "Cảm giác phấn khích",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "thrill"
+        ],
+        "distractorIds": [
+          "toeic600-0da6fdfa6376000ccc93405a11249ac2",
+          "toeic600-4e8163542e9c964ab05b6f2814d3f37e",
+          "toeic600-e11e0575cd7e03a2a61bda94bcc12dcb"
+        ]
+      }
+    }
+  ]
+}

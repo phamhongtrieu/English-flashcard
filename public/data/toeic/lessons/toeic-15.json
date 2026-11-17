@@ -1,0 +1,210 @@
+{
+  "schemaVersion": 1,
+  "collectionId": "toeic-vocabulary",
+  "lessonId": "toeic-15",
+  "approval": {
+    "rightsStatus": "verified",
+    "rightsReference": "Unlocked by explicit user instruction on 2026-11-18; common English words, project-authored concise Vietnamese Quiz prompts, parts of speech, and reviewed 4-option sets only; no third-party examples, explanations, images, or audio.",
+    "contentStatus": "approved"
+  },
+  "entries": [
+    {
+      "id": "toeic600-77a8e1ecea7ac4d44a91a103e3e679ca",
+      "lessonId": "toeic-15",
+      "english": "creative",
+      "vietnamese": "Có khả năng sáng tạo",
+      "partOfSpeech": "adj.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "creative"
+        ],
+        "distractorIds": [
+          "toeic600-8abe950b6c84105ef646516349b3a1c5",
+          "toeic600-da9d6bc43837124aa04987d468f9e701",
+          "toeic600-04adb18c68929bbf146acfff37c14898"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-0e2dbc4b40cf5d8288ef59e0e2c63fef",
+      "lessonId": "toeic-15",
+      "english": "regardless",
+      "vietnamese": "Bất chấp, không phụ thuộc vào",
+      "partOfSpeech": "adv.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "regardless"
+        ],
+        "distractorIds": [
+          "toeic600-04adb18c68929bbf146acfff37c14898",
+          "toeic600-da9d6bc43837124aa04987d468f9e701",
+          "toeic600-8abe950b6c84105ef646516349b3a1c5"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-683f27631394413402d7cd8ae63102c4",
+      "lessonId": "toeic-15",
+      "english": "client",
+      "vietnamese": "Khách hàng sử dụng dịch vụ",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "client"
+        ],
+        "distractorIds": [
+          "toeic600-04adb18c68929bbf146acfff37c14898",
+          "toeic600-da9d6bc43837124aa04987d468f9e701",
+          "toeic600-8abe950b6c84105ef646516349b3a1c5"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-8abe950b6c84105ef646516349b3a1c5",
+      "lessonId": "toeic-15",
+      "english": "overcrowded",
+      "vietnamese": "Chật ních người",
+      "partOfSpeech": "adj.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "overcrowded"
+        ],
+        "distractorIds": [
+          "toeic600-f88074aa60d86d78d713c088cbd721d7",
+          "toeic600-04adb18c68929bbf146acfff37c14898",
+          "toeic600-252e77034883e69bed9580cd685a751f"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-2485374e5cb7d0ceebc653f927ef089c",
+      "lessonId": "toeic-15",
+      "english": "diagnose",
+      "vietnamese": "Chẩn đoán",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "diagnose"
+        ],
+        "distractorIds": [
+          "toeic600-f6e2bd4bb756a4e6951be03a559c0f9a",
+          "toeic600-589bc48d7c6394814be69341e4fbacc2",
+          "toeic600-b5535c42180bd73cccc66f58cba52938"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-f6e2bd4bb756a4e6951be03a559c0f9a",
+      "lessonId": "toeic-15",
+      "english": "engage",
+      "vietnamese": "Thu hút sự chú ý, lôi cuốn",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "engage"
+        ],
+        "distractorIds": [
+          "toeic600-8abe950b6c84105ef646516349b3a1c5",
+          "toeic600-f88074aa60d86d78d713c088cbd721d7",
+          "toeic600-04adb18c68929bbf146acfff37c14898"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-f88074aa60d86d78d713c088cbd721d7",
+      "lessonId": "toeic-15",
+      "english": "link",
+      "vietnamese": "Mối liên hệ",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "link"
+        ],
+        "distractorIds": [
+          "toeic600-04adb18c68929bbf146acfff37c14898",
+          "toeic600-8abe950b6c84105ef646516349b3a1c5",
+          "toeic600-252e77034883e69bed9580cd685a751f"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-589bc48d7c6394814be69341e4fbacc2",
+      "lessonId": "toeic-15",
+      "english": "look to",
+      "vietnamese": "Trông cậy vào ai để được giúp đỡ",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "look to"
+        ],
+        "distractorIds": [
+          "toeic600-da9d6bc43837124aa04987d468f9e701",
+          "toeic600-8abe950b6c84105ef646516349b3a1c5",
+          "toeic600-04adb18c68929bbf146acfff37c14898"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-da9d6bc43837124aa04987d468f9e701",
+      "lessonId": "toeic-15",
+      "english": "reason",
+      "vietnamese": "Lý do",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "reason"
+        ],
+        "distractorIds": [
+          "toeic600-04adb18c68929bbf146acfff37c14898",
+          "toeic600-8abe950b6c84105ef646516349b3a1c5",
+          "toeic600-252e77034883e69bed9580cd685a751f"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-b5535c42180bd73cccc66f58cba52938",
+      "lessonId": "toeic-15",
+      "english": "repel",
+      "vietnamese": "Làm người khác chán ghét, muốn tránh xa",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "repel"
+        ],
+        "distractorIds": [
+          "toeic600-da9d6bc43837124aa04987d468f9e701",
+          "toeic600-8abe950b6c84105ef646516349b3a1c5",
+          "toeic600-04adb18c68929bbf146acfff37c14898"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-04adb18c68929bbf146acfff37c14898",
+      "lessonId": "toeic-15",
+      "english": "theme",
+      "vietnamese": "Đề tài, chủ đề",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "theme"
+        ],
+        "distractorIds": [
+          "toeic600-da9d6bc43837124aa04987d468f9e701",
+          "toeic600-8abe950b6c84105ef646516349b3a1c5",
+          "toeic600-252e77034883e69bed9580cd685a751f"
+        ]
+      }
+    }
+  ]
+}

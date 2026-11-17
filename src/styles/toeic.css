@@ -1,0 +1,67 @@
+.toeic-page { padding-block: 32px 60px; }
+.toeic-heading { margin-block: 20px 32px; max-width: 760px; }
+.toeic-heading h1 { margin-block: 16px 12px; font-size: clamp(27px, 4vw, 39px); letter-spacing: -1px; line-height: 1.2; }
+.toeic-heading p, .toeic-section-heading p { color: var(--muted); font-size: 14px; line-height: 1.8; }
+.toeic-section-heading { margin-block: 32px 20px; }
+.toeic-section-heading h2 { font-size: 21px; margin-bottom: 9px; font-weight: 650; }
+.toeic-lessons { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 16px; }
+.toeic-lesson, .toeic-panel { background: var(--surface); border: 1px solid var(--border); border-radius: 18px; box-shadow: var(--shadow); padding: 25px; min-width: 0; }
+.toeic-lesson { display: flex; gap: 18px; align-items: flex-start; }
+.toeic-lesson-number { display: grid; place-items: center; flex-shrink: 0; width: 43px; height: 43px; background: var(--soft); color: var(--primary); border-radius: 13px; font-weight: 700; }
+.toeic-lesson-body { min-width: 0; flex: 1; }
+.toeic-lesson h3 { font-size: 16px; font-weight: 650; margin-bottom: 9px; }
+.toeic-lesson p { font-size: 12px; line-height: 1.8; color: var(--muted); margin-block: 7px; }
+.toeic-lesson .button { margin-top: 16px; }
+.toeic-lesson .badge { margin-top: 9px; }
+.toeic-lesson-state { color: var(--primary) !important; }
+.toeic-page progress { accent-color: var(--primary); width: 100%; height: 7px; display: block; margin-block: 14px; border: 0; border-radius: 10px; overflow: hidden; background: var(--soft); }
+.toeic-page progress::-webkit-progress-bar { background: var(--soft); }.toeic-page progress::-webkit-progress-value { background: var(--primary); }.toeic-page progress::-moz-progress-bar { background: var(--primary); }
+.toeic-notice { padding: 18px; background: var(--soft); color: var(--text); border: 1px solid var(--border); border-radius: 12px; font-size: 13px; line-height: 1.8; margin-block: 20px; }
+.toeic-notice .button { margin-top: 12px; }
+.toeic-round { display: grid; grid-template-columns: minmax(0, 1fr) 240px; gap: 24px; align-items: start; }
+.toeic-round > .toeic-notice { grid-column: 1 / -1; margin: 0; }
+.toeic-question-meta { display: flex; justify-content: space-between; align-items: center; gap: 12px; font-size: 12px; color: var(--muted); }
+.toeic-prompt-label { margin-top: 30px; font-size: 12px; color: var(--muted); }
+.toeic-question h2 { font-size: clamp(23px, 3vw, 30px); font-weight: 650; line-height: 1.5; margin-block: 12px; overflow-wrap: anywhere; }
+.toeic-page h2:focus { outline: none; }
+.toeic-options { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-top: 28px; }
+.toeic-option { display: flex; align-items: center; flex-wrap: wrap; gap: 12px; min-width: 0; min-height: 76px; padding: 16px; border: 1px solid var(--border); border-radius: 13px; color: var(--text); background: var(--subtle); text-align: left; font-size: 16px; overflow-wrap: anywhere; }
+.toeic-option > span:nth-child(2) { flex: 1; min-width: 0; }
+.toeic-option:not(:disabled):hover { border-color: var(--primary); background: var(--soft); }
+.toeic-letter { flex-shrink: 0; display: grid; place-items: center; width: 31px; height: 31px; background: var(--surface); color: var(--primary); border: 1px solid var(--border); border-radius: 8px; font-size: 12px; font-weight: 700; }
+.toeic-option:disabled { opacity: 1; }
+.toeic-option.is-correct { background: #edf7ee; border-color: #508659; color: #254e2c; }
+.toeic-option.is-incorrect { background: #fff0f1; border-color: #bf6a7a; color: #873245; }
+.dark .toeic-option.is-correct { background: #203a2c; color: #bce4c1; border-color: #6d9e77; }
+.dark .toeic-option.is-incorrect { background: #442a35; color: #f6c1cd; border-color: #d88a9c; }
+.toeic-option-mark { width: 100%; font-size: 11px; font-weight: 600; padding-left: 43px; }
+.toeic-feedback { min-height: 62px; margin-top: 20px; font-size: 14px; line-height: 1.8; color: var(--primary); }
+.toeic-actions { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 16px; font-size: 12px; color: var(--muted); margin-top: 15px; }
+.toeic-companion { min-width: 0; position: sticky; top: 20px; }
+.toeic-companion .study-mascot { width: 100%; margin: 0; }
+.toeic-summary { text-align: center; padding-block: 38px; }
+.toeic-summary h2 { font-size: 25px; margin-block: 24px; }
+.toeic-summary p { font-size: 14px; line-height: 1.8; color: var(--muted); }
+.toeic-summary .toeic-score { font-size: 64px; line-height: 1.4; color: var(--primary); font-weight: 700; }
+.toeic-score span { font-size: 16px; font-weight: 450; color: var(--muted); }
+.toeic-metrics { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; margin-block: 25px; }
+.toeic-metrics span { font-size: 12px; color: var(--muted); }
+.toeic-metrics strong { font-size: 23px; color: var(--text); display: block; margin-bottom: 8px; }
+.toeic-summary .toeic-actions { justify-content: center; margin-top: 24px; }
+.toeic-history { font-size: 12px; color: var(--muted); margin-top: 20px; }
+.toeic-page summary { cursor: pointer; padding-block: 8px; }
+.toeic-history ol { padding-left: 18px; }.toeic-history li { margin-block: 12px; }.toeic-history li span { display: block; margin-top: 5px; }
+@media (max-width: 980px) { .header-inner { gap: 12px; }.nav-link { padding-inline: 10px; } }
+@media (max-width: 760px) {
+  .toeic-round { grid-template-columns: minmax(0, 1fr); }
+  .toeic-companion { position: static; max-width: 320px; justify-self: center; width: 100%; }
+  .toeic-lessons { grid-template-columns: 1fr; }
+  .header-inner { flex-wrap: wrap; padding-block: 15px; }.header-inner nav { order: 3; width: 100%; justify-content: center; gap: 4px; }.header-inner .theme-button { margin-left: auto; }
+  .header-inner .nav-link { padding: 10px 8px; font-size: 11px; gap: 5px; }
+}
+@media (max-width: 480px) {
+  .toeic-page { padding-top: 18px; }.toeic-panel, .toeic-lesson { padding: 18px; }.toeic-lesson { gap: 12px; }
+  .toeic-options { grid-template-columns: minmax(0, 1fr); }.toeic-option { min-height: 62px; }
+  .toeic-question-meta { flex-wrap: wrap; }.toeic-metrics { gap: 8px; }
+  .header-inner .nav-link { padding-inline: 6px; gap: 4px; }.header-inner .nav-link svg { width: 14px; height: 14px; }
+}

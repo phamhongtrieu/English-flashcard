@@ -1,0 +1,192 @@
+{
+  "schemaVersion": 1,
+  "collectionId": "toeic-vocabulary",
+  "lessonId": "toeic-03",
+  "approval": {
+    "rightsStatus": "verified",
+    "rightsReference": "Unlocked by explicit user instruction on 2026-11-18; common English words, project-authored concise Vietnamese Quiz prompts, parts of speech, and reviewed 4-option sets only; no third-party examples, explanations, images, or audio.",
+    "contentStatus": "approved"
+  },
+  "entries": [
+    {
+      "id": "toeic600-9150cd7f1339ce8bcfd19327dc2192b3",
+      "lessonId": "toeic-03",
+      "english": "abundant",
+      "vietnamese": "Dồi dào, phong phú",
+      "partOfSpeech": "adj.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "abundant"
+        ],
+        "distractorIds": [
+          "toeic600-c77e18f477f7b5c61206b2e1ae9209b1",
+          "toeic600-cb11d93585f82668c0e431c2497f7c09",
+          "toeic600-8767d83f42e4a4e24dc0190cb780e6f5"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-c77e18f477f7b5c61206b2e1ae9209b1",
+      "lessonId": "toeic-03",
+      "english": "deluxe",
+      "vietnamese": "Sang trọng, chất lượng cao",
+      "partOfSpeech": "adj.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "deluxe"
+        ],
+        "distractorIds": [
+          "toeic600-9150cd7f1339ce8bcfd19327dc2192b3",
+          "toeic600-cb11d93585f82668c0e431c2497f7c09",
+          "toeic600-8767d83f42e4a4e24dc0190cb780e6f5"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-2d46d5e8366866f3f5dc79665db0ff6c",
+      "lessonId": "toeic-03",
+      "english": "promptly",
+      "vietnamese": "Một cách nhanh chóng, không chậm trễ",
+      "partOfSpeech": "adv.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "promptly"
+        ],
+        "distractorIds": [
+          "toeic600-8767d83f42e4a4e24dc0190cb780e6f5",
+          "toeic600-c77e18f477f7b5c61206b2e1ae9209b1",
+          "toeic600-9150cd7f1339ce8bcfd19327dc2192b3"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-c312b5ae03530c9626ba3fb383438bbc",
+      "lessonId": "toeic-03",
+      "english": "comfort",
+      "vietnamese": "Sự thoải mái",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "comfort"
+        ],
+        "distractorIds": [
+          "toeic600-cb11d93585f82668c0e431c2497f7c09",
+          "toeic600-8767d83f42e4a4e24dc0190cb780e6f5",
+          "toeic600-c77e18f477f7b5c61206b2e1ae9209b1"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-a53820d134d59071d73d7d9067deaa59",
+      "lessonId": "toeic-03",
+      "english": "element",
+      "vietnamese": "Yếu tố cấu thành",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "element"
+        ],
+        "distractorIds": [
+          "toeic600-cb11d93585f82668c0e431c2497f7c09",
+          "toeic600-8767d83f42e4a4e24dc0190cb780e6f5",
+          "toeic600-9150cd7f1339ce8bcfd19327dc2192b3"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-2505363872ba1e5468cdd67c0d5d757b",
+      "lessonId": "toeic-03",
+      "english": "diversify",
+      "vietnamese": "Đa dạng hóa",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "diversify"
+        ],
+        "distractorIds": [
+          "toeic600-9150cd7f1339ce8bcfd19327dc2192b3",
+          "toeic600-cb11d93585f82668c0e431c2497f7c09",
+          "toeic600-8767d83f42e4a4e24dc0190cb780e6f5"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-b3f53140757091cc4bd231948eeb18a2",
+      "lessonId": "toeic-03",
+      "english": "invest",
+      "vietnamese": "Đầu tư",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "invest"
+        ],
+        "distractorIds": [
+          "toeic600-8767d83f42e4a4e24dc0190cb780e6f5",
+          "toeic600-c77e18f477f7b5c61206b2e1ae9209b1",
+          "toeic600-9150cd7f1339ce8bcfd19327dc2192b3"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-8767d83f42e4a4e24dc0190cb780e6f5",
+      "lessonId": "toeic-03",
+      "english": "reflection",
+      "vietnamese": "Hình ảnh phản chiếu",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "reflection"
+        ],
+        "distractorIds": [
+          "toeic600-cb11d93585f82668c0e431c2497f7c09",
+          "toeic600-9150cd7f1339ce8bcfd19327dc2192b3",
+          "toeic600-c77e18f477f7b5c61206b2e1ae9209b1"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-0e02e7da51624a08417c038e07827f83",
+      "lessonId": "toeic-03",
+      "english": "reinforce",
+      "vietnamese": "Tăng cường, củng cố",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "reinforce"
+        ],
+        "distractorIds": [
+          "toeic600-9150cd7f1339ce8bcfd19327dc2192b3",
+          "toeic600-cb11d93585f82668c0e431c2497f7c09",
+          "toeic600-8767d83f42e4a4e24dc0190cb780e6f5"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-cb11d93585f82668c0e431c2497f7c09",
+      "lessonId": "toeic-03",
+      "english": "wage",
+      "vietnamese": "Tiền công trả cho công việc",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "wage"
+        ],
+        "distractorIds": [
+          "toeic600-8767d83f42e4a4e24dc0190cb780e6f5",
+          "toeic600-9150cd7f1339ce8bcfd19327dc2192b3",
+          "toeic600-c77e18f477f7b5c61206b2e1ae9209b1"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "schemaVersion": 1,
+  "collectionId": "toeic-vocabulary",
+  "lessonId": "toeic-16",
+  "approval": {
+    "rightsStatus": "verified",
+    "rightsReference": "Unlocked by explicit user instruction on 2026-11-18; common English words, project-authored concise Vietnamese Quiz prompts, parts of speech, and reviewed 4-option sets only; no third-party examples, explanations, images, or audio.",
+    "contentStatus": "approved"
+  },
+  "entries": [
+    {
+      "id": "toeic600-7cd41a2d08282c384d70fce9ef6a8807",
+      "lessonId": "toeic-16",
+      "english": "accountant",
+      "vietnamese": "Kế toán viên",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "accountant"
+        ],
+        "distractorIds": [
+          "toeic600-429b5295b1531a695e5f061950c1ff16",
+          "toeic600-c6f5cfd620c1346b84d1f7fc36048812",
+          "toeic600-3655c551e6ebb7455f929c81d61e0679"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-9e962c090cf39b2d22631dc88103c584",
+      "lessonId": "toeic-16",
+      "english": "assist",
+      "vietnamese": "Giúp đỡ",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "assist"
+        ],
+        "distractorIds": [
+          "toeic600-429b5295b1531a695e5f061950c1ff16",
+          "toeic600-7cd41a2d08282c384d70fce9ef6a8807",
+          "toeic600-c6f5cfd620c1346b84d1f7fc36048812"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-429b5295b1531a695e5f061950c1ff16",
+      "lessonId": "toeic-16",
+      "english": "basis",
+      "vietnamese": "Cơ sở, căn cứ cho một quyết định",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "basis"
+        ],
+        "distractorIds": [
+          "toeic600-7cd41a2d08282c384d70fce9ef6a8807",
+          "toeic600-c6f5cfd620c1346b84d1f7fc36048812",
+          "toeic600-3655c551e6ebb7455f929c81d61e0679"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-3655c551e6ebb7455f929c81d61e0679",
+      "lessonId": "toeic-16",
+      "english": "mandatory",
+      "vietnamese": "Bắt buộc",
+      "partOfSpeech": "adj.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "mandatory"
+        ],
+        "distractorIds": [
+          "toeic600-7cd41a2d08282c384d70fce9ef6a8807",
+          "toeic600-c6f5cfd620c1346b84d1f7fc36048812",
+          "toeic600-429b5295b1531a695e5f061950c1ff16"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-dc48a9cc333cf512048fd12bc99360dc",
+      "lessonId": "toeic-16",
+      "english": "confidence",
+      "vietnamese": "Sự tin tưởng",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "confidence"
+        ],
+        "distractorIds": [
+          "toeic600-429b5295b1531a695e5f061950c1ff16",
+          "toeic600-7cd41a2d08282c384d70fce9ef6a8807",
+          "toeic600-c6f5cfd620c1346b84d1f7fc36048812"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-3b0776f8595af02bba62e5632bf27c0d",
+      "lessonId": "toeic-16",
+      "english": "distraction",
+      "vietnamese": "Điều làm chuyển hướng chú ý",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "distraction"
+        ],
+        "distractorIds": [
+          "toeic600-c6f5cfd620c1346b84d1f7fc36048812",
+          "toeic600-429b5295b1531a695e5f061950c1ff16",
+          "toeic600-7cd41a2d08282c384d70fce9ef6a8807"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-c6f5cfd620c1346b84d1f7fc36048812",
+      "lessonId": "toeic-16",
+      "english": "expert",
+      "vietnamese": "Chuyên gia",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "expert"
+        ],
+        "distractorIds": [
+          "toeic600-7cd41a2d08282c384d70fce9ef6a8807",
+          "toeic600-429b5295b1531a695e5f061950c1ff16",
+          "toeic600-3655c551e6ebb7455f929c81d61e0679"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-d1698de4404e5b526dbfc93ade049070",
+      "lessonId": "toeic-16",
+      "english": "illuminate",
+      "vietnamese": "Chiếu sáng",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "illuminate"
+        ],
+        "distractorIds": [
+          "toeic600-c6f5cfd620c1346b84d1f7fc36048812",
+          "toeic600-3655c551e6ebb7455f929c81d61e0679",
+          "toeic600-429b5295b1531a695e5f061950c1ff16"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-a4b7b046db7b534abe2f6dca93727f31",
+      "lessonId": "toeic-16",
+      "english": "offer",
+      "vietnamese": "Lời đề nghị",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "offer"
+        ],
+        "distractorIds": [
+          "toeic600-429b5295b1531a695e5f061950c1ff16",
+          "toeic600-7cd41a2d08282c384d70fce9ef6a8807",
+          "toeic600-c6f5cfd620c1346b84d1f7fc36048812"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-8c29c1b1a3b5d2c9232fbdbe7f7a0d61",
+      "lessonId": "toeic-16",
+      "english": "raise",
+      "vietnamese": "Nâng lên, tăng lên",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "raise"
+        ],
+        "distractorIds": [
+          "toeic600-c6f5cfd620c1346b84d1f7fc36048812",
+          "toeic600-3655c551e6ebb7455f929c81d61e0679",
+          "toeic600-429b5295b1531a695e5f061950c1ff16"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-6a61ec350f1484bca44b608035a307e8",
+      "lessonId": "toeic-16",
+      "english": "result",
+      "vietnamese": "Kết quả",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "result"
+        ],
+        "distractorIds": [
+          "toeic600-429b5295b1531a695e5f061950c1ff16",
+          "toeic600-7cd41a2d08282c384d70fce9ef6a8807",
+          "toeic600-c6f5cfd620c1346b84d1f7fc36048812"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-2559aed66c94374fb58aeb685ed4ac6f",
+      "lessonId": "toeic-16",
+      "english": "waste",
+      "vietnamese": "Lãng phí",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "waste"
+        ],
+        "distractorIds": [
+          "toeic600-3655c551e6ebb7455f929c81d61e0679",
+          "toeic600-429b5295b1531a695e5f061950c1ff16",
+          "toeic600-7cd41a2d08282c384d70fce9ef6a8807"
+        ]
+      }
+    }
+  ]
+}

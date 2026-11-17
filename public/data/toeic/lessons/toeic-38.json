@@ -1,0 +1,210 @@
+{
+  "schemaVersion": 1,
+  "collectionId": "toeic-vocabulary",
+  "lessonId": "toeic-38",
+  "approval": {
+    "rightsStatus": "verified",
+    "rightsReference": "Unlocked by explicit user instruction on 2026-11-18; common English words, project-authored concise Vietnamese Quiz prompts, parts of speech, and reviewed 4-option sets only; no third-party examples, explanations, images, or audio.",
+    "contentStatus": "approved"
+  },
+  "entries": [
+    {
+      "id": "toeic600-076afc35f5e7f7d48691ae7c73424560",
+      "lessonId": "toeic-38",
+      "english": "available",
+      "vietnamese": "Có sẵn để dùng",
+      "partOfSpeech": "adj.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "available"
+        ],
+        "distractorIds": [
+          "toeic600-7922bc92fd850aa0ce16b5da70c5a9d6",
+          "toeic600-897925c6b304187efc979625f985281d",
+          "toeic600-7317018585e8679f6de3df9815fde4dc"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-623b88b854c28cac36082662550ba24f",
+      "lessonId": "toeic-38",
+      "english": "essentially",
+      "vietnamese": "Về cơ bản",
+      "partOfSpeech": "adv.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "essentially"
+        ],
+        "distractorIds": [
+          "toeic600-7317018585e8679f6de3df9815fde4dc",
+          "toeic600-897925c6b304187efc979625f985281d",
+          "toeic600-7922bc92fd850aa0ce16b5da70c5a9d6"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-7922bc92fd850aa0ce16b5da70c5a9d6",
+      "lessonId": "toeic-38",
+      "english": "express",
+      "vietnamese": "Nhanh, hỏa tốc",
+      "partOfSpeech": "adj.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "express"
+        ],
+        "distractorIds": [
+          "toeic600-7317018585e8679f6de3df9815fde4dc",
+          "toeic600-1b3e52f24f9659f39c5e48ab5b11a6bb",
+          "toeic600-897925c6b304187efc979625f985281d"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-7317018585e8679f6de3df9815fde4dc",
+      "lessonId": "toeic-38",
+      "english": "verbally",
+      "vietnamese": "Bằng lời nói",
+      "partOfSpeech": "adv.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "verbally"
+        ],
+        "distractorIds": [
+          "toeic600-1b3e52f24f9659f39c5e48ab5b11a6bb",
+          "toeic600-897925c6b304187efc979625f985281d",
+          "toeic600-7922bc92fd850aa0ce16b5da70c5a9d6"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-0aeaa768a583c2afabc9f9908745e8f8",
+      "lessonId": "toeic-38",
+      "english": "control",
+      "vietnamese": "Điều khiển, chỉ đạo",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "control"
+        ],
+        "distractorIds": [
+          "toeic600-7317018585e8679f6de3df9815fde4dc",
+          "toeic600-7922bc92fd850aa0ce16b5da70c5a9d6",
+          "toeic600-1b3e52f24f9659f39c5e48ab5b11a6bb"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-bfa82ddd4ec6df5fa45ea90712f174f2",
+      "lessonId": "toeic-38",
+      "english": "specific",
+      "vietnamese": "Cụ thể, rõ ràng",
+      "partOfSpeech": "adj.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "specific"
+        ],
+        "distractorIds": [
+          "toeic600-1b3e52f24f9659f39c5e48ab5b11a6bb",
+          "toeic600-897925c6b304187efc979625f985281d",
+          "toeic600-7317018585e8679f6de3df9815fde4dc"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-92372425df6905279538740a9a0de74c",
+      "lessonId": "toeic-38",
+      "english": "fulfill",
+      "vietnamese": "Thực hiện trọn vẹn một cam kết",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "fulfill"
+        ],
+        "distractorIds": [
+          "toeic600-1b3e52f24f9659f39c5e48ab5b11a6bb",
+          "toeic600-897925c6b304187efc979625f985281d",
+          "toeic600-7317018585e8679f6de3df9815fde4dc"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-897925c6b304187efc979625f985281d",
+      "lessonId": "toeic-38",
+      "english": "persuasion",
+      "vietnamese": "Sự thuyết phục",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "persuasion"
+        ],
+        "distractorIds": [
+          "toeic600-1b3e52f24f9659f39c5e48ab5b11a6bb",
+          "toeic600-7317018585e8679f6de3df9815fde4dc",
+          "toeic600-7922bc92fd850aa0ce16b5da70c5a9d6"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-c2c78ab370a0a92e699d5e20f2aee558",
+      "lessonId": "toeic-38",
+      "english": "preclude",
+      "vietnamese": "Ngăn cản, khiến không thể xảy ra",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "preclude"
+        ],
+        "distractorIds": [
+          "toeic600-7317018585e8679f6de3df9815fde4dc",
+          "toeic600-7922bc92fd850aa0ce16b5da70c5a9d6",
+          "toeic600-1b3e52f24f9659f39c5e48ab5b11a6bb"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-1b3e52f24f9659f39c5e48ab5b11a6bb",
+      "lessonId": "toeic-38",
+      "english": "sense",
+      "vietnamese": "Giác quan",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "sense"
+        ],
+        "distractorIds": [
+          "toeic600-897925c6b304187efc979625f985281d",
+          "toeic600-7922bc92fd850aa0ce16b5da70c5a9d6",
+          "toeic600-7317018585e8679f6de3df9815fde4dc"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-6aeaa53661c69ca765c810eb018a221e",
+      "lessonId": "toeic-38",
+      "english": "subtract",
+      "vietnamese": "Trừ đi",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "subtract"
+        ],
+        "distractorIds": [
+          "toeic600-7317018585e8679f6de3df9815fde4dc",
+          "toeic600-7922bc92fd850aa0ce16b5da70c5a9d6",
+          "toeic600-1b3e52f24f9659f39c5e48ab5b11a6bb"
+        ]
+      }
+    }
+  ]
+}

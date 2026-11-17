@@ -1,0 +1,228 @@
+{
+  "schemaVersion": 1,
+  "collectionId": "toeic-vocabulary",
+  "lessonId": "toeic-14",
+  "approval": {
+    "rightsStatus": "verified",
+    "rightsReference": "Unlocked by explicit user instruction on 2026-11-18; common English words, project-authored concise Vietnamese Quiz prompts, parts of speech, and reviewed 4-option sets only; no third-party examples, explanations, images, or audio.",
+    "contentStatus": "approved"
+  },
+  "entries": [
+    {
+      "id": "toeic600-0ea36b3f10ac24f08c409315b31740ac",
+      "lessonId": "toeic-14",
+      "english": "annually",
+      "vietnamese": "Hàng năm, từng năm, thường niên (yearly)",
+      "partOfSpeech": "adv.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "annually"
+        ],
+        "distractorIds": [
+          "toeic600-dcdf6857328544da8da7a9218b562762",
+          "toeic600-eeed894e6292a6010cdba637dcf5a51e",
+          "toeic600-6ae10a76151a593142711f3f025c922f"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-6d0bc1d4e7585acd4740ea982f0c87c9",
+      "lessonId": "toeic-14",
+      "english": "periodically",
+      "vietnamese": "Theo định kỳ",
+      "partOfSpeech": "adv.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "periodically"
+        ],
+        "distractorIds": [
+          "toeic600-f5f0a7de1dff8e9f320f8f10a2fd7763",
+          "toeic600-aa6aa84ed463afc0f533f0d51e700d7e",
+          "toeic600-1e50b9d4a347d8e6fbf513d005090dec"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-6ae10a76151a593142711f3f025c922f",
+      "lessonId": "toeic-14",
+      "english": "efficient",
+      "vietnamese": "Làm việc hiệu quả, ít lãng phí nguồn lực",
+      "partOfSpeech": "adj.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "efficient"
+        ],
+        "distractorIds": [
+          "toeic600-1e50b9d4a347d8e6fbf513d005090dec",
+          "toeic600-f5f0a7de1dff8e9f320f8f10a2fd7763",
+          "toeic600-aa6aa84ed463afc0f533f0d51e700d7e"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-a9d7821a3dda63ae49dd4cecaafef8b2",
+      "lessonId": "toeic-14",
+      "english": "commit",
+      "vietnamese": "Dành, giao một khoản tiền cho mục đích cụ thể",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "commit"
+        ],
+        "distractorIds": [
+          "toeic600-1e50b9d4a347d8e6fbf513d005090dec",
+          "toeic600-6d0bc1d4e7585acd4740ea982f0c87c9",
+          "toeic600-f5f0a7de1dff8e9f320f8f10a2fd7763"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-dcdf6857328544da8da7a9218b562762",
+      "lessonId": "toeic-14",
+      "english": "conform",
+      "vietnamese": "Tuân theo, phù hợp với tiêu chuẩn",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "conform"
+        ],
+        "distractorIds": [
+          "toeic600-6d0bc1d4e7585acd4740ea982f0c87c9",
+          "toeic600-f5f0a7de1dff8e9f320f8f10a2fd7763",
+          "toeic600-aa6aa84ed463afc0f533f0d51e700d7e"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-1e50b9d4a347d8e6fbf513d005090dec",
+      "lessonId": "toeic-14",
+      "english": "valid",
+      "vietnamese": "Có hiệu lực",
+      "partOfSpeech": "adj.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "valid"
+        ],
+        "distractorIds": [
+          "toeic600-6d0bc1d4e7585acd4740ea982f0c87c9",
+          "toeic600-f5f0a7de1dff8e9f320f8f10a2fd7763",
+          "toeic600-aa6aa84ed463afc0f533f0d51e700d7e"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-f5f0a7de1dff8e9f320f8f10a2fd7763",
+      "lessonId": "toeic-14",
+      "english": "experiment",
+      "vietnamese": "Cuộc thí nghiệm",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "experiment"
+        ],
+        "distractorIds": [
+          "toeic600-aa6aa84ed463afc0f533f0d51e700d7e",
+          "toeic600-1e50b9d4a347d8e6fbf513d005090dec",
+          "toeic600-6d0bc1d4e7585acd4740ea982f0c87c9"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-eeed894e6292a6010cdba637dcf5a51e",
+      "lessonId": "toeic-14",
+      "english": "imply",
+      "vietnamese": "Ngụ ý, hàm ý",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "imply"
+        ],
+        "distractorIds": [
+          "toeic600-aa6aa84ed463afc0f533f0d51e700d7e",
+          "toeic600-1e50b9d4a347d8e6fbf513d005090dec",
+          "toeic600-6d0bc1d4e7585acd4740ea982f0c87c9"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-4fac8247957525939fc7a7f3a1e58c43",
+      "lessonId": "toeic-14",
+      "english": "mix-up",
+      "vietnamese": "Sự nhầm lẫn, lộn xộn",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "mix-up"
+        ],
+        "distractorIds": [
+          "toeic600-f5f0a7de1dff8e9f320f8f10a2fd7763",
+          "toeic600-aa6aa84ed463afc0f533f0d51e700d7e",
+          "toeic600-1e50b9d4a347d8e6fbf513d005090dec"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-425456779a13324ba47e0996e2a2e319",
+      "lessonId": "toeic-14",
+      "english": "reconcile",
+      "vietnamese": "Đối chiếu để làm cho số liệu khớp nhau",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "reconcile"
+        ],
+        "distractorIds": [
+          "toeic600-f5f0a7de1dff8e9f320f8f10a2fd7763",
+          "toeic600-aa6aa84ed463afc0f533f0d51e700d7e",
+          "toeic600-1e50b9d4a347d8e6fbf513d005090dec"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-aa6aa84ed463afc0f533f0d51e700d7e",
+      "lessonId": "toeic-14",
+      "english": "responsibility",
+      "vietnamese": "Trách nhiệm, bổn phận",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "responsibility"
+        ],
+        "distractorIds": [
+          "toeic600-f5f0a7de1dff8e9f320f8f10a2fd7763",
+          "toeic600-6d0bc1d4e7585acd4740ea982f0c87c9",
+          "toeic600-1e50b9d4a347d8e6fbf513d005090dec"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-09bf3a01cecb8cbf518f9b9dc6bb5809",
+      "lessonId": "toeic-14",
+      "english": "withhold",
+      "vietnamese": "Giữ lại, không cung cấp",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "withhold"
+        ],
+        "distractorIds": [
+          "toeic600-6d0bc1d4e7585acd4740ea982f0c87c9",
+          "toeic600-f5f0a7de1dff8e9f320f8f10a2fd7763",
+          "toeic600-aa6aa84ed463afc0f533f0d51e700d7e"
+        ]
+      }
+    }
+  ]
+}

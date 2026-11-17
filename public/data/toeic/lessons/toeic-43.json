@@ -1,0 +1,210 @@
+{
+  "schemaVersion": 1,
+  "collectionId": "toeic-vocabulary",
+  "lessonId": "toeic-43",
+  "approval": {
+    "rightsStatus": "verified",
+    "rightsReference": "Unlocked by explicit user instruction on 2026-11-18; common English words, project-authored concise Vietnamese Quiz prompts, parts of speech, and reviewed 4-option sets only; no third-party examples, explanations, images, or audio.",
+    "contentStatus": "approved"
+  },
+  "entries": [
+    {
+      "id": "toeic600-d3e285a00119cd569036fd76e5502282",
+      "lessonId": "toeic-43",
+      "english": "aware",
+      "vietnamese": "Có nhận thức, biết về điều gì",
+      "partOfSpeech": "adj.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "aware"
+        ],
+        "distractorIds": [
+          "toeic600-a662498bbdbf343da356a82cdce82438",
+          "toeic600-721b3dae66f543b532b59c1974c6773d",
+          "toeic600-b51ce3184aebf96d3d5a84706385ca75"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-a662498bbdbf343da356a82cdce82438",
+      "lessonId": "toeic-43",
+      "english": "compatible",
+      "vietnamese": "Tương thích, hợp nhau",
+      "partOfSpeech": "adj.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "compatible"
+        ],
+        "distractorIds": [
+          "toeic600-b51ce3184aebf96d3d5a84706385ca75",
+          "toeic600-267508184a841a8903eccf73f832b7b9",
+          "toeic600-721b3dae66f543b532b59c1974c6773d"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-721b3dae66f543b532b59c1974c6773d",
+      "lessonId": "toeic-43",
+      "english": "systematically",
+      "vietnamese": "Một cách có hệ thống",
+      "partOfSpeech": "adv.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "systematically"
+        ],
+        "distractorIds": [
+          "toeic600-a662498bbdbf343da356a82cdce82438",
+          "toeic600-b51ce3184aebf96d3d5a84706385ca75",
+          "toeic600-267508184a841a8903eccf73f832b7b9"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-0f75e5c6fd42342734b24d172bf3e321",
+      "lessonId": "toeic-43",
+      "english": "in-depth",
+      "vietnamese": "Chuyên sâu, chi tiết",
+      "partOfSpeech": "adj.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "in-depth"
+        ],
+        "distractorIds": [
+          "toeic600-a662498bbdbf343da356a82cdce82438",
+          "toeic600-721b3dae66f543b532b59c1974c6773d",
+          "toeic600-b51ce3184aebf96d3d5a84706385ca75"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-748b3f9767f08469b506a56717abd1fb",
+      "lessonId": "toeic-43",
+      "english": "decision",
+      "vietnamese": "Quyết định",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "decision"
+        ],
+        "distractorIds": [
+          "toeic600-b51ce3184aebf96d3d5a84706385ca75",
+          "toeic600-267508184a841a8903eccf73f832b7b9",
+          "toeic600-a662498bbdbf343da356a82cdce82438"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-d73d794f229892cc254a8d28e9037e4e",
+      "lessonId": "toeic-43",
+      "english": "description",
+      "vietnamese": "Sự mô tả",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "description"
+        ],
+        "distractorIds": [
+          "toeic600-267508184a841a8903eccf73f832b7b9",
+          "toeic600-b51ce3184aebf96d3d5a84706385ca75",
+          "toeic600-a662498bbdbf343da356a82cdce82438"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-011c04db3838c71a9d7468acfa90b8da",
+      "lessonId": "toeic-43",
+      "english": "facilitate",
+      "vietnamese": "Làm cho dễ dàng, thuận tiện hơn",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "facilitate"
+        ],
+        "distractorIds": [
+          "toeic600-721b3dae66f543b532b59c1974c6773d",
+          "toeic600-b51ce3184aebf96d3d5a84706385ca75",
+          "toeic600-267508184a841a8903eccf73f832b7b9"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-267508184a841a8903eccf73f832b7b9",
+      "lessonId": "toeic-43",
+      "english": "inspiration",
+      "vietnamese": "Cảm hứng",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "inspiration"
+        ],
+        "distractorIds": [
+          "toeic600-b51ce3184aebf96d3d5a84706385ca75",
+          "toeic600-721b3dae66f543b532b59c1974c6773d",
+          "toeic600-a662498bbdbf343da356a82cdce82438"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-d69b1634de232a1f317cb7eca3c2d7e7",
+      "lessonId": "toeic-43",
+      "english": "obtain",
+      "vietnamese": "Đạt được, có được",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "obtain"
+        ],
+        "distractorIds": [
+          "toeic600-267508184a841a8903eccf73f832b7b9",
+          "toeic600-a662498bbdbf343da356a82cdce82438",
+          "toeic600-721b3dae66f543b532b59c1974c6773d"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-d3ae98bae3022df76c34ec4312b4dae1",
+      "lessonId": "toeic-43",
+      "english": "procedure",
+      "vietnamese": "Thủ tục, các bước tiến hành",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "procedure"
+        ],
+        "distractorIds": [
+          "toeic600-267508184a841a8903eccf73f832b7b9",
+          "toeic600-b51ce3184aebf96d3d5a84706385ca75",
+          "toeic600-a662498bbdbf343da356a82cdce82438"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-b51ce3184aebf96d3d5a84706385ca75",
+      "lessonId": "toeic-43",
+      "english": "spouse",
+      "vietnamese": "Vợ hoặc chồng",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "spouse"
+        ],
+        "distractorIds": [
+          "toeic600-267508184a841a8903eccf73f832b7b9",
+          "toeic600-a662498bbdbf343da356a82cdce82438",
+          "toeic600-721b3dae66f543b532b59c1974c6773d"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "schemaVersion": 1,
+  "collectionId": "toeic-vocabulary",
+  "lessonId": "toeic-34",
+  "approval": {
+    "rightsStatus": "verified",
+    "rightsReference": "Unlocked by explicit user instruction on 2026-11-18; common English words, project-authored concise Vietnamese Quiz prompts, parts of speech, and reviewed 4-option sets only; no third-party examples, explanations, images, or audio.",
+    "contentStatus": "approved"
+  },
+  "entries": [
+    {
+      "id": "toeic600-571beae62f730ebf93e5aa1ce44d4267",
+      "lessonId": "toeic-34",
+      "english": "casually",
+      "vietnamese": "Một cách không trang trọng",
+      "partOfSpeech": "adv.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "casually"
+        ],
+        "distractorIds": [
+          "toeic600-58c06a18fb09a3b5838b378416373413",
+          "toeic600-4f96b70c153a27632fa7313bfa6874fa",
+          "toeic600-c2795a21f98fdf07d07923d6fd43a89d"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-ec36421ccfb89cb1f7f2c4eb9cd42381",
+      "lessonId": "toeic-34",
+      "english": "flexibly",
+      "vietnamese": "Một cách linh hoạt",
+      "partOfSpeech": "adv.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "flexibly"
+        ],
+        "distractorIds": [
+          "toeic600-58c06a18fb09a3b5838b378416373413",
+          "toeic600-4f96b70c153a27632fa7313bfa6874fa",
+          "toeic600-c2795a21f98fdf07d07923d6fd43a89d"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-f8731791128919135cbb993f0828b067",
+      "lessonId": "toeic-34",
+      "english": "exact",
+      "vietnamese": "Chính xác, đúng đắn",
+      "partOfSpeech": "adj.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "exact"
+        ],
+        "distractorIds": [
+          "toeic600-0401a967e14619511e628541b5e02af9",
+          "toeic600-0414cdafa2b48faa05fe1d950321c065",
+          "toeic600-6f71a89c9755644a42b022c07ebc8f9c"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-58c06a18fb09a3b5838b378416373413",
+      "lessonId": "toeic-34",
+      "english": "weakly",
+      "vietnamese": "Một cách yếu ớt",
+      "partOfSpeech": "adv.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "weakly"
+        ],
+        "distractorIds": [
+          "toeic600-4f96b70c153a27632fa7313bfa6874fa",
+          "toeic600-c2795a21f98fdf07d07923d6fd43a89d",
+          "toeic600-39ff1fdba2164013b1233ec68b7963a3"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-39ff1fdba2164013b1233ec68b7963a3",
+      "lessonId": "toeic-34",
+      "english": "deadline",
+      "vietnamese": "Thời hạn chót",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "deadline"
+        ],
+        "distractorIds": [
+          "toeic600-c2795a21f98fdf07d07923d6fd43a89d",
+          "toeic600-4f96b70c153a27632fa7313bfa6874fa",
+          "toeic600-58c06a18fb09a3b5838b378416373413"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-5535f579adf7075810c6a5f1cbdc1056",
+      "lessonId": "toeic-34",
+      "english": "dimension",
+      "vietnamese": "Kích thước",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "dimension"
+        ],
+        "distractorIds": [
+          "toeic600-c2795a21f98fdf07d07923d6fd43a89d",
+          "toeic600-39ff1fdba2164013b1233ec68b7963a3",
+          "toeic600-4f96b70c153a27632fa7313bfa6874fa"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-4f96b70c153a27632fa7313bfa6874fa",
+      "lessonId": "toeic-34",
+      "english": "garment",
+      "vietnamese": "Một món quần áo",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "garment"
+        ],
+        "distractorIds": [
+          "toeic600-39ff1fdba2164013b1233ec68b7963a3",
+          "toeic600-c2795a21f98fdf07d07923d6fd43a89d",
+          "toeic600-58c06a18fb09a3b5838b378416373413"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-0401a967e14619511e628541b5e02af9",
+      "lessonId": "toeic-34",
+      "english": "generate",
+      "vietnamese": "Tạo ra",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "generate"
+        ],
+        "distractorIds": [
+          "toeic600-4f96b70c153a27632fa7313bfa6874fa",
+          "toeic600-c2795a21f98fdf07d07923d6fd43a89d",
+          "toeic600-39ff1fdba2164013b1233ec68b7963a3"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-c2795a21f98fdf07d07923d6fd43a89d",
+      "lessonId": "toeic-34",
+      "english": "personnel",
+      "vietnamese": "Đội ngũ nhân viên",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "personnel"
+        ],
+        "distractorIds": [
+          "toeic600-39ff1fdba2164013b1233ec68b7963a3",
+          "toeic600-4f96b70c153a27632fa7313bfa6874fa",
+          "toeic600-58c06a18fb09a3b5838b378416373413"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-6f71a89c9755644a42b022c07ebc8f9c",
+      "lessonId": "toeic-34",
+      "english": "prefer",
+      "vietnamese": "Thích hơn",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "prefer"
+        ],
+        "distractorIds": [
+          "toeic600-4f96b70c153a27632fa7313bfa6874fa",
+          "toeic600-c2795a21f98fdf07d07923d6fd43a89d",
+          "toeic600-39ff1fdba2164013b1233ec68b7963a3"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-0414cdafa2b48faa05fe1d950321c065",
+      "lessonId": "toeic-34",
+      "english": "scrutiny",
+      "vietnamese": "Sự xem xét kỹ lưỡng",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "scrutiny"
+        ],
+        "distractorIds": [
+          "toeic600-4f96b70c153a27632fa7313bfa6874fa",
+          "toeic600-c2795a21f98fdf07d07923d6fd43a89d",
+          "toeic600-39ff1fdba2164013b1233ec68b7963a3"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-bb5a653082421922a0212667870f9c7a",
+      "lessonId": "toeic-34",
+      "english": "take back",
+      "vietnamese": "Mang trả lại",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "take back"
+        ],
+        "distractorIds": [
+          "toeic600-39ff1fdba2164013b1233ec68b7963a3",
+          "toeic600-58c06a18fb09a3b5838b378416373413",
+          "toeic600-4f96b70c153a27632fa7313bfa6874fa"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "schemaVersion": 1,
+  "collectionId": "toeic-vocabulary",
+  "lessonId": "toeic-22",
+  "approval": {
+    "rightsStatus": "verified",
+    "rightsReference": "Unlocked by explicit user instruction on 2026-11-18; common English words, project-authored concise Vietnamese Quiz prompts, parts of speech, and reviewed 4-option sets only; no third-party examples, explanations, images, or audio.",
+    "contentStatus": "approved"
+  },
+  "entries": [
+    {
+      "id": "toeic600-278fd5f90295e8b414203f152f421d5f",
+      "lessonId": "toeic-22",
+      "english": "accustom to",
+      "vietnamese": "Làm cho quen với",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "accustom to"
+        ],
+        "distractorIds": [
+          "toeic600-e06496ef48c9f5d1ee1758766fcb8404",
+          "toeic600-760a2d1a233b5e63f40c39207db7e7da",
+          "toeic600-b805e0e408c1f6dad67575c18342ccba"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-3fd7abbabe13e9cb3161557683544631",
+      "lessonId": "toeic-22",
+      "english": "inconsiderately",
+      "vietnamese": "Một cách thiếu suy xét, thiếu thận trọng",
+      "partOfSpeech": "adv.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "inconsiderately"
+        ],
+        "distractorIds": [
+          "toeic600-e06496ef48c9f5d1ee1758766fcb8404",
+          "toeic600-b805e0e408c1f6dad67575c18342ccba",
+          "toeic600-a8120a59690a618dea1084b7eff99272"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-5d12fa14950322ddd9f0d74b3864469b",
+      "lessonId": "toeic-22",
+      "english": "equivalent",
+      "vietnamese": "Tương đương",
+      "partOfSpeech": "adj.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "equivalent"
+        ],
+        "distractorIds": [
+          "toeic600-760a2d1a233b5e63f40c39207db7e7da",
+          "toeic600-e06496ef48c9f5d1ee1758766fcb8404",
+          "toeic600-b805e0e408c1f6dad67575c18342ccba"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-760a2d1a233b5e63f40c39207db7e7da",
+      "lessonId": "toeic-22",
+      "english": "long-term",
+      "vietnamese": "Dài hạn",
+      "partOfSpeech": "adj.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "long-term"
+        ],
+        "distractorIds": [
+          "toeic600-e06496ef48c9f5d1ee1758766fcb8404",
+          "toeic600-b805e0e408c1f6dad67575c18342ccba",
+          "toeic600-a8120a59690a618dea1084b7eff99272"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-a905378002d2d0809cbe42d54c8fbd58",
+      "lessonId": "toeic-22",
+      "english": "consequence",
+      "vietnamese": "Kết quả, hậu quả",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "consequence"
+        ],
+        "distractorIds": [
+          "toeic600-b805e0e408c1f6dad67575c18342ccba",
+          "toeic600-a8120a59690a618dea1084b7eff99272",
+          "toeic600-760a2d1a233b5e63f40c39207db7e7da"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-b805e0e408c1f6dad67575c18342ccba",
+      "lessonId": "toeic-22",
+      "english": "disk",
+      "vietnamese": "Đĩa lưu trữ dữ liệu",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "disk"
+        ],
+        "distractorIds": [
+          "toeic600-a8120a59690a618dea1084b7eff99272",
+          "toeic600-760a2d1a233b5e63f40c39207db7e7da",
+          "toeic600-e06496ef48c9f5d1ee1758766fcb8404"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-a8120a59690a618dea1084b7eff99272",
+      "lessonId": "toeic-22",
+      "english": "fad",
+      "vietnamese": "Mốt nhất thời",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "fad"
+        ],
+        "distractorIds": [
+          "toeic600-b805e0e408c1f6dad67575c18342ccba",
+          "toeic600-760a2d1a233b5e63f40c39207db7e7da",
+          "toeic600-e06496ef48c9f5d1ee1758766fcb8404"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-96d049600bd71743d4b617239dbf7bbe",
+      "lessonId": "toeic-22",
+      "english": "hold",
+      "vietnamese": "Chứa được",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "hold"
+        ],
+        "distractorIds": [
+          "toeic600-e06496ef48c9f5d1ee1758766fcb8404",
+          "toeic600-b805e0e408c1f6dad67575c18342ccba",
+          "toeic600-a8120a59690a618dea1084b7eff99272"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-a53dfeb2db625ad98f10e63879a7e236",
+      "lessonId": "toeic-22",
+      "english": "order",
+      "vietnamese": "Đơn đặt hàng",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "order"
+        ],
+        "distractorIds": [
+          "toeic600-b805e0e408c1f6dad67575c18342ccba",
+          "toeic600-a8120a59690a618dea1084b7eff99272",
+          "toeic600-760a2d1a233b5e63f40c39207db7e7da"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-d746718253d5927a4c98c4cc62a3dd1e",
+      "lessonId": "toeic-22",
+      "english": "promote",
+      "vietnamese": "Thúc đẩy, làm tăng",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "promote"
+        ],
+        "distractorIds": [
+          "toeic600-760a2d1a233b5e63f40c39207db7e7da",
+          "toeic600-b805e0e408c1f6dad67575c18342ccba",
+          "toeic600-a8120a59690a618dea1084b7eff99272"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-8ba95b7b0af934679b15738924553f1f",
+      "lessonId": "toeic-22",
+      "english": "revolution",
+      "vietnamese": "Cuộc cách mạng, thay đổi căn bản",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "revolution"
+        ],
+        "distractorIds": [
+          "toeic600-b805e0e408c1f6dad67575c18342ccba",
+          "toeic600-a8120a59690a618dea1084b7eff99272",
+          "toeic600-760a2d1a233b5e63f40c39207db7e7da"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-e06496ef48c9f5d1ee1758766fcb8404",
+      "lessonId": "toeic-22",
+      "english": "urge",
+      "vietnamese": "Thúc giục",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "urge"
+        ],
+        "distractorIds": [
+          "toeic600-b805e0e408c1f6dad67575c18342ccba",
+          "toeic600-a8120a59690a618dea1084b7eff99272",
+          "toeic600-760a2d1a233b5e63f40c39207db7e7da"
+        ]
+      }
+    }
+  ]
+}

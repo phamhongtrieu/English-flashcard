@@ -1,0 +1,228 @@
+{
+  "schemaVersion": 1,
+  "collectionId": "toeic-vocabulary",
+  "lessonId": "toeic-49",
+  "approval": {
+    "rightsStatus": "verified",
+    "rightsReference": "Unlocked by explicit user instruction on 2026-11-18; common English words, project-authored concise Vietnamese Quiz prompts, parts of speech, and reviewed 4-option sets only; no third-party examples, explanations, images, or audio.",
+    "contentStatus": "approved"
+  },
+  "entries": [
+    {
+      "id": "toeic600-e58a00f7412a2990e813a1b5891c8277",
+      "lessonId": "toeic-49",
+      "english": "currently",
+      "vietnamese": "Hiện tại, lúc này",
+      "partOfSpeech": "adv.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "currently"
+        ],
+        "distractorIds": [
+          "toeic600-d1ab5f43730e2a5366e55198e1295157",
+          "toeic600-ab1affcb333fa7a328c2b66e6748b630",
+          "toeic600-252e77034883e69bed9580cd685a751f"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-3a3ed2faf2440ccb4b0abaa4f1808d91",
+      "lessonId": "toeic-49",
+      "english": "allocate",
+      "vietnamese": "Phân bổ nguồn lực",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "allocate"
+        ],
+        "distractorIds": [
+          "toeic600-e58a00f7412a2990e813a1b5891c8277",
+          "toeic600-252e77034883e69bed9580cd685a751f",
+          "toeic600-d1ab5f43730e2a5366e55198e1295157"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-78762e1fe13ed6abc1dce692d5f498a9",
+      "lessonId": "toeic-49",
+      "english": "bring together",
+      "vietnamese": "Tập hợp người lại với nhau",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "bring together"
+        ],
+        "distractorIds": [
+          "toeic600-d1ab5f43730e2a5366e55198e1295157",
+          "toeic600-ab1affcb333fa7a328c2b66e6748b630",
+          "toeic600-e58a00f7412a2990e813a1b5891c8277"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-dca02de18539b51f3847cbe285cf4cb8",
+      "lessonId": "toeic-49",
+      "english": "cancellation",
+      "vietnamese": "Sự hủy bỏ",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "cancellation"
+        ],
+        "distractorIds": [
+          "toeic600-252e77034883e69bed9580cd685a751f",
+          "toeic600-d1ab5f43730e2a5366e55198e1295157",
+          "toeic600-ab1affcb333fa7a328c2b66e6748b630"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-ab1affcb333fa7a328c2b66e6748b630",
+      "lessonId": "toeic-49",
+      "english": "defect",
+      "vietnamese": "Lỗi, khuyết tật của sản phẩm",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "defect"
+        ],
+        "distractorIds": [
+          "toeic600-252e77034883e69bed9580cd685a751f",
+          "toeic600-d1ab5f43730e2a5366e55198e1295157",
+          "toeic600-e58a00f7412a2990e813a1b5891c8277"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-566a00c9b337fed17f5b3985641d3137",
+      "lessonId": "toeic-49",
+      "english": "delivery",
+      "vietnamese": "Sự giao hàng",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "delivery"
+        ],
+        "distractorIds": [
+          "toeic600-252e77034883e69bed9580cd685a751f",
+          "toeic600-d1ab5f43730e2a5366e55198e1295157",
+          "toeic600-ab1affcb333fa7a328c2b66e6748b630"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-c933b68658585d492561e280eba63715",
+      "lessonId": "toeic-49",
+      "english": "figure out",
+      "vietnamese": "Tìm ra, hiểu ra",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "figure out"
+        ],
+        "distractorIds": [
+          "toeic600-d1ab5f43730e2a5366e55198e1295157",
+          "toeic600-ab1affcb333fa7a328c2b66e6748b630",
+          "toeic600-e58a00f7412a2990e813a1b5891c8277"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-d1ab5f43730e2a5366e55198e1295157",
+      "lessonId": "toeic-49",
+      "english": "influx",
+      "vietnamese": "Sự đổ vào với số lượng lớn",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "influx"
+        ],
+        "distractorIds": [
+          "toeic600-252e77034883e69bed9580cd685a751f",
+          "toeic600-ab1affcb333fa7a328c2b66e6748b630",
+          "toeic600-e58a00f7412a2990e813a1b5891c8277"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-1a75af13b2e910ffa0f7222e373fc5e8",
+      "lessonId": "toeic-49",
+      "english": "offset",
+      "vietnamese": "Bù lại một tác động hoặc chi phí",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "offset"
+        ],
+        "distractorIds": [
+          "toeic600-252e77034883e69bed9580cd685a751f",
+          "toeic600-d1ab5f43730e2a5366e55198e1295157",
+          "toeic600-ab1affcb333fa7a328c2b66e6748b630"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-4126d58eea3a8611d89cb272c338b2bc",
+      "lessonId": "toeic-49",
+      "english": "position",
+      "vietnamese": "Vị trí công việc",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "position"
+        ],
+        "distractorIds": [
+          "toeic600-252e77034883e69bed9580cd685a751f",
+          "toeic600-d1ab5f43730e2a5366e55198e1295157",
+          "toeic600-ab1affcb333fa7a328c2b66e6748b630"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-b88ceb6455a6227db327187ef78ed383",
+      "lessonId": "toeic-49",
+      "english": "solve",
+      "vietnamese": "Giải quyết một vấn đề",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "solve"
+        ],
+        "distractorIds": [
+          "toeic600-252e77034883e69bed9580cd685a751f",
+          "toeic600-d1ab5f43730e2a5366e55198e1295157",
+          "toeic600-ab1affcb333fa7a328c2b66e6748b630"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-252e77034883e69bed9580cd685a751f",
+      "lessonId": "toeic-49",
+      "english": "software",
+      "vietnamese": "Phần mềm máy tính",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "software"
+        ],
+        "distractorIds": [
+          "toeic600-d1ab5f43730e2a5366e55198e1295157",
+          "toeic600-ab1affcb333fa7a328c2b66e6748b630",
+          "toeic600-e58a00f7412a2990e813a1b5891c8277"
+        ]
+      }
+    }
+  ]
+}

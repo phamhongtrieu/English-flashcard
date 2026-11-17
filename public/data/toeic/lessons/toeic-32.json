@@ -1,0 +1,228 @@
+{
+  "schemaVersion": 1,
+  "collectionId": "toeic-vocabulary",
+  "lessonId": "toeic-32",
+  "approval": {
+    "rightsStatus": "verified",
+    "rightsReference": "Unlocked by explicit user instruction on 2026-11-18; common English words, project-authored concise Vietnamese Quiz prompts, parts of speech, and reviewed 4-option sets only; no third-party examples, explanations, images, or audio.",
+    "contentStatus": "approved"
+  },
+  "entries": [
+    {
+      "id": "toeic600-25a0344e8db89f6260e8063ca004f88c",
+      "lessonId": "toeic-32",
+      "english": "address",
+      "vietnamese": "Đề cập và giải quyết nhu cầu, vấn đề",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "address"
+        ],
+        "distractorIds": [
+          "toeic600-c7d808518716ae22125824bc1ef9cf60",
+          "toeic600-9165d8c889c33ed325b3dba9033ebd31",
+          "toeic600-730eecbe562839acfb310650c7a853a2"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-134ca68b2399d068b5aa1838e06d3468",
+      "lessonId": "toeic-32",
+      "english": "arrive",
+      "vietnamese": "Đến nơi",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "arrive"
+        ],
+        "distractorIds": [
+          "toeic600-9165d8c889c33ed325b3dba9033ebd31",
+          "toeic600-730eecbe562839acfb310650c7a853a2",
+          "toeic600-33cc2921662d284ead794ba3a1ca069b"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-33cc2921662d284ead794ba3a1ca069b",
+      "lessonId": "toeic-32",
+      "english": "beverage",
+      "vietnamese": "Đồ uống",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "beverage"
+        ],
+        "distractorIds": [
+          "toeic600-c7d808518716ae22125824bc1ef9cf60",
+          "toeic600-9165d8c889c33ed325b3dba9033ebd31",
+          "toeic600-730eecbe562839acfb310650c7a853a2"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-c9f9615ba412721c4b32afcc44859ae8",
+      "lessonId": "toeic-32",
+      "english": "catch up",
+      "vietnamese": "Làm bù cho kịp công việc tồn đọng",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "catch up"
+        ],
+        "distractorIds": [
+          "toeic600-33cc2921662d284ead794ba3a1ca069b",
+          "toeic600-c7d808518716ae22125824bc1ef9cf60",
+          "toeic600-9165d8c889c33ed325b3dba9033ebd31"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-ce2ff4a8297e6d4ac32f829ebe1eb262",
+      "lessonId": "toeic-32",
+      "english": "continue",
+      "vietnamese": "Tiếp tục",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "continue"
+        ],
+        "distractorIds": [
+          "toeic600-33cc2921662d284ead794ba3a1ca069b",
+          "toeic600-c7d808518716ae22125824bc1ef9cf60",
+          "toeic600-9165d8c889c33ed325b3dba9033ebd31"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-bfaa93bdc764726728cb061c721931e4",
+      "lessonId": "toeic-32",
+      "english": "subject to",
+      "vietnamese": "Chịu sự chi phối của",
+      "partOfSpeech": "adj.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "subject to"
+        ],
+        "distractorIds": [
+          "toeic600-c7d808518716ae22125824bc1ef9cf60",
+          "toeic600-9165d8c889c33ed325b3dba9033ebd31",
+          "toeic600-730eecbe562839acfb310650c7a853a2"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-9165d8c889c33ed325b3dba9033ebd31",
+      "lessonId": "toeic-32",
+      "english": "fund",
+      "vietnamese": "Quỹ tiền cho một mục đích",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "fund"
+        ],
+        "distractorIds": [
+          "toeic600-33cc2921662d284ead794ba3a1ca069b",
+          "toeic600-c7d808518716ae22125824bc1ef9cf60",
+          "toeic600-730eecbe562839acfb310650c7a853a2"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-e496d7b65aab29aec2275ce22c94c426",
+      "lessonId": "toeic-32",
+      "english": "get in touch",
+      "vietnamese": "Liên lạc",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "get in touch"
+        ],
+        "distractorIds": [
+          "toeic600-730eecbe562839acfb310650c7a853a2",
+          "toeic600-33cc2921662d284ead794ba3a1ca069b",
+          "toeic600-c7d808518716ae22125824bc1ef9cf60"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-c7d808518716ae22125824bc1ef9cf60",
+      "lessonId": "toeic-32",
+      "english": "penalty",
+      "vietnamese": "Khoản tiền phạt",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "penalty"
+        ],
+        "distractorIds": [
+          "toeic600-730eecbe562839acfb310650c7a853a2",
+          "toeic600-33cc2921662d284ead794ba3a1ca069b",
+          "toeic600-9165d8c889c33ed325b3dba9033ebd31"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-65f169d84f6d6a42af54957aefde39c2",
+      "lessonId": "toeic-32",
+      "english": "present",
+      "vietnamese": "Trình bày, đưa ra",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "present"
+        ],
+        "distractorIds": [
+          "toeic600-730eecbe562839acfb310650c7a853a2",
+          "toeic600-33cc2921662d284ead794ba3a1ca069b",
+          "toeic600-c7d808518716ae22125824bc1ef9cf60"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-730eecbe562839acfb310650c7a853a2",
+      "lessonId": "toeic-32",
+      "english": "schedule",
+      "vietnamese": "Lịch trình, chương trình",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "schedule"
+        ],
+        "distractorIds": [
+          "toeic600-c7d808518716ae22125824bc1ef9cf60",
+          "toeic600-9165d8c889c33ed325b3dba9033ebd31",
+          "toeic600-33cc2921662d284ead794ba3a1ca069b"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-627062d1fd90542d445364a00df78c7d",
+      "lessonId": "toeic-32",
+      "english": "take out",
+      "vietnamese": "Rút tiền",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "take out"
+        ],
+        "distractorIds": [
+          "toeic600-c7d808518716ae22125824bc1ef9cf60",
+          "toeic600-9165d8c889c33ed325b3dba9033ebd31",
+          "toeic600-730eecbe562839acfb310650c7a853a2"
+        ]
+      }
+    }
+  ]
+}

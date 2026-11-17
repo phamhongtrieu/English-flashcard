@@ -1,0 +1,228 @@
+{
+  "schemaVersion": 1,
+  "collectionId": "toeic-vocabulary",
+  "lessonId": "toeic-31",
+  "approval": {
+    "rightsStatus": "verified",
+    "rightsReference": "Unlocked by explicit user instruction on 2026-11-18; common English words, project-authored concise Vietnamese Quiz prompts, parts of speech, and reviewed 4-option sets only; no third-party examples, explanations, images, or audio.",
+    "contentStatus": "approved"
+  },
+  "entries": [
+    {
+      "id": "toeic600-f6ea976548c50388c74c9d8446d88c0c",
+      "lessonId": "toeic-31",
+      "english": "adjustment",
+      "vietnamese": "Sự điều chỉnh",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "adjustment"
+        ],
+        "distractorIds": [
+          "toeic600-4f3fb3ae11909b35fbbc20b1b4a9f3ce",
+          "toeic600-3fff328193c1f86e6de1816f79139d8b",
+          "toeic600-144bfca919fa408b833649f170dba69b"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-f44d737268ddfda4329a00716930131e",
+      "lessonId": "toeic-31",
+      "english": "conservative",
+      "vietnamese": "Bảo thủ",
+      "partOfSpeech": "adj.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "conservative"
+        ],
+        "distractorIds": [
+          "toeic600-3fff328193c1f86e6de1816f79139d8b",
+          "toeic600-144bfca919fa408b833649f170dba69b",
+          "toeic600-4f3fb3ae11909b35fbbc20b1b4a9f3ce"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-c8f9e735d9fd9aed185714792af73dd1",
+      "lessonId": "toeic-31",
+      "english": "strictly",
+      "vietnamese": "Một cách nghiêm ngặt",
+      "partOfSpeech": "adv.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "strictly"
+        ],
+        "distractorIds": [
+          "toeic600-3fff328193c1f86e6de1816f79139d8b",
+          "toeic600-144bfca919fa408b833649f170dba69b",
+          "toeic600-4f3fb3ae11909b35fbbc20b1b4a9f3ce"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-63ee3cfbb814f969540204416f8c125b",
+      "lessonId": "toeic-31",
+      "english": "joint",
+      "vietnamese": "Chung, cùng sở hữu",
+      "partOfSpeech": "adj.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "joint"
+        ],
+        "distractorIds": [
+          "toeic600-4f3fb3ae11909b35fbbc20b1b4a9f3ce",
+          "toeic600-c8f9e735d9fd9aed185714792af73dd1",
+          "toeic600-3fff328193c1f86e6de1816f79139d8b"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-3fff328193c1f86e6de1816f79139d8b",
+      "lessonId": "toeic-31",
+      "english": "customer",
+      "vietnamese": "Khách mua hàng hoặc dịch vụ",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "customer"
+        ],
+        "distractorIds": [
+          "toeic600-144bfca919fa408b833649f170dba69b",
+          "toeic600-4f3fb3ae11909b35fbbc20b1b4a9f3ce",
+          "toeic600-c8f9e735d9fd9aed185714792af73dd1"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-144bfca919fa408b833649f170dba69b",
+      "lessonId": "toeic-31",
+      "english": "directory",
+      "vietnamese": "Danh bạ, danh sách tra cứu",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "directory"
+        ],
+        "distractorIds": [
+          "toeic600-4f3fb3ae11909b35fbbc20b1b4a9f3ce",
+          "toeic600-3fff328193c1f86e6de1816f79139d8b",
+          "toeic600-c8f9e735d9fd9aed185714792af73dd1"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-561066a6d9567670676de7c416e62a9c",
+      "lessonId": "toeic-31",
+      "english": "expand",
+      "vietnamese": "Mở rộng",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "expand"
+        ],
+        "distractorIds": [
+          "toeic600-4f3fb3ae11909b35fbbc20b1b4a9f3ce",
+          "toeic600-c8f9e735d9fd9aed185714792af73dd1",
+          "toeic600-3fff328193c1f86e6de1816f79139d8b"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-4f3fb3ae11909b35fbbc20b1b4a9f3ce",
+      "lessonId": "toeic-31",
+      "english": "itinerary",
+      "vietnamese": "Lộ trình chuyến đi",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "itinerary"
+        ],
+        "distractorIds": [
+          "toeic600-144bfca919fa408b833649f170dba69b",
+          "toeic600-3fff328193c1f86e6de1816f79139d8b",
+          "toeic600-c8f9e735d9fd9aed185714792af73dd1"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-ac672f9c0794d7c6ccc624cac44c8f4b",
+      "lessonId": "toeic-31",
+      "english": "move up",
+      "vietnamese": "Thăng tiến",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "move up"
+        ],
+        "distractorIds": [
+          "toeic600-4f3fb3ae11909b35fbbc20b1b4a9f3ce",
+          "toeic600-c8f9e735d9fd9aed185714792af73dd1",
+          "toeic600-3fff328193c1f86e6de1816f79139d8b"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-b366e66d6af812b4ccc8fbb05585a7d5",
+      "lessonId": "toeic-31",
+      "english": "provider",
+      "vietnamese": "Nhà cung cấp",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "provider"
+        ],
+        "distractorIds": [
+          "toeic600-3fff328193c1f86e6de1816f79139d8b",
+          "toeic600-144bfca919fa408b833649f170dba69b",
+          "toeic600-4f3fb3ae11909b35fbbc20b1b4a9f3ce"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-ad8c2f9104b7a47df45423f0d5cf7549",
+      "lessonId": "toeic-31",
+      "english": "revise",
+      "vietnamese": "Xem lại và chỉnh sửa",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "revise"
+        ],
+        "distractorIds": [
+          "toeic600-4f3fb3ae11909b35fbbc20b1b4a9f3ce",
+          "toeic600-c8f9e735d9fd9aed185714792af73dd1",
+          "toeic600-3fff328193c1f86e6de1816f79139d8b"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-51a6c85c7093a3fee554c191e4511e59",
+      "lessonId": "toeic-31",
+      "english": "success",
+      "vietnamese": "Sự thành công",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "success"
+        ],
+        "distractorIds": [
+          "toeic600-144bfca919fa408b833649f170dba69b",
+          "toeic600-4f3fb3ae11909b35fbbc20b1b4a9f3ce",
+          "toeic600-3fff328193c1f86e6de1816f79139d8b"
+        ]
+      }
+    }
+  ]
+}

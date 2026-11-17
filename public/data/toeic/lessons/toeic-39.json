@@ -1,0 +1,228 @@
+{
+  "schemaVersion": 1,
+  "collectionId": "toeic-vocabulary",
+  "lessonId": "toeic-39",
+  "approval": {
+    "rightsStatus": "verified",
+    "rightsReference": "Unlocked by explicit user instruction on 2026-11-18; common English words, project-authored concise Vietnamese Quiz prompts, parts of speech, and reviewed 4-option sets only; no third-party examples, explanations, images, or audio.",
+    "contentStatus": "approved"
+  },
+  "entries": [
+    {
+      "id": "toeic600-0dc2ee02ff44e575ef6bd54c15c4c7e8",
+      "lessonId": "toeic-39",
+      "english": "cautiously",
+      "vietnamese": "Một cách thận trọng",
+      "partOfSpeech": "adv.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "cautiously"
+        ],
+        "distractorIds": [
+          "toeic600-745fcf6f296adebd400a5df8ff1f071f",
+          "toeic600-c4940482571889b66cdcebc775ca02d4",
+          "toeic600-68f2f121fdb9dde6621dba4a5e27acd4"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-261c5485214b5d766106b0220d6e92ea",
+      "lessonId": "toeic-39",
+      "english": "comprehensive",
+      "vietnamese": "Toàn diện",
+      "partOfSpeech": "adj.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "comprehensive"
+        ],
+        "distractorIds": [
+          "toeic600-745fcf6f296adebd400a5df8ff1f071f",
+          "toeic600-0dc2ee02ff44e575ef6bd54c15c4c7e8",
+          "toeic600-c4940482571889b66cdcebc775ca02d4"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-745fcf6f296adebd400a5df8ff1f071f",
+      "lessonId": "toeic-39",
+      "english": "sufficiently",
+      "vietnamese": "Ở mức đủ",
+      "partOfSpeech": "adv.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "sufficiently"
+        ],
+        "distractorIds": [
+          "toeic600-0dc2ee02ff44e575ef6bd54c15c4c7e8",
+          "toeic600-c4940482571889b66cdcebc775ca02d4",
+          "toeic600-68f2f121fdb9dde6621dba4a5e27acd4"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-9febb19f82e65bc48b6fad117a73ec85",
+      "lessonId": "toeic-39",
+      "english": "individual",
+      "vietnamese": "Riêng từng người, từng thứ",
+      "partOfSpeech": "adj.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "individual"
+        ],
+        "distractorIds": [
+          "toeic600-c4940482571889b66cdcebc775ca02d4",
+          "toeic600-68f2f121fdb9dde6621dba4a5e27acd4",
+          "toeic600-745fcf6f296adebd400a5df8ff1f071f"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-019932ab8ea861c08ed29e07dbaf2ffa",
+      "lessonId": "toeic-39",
+      "english": "realistic",
+      "vietnamese": "Thực tế, sát thực tế",
+      "partOfSpeech": "adj.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "realistic"
+        ],
+        "distractorIds": [
+          "toeic600-c4940482571889b66cdcebc775ca02d4",
+          "toeic600-68f2f121fdb9dde6621dba4a5e27acd4",
+          "toeic600-745fcf6f296adebd400a5df8ff1f071f"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-1f4cdac048d8218250c60d82e8158a7a",
+      "lessonId": "toeic-39",
+      "english": "demonstrate",
+      "vietnamese": "Chứng minh, cho thấy",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "demonstrate"
+        ],
+        "distractorIds": [
+          "toeic600-0dc2ee02ff44e575ef6bd54c15c4c7e8",
+          "toeic600-c4940482571889b66cdcebc775ca02d4",
+          "toeic600-68f2f121fdb9dde6621dba4a5e27acd4"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-33ce74eeec4890fc0a57c52d82c14c00",
+      "lessonId": "toeic-39",
+      "english": "express",
+      "vietnamese": "Diễn đạt, bộc lộ",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "express"
+        ],
+        "distractorIds": [
+          "toeic600-68f2f121fdb9dde6621dba4a5e27acd4",
+          "toeic600-745fcf6f296adebd400a5df8ff1f071f",
+          "toeic600-0dc2ee02ff44e575ef6bd54c15c4c7e8"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-c4940482571889b66cdcebc775ca02d4",
+      "lessonId": "toeic-39",
+      "english": "instrument",
+      "vietnamese": "Dụng cụ",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "instrument"
+        ],
+        "distractorIds": [
+          "toeic600-68f2f121fdb9dde6621dba4a5e27acd4",
+          "toeic600-0dc2ee02ff44e575ef6bd54c15c4c7e8",
+          "toeic600-745fcf6f296adebd400a5df8ff1f071f"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-db3503fced286cd4dd03e13dcbbcd3c4",
+      "lessonId": "toeic-39",
+      "english": "notify",
+      "vietnamese": "Thông báo cho ai biết",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "notify"
+        ],
+        "distractorIds": [
+          "toeic600-68f2f121fdb9dde6621dba4a5e27acd4",
+          "toeic600-745fcf6f296adebd400a5df8ff1f071f",
+          "toeic600-0dc2ee02ff44e575ef6bd54c15c4c7e8"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-68f2f121fdb9dde6621dba4a5e27acd4",
+      "lessonId": "toeic-39",
+      "english": "profession",
+      "vietnamese": "Nghề nghiệp chuyên môn",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "profession"
+        ],
+        "distractorIds": [
+          "toeic600-c4940482571889b66cdcebc775ca02d4",
+          "toeic600-745fcf6f296adebd400a5df8ff1f071f",
+          "toeic600-0dc2ee02ff44e575ef6bd54c15c4c7e8"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-47d4e476104dac216ab10403ab4de75d",
+      "lessonId": "toeic-39",
+      "english": "sell out",
+      "vietnamese": "Bán hết vé, hết hàng",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "sell out"
+        ],
+        "distractorIds": [
+          "toeic600-68f2f121fdb9dde6621dba4a5e27acd4",
+          "toeic600-745fcf6f296adebd400a5df8ff1f071f",
+          "toeic600-0dc2ee02ff44e575ef6bd54c15c4c7e8"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-28968c2d36430ea67076f7e2e4596da4",
+      "lessonId": "toeic-39",
+      "english": "statement",
+      "vietnamese": "Bản sao kê tài khoản",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "statement"
+        ],
+        "distractorIds": [
+          "toeic600-c4940482571889b66cdcebc775ca02d4",
+          "toeic600-68f2f121fdb9dde6621dba4a5e27acd4",
+          "toeic600-0dc2ee02ff44e575ef6bd54c15c4c7e8"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "schemaVersion": 1,
+  "collectionId": "toeic-vocabulary",
+  "lessonId": "toeic-42",
+  "approval": {
+    "rightsStatus": "verified",
+    "rightsReference": "Unlocked by explicit user instruction on 2026-11-18; common English words, project-authored concise Vietnamese Quiz prompts, parts of speech, and reviewed 4-option sets only; no third-party examples, explanations, images, or audio.",
+    "contentStatus": "approved"
+  },
+  "entries": [
+    {
+      "id": "toeic600-58efee9566b49c5d0067ee11079bc79b",
+      "lessonId": "toeic-42",
+      "english": "admire",
+      "vietnamese": "Ngưỡng mộ",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "admire"
+        ],
+        "distractorIds": [
+          "toeic600-12fc3b8bd33fb6e5bdd2ede5f15a9455",
+          "toeic600-22e6e169c2b02f3c26552895e1b2a76a",
+          "toeic600-e5958d0ed590816e336dc838fd166c0d"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-12fc3b8bd33fb6e5bdd2ede5f15a9455",
+      "lessonId": "toeic-42",
+      "english": "delicately",
+      "vietnamese": "Một cách tế nhị",
+      "partOfSpeech": "adv.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "delicately"
+        ],
+        "distractorIds": [
+          "toeic600-d499b782ae148efba2d3642b71d17be9",
+          "toeic600-22e6e169c2b02f3c26552895e1b2a76a",
+          "toeic600-e5958d0ed590816e336dc838fd166c0d"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-b989ab77e4822c45532ea1115c30e25c",
+      "lessonId": "toeic-42",
+      "english": "familiar",
+      "vietnamese": "Quen thuộc",
+      "partOfSpeech": "adj.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "familiar"
+        ],
+        "distractorIds": [
+          "toeic600-d499b782ae148efba2d3642b71d17be9",
+          "toeic600-12fc3b8bd33fb6e5bdd2ede5f15a9455",
+          "toeic600-22e6e169c2b02f3c26552895e1b2a76a"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-d9270e0850637d8c0ebe450bb3143fc2",
+      "lessonId": "toeic-42",
+      "english": "usually",
+      "vietnamese": "Thông thường, trong phần lớn trường hợp",
+      "partOfSpeech": "adv.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "usually"
+        ],
+        "distractorIds": [
+          "toeic600-12fc3b8bd33fb6e5bdd2ede5f15a9455",
+          "toeic600-e5958d0ed590816e336dc838fd166c0d",
+          "toeic600-d499b782ae148efba2d3642b71d17be9"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-d499b782ae148efba2d3642b71d17be9",
+      "lessonId": "toeic-42",
+      "english": "remote",
+      "vietnamese": "Xa xôi, hẻo lánh",
+      "partOfSpeech": "adj.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "remote"
+        ],
+        "distractorIds": [
+          "toeic600-12fc3b8bd33fb6e5bdd2ede5f15a9455",
+          "toeic600-22e6e169c2b02f3c26552895e1b2a76a",
+          "toeic600-e5958d0ed590816e336dc838fd166c0d"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-26a6984eb46a2f3c1fad2427f05b0939",
+      "lessonId": "toeic-42",
+      "english": "delete",
+      "vietnamese": "Xóa dữ liệu",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "delete"
+        ],
+        "distractorIds": [
+          "toeic600-d499b782ae148efba2d3642b71d17be9",
+          "toeic600-12fc3b8bd33fb6e5bdd2ede5f15a9455",
+          "toeic600-22e6e169c2b02f3c26552895e1b2a76a"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-22e6e169c2b02f3c26552895e1b2a76a",
+      "lessonId": "toeic-42",
+      "english": "guide",
+      "vietnamese": "Sách hướng dẫn",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "guide"
+        ],
+        "distractorIds": [
+          "toeic600-e5958d0ed590816e336dc838fd166c0d",
+          "toeic600-12fc3b8bd33fb6e5bdd2ede5f15a9455",
+          "toeic600-d499b782ae148efba2d3642b71d17be9"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-103a4fc02bcaf4ce3b1073eaa8788afe",
+      "lessonId": "toeic-42",
+      "english": "forecast",
+      "vietnamese": "Dự báo",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "forecast"
+        ],
+        "distractorIds": [
+          "toeic600-22e6e169c2b02f3c26552895e1b2a76a",
+          "toeic600-e5958d0ed590816e336dc838fd166c0d",
+          "toeic600-d499b782ae148efba2d3642b71d17be9"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-16fc825247f49d6753b48f8d9e1ed9e0",
+      "lessonId": "toeic-42",
+      "english": "plan",
+      "vietnamese": "Kế hoạch",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "plan"
+        ],
+        "distractorIds": [
+          "toeic600-22e6e169c2b02f3c26552895e1b2a76a",
+          "toeic600-e5958d0ed590816e336dc838fd166c0d",
+          "toeic600-12fc3b8bd33fb6e5bdd2ede5f15a9455"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-88939bf69880b1ceb66727fd9d02dee5",
+      "lessonId": "toeic-42",
+      "english": "permit",
+      "vietnamese": "Cho phép",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "permit"
+        ],
+        "distractorIds": [
+          "toeic600-22e6e169c2b02f3c26552895e1b2a76a",
+          "toeic600-e5958d0ed590816e336dc838fd166c0d",
+          "toeic600-d499b782ae148efba2d3642b71d17be9"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-e5958d0ed590816e336dc838fd166c0d",
+      "lessonId": "toeic-42",
+      "english": "session",
+      "vietnamese": "Buổi họp, phiên họp",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "session"
+        ],
+        "distractorIds": [
+          "toeic600-22e6e169c2b02f3c26552895e1b2a76a",
+          "toeic600-d499b782ae148efba2d3642b71d17be9",
+          "toeic600-12fc3b8bd33fb6e5bdd2ede5f15a9455"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-9cb89317bf3ef1e00bbc292988320c41",
+      "lessonId": "toeic-42",
+      "english": "submit",
+      "vietnamese": "Nộp, đệ trình",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "submit"
+        ],
+        "distractorIds": [
+          "toeic600-d499b782ae148efba2d3642b71d17be9",
+          "toeic600-12fc3b8bd33fb6e5bdd2ede5f15a9455",
+          "toeic600-22e6e169c2b02f3c26552895e1b2a76a"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "schemaVersion": 1,
+  "collectionId": "toeic-vocabulary",
+  "lessonId": "toeic-50",
+  "approval": {
+    "rightsStatus": "verified",
+    "rightsReference": "Unlocked by explicit user instruction on 2026-11-18; common English words, project-authored concise Vietnamese Quiz prompts, parts of speech, and reviewed 4-option sets only; no third-party examples, explanations, images, or audio.",
+    "contentStatus": "approved"
+  },
+  "entries": [
+    {
+      "id": "toeic600-9f54ea31405a56989c4d87a05e2cbf62",
+      "lessonId": "toeic-50",
+      "english": "pick up",
+      "vietnamese": "Đón ai đó",
+      "partOfSpeech": "phr.v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "pick up"
+        ],
+        "distractorIds": [
+          "toeic600-b1bfc402090e77b3a607a9cebfcc973d",
+          "toeic600-203850791f75eff892c0021c9cf229c8",
+          "toeic600-a9574d942fb68818511becd5a89af7c3"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-b1bfc402090e77b3a607a9cebfcc973d",
+      "lessonId": "toeic-50",
+      "english": "announcement",
+      "vietnamese": "Thông báo",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "announcement"
+        ],
+        "distractorIds": [
+          "toeic600-203850791f75eff892c0021c9cf229c8",
+          "toeic600-a9574d942fb68818511becd5a89af7c3",
+          "toeic600-b29dc8de60821d9cebcc0cad304d75a9"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-20465efb8aa7a49161a56d1d87a227eb",
+      "lessonId": "toeic-50",
+      "english": "general",
+      "vietnamese": "Chung, tổng quát",
+      "partOfSpeech": "adj.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "general"
+        ],
+        "distractorIds": [
+          "toeic600-a9574d942fb68818511becd5a89af7c3",
+          "toeic600-b29dc8de60821d9cebcc0cad304d75a9",
+          "toeic600-b1bfc402090e77b3a607a9cebfcc973d"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-b29dc8de60821d9cebcc0cad304d75a9",
+      "lessonId": "toeic-50",
+      "english": "typically",
+      "vietnamese": "Thông thường, trong trường hợp điển hình",
+      "partOfSpeech": "adv.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "typically"
+        ],
+        "distractorIds": [
+          "toeic600-b1bfc402090e77b3a607a9cebfcc973d",
+          "toeic600-203850791f75eff892c0021c9cf229c8",
+          "toeic600-a9574d942fb68818511becd5a89af7c3"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-10648f190433b8e7ea7988998575a19b",
+      "lessonId": "toeic-50",
+      "english": "deal with",
+      "vietnamese": "Xử lý, đối phó với",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "deal with"
+        ],
+        "distractorIds": [
+          "toeic600-a9574d942fb68818511becd5a89af7c3",
+          "toeic600-b29dc8de60821d9cebcc0cad304d75a9",
+          "toeic600-b1bfc402090e77b3a607a9cebfcc973d"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-a9574d942fb68818511becd5a89af7c3",
+      "lessonId": "toeic-50",
+      "english": "serious",
+      "vietnamese": "Nghiêm túc",
+      "partOfSpeech": "adj.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "serious"
+        ],
+        "distractorIds": [
+          "toeic600-203850791f75eff892c0021c9cf229c8",
+          "toeic600-b29dc8de60821d9cebcc0cad304d75a9",
+          "toeic600-b1bfc402090e77b3a607a9cebfcc973d"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-a53173a4a2c7569aed96c0e933bad3ec",
+      "lessonId": "toeic-50",
+      "english": "indicator",
+      "vietnamese": "Dấu hiệu, chỉ báo về một tình trạng",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "indicator"
+        ],
+        "distractorIds": [
+          "toeic600-203850791f75eff892c0021c9cf229c8",
+          "toeic600-a9574d942fb68818511becd5a89af7c3",
+          "toeic600-b29dc8de60821d9cebcc0cad304d75a9"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-289785ea6203cf035dc6a106b087946e",
+      "lessonId": "toeic-50",
+      "english": "portion",
+      "vietnamese": "Một phần của một tổng thể.",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "portion"
+        ],
+        "distractorIds": [
+          "toeic600-b1bfc402090e77b3a607a9cebfcc973d",
+          "toeic600-203850791f75eff892c0021c9cf229c8",
+          "toeic600-a53173a4a2c7569aed96c0e933bad3ec"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-198c2479fe7d89e3bf62e3a35b8cd92e",
+      "lessonId": "toeic-50",
+      "english": "operate",
+      "vietnamese": "Vận hành, hoạt động",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "operate"
+        ],
+        "distractorIds": [
+          "toeic600-203850791f75eff892c0021c9cf229c8",
+          "toeic600-a9574d942fb68818511becd5a89af7c3",
+          "toeic600-b29dc8de60821d9cebcc0cad304d75a9"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-203850791f75eff892c0021c9cf229c8",
+      "lessonId": "toeic-50",
+      "english": "skill",
+      "vietnamese": "Kỹ năng",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "skill"
+        ],
+        "distractorIds": [
+          "toeic600-b1bfc402090e77b3a607a9cebfcc973d",
+          "toeic600-a9574d942fb68818511becd5a89af7c3",
+          "toeic600-b29dc8de60821d9cebcc0cad304d75a9"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-53ea4e53713603ea6a6fe016ea36878b",
+      "lessonId": "toeic-50",
+      "english": "specialize",
+      "vietnamese": "Chuyên về một lĩnh vực",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "specialize"
+        ],
+        "distractorIds": [
+          "toeic600-b29dc8de60821d9cebcc0cad304d75a9",
+          "toeic600-b1bfc402090e77b3a607a9cebfcc973d",
+          "toeic600-203850791f75eff892c0021c9cf229c8"
+        ]
+      }
+    }
+  ]
+}

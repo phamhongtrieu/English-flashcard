@@ -1,0 +1,228 @@
+{
+  "schemaVersion": 1,
+  "collectionId": "toeic-vocabulary",
+  "lessonId": "toeic-27",
+  "approval": {
+    "rightsStatus": "verified",
+    "rightsReference": "Unlocked by explicit user instruction on 2026-11-18; common English words, project-authored concise Vietnamese Quiz prompts, parts of speech, and reviewed 4-option sets only; no third-party examples, explanations, images, or audio.",
+    "contentStatus": "approved"
+  },
+  "entries": [
+    {
+      "id": "toeic600-bd90343944f570a8712b6f2b4ab1da13",
+      "lessonId": "toeic-27",
+      "english": "acquire",
+      "vietnamese": "Có được, tích lũy được",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "acquire"
+        ],
+        "distractorIds": [
+          "toeic600-9f8ff516fa0365633aca141d663e4780",
+          "toeic600-b9df29660a6da02e4729c5507a2c443e",
+          "toeic600-b26f9bbbab8b707d9295856275fb9159"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-d909d6ccad55995b80c8db9739bbd33d",
+      "lessonId": "toeic-27",
+      "english": "constantly",
+      "vietnamese": "Luôn luôn, liên tục, liên miên",
+      "partOfSpeech": "adv.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "constantly"
+        ],
+        "distractorIds": [
+          "toeic600-96f3c90929a94b39dd2132b382198a4c",
+          "toeic600-9d4817520b0508b70a2a4a9901398402",
+          "toeic600-9f8ff516fa0365633aca141d663e4780"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-b9df29660a6da02e4729c5507a2c443e",
+      "lessonId": "toeic-27",
+      "english": "separately",
+      "vietnamese": "Một cách riêng biệt",
+      "partOfSpeech": "adv.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "separately"
+        ],
+        "distractorIds": [
+          "toeic600-9d4817520b0508b70a2a4a9901398402",
+          "toeic600-9f8ff516fa0365633aca141d663e4780",
+          "toeic600-b26f9bbbab8b707d9295856275fb9159"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-b26f9bbbab8b707d9295856275fb9159",
+      "lessonId": "toeic-27",
+      "english": "characteristic",
+      "vietnamese": "Đặc điểm",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "characteristic"
+        ],
+        "distractorIds": [
+          "toeic600-9d4817520b0508b70a2a4a9901398402",
+          "toeic600-9f8ff516fa0365633aca141d663e4780",
+          "toeic600-b9df29660a6da02e4729c5507a2c443e"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-6b7fa5a7c800466fb5e6c3dab36e4288",
+      "lessonId": "toeic-27",
+      "english": "prerequisite",
+      "vietnamese": "Điều kiện tiên quyết, phải có trước khi thực hiện việc khác.",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "prerequisite"
+        ],
+        "distractorIds": [
+          "toeic600-9f8ff516fa0365633aca141d663e4780",
+          "toeic600-3ffc534a43cee395fb62a6d24bbf6927",
+          "toeic600-b26f9bbbab8b707d9295856275fb9159"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-293ba0cb921771134b371aa8936495f9",
+      "lessonId": "toeic-27",
+      "english": "detail",
+      "vietnamese": "Chi tiết — một thông tin cụ thể.",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "detail"
+        ],
+        "distractorIds": [
+          "toeic600-5f8baa07365f432bce1b12fedaebd403",
+          "toeic600-3ffc534a43cee395fb62a6d24bbf6927",
+          "toeic600-bd90343944f570a8712b6f2b4ab1da13"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-96f3c90929a94b39dd2132b382198a4c",
+      "lessonId": "toeic-27",
+      "english": "examine",
+      "vietnamese": "Khảo sát, xem xét kỹ",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "examine"
+        ],
+        "distractorIds": [
+          "toeic600-b9df29660a6da02e4729c5507a2c443e",
+          "toeic600-b26f9bbbab8b707d9295856275fb9159",
+          "toeic600-9d4817520b0508b70a2a4a9901398402"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-9f8ff516fa0365633aca141d663e4780",
+      "lessonId": "toeic-27",
+      "english": "lead time",
+      "vietnamese": "Thời gian từ lúc bắt đầu đến khi hoàn thành một quá trình",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "lead time"
+        ],
+        "distractorIds": [
+          "toeic600-b26f9bbbab8b707d9295856275fb9159",
+          "toeic600-9d4817520b0508b70a2a4a9901398402",
+          "toeic600-b9df29660a6da02e4729c5507a2c443e"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-5f8baa07365f432bce1b12fedaebd403",
+      "lessonId": "toeic-27",
+      "english": "monitor",
+      "vietnamese": "Theo dõi, giám sát",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "monitor"
+        ],
+        "distractorIds": [
+          "toeic600-9f8ff516fa0365633aca141d663e4780",
+          "toeic600-b9df29660a6da02e4729c5507a2c443e",
+          "toeic600-b26f9bbbab8b707d9295856275fb9159"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-27708c6eccd89e1258c828afd34fb20b",
+      "lessonId": "toeic-27",
+      "english": "proximity",
+      "vietnamese": "sự gần gũi",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "proximity"
+        ],
+        "distractorIds": [
+          "toeic600-b26f9bbbab8b707d9295856275fb9159",
+          "toeic600-9d4817520b0508b70a2a4a9901398402",
+          "toeic600-9f8ff516fa0365633aca141d663e4780"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-3ffc534a43cee395fb62a6d24bbf6927",
+      "lessonId": "toeic-27",
+      "english": "restore",
+      "vietnamese": "Khôi phục lại",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "restore"
+        ],
+        "distractorIds": [
+          "toeic600-b9df29660a6da02e4729c5507a2c443e",
+          "toeic600-b26f9bbbab8b707d9295856275fb9159",
+          "toeic600-9d4817520b0508b70a2a4a9901398402"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-9d4817520b0508b70a2a4a9901398402",
+      "lessonId": "toeic-27",
+      "english": "supervisor",
+      "vietnamese": "Người giám sát",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "supervisor"
+        ],
+        "distractorIds": [
+          "toeic600-9f8ff516fa0365633aca141d663e4780",
+          "toeic600-b26f9bbbab8b707d9295856275fb9159",
+          "toeic600-b9df29660a6da02e4729c5507a2c443e"
+        ]
+      }
+    }
+  ]
+}

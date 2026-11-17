@@ -1,0 +1,228 @@
+{
+  "schemaVersion": 1,
+  "collectionId": "toeic-vocabulary",
+  "lessonId": "toeic-36",
+  "approval": {
+    "rightsStatus": "verified",
+    "rightsReference": "Unlocked by explicit user instruction on 2026-11-18; common English words, project-authored concise Vietnamese Quiz prompts, parts of speech, and reviewed 4-option sets only; no third-party examples, explanations, images, or audio.",
+    "contentStatus": "approved"
+  },
+  "entries": [
+    {
+      "id": "toeic600-3dd4dbf1511d7b489013413d82d4bc1c",
+      "lessonId": "toeic-36",
+      "english": "agenda",
+      "vietnamese": "Chương trình nghị sự",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "agenda"
+        ],
+        "distractorIds": [
+          "toeic600-c987167b74cd0480d0a6ad8ab486416c",
+          "toeic600-39e5d9deea5c238ad6df119292f1a5aa",
+          "toeic600-a22f22695386edfaf27a397384146e1d"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-7e2733295ae36993972d6be0b84f19d7",
+      "lessonId": "toeic-36",
+      "english": "approach",
+      "vietnamese": "Tiến lại gần",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "approach"
+        ],
+        "distractorIds": [
+          "toeic600-3dd4dbf1511d7b489013413d82d4bc1c",
+          "toeic600-c987167b74cd0480d0a6ad8ab486416c",
+          "toeic600-39e5d9deea5c238ad6df119292f1a5aa"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-a67fe15a87005a3489419a1db75ca5b9",
+      "lessonId": "toeic-36",
+      "english": "brand",
+      "vietnamese": "Nhãn hiệu, nhãn hàng",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "brand"
+        ],
+        "distractorIds": [
+          "toeic600-d51c84ce4f60323df4c9cff712ce8078",
+          "toeic600-c987167b74cd0480d0a6ad8ab486416c",
+          "toeic600-3dd4dbf1511d7b489013413d82d4bc1c"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-19c977ce2ab1c660bea71e04d71613be",
+      "lessonId": "toeic-36",
+      "english": "catalog",
+      "vietnamese": "Phân loại, ghi thành danh mục",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "catalog"
+        ],
+        "distractorIds": [
+          "toeic600-a22f22695386edfaf27a397384146e1d",
+          "toeic600-c987167b74cd0480d0a6ad8ab486416c",
+          "toeic600-39e5d9deea5c238ad6df119292f1a5aa"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-39e5d9deea5c238ad6df119292f1a5aa",
+      "lessonId": "toeic-36",
+      "english": "prospective",
+      "vietnamese": "Có khả năng trở thành trong tương lai",
+      "partOfSpeech": "adj.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "prospective"
+        ],
+        "distractorIds": [
+          "toeic600-a22f22695386edfaf27a397384146e1d",
+          "toeic600-3dd4dbf1511d7b489013413d82d4bc1c",
+          "toeic600-c987167b74cd0480d0a6ad8ab486416c"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-8d84e3f6d2514e53bd1b00855b024226",
+      "lessonId": "toeic-36",
+      "english": "depart",
+      "vietnamese": "Khởi hành, rời đi",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "depart"
+        ],
+        "distractorIds": [
+          "toeic600-a22f22695386edfaf27a397384146e1d",
+          "toeic600-39e5d9deea5c238ad6df119292f1a5aa",
+          "toeic600-3dd4dbf1511d7b489013413d82d4bc1c"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-d51c84ce4f60323df4c9cff712ce8078",
+      "lessonId": "toeic-36",
+      "english": "glimpse",
+      "vietnamese": "Cái nhìn lướt qua",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "glimpse"
+        ],
+        "distractorIds": [
+          "toeic600-3dd4dbf1511d7b489013413d82d4bc1c",
+          "toeic600-c987167b74cd0480d0a6ad8ab486416c",
+          "toeic600-a22f22695386edfaf27a397384146e1d"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-338037ff1c41ced51a555741ad312288",
+      "lessonId": "toeic-36",
+      "english": "gather",
+      "vietnamese": "Thu thập",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "gather"
+        ],
+        "distractorIds": [
+          "toeic600-a22f22695386edfaf27a397384146e1d",
+          "toeic600-39e5d9deea5c238ad6df119292f1a5aa",
+          "toeic600-3dd4dbf1511d7b489013413d82d4bc1c"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-c987167b74cd0480d0a6ad8ab486416c",
+      "lessonId": "toeic-36",
+      "english": "perspective",
+      "vietnamese": "Góc nhìn, quan điểm",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "perspective"
+        ],
+        "distractorIds": [
+          "toeic600-3dd4dbf1511d7b489013413d82d4bc1c",
+          "toeic600-39e5d9deea5c238ad6df119292f1a5aa",
+          "toeic600-a22f22695386edfaf27a397384146e1d"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-7e1faab140364a61c1e395a0cefa6d2d",
+      "lessonId": "toeic-36",
+      "english": "predict",
+      "vietnamese": "Dự đoán điều sẽ xảy ra",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "predict"
+        ],
+        "distractorIds": [
+          "toeic600-a22f22695386edfaf27a397384146e1d",
+          "toeic600-39e5d9deea5c238ad6df119292f1a5aa",
+          "toeic600-3dd4dbf1511d7b489013413d82d4bc1c"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-6d31cca69c2942ed627691a66048d09e",
+      "lessonId": "toeic-36",
+      "english": "search",
+      "vietnamese": "Cuộc tìm kiếm",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "search"
+        ],
+        "distractorIds": [
+          "toeic600-3dd4dbf1511d7b489013413d82d4bc1c",
+          "toeic600-c987167b74cd0480d0a6ad8ab486416c",
+          "toeic600-a22f22695386edfaf27a397384146e1d"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-a22f22695386edfaf27a397384146e1d",
+      "lessonId": "toeic-36",
+      "english": "suit",
+      "vietnamese": "Phù hợp với nhu cầu",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "suit"
+        ],
+        "distractorIds": [
+          "toeic600-39e5d9deea5c238ad6df119292f1a5aa",
+          "toeic600-3dd4dbf1511d7b489013413d82d4bc1c",
+          "toeic600-c987167b74cd0480d0a6ad8ab486416c"
+        ]
+      }
+    }
+  ]
+}

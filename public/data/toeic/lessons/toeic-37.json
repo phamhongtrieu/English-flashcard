@@ -1,0 +1,210 @@
+{
+  "schemaVersion": 1,
+  "collectionId": "toeic-vocabulary",
+  "lessonId": "toeic-37",
+  "approval": {
+    "rightsStatus": "verified",
+    "rightsReference": "Unlocked by explicit user instruction on 2026-11-18; common English words, project-authored concise Vietnamese Quiz prompts, parts of speech, and reviewed 4-option sets only; no third-party examples, explanations, images, or audio.",
+    "contentStatus": "approved"
+  },
+  "entries": [
+    {
+      "id": "toeic600-e518ca7df482e49ac6e76a7edeee39ee",
+      "lessonId": "toeic-37",
+      "english": "adhere to",
+      "vietnamese": "Tuân thủ",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "adhere to"
+        ],
+        "distractorIds": [
+          "toeic600-088b25d727c5b7da2c980b3489305cff",
+          "toeic600-85240f09813b5997f3194006d95c72be",
+          "toeic600-c2aec53e96fd8f677360bc53c1ee6bbc"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-088b25d727c5b7da2c980b3489305cff",
+      "lessonId": "toeic-37",
+      "english": "blanket",
+      "vietnamese": "Phủ kín lên",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "blanket"
+        ],
+        "distractorIds": [
+          "toeic600-a182c75a4d34bd7ea148c811ad4ac246",
+          "toeic600-85240f09813b5997f3194006d95c72be",
+          "toeic600-c2aec53e96fd8f677360bc53c1ee6bbc"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-db86968de4ab323eb0f68e5ad2976eea",
+      "lessonId": "toeic-37",
+      "english": "carrier",
+      "vietnamese": "Người hoặc đơn vị vận chuyển",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "carrier"
+        ],
+        "distractorIds": [
+          "toeic600-85240f09813b5997f3194006d95c72be",
+          "toeic600-c2aec53e96fd8f677360bc53c1ee6bbc",
+          "toeic600-a182c75a4d34bd7ea148c811ad4ac246"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-c2aec53e96fd8f677360bc53c1ee6bbc",
+      "lessonId": "toeic-37",
+      "english": "debt",
+      "vietnamese": "Khoản nợ",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "debt"
+        ],
+        "distractorIds": [
+          "toeic600-a182c75a4d34bd7ea148c811ad4ac246",
+          "toeic600-85240f09813b5997f3194006d95c72be",
+          "toeic600-088b25d727c5b7da2c980b3489305cff"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-a182c75a4d34bd7ea148c811ad4ac246",
+      "lessonId": "toeic-37",
+      "english": "dialogue",
+      "vietnamese": "Cuộc đối thoại",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "dialogue"
+        ],
+        "distractorIds": [
+          "toeic600-85240f09813b5997f3194006d95c72be",
+          "toeic600-c2aec53e96fd8f677360bc53c1ee6bbc",
+          "toeic600-088b25d727c5b7da2c980b3489305cff"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-7b1876ae2a99b94404b0bdbc0d1674c5",
+      "lessonId": "toeic-37",
+      "english": "expose",
+      "vietnamese": "Bộc lộ, phơi bày",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "expose"
+        ],
+        "distractorIds": [
+          "toeic600-088b25d727c5b7da2c980b3489305cff",
+          "toeic600-a182c75a4d34bd7ea148c811ad4ac246",
+          "toeic600-85240f09813b5997f3194006d95c72be"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-864dd7830eb155e4bd5f4fd3bfe80bb2",
+      "lessonId": "toeic-37",
+      "english": "interaction",
+      "vietnamese": "Sự tương tác",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "interaction"
+        ],
+        "distractorIds": [
+          "toeic600-85240f09813b5997f3194006d95c72be",
+          "toeic600-c2aec53e96fd8f677360bc53c1ee6bbc",
+          "toeic600-088b25d727c5b7da2c980b3489305cff"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-c52fda063c69d9aca47da7b5ac75131b",
+      "lessonId": "toeic-37",
+      "english": "network",
+      "vietnamese": "Kết nối các máy tính thành mạng",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "network"
+        ],
+        "distractorIds": [
+          "toeic600-088b25d727c5b7da2c980b3489305cff",
+          "toeic600-85240f09813b5997f3194006d95c72be",
+          "toeic600-c2aec53e96fd8f677360bc53c1ee6bbc"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-9d094ba19d007bf53f13c37047e99860",
+      "lessonId": "toeic-37",
+      "english": "profile",
+      "vietnamese": "Bản mô tả các đặc điểm chính",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "profile"
+        ],
+        "distractorIds": [
+          "toeic600-a182c75a4d34bd7ea148c811ad4ac246",
+          "toeic600-85240f09813b5997f3194006d95c72be",
+          "toeic600-c2aec53e96fd8f677360bc53c1ee6bbc"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-4bc557d4f7ae316217e091c86431f5ac",
+      "lessonId": "toeic-37",
+      "english": "select",
+      "vietnamese": "Chọn lựa",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "select"
+        ],
+        "distractorIds": [
+          "toeic600-088b25d727c5b7da2c980b3489305cff",
+          "toeic600-85240f09813b5997f3194006d95c72be",
+          "toeic600-c2aec53e96fd8f677360bc53c1ee6bbc"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-85240f09813b5997f3194006d95c72be",
+      "lessonId": "toeic-37",
+      "english": "stationery",
+      "vietnamese": "Văn phòng phẩm",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "stationery"
+        ],
+        "distractorIds": [
+          "toeic600-a182c75a4d34bd7ea148c811ad4ac246",
+          "toeic600-c2aec53e96fd8f677360bc53c1ee6bbc",
+          "toeic600-088b25d727c5b7da2c980b3489305cff"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "schemaVersion": 1,
+  "collectionId": "toeic-vocabulary",
+  "lessonId": "toeic-02",
+  "approval": {
+    "rightsStatus": "verified",
+    "rightsReference": "Unlocked by explicit user instruction on 2026-11-18; common English words, project-authored concise Vietnamese Quiz prompts, parts of speech, and reviewed 4-option sets only; no third-party examples, explanations, images, or audio.",
+    "contentStatus": "approved"
+  },
+  "entries": [
+    {
+      "id": "toeic600-9a8188ae6a2272f25a4d2b629a2f4521",
+      "lessonId": "toeic-02",
+      "english": "abide by",
+      "vietnamese": "Tuân theo",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "abide by"
+        ],
+        "distractorIds": [
+          "toeic600-22ad523eddc9260fb6a24c7bba828bc2",
+          "toeic600-080154cdecdfdc18da1a49c53b09d193",
+          "toeic600-ecfdb84abed210066e1bba9b242b1fab"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-ecfdb84abed210066e1bba9b242b1fab",
+      "lessonId": "toeic-02",
+      "english": "profitably",
+      "vietnamese": "Một cách có sinh lời",
+      "partOfSpeech": "adv.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "profitably"
+        ],
+        "distractorIds": [
+          "toeic600-96c72e3683b13171da7da294a67ccd60",
+          "toeic600-22ad523eddc9260fb6a24c7bba828bc2",
+          "toeic600-080154cdecdfdc18da1a49c53b09d193"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-2a24549de2904bee2c32a1e583a96e88",
+      "lessonId": "toeic-02",
+      "english": "disparate",
+      "vietnamese": "Khác biệt rõ rệt",
+      "partOfSpeech": "adj.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "disparate"
+        ],
+        "distractorIds": [
+          "toeic600-96c72e3683b13171da7da294a67ccd60",
+          "toeic600-22ad523eddc9260fb6a24c7bba828bc2",
+          "toeic600-080154cdecdfdc18da1a49c53b09d193"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-9212bc38c24f76fa942a55d7daae18c9",
+      "lessonId": "toeic-02",
+      "english": "complete",
+      "vietnamese": "Hoàn thành",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "complete"
+        ],
+        "distractorIds": [
+          "toeic600-080154cdecdfdc18da1a49c53b09d193",
+          "toeic600-ecfdb84abed210066e1bba9b242b1fab",
+          "toeic600-96c72e3683b13171da7da294a67ccd60"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-299e10b0ce261a5ed47af1e63a46213c",
+      "lessonId": "toeic-02",
+      "english": "concentrate",
+      "vietnamese": "Tập trung chú ý",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "concentrate"
+        ],
+        "distractorIds": [
+          "toeic600-ecfdb84abed210066e1bba9b242b1fab",
+          "toeic600-96c72e3683b13171da7da294a67ccd60",
+          "toeic600-22ad523eddc9260fb6a24c7bba828bc2"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-cfadad42e8a9f17d1238055b856673e8",
+      "lessonId": "toeic-02",
+      "english": "distinguish",
+      "vietnamese": "Phân biệt",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "distinguish"
+        ],
+        "distractorIds": [
+          "toeic600-96c72e3683b13171da7da294a67ccd60",
+          "toeic600-22ad523eddc9260fb6a24c7bba828bc2",
+          "toeic600-080154cdecdfdc18da1a49c53b09d193"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-0d8ec7ac83a5bb96f4d780abd23e011e",
+      "lessonId": "toeic-02",
+      "english": "encouragement",
+      "vietnamese": "Sự động viên, khuyến khích",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "encouragement"
+        ],
+        "distractorIds": [
+          "toeic600-080154cdecdfdc18da1a49c53b09d193",
+          "toeic600-96c72e3683b13171da7da294a67ccd60",
+          "toeic600-22ad523eddc9260fb6a24c7bba828bc2"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-1fba451038d15fbbaadacbd383634d76",
+      "lessonId": "toeic-02",
+      "english": "inspect",
+      "vietnamese": "Kiểm tra kỹ",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "inspect"
+        ],
+        "distractorIds": [
+          "toeic600-ecfdb84abed210066e1bba9b242b1fab",
+          "toeic600-96c72e3683b13171da7da294a67ccd60",
+          "toeic600-22ad523eddc9260fb6a24c7bba828bc2"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-22ad523eddc9260fb6a24c7bba828bc2",
+      "lessonId": "toeic-02",
+      "english": "mentor",
+      "vietnamese": "Người hướng dẫn có kinh nghiệm",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "mentor"
+        ],
+        "distractorIds": [
+          "toeic600-96c72e3683b13171da7da294a67ccd60",
+          "toeic600-080154cdecdfdc18da1a49c53b09d193",
+          "toeic600-ecfdb84abed210066e1bba9b242b1fab"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-0670763f6a2268bd416a861fb69ba2de",
+      "lessonId": "toeic-02",
+      "english": "regulate",
+      "vietnamese": "Điều chỉnh, kiểm soát theo quy định",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "regulate"
+        ],
+        "distractorIds": [
+          "toeic600-96c72e3683b13171da7da294a67ccd60",
+          "toeic600-22ad523eddc9260fb6a24c7bba828bc2",
+          "toeic600-080154cdecdfdc18da1a49c53b09d193"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-080154cdecdfdc18da1a49c53b09d193",
+      "lessonId": "toeic-02",
+      "english": "relaxation",
+      "vietnamese": "Sự thư giãn",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "relaxation"
+        ],
+        "distractorIds": [
+          "toeic600-96c72e3683b13171da7da294a67ccd60",
+          "toeic600-22ad523eddc9260fb6a24c7bba828bc2",
+          "toeic600-ecfdb84abed210066e1bba9b242b1fab"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-96c72e3683b13171da7da294a67ccd60",
+      "lessonId": "toeic-02",
+      "english": "warning",
+      "vietnamese": "Sự cảnh báo",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "warning"
+        ],
+        "distractorIds": [
+          "toeic600-22ad523eddc9260fb6a24c7bba828bc2",
+          "toeic600-080154cdecdfdc18da1a49c53b09d193",
+          "toeic600-ecfdb84abed210066e1bba9b242b1fab"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "schemaVersion": 1,
+  "collectionId": "toeic-vocabulary",
+  "lessonId": "toeic-25",
+  "approval": {
+    "rightsStatus": "verified",
+    "rightsReference": "Unlocked by explicit user instruction on 2026-11-18; common English words, project-authored concise Vietnamese Quiz prompts, parts of speech, and reviewed 4-option sets only; no third-party examples, explanations, images, or audio.",
+    "contentStatus": "approved"
+  },
+  "entries": [
+    {
+      "id": "toeic600-e183350f673d2d2e8ded1aafa1665067",
+      "lessonId": "toeic-25",
+      "english": "escort",
+      "vietnamese": "Người hộ tống.",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "escort"
+        ],
+        "distractorIds": [
+          "toeic600-af946aced5997f7d0387490718ec1926",
+          "toeic600-3506d2612ee1f4b8cf42eed7f27609f8",
+          "toeic600-6bae03f6d594d68743f22c49b7e65e69"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-6bae03f6d594d68743f22c49b7e65e69",
+      "lessonId": "toeic-25",
+      "english": "aspect",
+      "vietnamese": "Khía cạnh",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "aspect"
+        ],
+        "distractorIds": [
+          "toeic600-3506d2612ee1f4b8cf42eed7f27609f8",
+          "toeic600-a1919869ae4d5b7543cc310f6721d11d",
+          "toeic600-36f580a0c3ed3eb7a9e17a3ded04e9b6"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-d83b441b2aa20894ec0a4588e6fabac5",
+      "lessonId": "toeic-25",
+      "english": "logical",
+      "vietnamese": "Hợp lô-gic, hợp lý",
+      "partOfSpeech": "adj.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "logical"
+        ],
+        "distractorIds": [
+          "toeic600-3506d2612ee1f4b8cf42eed7f27609f8",
+          "toeic600-a1919869ae4d5b7543cc310f6721d11d",
+          "toeic600-36f580a0c3ed3eb7a9e17a3ded04e9b6"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-36f580a0c3ed3eb7a9e17a3ded04e9b6",
+      "lessonId": "toeic-25",
+      "english": "courier",
+      "vietnamese": "Người chuyển phát",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "courier"
+        ],
+        "distractorIds": [
+          "toeic600-3506d2612ee1f4b8cf42eed7f27609f8",
+          "toeic600-a1919869ae4d5b7543cc310f6721d11d",
+          "toeic600-d83b441b2aa20894ec0a4588e6fabac5"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-22cd15c0d679318394c9875602653a99",
+      "lessonId": "toeic-25",
+      "english": "discrepancy",
+      "vietnamese": "Sự chênh lệch, không khớp nhau",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "discrepancy"
+        ],
+        "distractorIds": [
+          "toeic600-36f580a0c3ed3eb7a9e17a3ded04e9b6",
+          "toeic600-3506d2612ee1f4b8cf42eed7f27609f8",
+          "toeic600-a1919869ae4d5b7543cc310f6721d11d"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-a4f8b19c8ccaf9013772ad2dfd2e4263",
+      "lessonId": "toeic-25",
+      "english": "evaluate",
+      "vietnamese": "Đánh giá",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "evaluate"
+        ],
+        "distractorIds": [
+          "toeic600-3506d2612ee1f4b8cf42eed7f27609f8",
+          "toeic600-d83b441b2aa20894ec0a4588e6fabac5",
+          "toeic600-a1919869ae4d5b7543cc310f6721d11d"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-3506d2612ee1f4b8cf42eed7f27609f8",
+      "lessonId": "toeic-25",
+      "english": "leisure",
+      "vietnamese": "Thời gian nhàn rỗi",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "leisure"
+        ],
+        "distractorIds": [
+          "toeic600-a1919869ae4d5b7543cc310f6721d11d",
+          "toeic600-36f580a0c3ed3eb7a9e17a3ded04e9b6",
+          "toeic600-d83b441b2aa20894ec0a4588e6fabac5"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-546546e2324d83b590bead0d4893c162",
+      "lessonId": "toeic-25",
+      "english": "minimize",
+      "vietnamese": "Giảm đến mức thấp nhất",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "minimize"
+        ],
+        "distractorIds": [
+          "toeic600-a1919869ae4d5b7543cc310f6721d11d",
+          "toeic600-36f580a0c3ed3eb7a9e17a3ded04e9b6",
+          "toeic600-3506d2612ee1f4b8cf42eed7f27609f8"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-a1919869ae4d5b7543cc310f6721d11d",
+      "lessonId": "toeic-25",
+      "english": "pull-out",
+      "vietnamese": "Sự rút lui, rút khỏi",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "pull-out"
+        ],
+        "distractorIds": [
+          "toeic600-36f580a0c3ed3eb7a9e17a3ded04e9b6",
+          "toeic600-3506d2612ee1f4b8cf42eed7f27609f8",
+          "toeic600-d83b441b2aa20894ec0a4588e6fabac5"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-af946aced5997f7d0387490718ec1926",
+      "lessonId": "toeic-25",
+      "english": "respond",
+      "vietnamese": "Đáp lại, phản hồi",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "respond"
+        ],
+        "distractorIds": [
+          "toeic600-36f580a0c3ed3eb7a9e17a3ded04e9b6",
+          "toeic600-3506d2612ee1f4b8cf42eed7f27609f8",
+          "toeic600-d83b441b2aa20894ec0a4588e6fabac5"
+        ]
+      }
+    }
+  ]
+}
