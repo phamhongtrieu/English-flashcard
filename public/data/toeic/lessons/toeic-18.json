@@ -1,0 +1,210 @@
+{
+  "schemaVersion": 1,
+  "collectionId": "toeic-vocabulary",
+  "lessonId": "toeic-18",
+  "approval": {
+    "rightsStatus": "verified",
+    "rightsReference": "Unlocked by explicit user instruction on 2026-11-18; common English words, project-authored concise Vietnamese Quiz prompts, parts of speech, and reviewed 4-option sets only; no third-party examples, explanations, images, or audio.",
+    "contentStatus": "approved"
+  },
+  "entries": [
+    {
+      "id": "toeic600-e941db0d5cb8611f1cd211699086911d",
+      "lessonId": "toeic-18",
+      "english": "affordable",
+      "vietnamese": "Có giá phải chăng, trong khả năng chi trả.",
+      "partOfSpeech": "adj.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "affordable"
+        ],
+        "distractorIds": [
+          "toeic600-cba952b4a2524ba9b5a841feb3cc108d",
+          "toeic600-a2fa072891e3f672a7b6f0479c410fc7",
+          "toeic600-208b7900a3e489797ddb0c24870fb1ad"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-208b7900a3e489797ddb0c24870fb1ad",
+      "lessonId": "toeic-18",
+      "english": "obviously",
+      "vietnamese": "Một cách rõ ràng, hiển nhiên",
+      "partOfSpeech": "adv.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "obviously"
+        ],
+        "distractorIds": [
+          "toeic600-73a25008a6fe75d89cd61487b608a90a",
+          "toeic600-cba952b4a2524ba9b5a841feb3cc108d",
+          "toeic600-e941db0d5cb8611f1cd211699086911d"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-e337345b7d2801054566046645c47a98",
+      "lessonId": "toeic-18",
+      "english": "eligible",
+      "vietnamese": "Đủ tư cách, đủ điều kiện",
+      "partOfSpeech": "adj.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "eligible"
+        ],
+        "distractorIds": [
+          "toeic600-e941db0d5cb8611f1cd211699086911d",
+          "toeic600-73a25008a6fe75d89cd61487b608a90a",
+          "toeic600-cba952b4a2524ba9b5a841feb3cc108d"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-a6cb1a3f3c66a281e0e763aa22b5ec33",
+      "lessonId": "toeic-18",
+      "english": "circumstance",
+      "vietnamese": "Hoàn cảnh, tình huống",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "circumstance"
+        ],
+        "distractorIds": [
+          "toeic600-73a25008a6fe75d89cd61487b608a90a",
+          "toeic600-e337345b7d2801054566046645c47a98",
+          "toeic600-cba952b4a2524ba9b5a841feb3cc108d"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-a2fa072891e3f672a7b6f0479c410fc7",
+      "lessonId": "toeic-18",
+      "english": "develop",
+      "vietnamese": "Phát triển",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "develop"
+        ],
+        "distractorIds": [
+          "toeic600-cba952b4a2524ba9b5a841feb3cc108d",
+          "toeic600-73a25008a6fe75d89cd61487b608a90a",
+          "toeic600-e941db0d5cb8611f1cd211699086911d"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-73a25008a6fe75d89cd61487b608a90a",
+      "lessonId": "toeic-18",
+      "english": "expiration",
+      "vietnamese": "Sự hết hạn",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "expiration"
+        ],
+        "distractorIds": [
+          "toeic600-e337345b7d2801054566046645c47a98",
+          "toeic600-cba952b4a2524ba9b5a841feb3cc108d",
+          "toeic600-e941db0d5cb8611f1cd211699086911d"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-ae144540f49297e8d84b41d51d91107e",
+      "lessonId": "toeic-18",
+      "english": "ignore",
+      "vietnamese": "Bỏ qua, phớt lờ",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "ignore"
+        ],
+        "distractorIds": [
+          "toeic600-cba952b4a2524ba9b5a841feb3cc108d",
+          "toeic600-e941db0d5cb8611f1cd211699086911d",
+          "toeic600-e337345b7d2801054566046645c47a98"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-c5581a436038f04881d9d9766e1d2f2a",
+      "lessonId": "toeic-18",
+      "english": "on track",
+      "vietnamese": "Đi đúng hướng để đạt mục tiêu",
+      "partOfSpeech": "idiom",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "on track"
+        ],
+        "distractorIds": [
+          "toeic600-a6cb1a3f3c66a281e0e763aa22b5ec33",
+          "toeic600-31a1e0ffb1e876f7b52ac90926f9edc8",
+          "toeic600-73a25008a6fe75d89cd61487b608a90a"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-cba952b4a2524ba9b5a841feb3cc108d",
+      "lessonId": "toeic-18",
+      "english": "quote",
+      "vietnamese": "Trích dẫn",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "quote"
+        ],
+        "distractorIds": [
+          "toeic600-e337345b7d2801054566046645c47a98",
+          "toeic600-73a25008a6fe75d89cd61487b608a90a",
+          "toeic600-e941db0d5cb8611f1cd211699086911d"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-31a1e0ffb1e876f7b52ac90926f9edc8",
+      "lessonId": "toeic-18",
+      "english": "return",
+      "vietnamese": "Lợi nhuận thu được từ đầu tư",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "return"
+        ],
+        "distractorIds": [
+          "toeic600-73a25008a6fe75d89cd61487b608a90a",
+          "toeic600-e941db0d5cb8611f1cd211699086911d",
+          "toeic600-e337345b7d2801054566046645c47a98"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-6653bd069f12615e89177825a68d9786",
+      "lessonId": "toeic-18",
+      "english": "verify",
+      "vietnamese": "Xác minh",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "verify"
+        ],
+        "distractorIds": [
+          "toeic600-cba952b4a2524ba9b5a841feb3cc108d",
+          "toeic600-73a25008a6fe75d89cd61487b608a90a",
+          "toeic600-e941db0d5cb8611f1cd211699086911d"
+        ]
+      }
+    }
+  ]
+}

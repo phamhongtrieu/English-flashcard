@@ -1,0 +1,174 @@
+{
+  "schemaVersion": 1,
+  "collectionId": "toeic-vocabulary",
+  "lessonId": "toeic-17",
+  "approval": {
+    "rightsStatus": "verified",
+    "rightsReference": "Unlocked by explicit user instruction on 2026-11-18; common English words, project-authored concise Vietnamese Quiz prompts, parts of speech, and reviewed 4-option sets only; no third-party examples, explanations, images, or audio.",
+    "contentStatus": "approved"
+  },
+  "entries": [
+    {
+      "id": "toeic600-3c92f0242f22deb50ff1e50cb5fa3ed2",
+      "lessonId": "toeic-17",
+      "english": "accumulate",
+      "vietnamese": "Tích lũy, gom góp",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "accumulate"
+        ],
+        "distractorIds": [
+          "toeic600-f23ce640c1276b973289fc71737f2300",
+          "toeic600-02bb018eb359ba9a6d5b94e3aed0a631",
+          "toeic600-73e8e1a2e67bde6ab84aa6af886a091b"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-862c5cf9c800a98517f1282f51fc96ed",
+      "lessonId": "toeic-17",
+      "english": "combine",
+      "vietnamese": "Kết hợp",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "combine"
+        ],
+        "distractorIds": [
+          "toeic600-f23ce640c1276b973289fc71737f2300",
+          "toeic600-02bb018eb359ba9a6d5b94e3aed0a631",
+          "toeic600-73e8e1a2e67bde6ab84aa6af886a091b"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-73e8e1a2e67bde6ab84aa6af886a091b",
+      "lessonId": "toeic-17",
+      "english": "time-consuming",
+      "vietnamese": "Tốn nhiều thời gian",
+      "partOfSpeech": "adj.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "time-consuming"
+        ],
+        "distractorIds": [
+          "toeic600-3c92f0242f22deb50ff1e50cb5fa3ed2",
+          "toeic600-f23ce640c1276b973289fc71737f2300",
+          "toeic600-02bb018eb359ba9a6d5b94e3aed0a631"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-61b059b44d9af4e9885e8c725dc6ae4f",
+      "lessonId": "toeic-17",
+      "english": "enhance",
+      "vietnamese": "Nâng cao, cải thiện",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "enhance"
+        ],
+        "distractorIds": [
+          "toeic600-3c92f0242f22deb50ff1e50cb5fa3ed2",
+          "toeic600-02bb018eb359ba9a6d5b94e3aed0a631",
+          "toeic600-73e8e1a2e67bde6ab84aa6af886a091b"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-b930ef3d9c82892f36c6c2edc21bf83e",
+      "lessonId": "toeic-17",
+      "english": "limit",
+      "vietnamese": "Giới hạn",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "limit"
+        ],
+        "distractorIds": [
+          "toeic600-02bb018eb359ba9a6d5b94e3aed0a631",
+          "toeic600-f23ce640c1276b973289fc71737f2300",
+          "toeic600-3c92f0242f22deb50ff1e50cb5fa3ed2"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-f7a3e55ab475a241c2303ca68d79e8d8",
+      "lessonId": "toeic-17",
+      "english": "look up to",
+      "vietnamese": "Kính trọng, ngưỡng mộ",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "look up to"
+        ],
+        "distractorIds": [
+          "toeic600-3c92f0242f22deb50ff1e50cb5fa3ed2",
+          "toeic600-f23ce640c1276b973289fc71737f2300",
+          "toeic600-02bb018eb359ba9a6d5b94e3aed0a631"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-f23ce640c1276b973289fc71737f2300",
+      "lessonId": "toeic-17",
+      "english": "rate",
+      "vietnamese": "Mức giá",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "rate"
+        ],
+        "distractorIds": [
+          "toeic600-02bb018eb359ba9a6d5b94e3aed0a631",
+          "toeic600-73e8e1a2e67bde6ab84aa6af886a091b",
+          "toeic600-3c92f0242f22deb50ff1e50cb5fa3ed2"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-1e427be1a48bcdd1267d91a33d7f6512",
+      "lessonId": "toeic-17",
+      "english": "replace",
+      "vietnamese": "Thay thế",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "replace"
+        ],
+        "distractorIds": [
+          "toeic600-3c92f0242f22deb50ff1e50cb5fa3ed2",
+          "toeic600-f23ce640c1276b973289fc71737f2300",
+          "toeic600-02bb018eb359ba9a6d5b94e3aed0a631"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-02bb018eb359ba9a6d5b94e3aed0a631",
+      "lessonId": "toeic-17",
+      "english": "terms",
+      "vietnamese": "Các điều kiện, điều khoản",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "terms"
+        ],
+        "distractorIds": [
+          "toeic600-f23ce640c1276b973289fc71737f2300",
+          "toeic600-3c92f0242f22deb50ff1e50cb5fa3ed2",
+          "toeic600-73e8e1a2e67bde6ab84aa6af886a091b"
+        ]
+      }
+    }
+  ]
+}

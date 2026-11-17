@@ -1,5 +1,5 @@
 export type FlashcardCategory = 'base_word' | 'word_family' | 'synonym' | 'collocation'
-export type PartOfSpeech = 'n' | 'v' | 'adj' | 'adv' | 'v/adj' | 'n/adj' | 'adj/n' | 'v/n' | 'n/v' | 'n.pl' | 'phr.v'
+export type PartOfSpeech = 'n' | 'v' | 'adj' | 'adv' | 'v/adj' | 'n/adj' | 'adj/n' | 'v/n' | 'n/v' | 'n.pl' | 'phr.v' | 'prep' | 'idiom'
 
 export interface Flashcard {
   id: string

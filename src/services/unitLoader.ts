@@ -1,4 +1,17 @@
-import type { LoadedUnit, Unit, UnitData } from '../types/flashcard'
+import type { Flashcard, LoadedUnit, PartOfSpeech, Unit, UnitData } from '../types/flashcard'
+import { quizApproved, validateQuizLesson, validateQuizManifest } from './toeicQuizLoader'
+
+export const TOEIC_UNIT_ID = 'toeic-600'
+
+const toeicPosMap: Record<string, PartOfSpeech> = {
+  'n.': 'n', n: 'n', 'v.': 'v', v: 'v', 'adj.': 'adj', adj: 'adj', 'adv.': 'adv', adv: 'adv',
+  'phr. v.': 'phr.v', 'phr.v.': 'phr.v', 'phr.v': 'phr.v', 'prep.': 'prep', prep: 'prep', idiom: 'idiom',
+}
+
+function mapToeicPartOfSpeech(value: string | null): PartOfSpeech | null {
+  if (!value) return null
+  return toeicPosMap[value.trim().toLowerCase()] ?? null
+}
 
 const categories = new Set(['base_word', 'word_family', 'synonym', 'collocation'])
 const parts = new Set(['n', 'v', 'adj', 'adv', 'v/adj', 'n/adj', 'adj/n', 'v/n', 'n/v', 'n.pl', 'phr.v'])
@@ -49,10 +62,50 @@ async function readJson(path: string, signal?: AbortSignal): Promise<unknown> {
   if (!response.ok) throw new Error(`Không tải được dữ liệu (${response.status}). Vui lòng thử lại.`)
   try { return await response.json() } catch { throw new Error('File dữ liệu JSON bị lỗi hoặc không tồn tại.') }
 }
+async function loadToeicFlashcardUnit(signal?: AbortSignal): Promise<LoadedUnit> {
+  const collections = validateQuizManifest(await readJson('data/toeic/catalog.json', signal))
+  const toeicCollection = collections.find(col => col.id === 'toeic-vocabulary' && col.kind === 'toeic')
+  if (!toeicCollection || !quizApproved(toeicCollection.approval)) throw new Error('Bộ từ vựng TOEIC chưa sẵn sàng.')
+  const loadedLessons = await Promise.all(toeicCollection.lessons.map(async lesson => {
+    if (!lesson.dataFile) return null
+    const data = validateQuizLesson(await readJson(lesson.dataFile, signal), toeicCollection.id, lesson.id)
+    return { lesson, entries: data.entries }
+  }))
+  const sections: Unit['sections'] = []
+  const flashcards: Flashcard[] = []
+  for (const item of loadedLessons) {
+    if (!item) continue
+    sections.push({ id: item.lesson.id, title: item.lesson.title, description: `${item.entries.length} từ vựng TOEIC.` })
+    for (const entry of item.entries) {
+      flashcards.push({
+        id: entry.id,
+        unitId: TOEIC_UNIT_ID,
+        section: item.lesson.id,
+        category: 'base_word',
+        vietnamese: entry.vietnamese,
+        english: entry.english,
+        acceptedAnswers: entry.quiz.answerAliases.length ? entry.quiz.answerAliases : [entry.english],
+        partOfSpeech: mapToeicPartOfSpeech(entry.partOfSpeech),
+        sourceRow: null,
+      })
+    }
+  }
+  if (!flashcards.length) throw new Error('Bộ 600 Từ Vựng TOEIC chưa có thẻ hợp lệ.')
+  const unit: Unit = {
+    id: TOEIC_UNIT_ID,
+    title: '600 Từ Vựng TOEIC',
+    description: `Bộ ${flashcards.length} thẻ từ vựng TOEIC thông dụng chia theo ${sections.length} bài học.`,
+    sections,
+    dataFile: 'data/toeic/catalog.json',
+  }
+  return { unit, data: { schemaVersion: 1, unitId: TOEIC_UNIT_ID, flashcards, reviewNotes: [] } }
+}
+
 export async function loadManifest(signal?: AbortSignal): Promise<Unit[]> {
   return validateManifest(await readJson('data/units.json', signal))
 }
 export async function loadUnit(unitId: string, signal?: AbortSignal): Promise<LoadedUnit> {
+  if (unitId === TOEIC_UNIT_ID) return loadToeicFlashcardUnit(signal)
   const manifest = await loadManifest(signal)
   const unit = manifest.find(item => item.id === unitId)
   if (!unit) throw new Error('Unit không tồn tại hoặc chưa được xuất bản.')
@@ -60,14 +113,20 @@ export async function loadUnit(unitId: string, signal?: AbortSignal): Promise<Lo
 }
 export async function loadCatalog(signal?: AbortSignal): Promise<{ entries: LoadedUnit[]; warnings: string[] }> {
   const manifest = await loadManifest(signal)
-  const results = await Promise.allSettled(manifest.map(async unit => ({ unit, data: validateUnitData(await readJson(unit.dataFile, signal), unit) })))
+  const results = await Promise.allSettled([
+    ...manifest.map(async unit => ({ unit, data: validateUnitData(await readJson(unit.dataFile, signal), unit) })),
+    loadToeicFlashcardUnit(signal),
+  ])
   const entries: LoadedUnit[] = []
   const warnings: string[] = []
   results.forEach((result, index) => {
     if (result.status === 'fulfilled') entries.push(result.value)
-    else warnings.push(`Không thể hiển thị ${manifest[index].title}: ${result.reason instanceof Error ? result.reason.message : 'Dữ liệu lỗi.'}`)
+    else {
+      const title = index < manifest.length ? manifest[index].title : '600 Từ Vựng TOEIC'
+      warnings.push(`Không thể hiển thị ${title}: ${result.reason instanceof Error ? result.reason.message : 'Dữ liệu lỗi.'}`)
+    }
   })
   return { entries, warnings }
 }
 export const unitStudyPath = (unit: Unit) => `/study/${encodeURIComponent(unit.id)}`
-export const unitLabel = (unit: Unit) => unit.number ? `UNIT ${String(unit.number).padStart(2, '0')}` : unit.title
+export const unitLabel = (unit: Unit) => unit.number ? `UNIT ${String(unit.number).padStart(2, '0')}` : unit.id === TOEIC_UNIT_ID ? 'TOEIC 600' : unit.title

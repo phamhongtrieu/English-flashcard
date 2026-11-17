@@ -1,0 +1,228 @@
+{
+  "schemaVersion": 1,
+  "collectionId": "toeic-vocabulary",
+  "lessonId": "toeic-07",
+  "approval": {
+    "rightsStatus": "verified",
+    "rightsReference": "Unlocked by explicit user instruction on 2026-11-18; common English words, project-authored concise Vietnamese Quiz prompts, parts of speech, and reviewed 4-option sets only; no third-party examples, explanations, images, or audio.",
+    "contentStatus": "approved"
+  },
+  "entries": [
+    {
+      "id": "toeic600-ebe36e43a2611cb4950affea67ad8195",
+      "lessonId": "toeic-07",
+      "english": "accept",
+      "vietnamese": "Nhận, chấp nhận",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "accept"
+        ],
+        "distractorIds": [
+          "toeic600-1f3d6632a8f95776a5b01addf2567177",
+          "toeic600-75a087a3159dfa043b8ee749cf964c1d",
+          "toeic600-fd7b01fc90573bc173ebff01ffccfeba"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-36a27aefa61555f3f78ef05add9e592a",
+      "lessonId": "toeic-07",
+      "english": "culinary",
+      "vietnamese": "Thuộc nấu nướng/ẩm thực",
+      "partOfSpeech": "adj.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "culinary"
+        ],
+        "distractorIds": [
+          "toeic600-b75741c78476039c14af581dda7fe81e",
+          "toeic600-75a087a3159dfa043b8ee749cf964c1d",
+          "toeic600-ec9adf2e44d9320c0801114d60c161ab"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-1f3d6632a8f95776a5b01addf2567177",
+      "lessonId": "toeic-07",
+      "english": "punctually",
+      "vietnamese": "Đúng giờ",
+      "partOfSpeech": "adv.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "punctually"
+        ],
+        "distractorIds": [
+          "toeic600-aaf7bf205876b6663436a091766e5c3b",
+          "toeic600-75a087a3159dfa043b8ee749cf964c1d",
+          "toeic600-fd7b01fc90573bc173ebff01ffccfeba"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-b75741c78476039c14af581dda7fe81e",
+      "lessonId": "toeic-07",
+      "english": "on hand",
+      "vietnamese": "Có sẵn để sử dụng",
+      "partOfSpeech": "adj.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "on hand"
+        ],
+        "distractorIds": [
+          "toeic600-fd7b01fc90573bc173ebff01ffccfeba",
+          "toeic600-aaf7bf205876b6663436a091766e5c3b",
+          "toeic600-1f3d6632a8f95776a5b01addf2567177"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-c769e450c0f169047ac79061c3c71356",
+      "lessonId": "toeic-07",
+      "english": "compromise",
+      "vietnamese": "Sự thỏa hiệp",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "compromise"
+        ],
+        "distractorIds": [
+          "toeic600-75a087a3159dfa043b8ee749cf964c1d",
+          "toeic600-fd7b01fc90573bc173ebff01ffccfeba",
+          "toeic600-aaf7bf205876b6663436a091766e5c3b"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-fd7b01fc90573bc173ebff01ffccfeba",
+      "lessonId": "toeic-07",
+      "english": "duration",
+      "vietnamese": "Khoảng thời gian một việc kéo dài",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "duration"
+        ],
+        "distractorIds": [
+          "toeic600-aaf7bf205876b6663436a091766e5c3b",
+          "toeic600-75a087a3159dfa043b8ee749cf964c1d",
+          "toeic600-1f3d6632a8f95776a5b01addf2567177"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-ec9adf2e44d9320c0801114d60c161ab",
+      "lessonId": "toeic-07",
+      "english": "draw",
+      "vietnamese": "Thu hút, lôi cuốn",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "draw"
+        ],
+        "distractorIds": [
+          "toeic600-fd7b01fc90573bc173ebff01ffccfeba",
+          "toeic600-aaf7bf205876b6663436a091766e5c3b",
+          "toeic600-1f3d6632a8f95776a5b01addf2567177"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-aaf7bf205876b6663436a091766e5c3b",
+      "lessonId": "toeic-07",
+      "english": "majority",
+      "vietnamese": "Đa số",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "majority"
+        ],
+        "distractorIds": [
+          "toeic600-75a087a3159dfa043b8ee749cf964c1d",
+          "toeic600-fd7b01fc90573bc173ebff01ffccfeba",
+          "toeic600-1f3d6632a8f95776a5b01addf2567177"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-665aeb6c647bb3e439b666333f88367f",
+      "lessonId": "toeic-07",
+      "english": "irritate",
+      "vietnamese": "Làm kích ứng, làm rát",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "irritate"
+        ],
+        "distractorIds": [
+          "toeic600-aaf7bf205876b6663436a091766e5c3b",
+          "toeic600-1f3d6632a8f95776a5b01addf2567177",
+          "toeic600-75a087a3159dfa043b8ee749cf964c1d"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-75a087a3159dfa043b8ee749cf964c1d",
+      "lessonId": "toeic-07",
+      "english": "recruit",
+      "vietnamese": "Nhân viên hoặc thành viên mới",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "recruit"
+        ],
+        "distractorIds": [
+          "toeic600-fd7b01fc90573bc173ebff01ffccfeba",
+          "toeic600-aaf7bf205876b6663436a091766e5c3b",
+          "toeic600-1f3d6632a8f95776a5b01addf2567177"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-d23e693e953d7ac19afd143e6c8b06ac",
+      "lessonId": "toeic-07",
+      "english": "relinquish",
+      "vietnamese": "Từ bỏ quyền nắm giữ",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "relinquish"
+        ],
+        "distractorIds": [
+          "toeic600-1f3d6632a8f95776a5b01addf2567177",
+          "toeic600-75a087a3159dfa043b8ee749cf964c1d",
+          "toeic600-fd7b01fc90573bc173ebff01ffccfeba"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-30e39c53d9072abbc7100657445de387",
+      "lessonId": "toeic-07",
+      "english": "trend",
+      "vietnamese": "Xu hướng",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "trend"
+        ],
+        "distractorIds": [
+          "toeic600-75a087a3159dfa043b8ee749cf964c1d",
+          "toeic600-fd7b01fc90573bc173ebff01ffccfeba",
+          "toeic600-aaf7bf205876b6663436a091766e5c3b"
+        ]
+      }
+    }
+  ]
+}

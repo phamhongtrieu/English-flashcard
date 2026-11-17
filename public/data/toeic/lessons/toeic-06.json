@@ -1,0 +1,228 @@
+{
+  "schemaVersion": 1,
+  "collectionId": "toeic-vocabulary",
+  "lessonId": "toeic-06",
+  "approval": {
+    "rightsStatus": "verified",
+    "rightsReference": "Unlocked by explicit user instruction on 2026-11-18; common English words, project-authored concise Vietnamese Quiz prompts, parts of speech, and reviewed 4-option sets only; no third-party examples, explanations, images, or audio.",
+    "contentStatus": "approved"
+  },
+  "entries": [
+    {
+      "id": "toeic600-2ab6a81bbfd2edc80e45d324276df7b0",
+      "lessonId": "toeic-06",
+      "english": "access",
+      "vietnamese": "Quyền, khả năng truy cập",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "access"
+        ],
+        "distractorIds": [
+          "toeic600-d7491b6a926c27140513d121000c9fd7",
+          "toeic600-47719c9b4e1faa88fb2d7ebf6fd41299",
+          "toeic600-5b072af6672b405cf4d39fe129b4eb00"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-b9b19c77db95912f144e3d60fbcb0f98",
+      "lessonId": "toeic-06",
+      "english": "primarily",
+      "vietnamese": "Chủ yếu",
+      "partOfSpeech": "adv.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "primarily"
+        ],
+        "distractorIds": [
+          "toeic600-47719c9b4e1faa88fb2d7ebf6fd41299",
+          "toeic600-5b072af6672b405cf4d39fe129b4eb00",
+          "toeic600-e50e60058ad09609f20eade882b50963"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-e50e60058ad09609f20eade882b50963",
+      "lessonId": "toeic-06",
+      "english": "durable",
+      "vietnamese": "Bền, dùng được lâu",
+      "partOfSpeech": "adj.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "durable"
+        ],
+        "distractorIds": [
+          "toeic600-d7491b6a926c27140513d121000c9fd7",
+          "toeic600-47719c9b4e1faa88fb2d7ebf6fd41299",
+          "toeic600-5b072af6672b405cf4d39fe129b4eb00"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-5b072af6672b405cf4d39fe129b4eb00",
+      "lessonId": "toeic-06",
+      "english": "collection",
+      "vietnamese": "Bộ sưu tập",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "collection"
+        ],
+        "distractorIds": [
+          "toeic600-d7491b6a926c27140513d121000c9fd7",
+          "toeic600-47719c9b4e1faa88fb2d7ebf6fd41299",
+          "toeic600-e50e60058ad09609f20eade882b50963"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-1e72be4b6266e9c6329f9086ffb1dd8f",
+      "lessonId": "toeic-06",
+      "english": "outdated",
+      "vietnamese": "Lỗi thời, không còn cập nhật",
+      "partOfSpeech": "adj.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "outdated"
+        ],
+        "distractorIds": [
+          "toeic600-e50e60058ad09609f20eade882b50963",
+          "toeic600-5b072af6672b405cf4d39fe129b4eb00",
+          "toeic600-d7491b6a926c27140513d121000c9fd7"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-613158769979ee7c33380ae47b01c404",
+      "lessonId": "toeic-06",
+      "english": "display",
+      "vietnamese": "Hiển thị",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "display"
+        ],
+        "distractorIds": [
+          "toeic600-e50e60058ad09609f20eade882b50963",
+          "toeic600-d7491b6a926c27140513d121000c9fd7",
+          "toeic600-47719c9b4e1faa88fb2d7ebf6fd41299"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-47719c9b4e1faa88fb2d7ebf6fd41299",
+      "lessonId": "toeic-06",
+      "english": "entertainment",
+      "vietnamese": "Sự giải trí",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "entertainment"
+        ],
+        "distractorIds": [
+          "toeic600-d7491b6a926c27140513d121000c9fd7",
+          "toeic600-5b072af6672b405cf4d39fe129b4eb00",
+          "toeic600-e50e60058ad09609f20eade882b50963"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-64d24d6759c7a401bbfa41ce8ffb82f1",
+      "lessonId": "toeic-06",
+      "english": "incur",
+      "vietnamese": "Phải chịu một khoản chi phí",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "incur"
+        ],
+        "distractorIds": [
+          "toeic600-47719c9b4e1faa88fb2d7ebf6fd41299",
+          "toeic600-5b072af6672b405cf4d39fe129b4eb00",
+          "toeic600-e50e60058ad09609f20eade882b50963"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-d7491b6a926c27140513d121000c9fd7",
+      "lessonId": "toeic-06",
+      "english": "merit",
+      "vietnamese": "Giá trị, thành tích xứng đáng được ghi nhận",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "merit"
+        ],
+        "distractorIds": [
+          "toeic600-47719c9b4e1faa88fb2d7ebf6fd41299",
+          "toeic600-5b072af6672b405cf4d39fe129b4eb00",
+          "toeic600-e50e60058ad09609f20eade882b50963"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-944ac7258ebb8301c64bf34f5a679be3",
+      "lessonId": "toeic-06",
+      "english": "register",
+      "vietnamese": "Đăng ký",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "register"
+        ],
+        "distractorIds": [
+          "toeic600-d7491b6a926c27140513d121000c9fd7",
+          "toeic600-47719c9b4e1faa88fb2d7ebf6fd41299",
+          "toeic600-5b072af6672b405cf4d39fe129b4eb00"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-902ca8f03dc14f55d611928cc012768d",
+      "lessonId": "toeic-06",
+      "english": "representation",
+      "vietnamese": "Sự thể hiện, mô tả",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "representation"
+        ],
+        "distractorIds": [
+          "toeic600-d7491b6a926c27140513d121000c9fd7",
+          "toeic600-47719c9b4e1faa88fb2d7ebf6fd41299",
+          "toeic600-5b072af6672b405cf4d39fe129b4eb00"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-56d772a4dc0e61ec186eb9db064ed8d4",
+      "lessonId": "toeic-06",
+      "english": "turnover",
+      "vietnamese": "Doanh thu bán hàng trong một kỳ",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "turnover"
+        ],
+        "distractorIds": [
+          "toeic600-d7491b6a926c27140513d121000c9fd7",
+          "toeic600-47719c9b4e1faa88fb2d7ebf6fd41299",
+          "toeic600-e50e60058ad09609f20eade882b50963"
+        ]
+      }
+    }
+  ]
+}

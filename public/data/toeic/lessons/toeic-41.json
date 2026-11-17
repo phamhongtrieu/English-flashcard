@@ -1,0 +1,228 @@
+{
+  "schemaVersion": 1,
+  "collectionId": "toeic-vocabulary",
+  "lessonId": "toeic-41",
+  "approval": {
+    "rightsStatus": "verified",
+    "rightsReference": "Unlocked by explicit user instruction on 2026-11-18; common English words, project-authored concise Vietnamese Quiz prompts, parts of speech, and reviewed 4-option sets only; no third-party examples, explanations, images, or audio.",
+    "contentStatus": "approved"
+  },
+  "entries": [
+    {
+      "id": "toeic600-905afd1a9529a87ccfe7ba7ed11c68ca",
+      "lessonId": "toeic-41",
+      "english": "agent",
+      "vietnamese": "Đại lý, người đại diện",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "agent"
+        ],
+        "distractorIds": [
+          "toeic600-5f6a01b2cadbafc58ed42c2d903af160",
+          "toeic600-c49208b6aab3fa7994234f7dcfaf9729",
+          "toeic600-ff6f8083e3bba51278a14d2823b6b00e"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-5f6a01b2cadbafc58ed42c2d903af160",
+      "lessonId": "toeic-41",
+      "english": "appointment",
+      "vietnamese": "Cuộc hẹn",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "appointment"
+        ],
+        "distractorIds": [
+          "toeic600-c49208b6aab3fa7994234f7dcfaf9729",
+          "toeic600-ff6f8083e3bba51278a14d2823b6b00e",
+          "toeic600-fe44a94f021321a476df364341f4bcee"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-9af62dcc46ae18a8d1df801f6b96f840",
+      "lessonId": "toeic-41",
+      "english": "board",
+      "vietnamese": "Lên tàu, máy bay",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "board"
+        ],
+        "distractorIds": [
+          "toeic600-5f6a01b2cadbafc58ed42c2d903af160",
+          "toeic600-c49208b6aab3fa7994234f7dcfaf9729",
+          "toeic600-ff6f8083e3bba51278a14d2823b6b00e"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-c49208b6aab3fa7994234f7dcfaf9729",
+      "lessonId": "toeic-41",
+      "english": "capacity",
+      "vietnamese": "Sức chứa",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "capacity"
+        ],
+        "distractorIds": [
+          "toeic600-fe44a94f021321a476df364341f4bcee",
+          "toeic600-5f6a01b2cadbafc58ed42c2d903af160",
+          "toeic600-ff6f8083e3bba51278a14d2823b6b00e"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-3b3f46d217f2787aa1e3a568faaee128",
+      "lessonId": "toeic-41",
+      "english": "convince",
+      "vietnamese": "Thuyết phục, làm ai tin điều gì",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "convince"
+        ],
+        "distractorIds": [
+          "toeic600-c49208b6aab3fa7994234f7dcfaf9729",
+          "toeic600-ff6f8083e3bba51278a14d2823b6b00e",
+          "toeic600-fe44a94f021321a476df364341f4bcee"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-966e04c5b37fbfeaf11ed9954f354d49",
+      "lessonId": "toeic-41",
+      "english": "smooth",
+      "vietnamese": "Hòa nhã, khéo léo trong giao tiếp",
+      "partOfSpeech": "adj.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "smooth"
+        ],
+        "distractorIds": [
+          "toeic600-c49208b6aab3fa7994234f7dcfaf9729",
+          "toeic600-ff6f8083e3bba51278a14d2823b6b00e",
+          "toeic600-fe44a94f021321a476df364341f4bcee"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-a2072896c5ad6f1deff077cf7641e738",
+      "lessonId": "toeic-41",
+      "english": "extend",
+      "vietnamese": "Kéo dài, mở rộng",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "extend"
+        ],
+        "distractorIds": [
+          "toeic600-ff6f8083e3bba51278a14d2823b6b00e",
+          "toeic600-fe44a94f021321a476df364341f4bcee",
+          "toeic600-5f6a01b2cadbafc58ed42c2d903af160"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-ff6f8083e3bba51278a14d2823b6b00e",
+      "lessonId": "toeic-41",
+      "english": "instinct",
+      "vietnamese": "Bản năng",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "instinct"
+        ],
+        "distractorIds": [
+          "toeic600-5f6a01b2cadbafc58ed42c2d903af160",
+          "toeic600-c49208b6aab3fa7994234f7dcfaf9729",
+          "toeic600-fe44a94f021321a476df364341f4bcee"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-cd115845727c5dcd8659d953eba06441",
+      "lessonId": "toeic-41",
+      "english": "obligate",
+      "vietnamese": "Buộc phải thực hiện theo trách nhiệm",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "obligate"
+        ],
+        "distractorIds": [
+          "toeic600-c49208b6aab3fa7994234f7dcfaf9729",
+          "toeic600-ff6f8083e3bba51278a14d2823b6b00e",
+          "toeic600-fe44a94f021321a476df364341f4bcee"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-fe44a94f021321a476df364341f4bcee",
+      "lessonId": "toeic-41",
+      "english": "process",
+      "vietnamese": "Quá trình",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "process"
+        ],
+        "distractorIds": [
+          "toeic600-5f6a01b2cadbafc58ed42c2d903af160",
+          "toeic600-c49208b6aab3fa7994234f7dcfaf9729",
+          "toeic600-ff6f8083e3bba51278a14d2823b6b00e"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-2addf3bec332f7ba3d960f4aa47ffd39",
+      "lessonId": "toeic-41",
+      "english": "set up",
+      "vietnamese": "Sắp xếp, thiết lập",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "set up"
+        ],
+        "distractorIds": [
+          "toeic600-5f6a01b2cadbafc58ed42c2d903af160",
+          "toeic600-c49208b6aab3fa7994234f7dcfaf9729",
+          "toeic600-ff6f8083e3bba51278a14d2823b6b00e"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-102a9f8c70969b778a07276e727e8d79",
+      "lessonId": "toeic-41",
+      "english": "stage",
+      "vietnamese": "Trình diễn, dàn cảnh; sắp xếp, tổ chức",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "stage"
+        ],
+        "distractorIds": [
+          "toeic600-905afd1a9529a87ccfe7ba7ed11c68ca",
+          "toeic600-5f6a01b2cadbafc58ed42c2d903af160",
+          "toeic600-c49208b6aab3fa7994234f7dcfaf9729"
+        ]
+      }
+    }
+  ]
+}

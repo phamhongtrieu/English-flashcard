@@ -5,10 +5,10 @@ import { mascotMessages } from '../../data/mascotMessages'
 import type { MascotState } from '../../data/mascotMessages'
 
 /** Original inline vector illustration; no downloaded image or external asset. */
-export function StudyMascot({ state, message }: { state: MascotState; message?: string }) {
+export function StudyMascot({ state, message, stationary = false }: { state: MascotState; message?: string; stationary?: boolean }) {
   const [reacting, setReacting] = useState(state === 'correct' || state === 'incorrect')
   useEffect(() => { setReacting(state === 'correct' || state === 'incorrect') }, [state, message])
-  const walk = useMascotWalk(state === 'idle' || (state === 'correct' && !reacting))
+  const walk = useMascotWalk(!stationary && (state === 'idle' || (state === 'correct' && !reacting)))
   const { reducedMotion } = walk
   const visualState = reacting ? state : state === 'correct' ? 'idle' : state
   return <aside className={`study-mascot mascot-${state}`} data-state={state} data-walking={walk.walking} data-direction={walk.walking && walk.right ? 'right' : 'left'} aria-label="Bạn đồng hành khủng long">
@@ -55,8 +55,8 @@ export function StudyMascot({ state, message }: { state: MascotState; message?: 
       </svg>
     </motion.div>
     </div></motion.div></div></div>
-    <label className="mascot-motion-control"><input type="checkbox" role="switch" checked={walk.enabled}
+    {!stationary && <><label className="mascot-motion-control"><input type="checkbox" role="switch" checked={walk.enabled}
       onChange={event => walk.setEnabled(event.target.checked)} />Bật/tắt chuyển động linh vật</label>
-    {!walk.saved && <p className="mascot-storage-notice" role="status">Chưa thể lưu lựa chọn chuyển động.</p>}
+    {!walk.saved && <p className="mascot-storage-notice" role="status">Chưa thể lưu lựa chọn chuyển động.</p>}</>}
   </aside>
 }

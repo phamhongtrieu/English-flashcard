@@ -1,0 +1,228 @@
+{
+  "schemaVersion": 1,
+  "collectionId": "toeic-vocabulary",
+  "lessonId": "toeic-20",
+  "approval": {
+    "rightsStatus": "verified",
+    "rightsReference": "Unlocked by explicit user instruction on 2026-11-18; common English words, project-authored concise Vietnamese Quiz prompts, parts of speech, and reviewed 4-option sets only; no third-party examples, explanations, images, or audio.",
+    "contentStatus": "approved"
+  },
+  "entries": [
+    {
+      "id": "toeic600-1175dfcf88ad025cb18f34e5d42eaa8e",
+      "lessonId": "toeic-20",
+      "english": "due to",
+      "vietnamese": "Bởi, vì, do, tại, nhờ có",
+      "partOfSpeech": "prep.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "due to"
+        ],
+        "distractorIds": [
+          "toeic600-138e62b122ed5cb78bd1aec241aa48da",
+          "toeic600-59757a7169770075bb8b19e633567427",
+          "toeic600-1f1000ad41633f9e51c1d4370d14453f"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-7f43d101ead5212b8df29a84981e4b7b",
+      "lessonId": "toeic-20",
+      "english": "assess",
+      "vietnamese": "Đánh giá, ước lượng",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "assess"
+        ],
+        "distractorIds": [
+          "toeic600-ffa8fb06d8c9a06798a7ddbfde47d204",
+          "toeic600-138e62b122ed5cb78bd1aec241aa48da",
+          "toeic600-a583093f3e7954d41d5639cb69fa39ea"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-12be76dae33b49fb59661f2e02cbfff4",
+      "lessonId": "toeic-20",
+      "english": "basis",
+      "vietnamese": "Cơ sở, căn cứ",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "basis"
+        ],
+        "distractorIds": [
+          "toeic600-a583093f3e7954d41d5639cb69fa39ea",
+          "toeic600-138e62b122ed5cb78bd1aec241aa48da",
+          "toeic600-59757a7169770075bb8b19e633567427"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-ffa8fb06d8c9a06798a7ddbfde47d204",
+      "lessonId": "toeic-20",
+      "english": "coincide",
+      "vietnamese": "Xảy ra trùng thời điểm",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "coincide"
+        ],
+        "distractorIds": [
+          "toeic600-59757a7169770075bb8b19e633567427",
+          "toeic600-138e62b122ed5cb78bd1aec241aa48da",
+          "toeic600-a583093f3e7954d41d5639cb69fa39ea"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-352caceca3ff298de90e35b2493a604a",
+      "lessonId": "toeic-20",
+      "english": "constitute",
+      "vietnamese": "Cấu thành, tạo thành",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "constitute"
+        ],
+        "distractorIds": [
+          "toeic600-ffa8fb06d8c9a06798a7ddbfde47d204",
+          "toeic600-138e62b122ed5cb78bd1aec241aa48da",
+          "toeic600-a583093f3e7954d41d5639cb69fa39ea"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-59757a7169770075bb8b19e633567427",
+      "lessonId": "toeic-20",
+      "english": "thorough",
+      "vietnamese": "Kỹ lưỡng, tỉ mỉ",
+      "partOfSpeech": "adj.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "thorough"
+        ],
+        "distractorIds": [
+          "toeic600-ffa8fb06d8c9a06798a7ddbfde47d204",
+          "toeic600-138e62b122ed5cb78bd1aec241aa48da",
+          "toeic600-a583093f3e7954d41d5639cb69fa39ea"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-138e62b122ed5cb78bd1aec241aa48da",
+      "lessonId": "toeic-20",
+      "english": "factor",
+      "vietnamese": "Nhân tố, yếu tố",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "factor"
+        ],
+        "distractorIds": [
+          "toeic600-a583093f3e7954d41d5639cb69fa39ea",
+          "toeic600-59757a7169770075bb8b19e633567427",
+          "toeic600-ffa8fb06d8c9a06798a7ddbfde47d204"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-5ed3634bbfe4cf4a7e4e23200d12a6f7",
+      "lessonId": "toeic-20",
+      "english": "identify",
+      "vietnamese": "Nhận diện, xác định",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "identify"
+        ],
+        "distractorIds": [
+          "toeic600-ffa8fb06d8c9a06798a7ddbfde47d204",
+          "toeic600-a583093f3e7954d41d5639cb69fa39ea",
+          "toeic600-59757a7169770075bb8b19e633567427"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-a583093f3e7954d41d5639cb69fa39ea",
+      "lessonId": "toeic-20",
+      "english": "option",
+      "vietnamese": "Một lựa chọn",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "option"
+        ],
+        "distractorIds": [
+          "toeic600-138e62b122ed5cb78bd1aec241aa48da",
+          "toeic600-59757a7169770075bb8b19e633567427",
+          "toeic600-ffa8fb06d8c9a06798a7ddbfde47d204"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-77b787d6ffa5a9c47898d222fde47999",
+      "lessonId": "toeic-20",
+      "english": "protect",
+      "vietnamese": "Bảo vệ",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "protect"
+        ],
+        "distractorIds": [
+          "toeic600-ffa8fb06d8c9a06798a7ddbfde47d204",
+          "toeic600-138e62b122ed5cb78bd1aec241aa48da",
+          "toeic600-a583093f3e7954d41d5639cb69fa39ea"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-1f1000ad41633f9e51c1d4370d14453f",
+      "lessonId": "toeic-20",
+      "english": "review",
+      "vietnamese": "Bài đánh giá",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "review"
+        ],
+        "distractorIds": [
+          "toeic600-138e62b122ed5cb78bd1aec241aa48da",
+          "toeic600-a583093f3e7954d41d5639cb69fa39ea",
+          "toeic600-59757a7169770075bb8b19e633567427"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-eb7ffd86458966683721f7c64529f6fb",
+      "lessonId": "toeic-20",
+      "english": "value",
+      "vietnamese": "Định giá",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "value"
+        ],
+        "distractorIds": [
+          "toeic600-ffa8fb06d8c9a06798a7ddbfde47d204",
+          "toeic600-138e62b122ed5cb78bd1aec241aa48da",
+          "toeic600-a583093f3e7954d41d5639cb69fa39ea"
+        ]
+      }
+    }
+  ]
+}

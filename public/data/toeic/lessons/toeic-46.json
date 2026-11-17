@@ -1,0 +1,210 @@
+{
+  "schemaVersion": 1,
+  "collectionId": "toeic-vocabulary",
+  "lessonId": "toeic-46",
+  "approval": {
+    "rightsStatus": "verified",
+    "rightsReference": "Unlocked by explicit user instruction on 2026-11-18; common English words, project-authored concise Vietnamese Quiz prompts, parts of speech, and reviewed 4-option sets only; no third-party examples, explanations, images, or audio.",
+    "contentStatus": "approved"
+  },
+  "entries": [
+    {
+      "id": "toeic600-74da74eca145c846b05a8f3ad3a635b2",
+      "lessonId": "toeic-46",
+      "english": "agreement",
+      "vietnamese": "Thỏa thuận",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "agreement"
+        ],
+        "distractorIds": [
+          "toeic600-8943a0e434608684924892b06112d3b9",
+          "toeic600-0aa26e4bd632de88e47e195cb8eff766",
+          "toeic600-d779b87b7a435d50f252ebf136e363e3"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-749912a92d7aeb5003d379e7835aabc5",
+      "lessonId": "toeic-46",
+      "english": "refund",
+      "vietnamese": "Khoản tiền được hoàn lại",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "refund"
+        ],
+        "distractorIds": [
+          "toeic600-0aa26e4bd632de88e47e195cb8eff766",
+          "toeic600-74da74eca145c846b05a8f3ad3a635b2",
+          "toeic600-8943a0e434608684924892b06112d3b9"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-7d055899139a215f9b3db0deb269674b",
+      "lessonId": "toeic-46",
+      "english": "fashion",
+      "vietnamese": "Thời trang, mốt",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "fashion"
+        ],
+        "distractorIds": [
+          "toeic600-371400dfd4acd7dd3605ee6f8efab762",
+          "toeic600-749912a92d7aeb5003d379e7835aabc5",
+          "toeic600-74da74eca145c846b05a8f3ad3a635b2"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-d779b87b7a435d50f252ebf136e363e3",
+      "lessonId": "toeic-46",
+      "english": "uniformly",
+      "vietnamese": "Một cách đồng đều, nhất quán",
+      "partOfSpeech": "adv.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "uniformly"
+        ],
+        "distractorIds": [
+          "toeic600-8943a0e434608684924892b06112d3b9",
+          "toeic600-0aa26e4bd632de88e47e195cb8eff766",
+          "toeic600-74da74eca145c846b05a8f3ad3a635b2"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-8943a0e434608684924892b06112d3b9",
+      "lessonId": "toeic-46",
+      "english": "dedication",
+      "vietnamese": "Sự tận tâm, cống hiến",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "dedication"
+        ],
+        "distractorIds": [
+          "toeic600-74da74eca145c846b05a8f3ad3a635b2",
+          "toeic600-0aa26e4bd632de88e47e195cb8eff766",
+          "toeic600-d779b87b7a435d50f252ebf136e363e3"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-371400dfd4acd7dd3605ee6f8efab762",
+      "lessonId": "toeic-46",
+      "english": "demand",
+      "vietnamese": "Nhu cầu",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "demand"
+        ],
+        "distractorIds": [
+          "toeic600-0aa26e4bd632de88e47e195cb8eff766",
+          "toeic600-74da74eca145c846b05a8f3ad3a635b2",
+          "toeic600-8943a0e434608684924892b06112d3b9"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-65317832501c161d9d8b89122bef950d",
+      "lessonId": "toeic-46",
+      "english": "fluctuate",
+      "vietnamese": "Dao động, thay đổi lên xuống",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "fluctuate"
+        ],
+        "distractorIds": [
+          "toeic600-d779b87b7a435d50f252ebf136e363e3",
+          "toeic600-74da74eca145c846b05a8f3ad3a635b2",
+          "toeic600-8943a0e434608684924892b06112d3b9"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-0aa26e4bd632de88e47e195cb8eff766",
+      "lessonId": "toeic-46",
+      "english": "popularity",
+      "vietnamese": "Sự phổ biến, được nhiều người ưa thích",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "popularity"
+        ],
+        "distractorIds": [
+          "toeic600-74da74eca145c846b05a8f3ad3a635b2",
+          "toeic600-8943a0e434608684924892b06112d3b9",
+          "toeic600-d779b87b7a435d50f252ebf136e363e3"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-fb450aec1a1091dd945e5ce1c19b4d74",
+      "lessonId": "toeic-46",
+      "english": "owe",
+      "vietnamese": "Nợ một khoản tiền",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "owe"
+        ],
+        "distractorIds": [
+          "toeic600-d779b87b7a435d50f252ebf136e363e3",
+          "toeic600-74da74eca145c846b05a8f3ad3a635b2",
+          "toeic600-8943a0e434608684924892b06112d3b9"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-756688e35a7e3541af45560d4fb1a96d",
+      "lessonId": "toeic-46",
+      "english": "site",
+      "vietnamese": "Địa điểm",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "site"
+        ],
+        "distractorIds": [
+          "toeic600-0aa26e4bd632de88e47e195cb8eff766",
+          "toeic600-74da74eca145c846b05a8f3ad3a635b2",
+          "toeic600-8943a0e434608684924892b06112d3b9"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-e8ab9de40d220bea81148fe3ebb2a859",
+      "lessonId": "toeic-46",
+      "english": "stock",
+      "vietnamese": "Trữ, bổ sung hàng hóa",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "stock"
+        ],
+        "distractorIds": [
+          "toeic600-d779b87b7a435d50f252ebf136e363e3",
+          "toeic600-74da74eca145c846b05a8f3ad3a635b2",
+          "toeic600-8943a0e434608684924892b06112d3b9"
+        ]
+      }
+    }
+  ]
+}

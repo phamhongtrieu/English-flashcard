@@ -1,0 +1,228 @@
+{
+  "schemaVersion": 1,
+  "collectionId": "toeic-vocabulary",
+  "lessonId": "toeic-21",
+  "approval": {
+    "rightsStatus": "verified",
+    "rightsReference": "Unlocked by explicit user instruction on 2026-11-18; common English words, project-authored concise Vietnamese Quiz prompts, parts of speech, and reviewed 4-option sets only; no third-party examples, explanations, images, or audio.",
+    "contentStatus": "approved"
+  },
+  "entries": [
+    {
+      "id": "toeic600-1afed447133711b13a28d50c2905eea8",
+      "lessonId": "toeic-21",
+      "english": "achievement",
+      "vietnamese": "Thành tựu, thành tích",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "achievement"
+        ],
+        "distractorIds": [
+          "toeic600-8c2002e54b0d33048a8b59e18c752ba9",
+          "toeic600-c575e6f95b3b1f3eb57ea0d2396efd09",
+          "toeic600-841181df9ed0ff731e4aabf5afefa31b"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-d61d1cdd28b1d69ee8b71e3771a8fd0b",
+      "lessonId": "toeic-21",
+      "english": "asset",
+      "vietnamese": "Tài sản",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "asset"
+        ],
+        "distractorIds": [
+          "toeic600-c575e6f95b3b1f3eb57ea0d2396efd09",
+          "toeic600-8c2002e54b0d33048a8b59e18c752ba9",
+          "toeic600-1afed447133711b13a28d50c2905eea8"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-ddfb2c6cadf29ee970bfefe69a1d5636",
+      "lessonId": "toeic-21",
+      "english": "be in charge of",
+      "vietnamese": "Chịu trách nhiệm quản lý",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "be in charge of"
+        ],
+        "distractorIds": [
+          "toeic600-8c2002e54b0d33048a8b59e18c752ba9",
+          "toeic600-841181df9ed0ff731e4aabf5afefa31b",
+          "toeic600-1afed447133711b13a28d50c2905eea8"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-c575e6f95b3b1f3eb57ea0d2396efd09",
+      "lessonId": "toeic-21",
+      "english": "checkout",
+      "vietnamese": "Quầy thanh toán",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "checkout"
+        ],
+        "distractorIds": [
+          "toeic600-1afed447133711b13a28d50c2905eea8",
+          "toeic600-8c2002e54b0d33048a8b59e18c752ba9",
+          "toeic600-841181df9ed0ff731e4aabf5afefa31b"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-841181df9ed0ff731e4aabf5afefa31b",
+      "lessonId": "toeic-21",
+      "english": "pertinent",
+      "vietnamese": "Có liên quan đến vấn đề đang xét",
+      "partOfSpeech": "adj.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "pertinent"
+        ],
+        "distractorIds": [
+          "toeic600-c575e6f95b3b1f3eb57ea0d2396efd09",
+          "toeic600-8c2002e54b0d33048a8b59e18c752ba9",
+          "toeic600-1afed447133711b13a28d50c2905eea8"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-868b6b8c7677e66b151504ddf18b9de1",
+      "lessonId": "toeic-21",
+      "english": "determine",
+      "vietnamese": "Xác định",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "determine"
+        ],
+        "distractorIds": [
+          "toeic600-8c2002e54b0d33048a8b59e18c752ba9",
+          "toeic600-841181df9ed0ff731e4aabf5afefa31b",
+          "toeic600-1afed447133711b13a28d50c2905eea8"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-0f450d7bb52e1e8e30f21ba077070362",
+      "lessonId": "toeic-21",
+      "english": "establish",
+      "vietnamese": "Thành lập, thiết lập",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "establish"
+        ],
+        "distractorIds": [
+          "toeic600-1afed447133711b13a28d50c2905eea8",
+          "toeic600-c575e6f95b3b1f3eb57ea0d2396efd09",
+          "toeic600-8c2002e54b0d33048a8b59e18c752ba9"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-8c2002e54b0d33048a8b59e18c752ba9",
+      "lessonId": "toeic-21",
+      "english": "liability",
+      "vietnamese": "Điều gây bất lợi, có thể dẫn đến trách nhiệm bồi thường",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "liability"
+        ],
+        "distractorIds": [
+          "toeic600-1afed447133711b13a28d50c2905eea8",
+          "toeic600-c575e6f95b3b1f3eb57ea0d2396efd09",
+          "toeic600-841181df9ed0ff731e4aabf5afefa31b"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-25a6522aaaffa2555fde776be5502dc2",
+      "lessonId": "toeic-21",
+      "english": "manage",
+      "vietnamese": "Quản lý, điều hành",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "manage"
+        ],
+        "distractorIds": [
+          "toeic600-c575e6f95b3b1f3eb57ea0d2396efd09",
+          "toeic600-0f450d7bb52e1e8e30f21ba077070362",
+          "toeic600-c97b953af3d10974d3aa2d6ba0f8fc9d"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-d7f0751bf5fd21b3b780207df138fecd",
+      "lessonId": "toeic-21",
+      "english": "quality",
+      "vietnamese": "Chất lượng",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "quality"
+        ],
+        "distractorIds": [
+          "toeic600-1afed447133711b13a28d50c2905eea8",
+          "toeic600-c575e6f95b3b1f3eb57ea0d2396efd09",
+          "toeic600-8c2002e54b0d33048a8b59e18c752ba9"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-c97b953af3d10974d3aa2d6ba0f8fc9d",
+      "lessonId": "toeic-21",
+      "english": "research",
+      "vietnamese": "Nghiên cứu",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "research"
+        ],
+        "distractorIds": [
+          "toeic600-841181df9ed0ff731e4aabf5afefa31b",
+          "toeic600-1afed447133711b13a28d50c2905eea8",
+          "toeic600-c575e6f95b3b1f3eb57ea0d2396efd09"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-2fab43c3d770afe70523413b78cf7e9c",
+      "lessonId": "toeic-21",
+      "english": "target",
+      "vietnamese": "Mục tiêu",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "target"
+        ],
+        "distractorIds": [
+          "toeic600-8c2002e54b0d33048a8b59e18c752ba9",
+          "toeic600-1afed447133711b13a28d50c2905eea8",
+          "toeic600-c575e6f95b3b1f3eb57ea0d2396efd09"
+        ]
+      }
+    }
+  ]
+}

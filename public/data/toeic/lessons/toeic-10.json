@@ -1,0 +1,210 @@
+{
+  "schemaVersion": 1,
+  "collectionId": "toeic-vocabulary",
+  "lessonId": "toeic-10",
+  "approval": {
+    "rightsStatus": "verified",
+    "rightsReference": "Unlocked by explicit user instruction on 2026-11-18; common English words, project-authored concise Vietnamese Quiz prompts, parts of speech, and reviewed 4-option sets only; no third-party examples, explanations, images, or audio.",
+    "contentStatus": "approved"
+  },
+  "entries": [
+    {
+      "id": "toeic600-d579b2280a37d2d6531aca1c705ba179",
+      "lessonId": "toeic-10",
+      "english": "bring up",
+      "vietnamese": "Đưa ra, làm xuất hiện trên màn hình",
+      "partOfSpeech": "phr. v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "bring up"
+        ],
+        "distractorIds": [
+          "toeic600-c26f8b8bb038fd30054a69a19c0d3d42",
+          "toeic600-4a2fa3a8f312498c1525c6a2825ba5d3",
+          "toeic600-2cf1fb8d6a79e2938ef3a7eda5f9ebc8"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-78d04851c4493fdbebc6dac90bff285c",
+      "lessonId": "toeic-10",
+      "english": "physically",
+      "vietnamese": "Về mặt thể chất",
+      "partOfSpeech": "adv.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "physically"
+        ],
+        "distractorIds": [
+          "toeic600-2cf1fb8d6a79e2938ef3a7eda5f9ebc8",
+          "toeic600-c26f8b8bb038fd30054a69a19c0d3d42",
+          "toeic600-4a2fa3a8f312498c1525c6a2825ba5d3"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-68cbe1381718fc87a5ea79e9e4f14665",
+      "lessonId": "toeic-10",
+      "english": "effective",
+      "vietnamese": "Có hiệu quả, có tác dụng",
+      "partOfSpeech": "adj.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "effective"
+        ],
+        "distractorIds": [
+          "toeic600-4a2fa3a8f312498c1525c6a2825ba5d3",
+          "toeic600-2cf1fb8d6a79e2938ef3a7eda5f9ebc8",
+          "toeic600-69a30a64df88fca60ea7dcc344d8aaf4"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-2cf1fb8d6a79e2938ef3a7eda5f9ebc8",
+      "lessonId": "toeic-10",
+      "english": "nervously",
+      "vietnamese": "Bồn chồn, lo lắng",
+      "partOfSpeech": "adv.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "nervously"
+        ],
+        "distractorIds": [
+          "toeic600-68cbe1381718fc87a5ea79e9e4f14665",
+          "toeic600-d579b2280a37d2d6531aca1c705ba179",
+          "toeic600-be02d5929904b3153b80673bd3a2fef4"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-b6d63d6c4be5c4a3ab43fb679cd563e5",
+      "lessonId": "toeic-10",
+      "english": "concern",
+      "vietnamese": "Mối lo ngại",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "concern"
+        ],
+        "distractorIds": [
+          "toeic600-4a2fa3a8f312498c1525c6a2825ba5d3",
+          "toeic600-69a30a64df88fca60ea7dcc344d8aaf4",
+          "toeic600-c26f8b8bb038fd30054a69a19c0d3d42"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-69a30a64df88fca60ea7dcc344d8aaf4",
+      "lessonId": "toeic-10",
+      "english": "down payment",
+      "vietnamese": "Khoản tiền trả trước ban đầu",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "down payment"
+        ],
+        "distractorIds": [
+          "toeic600-c26f8b8bb038fd30054a69a19c0d3d42",
+          "toeic600-4a2fa3a8f312498c1525c6a2825ba5d3",
+          "toeic600-2cf1fb8d6a79e2938ef3a7eda5f9ebc8"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-a21effaee635817f1e889b4a862ae5da",
+      "lessonId": "toeic-10",
+      "english": "expense",
+      "vietnamese": "Chi phí",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "expense"
+        ],
+        "distractorIds": [
+          "toeic600-c26f8b8bb038fd30054a69a19c0d3d42",
+          "toeic600-4a2fa3a8f312498c1525c6a2825ba5d3",
+          "toeic600-2cf1fb8d6a79e2938ef3a7eda5f9ebc8"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-be02d5929904b3153b80673bd3a2fef4",
+      "lessonId": "toeic-10",
+      "english": "impress",
+      "vietnamese": "Gây ấn tượng",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "impress"
+        ],
+        "distractorIds": [
+          "toeic600-2cf1fb8d6a79e2938ef3a7eda5f9ebc8",
+          "toeic600-69a30a64df88fca60ea7dcc344d8aaf4",
+          "toeic600-c26f8b8bb038fd30054a69a19c0d3d42"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-c26f8b8bb038fd30054a69a19c0d3d42",
+      "lessonId": "toeic-10",
+      "english": "mission",
+      "vietnamese": "Sứ mệnh, nhiệm vụ",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "mission"
+        ],
+        "distractorIds": [
+          "toeic600-4a2fa3a8f312498c1525c6a2825ba5d3",
+          "toeic600-69a30a64df88fca60ea7dcc344d8aaf4",
+          "toeic600-2cf1fb8d6a79e2938ef3a7eda5f9ebc8"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-d0b49b0e4b9246588eb77fbdaf5ad6ae",
+      "lessonId": "toeic-10",
+      "english": "recur",
+      "vietnamese": "Tái diễn",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "recur"
+        ],
+        "distractorIds": [
+          "toeic600-2cf1fb8d6a79e2938ef3a7eda5f9ebc8",
+          "toeic600-69a30a64df88fca60ea7dcc344d8aaf4",
+          "toeic600-c26f8b8bb038fd30054a69a19c0d3d42"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-4a2fa3a8f312498c1525c6a2825ba5d3",
+      "lessonId": "toeic-10",
+      "english": "training",
+      "vietnamese": "Sự đào tạo, huấn luyện",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "training"
+        ],
+        "distractorIds": [
+          "toeic600-c26f8b8bb038fd30054a69a19c0d3d42",
+          "toeic600-69a30a64df88fca60ea7dcc344d8aaf4",
+          "toeic600-2cf1fb8d6a79e2938ef3a7eda5f9ebc8"
+        ]
+      }
+    }
+  ]
+}

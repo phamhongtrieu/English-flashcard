@@ -7,3 +7,8 @@ test-results/
 playwright-report/
 .tools/
 .work/
+data-internal/
+data-preparation/
+data-proposals/
+reports/
+__pycache__/

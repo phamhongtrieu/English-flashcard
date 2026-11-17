@@ -7,7 +7,7 @@
     "test:e2e": "playwright test",
     "dev": "vite --host 127.0.0.1",
     "typecheck": "tsc -b",
-    "build": "tsc -b && vite build",
+    "build": "node scripts/check-toeic-publication.mjs public && tsc -b && vite build && node scripts/check-toeic-publication.mjs dist",
     "preview": "vite preview --host 127.0.0.1"
   },
   "dependencies": {

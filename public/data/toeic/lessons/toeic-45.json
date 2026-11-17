@@ -1,0 +1,228 @@
+{
+  "schemaVersion": 1,
+  "collectionId": "toeic-vocabulary",
+  "lessonId": "toeic-45",
+  "approval": {
+    "rightsStatus": "verified",
+    "rightsReference": "Unlocked by explicit user instruction on 2026-11-18; common English words, project-authored concise Vietnamese Quiz prompts, parts of speech, and reviewed 4-option sets only; no third-party examples, explanations, images, or audio.",
+    "contentStatus": "approved"
+  },
+  "entries": [
+    {
+      "id": "toeic600-23f7642457e94fb5ca5b0f0e184a5bc2",
+      "lessonId": "toeic-45",
+      "english": "mix",
+      "vietnamese": "Hỗn hợp",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "mix"
+        ],
+        "distractorIds": [
+          "toeic600-2941b471518c6f35142f6341f4c502c4",
+          "toeic600-9d94ae41b3599596fd1a1f0bf0421d1c",
+          "toeic600-9b098d7a58edc7b1f39138a4b1a93a67"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-9b047808e825583c36e4c3c202678b6d",
+      "lessonId": "toeic-45",
+      "english": "appeal",
+      "vietnamese": "Sức hấp dẫn",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "appeal"
+        ],
+        "distractorIds": [
+          "toeic600-9d94ae41b3599596fd1a1f0bf0421d1c",
+          "toeic600-2941b471518c6f35142f6341f4c502c4",
+          "toeic600-9b098d7a58edc7b1f39138a4b1a93a67"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-000ba4cbc8ac33640c2031d5c2d8cdd3",
+      "lessonId": "toeic-45",
+      "english": "borrow",
+      "vietnamese": "Mượn, vay",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "borrow"
+        ],
+        "distractorIds": [
+          "toeic600-9b098d7a58edc7b1f39138a4b1a93a67",
+          "toeic600-23f7642457e94fb5ca5b0f0e184a5bc2",
+          "toeic600-9d94ae41b3599596fd1a1f0bf0421d1c"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-9d94ae41b3599596fd1a1f0bf0421d1c",
+      "lessonId": "toeic-45",
+      "english": "candidate",
+      "vietnamese": "Ứng viên",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "candidate"
+        ],
+        "distractorIds": [
+          "toeic600-2941b471518c6f35142f6341f4c502c4",
+          "toeic600-23f7642457e94fb5ca5b0f0e184a5bc2",
+          "toeic600-9b098d7a58edc7b1f39138a4b1a93a67"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-9b098d7a58edc7b1f39138a4b1a93a67",
+      "lessonId": "toeic-45",
+      "english": "restricted",
+      "vietnamese": "Bị hạn chế",
+      "partOfSpeech": "adj.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "restricted"
+        ],
+        "distractorIds": [
+          "toeic600-9d94ae41b3599596fd1a1f0bf0421d1c",
+          "toeic600-2941b471518c6f35142f6341f4c502c4",
+          "toeic600-23f7642457e94fb5ca5b0f0e184a5bc2"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-3a012900621c292536f885af85f5ceb7",
+      "lessonId": "toeic-45",
+      "english": "delay",
+      "vietnamese": "Trì hoãn",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "delay"
+        ],
+        "distractorIds": [
+          "toeic600-9b098d7a58edc7b1f39138a4b1a93a67",
+          "toeic600-23f7642457e94fb5ca5b0f0e184a5bc2",
+          "toeic600-9d94ae41b3599596fd1a1f0bf0421d1c"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-323c0cc56a9a46f45eafc5ea92093ac7",
+      "lessonId": "toeic-45",
+      "english": "fall to",
+      "vietnamese": "Trở thành trách nhiệm của",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "fall to"
+        ],
+        "distractorIds": [
+          "toeic600-23f7642457e94fb5ca5b0f0e184a5bc2",
+          "toeic600-9d94ae41b3599596fd1a1f0bf0421d1c",
+          "toeic600-2941b471518c6f35142f6341f4c502c4"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-2e20258acb551efe867b297b6c9a806d",
+      "lessonId": "toeic-45",
+      "english": "initiative",
+      "vietnamese": "Sự chủ động khởi xướng một việc",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "initiative"
+        ],
+        "distractorIds": [
+          "toeic600-2941b471518c6f35142f6341f4c502c4",
+          "toeic600-9d94ae41b3599596fd1a1f0bf0421d1c",
+          "toeic600-9b098d7a58edc7b1f39138a4b1a93a67"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-367485a45ceff985a68536f7f806ae6d",
+      "lessonId": "toeic-45",
+      "english": "occupy",
+      "vietnamese": "Chiếm, sử dụng một không gian",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "occupy"
+        ],
+        "distractorIds": [
+          "toeic600-9d94ae41b3599596fd1a1f0bf0421d1c",
+          "toeic600-2941b471518c6f35142f6341f4c502c4",
+          "toeic600-9b098d7a58edc7b1f39138a4b1a93a67"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-2941b471518c6f35142f6341f4c502c4",
+      "lessonId": "toeic-45",
+      "english": "priority",
+      "vietnamese": "Điều được ưu tiên",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "priority"
+        ],
+        "distractorIds": [
+          "toeic600-9d94ae41b3599596fd1a1f0bf0421d1c",
+          "toeic600-9b098d7a58edc7b1f39138a4b1a93a67",
+          "toeic600-23f7642457e94fb5ca5b0f0e184a5bc2"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-3c9c587ad5bfab3415b3c939cd9e591a",
+      "lessonId": "toeic-45",
+      "english": "ship",
+      "vietnamese": "Gửi, vận chuyển hàng",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "ship"
+        ],
+        "distractorIds": [
+          "toeic600-9d94ae41b3599596fd1a1f0bf0421d1c",
+          "toeic600-2941b471518c6f35142f6341f4c502c4",
+          "toeic600-9b098d7a58edc7b1f39138a4b1a93a67"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-e9ee69d46ea08d32bb2109ab36823910",
+      "lessonId": "toeic-45",
+      "english": "spectrum",
+      "vietnamese": "Quang phổ — dải màu của ánh sáng.",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "spectrum"
+        ],
+        "distractorIds": [
+          "toeic600-2941b471518c6f35142f6341f4c502c4",
+          "toeic600-9d94ae41b3599596fd1a1f0bf0421d1c",
+          "toeic600-9b047808e825583c36e4c3c202678b6d"
+        ]
+      }
+    }
+  ]
+}

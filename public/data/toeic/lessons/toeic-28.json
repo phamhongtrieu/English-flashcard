@@ -1,0 +1,228 @@
+{
+  "schemaVersion": 1,
+  "collectionId": "toeic-vocabulary",
+  "lessonId": "toeic-28",
+  "approval": {
+    "rightsStatus": "verified",
+    "rightsReference": "Unlocked by explicit user instruction on 2026-11-18; common English words, project-authored concise Vietnamese Quiz prompts, parts of speech, and reviewed 4-option sets only; no third-party examples, explanations, images, or audio.",
+    "contentStatus": "approved"
+  },
+  "entries": [
+    {
+      "id": "toeic600-f8a58b70d407f3743ceee1cd9520d048",
+      "lessonId": "toeic-28",
+      "english": "anxious",
+      "vietnamese": "Lo lắng, băn khoăn",
+      "partOfSpeech": "adj.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "anxious"
+        ],
+        "distractorIds": [
+          "toeic600-888d2d940681c2c9f049d4328e773c0e",
+          "toeic600-a344717bfbc1525e33e8bd38f9a3cd64",
+          "toeic600-626a560d1154e138122c3f5508749390"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-4b4624fc91b2158fe436ce896bbf429c",
+      "lessonId": "toeic-28",
+      "english": "ascertain",
+      "vietnamese": "Xác định cho chắc chắn",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "ascertain"
+        ],
+        "distractorIds": [
+          "toeic600-626a560d1154e138122c3f5508749390",
+          "toeic600-13555e6e6dba4e3a67583f6027dd7540",
+          "toeic600-888d2d940681c2c9f049d4328e773c0e"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-02ab2ec0e14e9f3db673e42b79c14067",
+      "lessonId": "toeic-28",
+      "english": "benefit",
+      "vietnamese": "Lợi ích",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "benefit"
+        ],
+        "distractorIds": [
+          "toeic600-626a560d1154e138122c3f5508749390",
+          "toeic600-13555e6e6dba4e3a67583f6027dd7540",
+          "toeic600-888d2d940681c2c9f049d4328e773c0e"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-888d2d940681c2c9f049d4328e773c0e",
+      "lessonId": "toeic-28",
+      "english": "lengthy",
+      "vietnamese": "Kéo dài, dài dòng",
+      "partOfSpeech": "adj.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "lengthy"
+        ],
+        "distractorIds": [
+          "toeic600-13555e6e6dba4e3a67583f6027dd7540",
+          "toeic600-a344717bfbc1525e33e8bd38f9a3cd64",
+          "toeic600-626a560d1154e138122c3f5508749390"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-b1ee5fcf5fe99c36cc7d130f2f86267f",
+      "lessonId": "toeic-28",
+      "english": "criticism",
+      "vietnamese": "Sự phê bình, nhận xét",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "criticism"
+        ],
+        "distractorIds": [
+          "toeic600-626a560d1154e138122c3f5508749390",
+          "toeic600-13555e6e6dba4e3a67583f6027dd7540",
+          "toeic600-a344717bfbc1525e33e8bd38f9a3cd64"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-a344717bfbc1525e33e8bd38f9a3cd64",
+      "lessonId": "toeic-28",
+      "english": "discount",
+      "vietnamese": "Sự giảm giá",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "discount"
+        ],
+        "distractorIds": [
+          "toeic600-626a560d1154e138122c3f5508749390",
+          "toeic600-13555e6e6dba4e3a67583f6027dd7540",
+          "toeic600-888d2d940681c2c9f049d4328e773c0e"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-626a560d1154e138122c3f5508749390",
+      "lessonId": "toeic-28",
+      "english": "flavor",
+      "vietnamese": "Hương vị",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "flavor"
+        ],
+        "distractorIds": [
+          "toeic600-13555e6e6dba4e3a67583f6027dd7540",
+          "toeic600-a344717bfbc1525e33e8bd38f9a3cd64",
+          "toeic600-888d2d940681c2c9f049d4328e773c0e"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-f45d226a2ea8c5918211ff88c9adebdf",
+      "lessonId": "toeic-28",
+      "english": "give up",
+      "vietnamese": "Từ bỏ, ngừng cố gắng",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "give up"
+        ],
+        "distractorIds": [
+          "toeic600-626a560d1154e138122c3f5508749390",
+          "toeic600-13555e6e6dba4e3a67583f6027dd7540",
+          "toeic600-888d2d940681c2c9f049d4328e773c0e"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-1a5fa27c9486069a796e0ccf276620a6",
+      "lessonId": "toeic-28",
+      "english": "party",
+      "vietnamese": "Đảng, phái, nhóm",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "party"
+        ],
+        "distractorIds": [
+          "toeic600-a344717bfbc1525e33e8bd38f9a3cd64",
+          "toeic600-626a560d1154e138122c3f5508749390",
+          "toeic600-13555e6e6dba4e3a67583f6027dd7540"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-df844d46fa42f16a7668fe2958a6b650",
+      "lessonId": "toeic-28",
+      "english": "prohibit",
+      "vietnamese": "Cấm",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "prohibit"
+        ],
+        "distractorIds": [
+          "toeic600-13555e6e6dba4e3a67583f6027dd7540",
+          "toeic600-888d2d940681c2c9f049d4328e773c0e",
+          "toeic600-a344717bfbc1525e33e8bd38f9a3cd64"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-13555e6e6dba4e3a67583f6027dd7540",
+      "lessonId": "toeic-28",
+      "english": "sample",
+      "vietnamese": "Mẫu, mẫu vật",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "sample"
+        ],
+        "distractorIds": [
+          "toeic600-a344717bfbc1525e33e8bd38f9a3cd64",
+          "toeic600-626a560d1154e138122c3f5508749390",
+          "toeic600-888d2d940681c2c9f049d4328e773c0e"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-5afee458d3fcb1ec3fd3f0f2a1e7dd33",
+      "lessonId": "toeic-28",
+      "english": "tempt",
+      "vietnamese": "Cám dỗ, khiến ai muốn làm",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "tempt"
+        ],
+        "distractorIds": [
+          "toeic600-888d2d940681c2c9f049d4328e773c0e",
+          "toeic600-a344717bfbc1525e33e8bd38f9a3cd64",
+          "toeic600-626a560d1154e138122c3f5508749390"
+        ]
+      }
+    }
+  ]
+}

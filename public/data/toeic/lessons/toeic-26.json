@@ -1,0 +1,228 @@
+{
+  "schemaVersion": 1,
+  "collectionId": "toeic-vocabulary",
+  "lessonId": "toeic-26",
+  "approval": {
+    "rightsStatus": "verified",
+    "rightsReference": "Unlocked by explicit user instruction on 2026-11-18; common English words, project-authored concise Vietnamese Quiz prompts, parts of speech, and reviewed 4-option sets only; no third-party examples, explanations, images, or audio.",
+    "contentStatus": "approved"
+  },
+  "entries": [
+    {
+      "id": "toeic600-e255cc2e47043f5fca072d4ae5413328",
+      "lessonId": "toeic-26",
+      "english": "action",
+      "vietnamese": "Hành động",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "action"
+        ],
+        "distractorIds": [
+          "toeic600-bc4348e69f0c33ce616d5887b010070a",
+          "toeic600-41a9d47be1506ad840ce67c6e9273845",
+          "toeic600-999bd7c935fb987f062d73f2d267045b"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-6621e3eafcdef96c9c338a17c1d51712",
+      "lessonId": "toeic-26",
+      "english": "ideally",
+      "vietnamese": "Trong điều kiện lý tưởng",
+      "partOfSpeech": "adv.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "ideally"
+        ],
+        "distractorIds": [
+          "toeic600-bc4348e69f0c33ce616d5887b010070a",
+          "toeic600-41a9d47be1506ad840ce67c6e9273845",
+          "toeic600-999bd7c935fb987f062d73f2d267045b"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-999bd7c935fb987f062d73f2d267045b",
+      "lessonId": "toeic-26",
+      "english": "everyday",
+      "vietnamese": "Thường ngày, thông thường",
+      "partOfSpeech": "adj.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "everyday"
+        ],
+        "distractorIds": [
+          "toeic600-6621e3eafcdef96c9c338a17c1d51712",
+          "toeic600-bc4348e69f0c33ce616d5887b010070a",
+          "toeic600-41a9d47be1506ad840ce67c6e9273845"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-94cb7f29233a6b2830695e4647468f5d",
+      "lessonId": "toeic-26",
+      "english": "choose",
+      "vietnamese": "Chọn lựa",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "choose"
+        ],
+        "distractorIds": [
+          "toeic600-41a9d47be1506ad840ce67c6e9273845",
+          "toeic600-999bd7c935fb987f062d73f2d267045b",
+          "toeic600-6621e3eafcdef96c9c338a17c1d51712"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-d5acf97b949e79b2be43fb2af3c15035",
+      "lessonId": "toeic-26",
+      "english": "consume",
+      "vietnamese": "Tiêu thụ",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "consume"
+        ],
+        "distractorIds": [
+          "toeic600-6621e3eafcdef96c9c338a17c1d51712",
+          "toeic600-bc4348e69f0c33ce616d5887b010070a",
+          "toeic600-999bd7c935fb987f062d73f2d267045b"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-cb577732471e8db23460a1e34758f742",
+      "lessonId": "toeic-26",
+      "english": "successive",
+      "vietnamese": "Kế tiếp, liên tiếp",
+      "partOfSpeech": "adj.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "successive"
+        ],
+        "distractorIds": [
+          "toeic600-999bd7c935fb987f062d73f2d267045b",
+          "toeic600-41a9d47be1506ad840ce67c6e9273845",
+          "toeic600-6621e3eafcdef96c9c338a17c1d51712"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-41a9d47be1506ad840ce67c6e9273845",
+      "lessonId": "toeic-26",
+      "english": "fare",
+      "vietnamese": "Tiền vé vận chuyển hành khách",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "fare"
+        ],
+        "distractorIds": [
+          "toeic600-bc4348e69f0c33ce616d5887b010070a",
+          "toeic600-6621e3eafcdef96c9c338a17c1d51712",
+          "toeic600-999bd7c935fb987f062d73f2d267045b"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-df74ba76a9562ef54e9df191c93bd6c3",
+      "lessonId": "toeic-26",
+      "english": "hamper",
+      "vietnamese": "Cản trở",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "hamper"
+        ],
+        "distractorIds": [
+          "toeic600-999bd7c935fb987f062d73f2d267045b",
+          "toeic600-6621e3eafcdef96c9c338a17c1d51712",
+          "toeic600-bc4348e69f0c33ce616d5887b010070a"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-338a3a6d128e175abddd5138539a4af0",
+      "lessonId": "toeic-26",
+      "english": "overview",
+      "vietnamese": "Nhìn tổng quát, miêu tả chung, ngắn gọn",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "overview"
+        ],
+        "distractorIds": [
+          "toeic600-bc4348e69f0c33ce616d5887b010070a",
+          "toeic600-e255cc2e47043f5fca072d4ae5413328",
+          "toeic600-41a9d47be1506ad840ce67c6e9273845"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-d162d6a702bae277fd78e0b6f3081d58",
+      "lessonId": "toeic-26",
+      "english": "project",
+      "vietnamese": "Kế hoạch, đồ án, dự án",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "project"
+        ],
+        "distractorIds": [
+          "toeic600-df74ba76a9562ef54e9df191c93bd6c3",
+          "toeic600-d5acf97b949e79b2be43fb2af3c15035",
+          "toeic600-94cb7f29233a6b2830695e4647468f5d"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-bc4348e69f0c33ce616d5887b010070a",
+      "lessonId": "toeic-26",
+      "english": "salary",
+      "vietnamese": "Tiền lương định kỳ",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "salary"
+        ],
+        "distractorIds": [
+          "toeic600-41a9d47be1506ad840ce67c6e9273845",
+          "toeic600-999bd7c935fb987f062d73f2d267045b",
+          "toeic600-6621e3eafcdef96c9c338a17c1d51712"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-84451ccbbcb87185280c2a74e0e6191a",
+      "lessonId": "toeic-26",
+      "english": "throw out",
+      "vietnamese": "Đuổi ra ngoài",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "throw out"
+        ],
+        "distractorIds": [
+          "toeic600-6621e3eafcdef96c9c338a17c1d51712",
+          "toeic600-bc4348e69f0c33ce616d5887b010070a",
+          "toeic600-41a9d47be1506ad840ce67c6e9273845"
+        ]
+      }
+    }
+  ]
+}

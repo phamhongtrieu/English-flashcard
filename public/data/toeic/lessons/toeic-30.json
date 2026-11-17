@@ -1,0 +1,228 @@
+{
+  "schemaVersion": 1,
+  "collectionId": "toeic-vocabulary",
+  "lessonId": "toeic-30",
+  "approval": {
+    "rightsStatus": "verified",
+    "rightsReference": "Unlocked by explicit user instruction on 2026-11-18; common English words, project-authored concise Vietnamese Quiz prompts, parts of speech, and reviewed 4-option sets only; no third-party examples, explanations, images, or audio.",
+    "contentStatus": "approved"
+  },
+  "entries": [
+    {
+      "id": "toeic600-851b62c9651f182bb6693d405c76ad28",
+      "lessonId": "toeic-30",
+      "english": "follow up",
+      "vietnamese": "Thực hiện bước tiếp theo sau một việc",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "follow up"
+        ],
+        "distractorIds": [
+          "toeic600-b9f7b175fab3e74b0a8aa2370772ac1f",
+          "toeic600-01290ab66cd598d5bde72db22b98f6ba",
+          "toeic600-83075588d409900debacafe4cf3563a3"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-01290ab66cd598d5bde72db22b98f6ba",
+      "lessonId": "toeic-30",
+      "english": "frequently",
+      "vietnamese": "Thường xuyên",
+      "partOfSpeech": "adv.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "frequently"
+        ],
+        "distractorIds": [
+          "toeic600-5ba809f9fe9304836b795e84cbfe759f",
+          "toeic600-b9f7b175fab3e74b0a8aa2370772ac1f",
+          "toeic600-83075588d409900debacafe4cf3563a3"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-a9de64b5b8ae7fb4918825b36cfc158a",
+      "lessonId": "toeic-30",
+      "english": "evident",
+      "vietnamese": "Hiển nhiên, rõ ràng",
+      "partOfSpeech": "adj.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "evident"
+        ],
+        "distractorIds": [
+          "toeic600-83075588d409900debacafe4cf3563a3",
+          "toeic600-5ba809f9fe9304836b795e84cbfe759f",
+          "toeic600-b9f7b175fab3e74b0a8aa2370772ac1f"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-b9f7b175fab3e74b0a8aa2370772ac1f",
+      "lessonId": "toeic-30",
+      "english": "chain",
+      "vietnamese": "Chuỗi cơ sở kinh doanh cùng hệ thống",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "chain"
+        ],
+        "distractorIds": [
+          "toeic600-5ba809f9fe9304836b795e84cbfe759f",
+          "toeic600-83075588d409900debacafe4cf3563a3",
+          "toeic600-01290ab66cd598d5bde72db22b98f6ba"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-54fbea4935ef9ae60647f194a99bfad2",
+      "lessonId": "toeic-30",
+      "english": "productive",
+      "vietnamese": "Mang lại kết quả, có hiệu quả",
+      "partOfSpeech": "adj.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "productive"
+        ],
+        "distractorIds": [
+          "toeic600-01290ab66cd598d5bde72db22b98f6ba",
+          "toeic600-83075588d409900debacafe4cf3563a3",
+          "toeic600-5ba809f9fe9304836b795e84cbfe759f"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-1d96ab00faf9c320dbe8e5777e4d43eb",
+      "lessonId": "toeic-30",
+      "english": "desire",
+      "vietnamese": "Khao khát, mong muốn",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "desire"
+        ],
+        "distractorIds": [
+          "toeic600-b9f7b175fab3e74b0a8aa2370772ac1f",
+          "toeic600-01290ab66cd598d5bde72db22b98f6ba",
+          "toeic600-83075588d409900debacafe4cf3563a3"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-3eaf288711b1f87d26f715d25f327f15",
+      "lessonId": "toeic-30",
+      "english": "function",
+      "vietnamese": "Chức năng",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "function"
+        ],
+        "distractorIds": [
+          "toeic600-83075588d409900debacafe4cf3563a3",
+          "toeic600-5ba809f9fe9304836b795e84cbfe759f",
+          "toeic600-b9f7b175fab3e74b0a8aa2370772ac1f"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-19e8338f5a7632a0a3529eb1a772a13b",
+      "lessonId": "toeic-30",
+      "english": "get out of",
+      "vietnamese": "Rời khỏi một khu vực",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "get out of"
+        ],
+        "distractorIds": [
+          "toeic600-83075588d409900debacafe4cf3563a3",
+          "toeic600-5ba809f9fe9304836b795e84cbfe759f",
+          "toeic600-b9f7b175fab3e74b0a8aa2370772ac1f"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-5ba809f9fe9304836b795e84cbfe759f",
+      "lessonId": "toeic-30",
+      "english": "patron",
+      "vietnamese": "Khách hàng quen",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "patron"
+        ],
+        "distractorIds": [
+          "toeic600-b9f7b175fab3e74b0a8aa2370772ac1f",
+          "toeic600-83075588d409900debacafe4cf3563a3",
+          "toeic600-01290ab66cd598d5bde72db22b98f6ba"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-e6ca27cd8643146fc99ed9237500b602",
+      "lessonId": "toeic-30",
+      "english": "prevent",
+      "vietnamese": "Ngăn ngừa",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "prevent"
+        ],
+        "distractorIds": [
+          "toeic600-b9f7b175fab3e74b0a8aa2370772ac1f",
+          "toeic600-01290ab66cd598d5bde72db22b98f6ba",
+          "toeic600-83075588d409900debacafe4cf3563a3"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-83075588d409900debacafe4cf3563a3",
+      "lessonId": "toeic-30",
+      "english": "satisfaction",
+      "vietnamese": "Sự hài lòng",
+      "partOfSpeech": "n.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "satisfaction"
+        ],
+        "distractorIds": [
+          "toeic600-5ba809f9fe9304836b795e84cbfe759f",
+          "toeic600-b9f7b175fab3e74b0a8aa2370772ac1f",
+          "toeic600-01290ab66cd598d5bde72db22b98f6ba"
+        ]
+      }
+    },
+    {
+      "id": "toeic600-26c0de91247262def5e3ecd278095336",
+      "lessonId": "toeic-30",
+      "english": "take part in",
+      "vietnamese": "Tham gia",
+      "partOfSpeech": "v.",
+      "quiz": {
+        "status": "approved",
+        "answerAliases": [
+          "take part in"
+        ],
+        "distractorIds": [
+          "toeic600-01290ab66cd598d5bde72db22b98f6ba",
+          "toeic600-83075588d409900debacafe4cf3563a3",
+          "toeic600-5ba809f9fe9304836b795e84cbfe759f"
+        ]
+      }
+    }
+  ]
+}

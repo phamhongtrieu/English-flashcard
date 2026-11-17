@@ -1,0 +1,317 @@
+{
+  "schemaVersion": 1,
+  "collections": [
+    {
+      "id": "toeic-vocabulary",
+      "title": "TOEIC Vocabulary",
+      "kind": "toeic",
+      "approval": {
+        "rightsStatus": "verified",
+        "rightsReference": "Unlocked by explicit user instruction on 2026-11-18; common English words, project-authored concise Vietnamese Quiz prompts, parts of speech, and reviewed 4-option sets only; no third-party examples, explanations, images, or audio.",
+        "contentStatus": "approved"
+      },
+      "lessons": [
+        {
+          "id": "toeic-01",
+          "number": 1,
+          "title": "Bài TOEIC 01",
+          "dataFile": "data/toeic/lessons/toeic-01.json"
+        },
+        {
+          "id": "toeic-02",
+          "number": 2,
+          "title": "Bài TOEIC 02",
+          "dataFile": "data/toeic/lessons/toeic-02.json"
+        },
+        {
+          "id": "toeic-03",
+          "number": 3,
+          "title": "Bài TOEIC 03",
+          "dataFile": "data/toeic/lessons/toeic-03.json"
+        },
+        {
+          "id": "toeic-04",
+          "number": 4,
+          "title": "Bài TOEIC 04",
+          "dataFile": "data/toeic/lessons/toeic-04.json"
+        },
+        {
+          "id": "toeic-05",
+          "number": 5,
+          "title": "Bài TOEIC 05",
+          "dataFile": "data/toeic/lessons/toeic-05.json"
+        },
+        {
+          "id": "toeic-06",
+          "number": 6,
+          "title": "Bài TOEIC 06",
+          "dataFile": "data/toeic/lessons/toeic-06.json"
+        },
+        {
+          "id": "toeic-07",
+          "number": 7,
+          "title": "Bài TOEIC 07",
+          "dataFile": "data/toeic/lessons/toeic-07.json"
+        },
+        {
+          "id": "toeic-08",
+          "number": 8,
+          "title": "Bài TOEIC 08",
+          "dataFile": "data/toeic/lessons/toeic-08.json"
+        },
+        {
+          "id": "toeic-09",
+          "number": 9,
+          "title": "Bài TOEIC 09",
+          "dataFile": "data/toeic/lessons/toeic-09.json"
+        },
+        {
+          "id": "toeic-10",
+          "number": 10,
+          "title": "Bài TOEIC 10",
+          "dataFile": "data/toeic/lessons/toeic-10.json"
+        },
+        {
+          "id": "toeic-11",
+          "number": 11,
+          "title": "Bài TOEIC 11",
+          "dataFile": "data/toeic/lessons/toeic-11.json"
+        },
+        {
+          "id": "toeic-12",
+          "number": 12,
+          "title": "Bài TOEIC 12",
+          "dataFile": "data/toeic/lessons/toeic-12.json"
+        },
+        {
+          "id": "toeic-13",
+          "number": 13,
+          "title": "Bài TOEIC 13",
+          "dataFile": "data/toeic/lessons/toeic-13.json"
+        },
+        {
+          "id": "toeic-14",
+          "number": 14,
+          "title": "Bài TOEIC 14",
+          "dataFile": "data/toeic/lessons/toeic-14.json"
+        },
+        {
+          "id": "toeic-15",
+          "number": 15,
+          "title": "Bài TOEIC 15",
+          "dataFile": "data/toeic/lessons/toeic-15.json"
+        },
+        {
+          "id": "toeic-16",
+          "number": 16,
+          "title": "Bài TOEIC 16",
+          "dataFile": "data/toeic/lessons/toeic-16.json"
+        },
+        {
+          "id": "toeic-17",
+          "number": 17,
+          "title": "Bài TOEIC 17",
+          "dataFile": "data/toeic/lessons/toeic-17.json"
+        },
+        {
+          "id": "toeic-18",
+          "number": 18,
+          "title": "Bài TOEIC 18",
+          "dataFile": "data/toeic/lessons/toeic-18.json"
+        },
+        {
+          "id": "toeic-19",
+          "number": 19,
+          "title": "Bài TOEIC 19",
+          "dataFile": "data/toeic/lessons/toeic-19.json"
+        },
+        {
+          "id": "toeic-20",
+          "number": 20,
+          "title": "Bài TOEIC 20",
+          "dataFile": "data/toeic/lessons/toeic-20.json"
+        },
+        {
+          "id": "toeic-21",
+          "number": 21,
+          "title": "Bài TOEIC 21",
+          "dataFile": "data/toeic/lessons/toeic-21.json"
+        },
+        {
+          "id": "toeic-22",
+          "number": 22,
+          "title": "Bài TOEIC 22",
+          "dataFile": "data/toeic/lessons/toeic-22.json"
+        },
+        {
+          "id": "toeic-23",
+          "number": 23,
+          "title": "Bài TOEIC 23",
+          "dataFile": "data/toeic/lessons/toeic-23.json"
+        },
+        {
+          "id": "toeic-24",
+          "number": 24,
+          "title": "Bài TOEIC 24",
+          "dataFile": "data/toeic/lessons/toeic-24.json"
+        },
+        {
+          "id": "toeic-25",
+          "number": 25,
+          "title": "Bài TOEIC 25",
+          "dataFile": "data/toeic/lessons/toeic-25.json"
+        },
+        {
+          "id": "toeic-26",
+          "number": 26,
+          "title": "Bài TOEIC 26",
+          "dataFile": "data/toeic/lessons/toeic-26.json"
+        },
+        {
+          "id": "toeic-27",
+          "number": 27,
+          "title": "Bài TOEIC 27",
+          "dataFile": "data/toeic/lessons/toeic-27.json"
+        },
+        {
+          "id": "toeic-28",
+          "number": 28,
+          "title": "Bài TOEIC 28",
+          "dataFile": "data/toeic/lessons/toeic-28.json"
+        },
+        {
+          "id": "toeic-29",
+          "number": 29,
+          "title": "Bài TOEIC 29",
+          "dataFile": "data/toeic/lessons/toeic-29.json"
+        },
+        {
+          "id": "toeic-30",
+          "number": 30,
+          "title": "Bài TOEIC 30",
+          "dataFile": "data/toeic/lessons/toeic-30.json"
+        },
+        {
+          "id": "toeic-31",
+          "number": 31,
+          "title": "Bài TOEIC 31",
+          "dataFile": "data/toeic/lessons/toeic-31.json"
+        },
+        {
+          "id": "toeic-32",
+          "number": 32,
+          "title": "Bài TOEIC 32",
+          "dataFile": "data/toeic/lessons/toeic-32.json"
+        },
+        {
+          "id": "toeic-33",
+          "number": 33,
+          "title": "Bài TOEIC 33",
+          "dataFile": "data/toeic/lessons/toeic-33.json"
+        },
+        {
+          "id": "toeic-34",
+          "number": 34,
+          "title": "Bài TOEIC 34",
+          "dataFile": "data/toeic/lessons/toeic-34.json"
+        },
+        {
+          "id": "toeic-35",
+          "number": 35,
+          "title": "Bài TOEIC 35",
+          "dataFile": "data/toeic/lessons/toeic-35.json"
+        },
+        {
+          "id": "toeic-36",
+          "number": 36,
+          "title": "Bài TOEIC 36",
+          "dataFile": "data/toeic/lessons/toeic-36.json"
+        },
+        {
+          "id": "toeic-37",
+          "number": 37,
+          "title": "Bài TOEIC 37",
+          "dataFile": "data/toeic/lessons/toeic-37.json"
+        },
+        {
+          "id": "toeic-38",
+          "number": 38,
+          "title": "Bài TOEIC 38",
+          "dataFile": "data/toeic/lessons/toeic-38.json"
+        },
+        {
+          "id": "toeic-39",
+          "number": 39,
+          "title": "Bài TOEIC 39",
+          "dataFile": "data/toeic/lessons/toeic-39.json"
+        },
+        {
+          "id": "toeic-40",
+          "number": 40,
+          "title": "Bài TOEIC 40",
+          "dataFile": "data/toeic/lessons/toeic-40.json"
+        },
+        {
+          "id": "toeic-41",
+          "number": 41,
+          "title": "Bài TOEIC 41",
+          "dataFile": "data/toeic/lessons/toeic-41.json"
+        },
+        {
+          "id": "toeic-42",
+          "number": 42,
+          "title": "Bài TOEIC 42",
+          "dataFile": "data/toeic/lessons/toeic-42.json"
+        },
+        {
+          "id": "toeic-43",
+          "number": 43,
+          "title": "Bài TOEIC 43",
+          "dataFile": "data/toeic/lessons/toeic-43.json"
+        },
+        {
+          "id": "toeic-44",
+          "number": 44,
+          "title": "Bài TOEIC 44",
+          "dataFile": "data/toeic/lessons/toeic-44.json"
+        },
+        {
+          "id": "toeic-45",
+          "number": 45,
+          "title": "Bài TOEIC 45",
+          "dataFile": "data/toeic/lessons/toeic-45.json"
+        },
+        {
+          "id": "toeic-46",
+          "number": 46,
+          "title": "Bài TOEIC 46",
+          "dataFile": "data/toeic/lessons/toeic-46.json"
+        },
+        {
+          "id": "toeic-47",
+          "number": 47,
+          "title": "Bài TOEIC 47",
+          "dataFile": "data/toeic/lessons/toeic-47.json"
+        },
+        {
+          "id": "toeic-48",
+          "number": 48,
+          "title": "Bài TOEIC 48",
+          "dataFile": "data/toeic/lessons/toeic-48.json"
+        },
+        {
+          "id": "toeic-49",
+          "number": 49,
+          "title": "Bài TOEIC 49",
+          "dataFile": "data/toeic/lessons/toeic-49.json"
+        },
+        {
+          "id": "toeic-50",
+          "number": 50,
+          "title": "Bài TOEIC 50",
+          "dataFile": "data/toeic/lessons/toeic-50.json"
+        }
+      ]
+    }
+  ]
+}
