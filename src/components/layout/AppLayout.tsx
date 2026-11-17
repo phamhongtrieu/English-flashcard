@@ -1,9 +1,9 @@
-import { BarChart3, BookOpen, House, Layers3, Moon, Sun, ArrowUpRight } from 'lucide-react'
+import { BarChart3, BookOpen, GraduationCap, House, Layers3, Moon, Sun, ArrowUpRight } from 'lucide-react'
 import { NavLink, Outlet, useLocation } from 'react-router-dom'
 import { useEffect } from 'react'
 import { useTheme } from '../../hooks/useTheme'
 
-const navigation = [ { to: '/', label: 'Trang chủ', icon: House }, { to: '/study', label: 'Học từ vựng', icon: BookOpen }, { to: '/toeic', label: 'TOEIC Quiz', icon: Layers3 }, { to: '/statistics', label: 'Thống kê', icon: BarChart3 } ]
+const navigation = [ { to: '/', label: 'Trang chủ', icon: House }, { to: '/study', label: 'Học từ vựng', icon: BookOpen }, { to: '/toeic', label: 'TOEIC Quiz', icon: Layers3 }, { to: '/vstep-b1', label: 'VSTEP B1', icon: GraduationCap }, { to: '/statistics', label: 'Thống kê', icon: BarChart3 } ]
 export function AppLayout() {
   const { isDark, toggleTheme } = useTheme()
   const { pathname } = useLocation()

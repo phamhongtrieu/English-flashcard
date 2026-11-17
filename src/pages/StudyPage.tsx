@@ -20,10 +20,11 @@ import type { StudyMode } from '../types/study'
 import { TypingAnswer } from '../components/flashcards/TypingAnswer'
 import { useTypingPreference } from '../hooks/useTypingPreference'
 
-export function StudyPage() {
+export function StudyPage({ fixedUnitId }: { fixedUnitId?: string } = {}) {
   const { unitId } = useParams()
-  if (!unitId) return <StudySelection />
-  return <UnitStudy key={unitId} id={unitId} />
+  const targetId = fixedUnitId ?? unitId
+  if (!targetId) return <StudySelection />
+  return <UnitStudy key={targetId} id={targetId} />
 }
 
 function StudySelection() {

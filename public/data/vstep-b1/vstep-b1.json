@@ -1,0 +1,5320 @@
+{
+  "schemaVersion": 1,
+  "unitId": "vstep-b1",
+  "flashcards": [
+    {
+      "id": "vstep-b1-travel",
+      "unitId": "vstep-b1",
+      "section": "travel",
+      "category": "base_word",
+      "vietnamese": "Du lịch",
+      "english": "Travel",
+      "acceptedAnswers": [
+        "Travel"
+      ],
+      "partOfSpeech": "v",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-tourist",
+      "unitId": "vstep-b1",
+      "section": "travel",
+      "category": "base_word",
+      "vietnamese": "Du khách",
+      "english": "Tourist",
+      "acceptedAnswers": [
+        "Tourist"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-destination",
+      "unitId": "vstep-b1",
+      "section": "travel",
+      "category": "base_word",
+      "vietnamese": "Điểm đến",
+      "english": "Destination",
+      "acceptedAnswers": [
+        "Destination"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-hotel",
+      "unitId": "vstep-b1",
+      "section": "travel",
+      "category": "base_word",
+      "vietnamese": "Khách sạn",
+      "english": "Hotel",
+      "acceptedAnswers": [
+        "Hotel"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-resort",
+      "unitId": "vstep-b1",
+      "section": "travel",
+      "category": "base_word",
+      "vietnamese": "Khu nghỉ dưỡng",
+      "english": "Resort",
+      "acceptedAnswers": [
+        "Resort"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-flight",
+      "unitId": "vstep-b1",
+      "section": "travel",
+      "category": "base_word",
+      "vietnamese": "Chuyến bay",
+      "english": "Flight",
+      "acceptedAnswers": [
+        "Flight"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-airport",
+      "unitId": "vstep-b1",
+      "section": "travel",
+      "category": "base_word",
+      "vietnamese": "Sân bay",
+      "english": "Airport",
+      "acceptedAnswers": [
+        "Airport"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-passport",
+      "unitId": "vstep-b1",
+      "section": "travel",
+      "category": "base_word",
+      "vietnamese": "Hộ chiếu",
+      "english": "Passport",
+      "acceptedAnswers": [
+        "Passport"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-visa",
+      "unitId": "vstep-b1",
+      "section": "travel",
+      "category": "base_word",
+      "vietnamese": "Thị thực (visa)",
+      "english": "Visa",
+      "acceptedAnswers": [
+        "Visa"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-ticket",
+      "unitId": "vstep-b1",
+      "section": "travel",
+      "category": "base_word",
+      "vietnamese": "Vé",
+      "english": "Ticket",
+      "acceptedAnswers": [
+        "Ticket"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-reservation",
+      "unitId": "vstep-b1",
+      "section": "travel",
+      "category": "base_word",
+      "vietnamese": "Đặt chỗ",
+      "english": "Reservation",
+      "acceptedAnswers": [
+        "Reservation"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-accommodation",
+      "unitId": "vstep-b1",
+      "section": "travel",
+      "category": "base_word",
+      "vietnamese": "Chỗ ở (nhà, khách sạn…)",
+      "english": "Accommodation",
+      "acceptedAnswers": [
+        "Accommodation"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-currency",
+      "unitId": "vstep-b1",
+      "section": "travel",
+      "category": "base_word",
+      "vietnamese": "Tiền tệ",
+      "english": "Currency",
+      "acceptedAnswers": [
+        "Currency"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-map",
+      "unitId": "vstep-b1",
+      "section": "travel",
+      "category": "base_word",
+      "vietnamese": "Bản đồ",
+      "english": "Map",
+      "acceptedAnswers": [
+        "Map"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-guidebook",
+      "unitId": "vstep-b1",
+      "section": "travel",
+      "category": "base_word",
+      "vietnamese": "Sách hướng dẫn du lịch",
+      "english": "Guidebook",
+      "acceptedAnswers": [
+        "Guidebook"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-journey",
+      "unitId": "vstep-b1",
+      "section": "travel",
+      "category": "base_word",
+      "vietnamese": "Hành trình, chuyến đi",
+      "english": "Journey",
+      "acceptedAnswers": [
+        "Journey"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-trip",
+      "unitId": "vstep-b1",
+      "section": "travel",
+      "category": "base_word",
+      "vietnamese": "Chuyến đi",
+      "english": "Trip",
+      "acceptedAnswers": [
+        "Trip"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-explore",
+      "unitId": "vstep-b1",
+      "section": "travel",
+      "category": "base_word",
+      "vietnamese": "Khám phá",
+      "english": "Explore",
+      "acceptedAnswers": [
+        "Explore"
+      ],
+      "partOfSpeech": "v",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-adventure",
+      "unitId": "vstep-b1",
+      "section": "travel",
+      "category": "base_word",
+      "vietnamese": "Phiêu lưu",
+      "english": "Adventure",
+      "acceptedAnswers": [
+        "Adventure"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-beach",
+      "unitId": "vstep-b1",
+      "section": "travel",
+      "category": "base_word",
+      "vietnamese": "Bãi biển",
+      "english": "Beach",
+      "acceptedAnswers": [
+        "Beach"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-mountain",
+      "unitId": "vstep-b1",
+      "section": "travel",
+      "category": "base_word",
+      "vietnamese": "Núi",
+      "english": "Mountain",
+      "acceptedAnswers": [
+        "Mountain"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-culture",
+      "unitId": "vstep-b1",
+      "section": "travel",
+      "category": "base_word",
+      "vietnamese": "Văn hóa",
+      "english": "Culture",
+      "acceptedAnswers": [
+        "Culture"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-tradition",
+      "unitId": "vstep-b1",
+      "section": "travel",
+      "category": "base_word",
+      "vietnamese": "Truyền thống",
+      "english": "Tradition",
+      "acceptedAnswers": [
+        "Tradition"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-sightseeing",
+      "unitId": "vstep-b1",
+      "section": "travel",
+      "category": "base_word",
+      "vietnamese": "Tham quan, ngắm cảnh",
+      "english": "Sightseeing",
+      "acceptedAnswers": [
+        "Sightseeing"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-souvenir",
+      "unitId": "vstep-b1",
+      "section": "travel",
+      "category": "base_word",
+      "vietnamese": "Quà lưu niệm",
+      "english": "Souvenir",
+      "acceptedAnswers": [
+        "Souvenir"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-hike",
+      "unitId": "vstep-b1",
+      "section": "travel",
+      "category": "base_word",
+      "vietnamese": "Đi bộ đường dài",
+      "english": "Hike",
+      "acceptedAnswers": [
+        "Hike"
+      ],
+      "partOfSpeech": "v",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-cruise",
+      "unitId": "vstep-b1",
+      "section": "travel",
+      "category": "base_word",
+      "vietnamese": "Du thuyền; đi du thuyền",
+      "english": "Cruise",
+      "acceptedAnswers": [
+        "Cruise"
+      ],
+      "partOfSpeech": "v",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-backpack",
+      "unitId": "vstep-b1",
+      "section": "travel",
+      "category": "base_word",
+      "vietnamese": "Ba lô; đi du lịch bụi",
+      "english": "Backpack",
+      "acceptedAnswers": [
+        "Backpack"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-guide",
+      "unitId": "vstep-b1",
+      "section": "travel",
+      "category": "base_word",
+      "vietnamese": "Hướng dẫn viên; hướng dẫn",
+      "english": "Guide",
+      "acceptedAnswers": [
+        "Guide"
+      ],
+      "partOfSpeech": "v",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-tour-guide",
+      "unitId": "vstep-b1",
+      "section": "travel",
+      "category": "base_word",
+      "vietnamese": "Hướng dẫn viên du lịch",
+      "english": "Tour guide",
+      "acceptedAnswers": [
+        "Tour guide"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-city-tour",
+      "unitId": "vstep-b1",
+      "section": "travel",
+      "category": "base_word",
+      "vietnamese": "Tour tham quan thành phố",
+      "english": "City tour",
+      "acceptedAnswers": [
+        "City tour"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-travel-agency",
+      "unitId": "vstep-b1",
+      "section": "travel",
+      "category": "base_word",
+      "vietnamese": "Đại lý du lịch",
+      "english": "Travel agency",
+      "acceptedAnswers": [
+        "Travel agency"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-abroad",
+      "unitId": "vstep-b1",
+      "section": "travel",
+      "category": "base_word",
+      "vietnamese": "Ở nước ngoài",
+      "english": "Abroad",
+      "acceptedAnswers": [
+        "Abroad"
+      ],
+      "partOfSpeech": "adv",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-arrive",
+      "unitId": "vstep-b1",
+      "section": "travel",
+      "category": "base_word",
+      "vietnamese": "Đến (một nơi nào)",
+      "english": "Arrive (at/in)",
+      "acceptedAnswers": [
+        "Arrive",
+        "Arrive at/in"
+      ],
+      "partOfSpeech": "v",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-backpacker",
+      "unitId": "vstep-b1",
+      "section": "travel",
+      "category": "base_word",
+      "vietnamese": "Du khách balô (“Tây balô”)",
+      "english": "Backpacker",
+      "acceptedAnswers": [
+        "Backpacker"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-board",
+      "unitId": "vstep-b1",
+      "section": "travel",
+      "category": "base_word",
+      "vietnamese": "Lên tàu, lên máy bay",
+      "english": "Board",
+      "acceptedAnswers": [
+        "Board"
+      ],
+      "partOfSpeech": "v",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-bus-stop",
+      "unitId": "vstep-b1",
+      "section": "travel",
+      "category": "base_word",
+      "vietnamese": "Trạm xe buýt",
+      "english": "Bus stop",
+      "acceptedAnswers": [
+        "Bus stop"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-by-air-car-rail-sea",
+      "unitId": "vstep-b1",
+      "section": "travel",
+      "category": "base_word",
+      "vietnamese": "Bằng máy bay/ô tô/đường sắt/đường biển",
+      "english": "By air/car/rail/sea",
+      "acceptedAnswers": [
+        "By air/car/rail/sea"
+      ],
+      "partOfSpeech": "idiom",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-check-in",
+      "unitId": "vstep-b1",
+      "section": "travel",
+      "category": "base_word",
+      "vietnamese": "(Làm thủ tục) nhận phòng/nhận vé",
+      "english": "Check in",
+      "acceptedAnswers": [
+        "Check in"
+      ],
+      "partOfSpeech": "phr.v",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-depart",
+      "unitId": "vstep-b1",
+      "section": "travel",
+      "category": "base_word",
+      "vietnamese": "Khởi hành, rời đi",
+      "english": "Depart",
+      "acceptedAnswers": [
+        "Depart"
+      ],
+      "partOfSpeech": "v",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-double-room",
+      "unitId": "vstep-b1",
+      "section": "travel",
+      "category": "base_word",
+      "vietnamese": "Phòng đôi",
+      "english": "Double room",
+      "acceptedAnswers": [
+        "Double room"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-ferry",
+      "unitId": "vstep-b1",
+      "section": "travel",
+      "category": "base_word",
+      "vietnamese": "Phà",
+      "english": "Ferry",
+      "acceptedAnswers": [
+        "Ferry"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-holiday",
+      "unitId": "vstep-b1",
+      "section": "travel",
+      "category": "base_word",
+      "vietnamese": "Kỳ nghỉ",
+      "english": "Holiday",
+      "acceptedAnswers": [
+        "Holiday"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-luggage",
+      "unitId": "vstep-b1",
+      "section": "travel",
+      "category": "base_word",
+      "vietnamese": "Hành lý",
+      "english": "Luggage",
+      "acceptedAnswers": [
+        "Luggage"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-on-foot",
+      "unitId": "vstep-b1",
+      "section": "travel",
+      "category": "base_word",
+      "vietnamese": "Đi bộ (bằng chân)",
+      "english": "On foot",
+      "acceptedAnswers": [
+        "On foot"
+      ],
+      "partOfSpeech": "idiom",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-take-off",
+      "unitId": "vstep-b1",
+      "section": "travel",
+      "category": "base_word",
+      "vietnamese": "Cất cánh (máy bay)",
+      "english": "Take off",
+      "acceptedAnswers": [
+        "Take off"
+      ],
+      "partOfSpeech": "phr.v",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-tourism",
+      "unitId": "vstep-b1",
+      "section": "travel",
+      "category": "base_word",
+      "vietnamese": "Ngành du lịch",
+      "english": "Tourism",
+      "acceptedAnswers": [
+        "Tourism"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-vehicle",
+      "unitId": "vstep-b1",
+      "section": "travel",
+      "category": "base_word",
+      "vietnamese": "Phương tiện (giao thông)",
+      "english": "Vehicle",
+      "acceptedAnswers": [
+        "Vehicle"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-inclusive-tour",
+      "unitId": "vstep-b1",
+      "section": "travel",
+      "category": "base_word",
+      "vietnamese": "Tour trọn gói (bao gồm tất cả chi phí)",
+      "english": "Inclusive tour",
+      "acceptedAnswers": [
+        "Inclusive tour"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-one-way-trip",
+      "unitId": "vstep-b1",
+      "section": "travel",
+      "category": "base_word",
+      "vietnamese": "Chuyến đi một chiều",
+      "english": "One-way trip",
+      "acceptedAnswers": [
+        "One-way trip"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-round-trip",
+      "unitId": "vstep-b1",
+      "section": "travel",
+      "category": "base_word",
+      "vietnamese": "Chuyến đi khứ hồi",
+      "english": "Round trip",
+      "acceptedAnswers": [
+        "Round trip"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-departure",
+      "unitId": "vstep-b1",
+      "section": "travel",
+      "category": "base_word",
+      "vietnamese": "Sự khởi hành",
+      "english": "Departure",
+      "acceptedAnswers": [
+        "Departure"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-schedule",
+      "unitId": "vstep-b1",
+      "section": "travel",
+      "category": "base_word",
+      "vietnamese": "Lịch trình, thời gian biểu",
+      "english": "Schedule",
+      "acceptedAnswers": [
+        "Schedule"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-baggage-allowance",
+      "unitId": "vstep-b1",
+      "section": "travel",
+      "category": "base_word",
+      "vietnamese": "Lượng hành lý cho phép",
+      "english": "Baggage allowance",
+      "acceptedAnswers": [
+        "Baggage allowance"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-boarding-pass",
+      "unitId": "vstep-b1",
+      "section": "travel",
+      "category": "base_word",
+      "vietnamese": "Thẻ lên máy bay",
+      "english": "Boarding pass",
+      "acceptedAnswers": [
+        "Boarding pass"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-deposit",
+      "unitId": "vstep-b1",
+      "section": "travel",
+      "category": "base_word",
+      "vietnamese": "Tiền đặt cọc; đặt cọc",
+      "english": "Deposit",
+      "acceptedAnswers": [
+        "Deposit"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-expedition",
+      "unitId": "vstep-b1",
+      "section": "travel",
+      "category": "base_word",
+      "vietnamese": "Cuộc thám hiểm",
+      "english": "Expedition",
+      "acceptedAnswers": [
+        "Expedition"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-domestic-travel",
+      "unitId": "vstep-b1",
+      "section": "travel",
+      "category": "base_word",
+      "vietnamese": "Du lịch nội địa",
+      "english": "Domestic travel",
+      "acceptedAnswers": [
+        "Domestic travel"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-high-season",
+      "unitId": "vstep-b1",
+      "section": "travel",
+      "category": "base_word",
+      "vietnamese": "Mùa cao điểm (du lịch)",
+      "english": "High season",
+      "acceptedAnswers": [
+        "High season"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-low-season",
+      "unitId": "vstep-b1",
+      "section": "travel",
+      "category": "base_word",
+      "vietnamese": "Mùa vắng khách (du lịch)",
+      "english": "Low season",
+      "acceptedAnswers": [
+        "Low season"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-itinerary",
+      "unitId": "vstep-b1",
+      "section": "travel",
+      "category": "base_word",
+      "vietnamese": "Lịch trình (chuyến đi)",
+      "english": "Itinerary",
+      "acceptedAnswers": [
+        "Itinerary"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-international-tourist",
+      "unitId": "vstep-b1",
+      "section": "travel",
+      "category": "base_word",
+      "vietnamese": "Khách du lịch quốc tế",
+      "english": "International tourist",
+      "acceptedAnswers": [
+        "International tourist"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-travel-advisory",
+      "unitId": "vstep-b1",
+      "section": "travel",
+      "category": "base_word",
+      "vietnamese": "Thông báo/khuyến cáo du lịch",
+      "english": "Travel advisory",
+      "acceptedAnswers": [
+        "Travel advisory"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-traveler",
+      "unitId": "vstep-b1",
+      "section": "travel",
+      "category": "base_word",
+      "vietnamese": "Người đi du lịch, lữ khách",
+      "english": "Traveler",
+      "acceptedAnswers": [
+        "Traveler"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-car",
+      "unitId": "vstep-b1",
+      "section": "travel",
+      "category": "base_word",
+      "vietnamese": "Xe ô tô, xe hơi",
+      "english": "Car",
+      "acceptedAnswers": [
+        "Car"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-train",
+      "unitId": "vstep-b1",
+      "section": "travel",
+      "category": "base_word",
+      "vietnamese": "Tàu hỏa; xe lửa",
+      "english": "Train",
+      "acceptedAnswers": [
+        "Train"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-plane",
+      "unitId": "vstep-b1",
+      "section": "travel",
+      "category": "base_word",
+      "vietnamese": "Máy bay",
+      "english": "Plane",
+      "acceptedAnswers": [
+        "Plane"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-ship",
+      "unitId": "vstep-b1",
+      "section": "travel",
+      "category": "base_word",
+      "vietnamese": "Tàu thủy, thuyền lớn",
+      "english": "Ship",
+      "acceptedAnswers": [
+        "Ship"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-boat",
+      "unitId": "vstep-b1",
+      "section": "travel",
+      "category": "base_word",
+      "vietnamese": "Thuyền, xuồng",
+      "english": "Boat",
+      "acceptedAnswers": [
+        "Boat"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-bicycle",
+      "unitId": "vstep-b1",
+      "section": "travel",
+      "category": "base_word",
+      "vietnamese": "Xe đạp",
+      "english": "Bicycle (Bike)",
+      "acceptedAnswers": [
+        "Bicycle",
+        "Bicycle (Bike)",
+        "Bike"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-motorbike",
+      "unitId": "vstep-b1",
+      "section": "travel",
+      "category": "base_word",
+      "vietnamese": "Xe máy, mô tô",
+      "english": "Motorbike",
+      "acceptedAnswers": [
+        "Motorbike"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-subway",
+      "unitId": "vstep-b1",
+      "section": "travel",
+      "category": "base_word",
+      "vietnamese": "Tàu điện ngầm (Mỹ)",
+      "english": "Subway",
+      "acceptedAnswers": [
+        "Subway"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-taxi",
+      "unitId": "vstep-b1",
+      "section": "travel",
+      "category": "base_word",
+      "vietnamese": "Xe taxi",
+      "english": "Taxi",
+      "acceptedAnswers": [
+        "Taxi"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-traffic",
+      "unitId": "vstep-b1",
+      "section": "travel",
+      "category": "base_word",
+      "vietnamese": "Giao thông; xe cộ",
+      "english": "Traffic",
+      "acceptedAnswers": [
+        "Traffic"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-absent",
+      "unitId": "vstep-b1",
+      "section": "education",
+      "category": "base_word",
+      "vietnamese": "Vắng mặt",
+      "english": "Absent",
+      "acceptedAnswers": [
+        "Absent"
+      ],
+      "partOfSpeech": "adj",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-achieve",
+      "unitId": "vstep-b1",
+      "section": "education",
+      "category": "base_word",
+      "vietnamese": "Đạt được",
+      "english": "Achieve",
+      "acceptedAnswers": [
+        "Achieve"
+      ],
+      "partOfSpeech": "v",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-by-heart",
+      "unitId": "vstep-b1",
+      "section": "education",
+      "category": "base_word",
+      "vietnamese": "Thuộc lòng",
+      "english": "By heart",
+      "acceptedAnswers": [
+        "By heart"
+      ],
+      "partOfSpeech": "idiom",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-cheat",
+      "unitId": "vstep-b1",
+      "section": "education",
+      "category": "base_word",
+      "vietnamese": "Gian lận",
+      "english": "Cheat",
+      "acceptedAnswers": [
+        "Cheat"
+      ],
+      "partOfSpeech": "v",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-classroom",
+      "unitId": "vstep-b1",
+      "section": "education",
+      "category": "base_word",
+      "vietnamese": "Phòng học",
+      "english": "Classroom",
+      "acceptedAnswers": [
+        "Classroom"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-clever",
+      "unitId": "vstep-b1",
+      "section": "education",
+      "category": "base_word",
+      "vietnamese": "Thông minh, nhanh trí",
+      "english": "Clever",
+      "acceptedAnswers": [
+        "Clever"
+      ],
+      "partOfSpeech": "adj",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-course",
+      "unitId": "vstep-b1",
+      "section": "education",
+      "category": "base_word",
+      "vietnamese": "Khóa học",
+      "english": "Course",
+      "acceptedAnswers": [
+        "Course"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-curriculum",
+      "unitId": "vstep-b1",
+      "section": "education",
+      "category": "base_word",
+      "vietnamese": "Chương trình học",
+      "english": "Curriculum",
+      "acceptedAnswers": [
+        "Curriculum"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-degree",
+      "unitId": "vstep-b1",
+      "section": "education",
+      "category": "base_word",
+      "vietnamese": "Bằng cấp",
+      "english": "Degree",
+      "acceptedAnswers": [
+        "Degree"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-essay",
+      "unitId": "vstep-b1",
+      "section": "education",
+      "category": "base_word",
+      "vietnamese": "Bài luận",
+      "english": "Essay",
+      "acceptedAnswers": [
+        "Essay"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-good-at",
+      "unitId": "vstep-b1",
+      "section": "education",
+      "category": "base_word",
+      "vietnamese": "Giỏi về (môn gì)",
+      "english": "Good at",
+      "acceptedAnswers": [
+        "Good at"
+      ],
+      "partOfSpeech": "adj",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-homework",
+      "unitId": "vstep-b1",
+      "section": "education",
+      "category": "base_word",
+      "vietnamese": "Bài tập về nhà",
+      "english": "Homework",
+      "acceptedAnswers": [
+        "Homework"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-instructor",
+      "unitId": "vstep-b1",
+      "section": "education",
+      "category": "base_word",
+      "vietnamese": "Giảng viên, người hướng dẫn",
+      "english": "Instructor",
+      "acceptedAnswers": [
+        "Instructor"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-laboratory",
+      "unitId": "vstep-b1",
+      "section": "education",
+      "category": "base_word",
+      "vietnamese": "Phòng thí nghiệm",
+      "english": "Laboratory (Lab)",
+      "acceptedAnswers": [
+        "Laboratory",
+        "Laboratory (Lab)",
+        "Lab"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-learn-about",
+      "unitId": "vstep-b1",
+      "section": "education",
+      "category": "base_word",
+      "vietnamese": "Học về (cái gì)",
+      "english": "Learn about",
+      "acceptedAnswers": [
+        "Learn about"
+      ],
+      "partOfSpeech": "phr.v",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-mark",
+      "unitId": "vstep-b1",
+      "section": "education",
+      "category": "base_word",
+      "vietnamese": "Điểm số",
+      "english": "Mark",
+      "acceptedAnswers": [
+        "Mark"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-memorize",
+      "unitId": "vstep-b1",
+      "section": "education",
+      "category": "base_word",
+      "vietnamese": "Ghi nhớ, học thuộc",
+      "english": "Memorize",
+      "acceptedAnswers": [
+        "Memorize"
+      ],
+      "partOfSpeech": "v",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-primary-school",
+      "unitId": "vstep-b1",
+      "section": "education",
+      "category": "base_word",
+      "vietnamese": "Trường tiểu học",
+      "english": "Primary school",
+      "acceptedAnswers": [
+        "Primary school"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-project",
+      "unitId": "vstep-b1",
+      "section": "education",
+      "category": "base_word",
+      "vietnamese": "Dự án (học tập)",
+      "english": "Project",
+      "acceptedAnswers": [
+        "Project"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-pupil",
+      "unitId": "vstep-b1",
+      "section": "education",
+      "category": "base_word",
+      "vietnamese": "Học sinh (thường là học sinh nhỏ tuổi)",
+      "english": "Pupil",
+      "acceptedAnswers": [
+        "Pupil"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-research",
+      "unitId": "vstep-b1",
+      "section": "education",
+      "category": "base_word",
+      "vietnamese": "Nghiên cứu",
+      "english": "Research",
+      "acceptedAnswers": [
+        "Research"
+      ],
+      "partOfSpeech": "v",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-secondary-school",
+      "unitId": "vstep-b1",
+      "section": "education",
+      "category": "base_word",
+      "vietnamese": "Trường trung học cơ sở",
+      "english": "Secondary school",
+      "acceptedAnswers": [
+        "Secondary school"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-subject",
+      "unitId": "vstep-b1",
+      "section": "education",
+      "category": "base_word",
+      "vietnamese": "Môn học",
+      "english": "Subject",
+      "acceptedAnswers": [
+        "Subject"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-take-an-exam",
+      "unitId": "vstep-b1",
+      "section": "education",
+      "category": "base_word",
+      "vietnamese": "Dự thi, đi thi",
+      "english": "Take an exam",
+      "acceptedAnswers": [
+        "Take an exam"
+      ],
+      "partOfSpeech": "phr.v",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-term",
+      "unitId": "vstep-b1",
+      "section": "education",
+      "category": "base_word",
+      "vietnamese": "Học kỳ",
+      "english": "Term",
+      "acceptedAnswers": [
+        "Term"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-university",
+      "unitId": "vstep-b1",
+      "section": "education",
+      "category": "base_word",
+      "vietnamese": "Trường đại học",
+      "english": "University",
+      "acceptedAnswers": [
+        "University"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-write-down",
+      "unitId": "vstep-b1",
+      "section": "education",
+      "category": "base_word",
+      "vietnamese": "Ghi chép lại",
+      "english": "Write down",
+      "acceptedAnswers": [
+        "Write down"
+      ],
+      "partOfSpeech": "phr.v",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-library",
+      "unitId": "vstep-b1",
+      "section": "education",
+      "category": "base_word",
+      "vietnamese": "Thư viện",
+      "english": "Library",
+      "acceptedAnswers": [
+        "Library"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-computer-lab",
+      "unitId": "vstep-b1",
+      "section": "education",
+      "category": "base_word",
+      "vietnamese": "Phòng máy tính",
+      "english": "Computer lab",
+      "acceptedAnswers": [
+        "Computer lab"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-auditorium",
+      "unitId": "vstep-b1",
+      "section": "education",
+      "category": "base_word",
+      "vietnamese": "Đại hội trường (khán phòng lớn)",
+      "english": "Auditorium",
+      "acceptedAnswers": [
+        "Auditorium"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-canteen",
+      "unitId": "vstep-b1",
+      "section": "education",
+      "category": "base_word",
+      "vietnamese": "Căn-tin, nhà ăn",
+      "english": "Canteen",
+      "acceptedAnswers": [
+        "Canteen"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-gymnasium",
+      "unitId": "vstep-b1",
+      "section": "education",
+      "category": "base_word",
+      "vietnamese": "Phòng thể dục (nhà thi đấu)",
+      "english": "Gymnasium",
+      "acceptedAnswers": [
+        "Gymnasium"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-sports-field",
+      "unitId": "vstep-b1",
+      "section": "education",
+      "category": "base_word",
+      "vietnamese": "Sân thể thao",
+      "english": "Sports field",
+      "acceptedAnswers": [
+        "Sports field"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-art-room",
+      "unitId": "vstep-b1",
+      "section": "education",
+      "category": "base_word",
+      "vietnamese": "Phòng mỹ thuật",
+      "english": "Art room",
+      "acceptedAnswers": [
+        "Art room"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-music-room",
+      "unitId": "vstep-b1",
+      "section": "education",
+      "category": "base_word",
+      "vietnamese": "Phòng âm nhạc",
+      "english": "Music room",
+      "acceptedAnswers": [
+        "Music room"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-science-room",
+      "unitId": "vstep-b1",
+      "section": "education",
+      "category": "base_word",
+      "vietnamese": "Phòng khoa học",
+      "english": "Science room",
+      "acceptedAnswers": [
+        "Science room"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-conference-room",
+      "unitId": "vstep-b1",
+      "section": "education",
+      "category": "base_word",
+      "vietnamese": "Phòng họp",
+      "english": "Conference room",
+      "acceptedAnswers": [
+        "Conference room"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-principal-s-office",
+      "unitId": "vstep-b1",
+      "section": "education",
+      "category": "base_word",
+      "vietnamese": "Văn phòng hiệu trưởng",
+      "english": "Principal’s office",
+      "acceptedAnswers": [
+        "Principal’s office"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-schoolyard",
+      "unitId": "vstep-b1",
+      "section": "education",
+      "category": "base_word",
+      "vietnamese": "Sân trường",
+      "english": "Schoolyard",
+      "acceptedAnswers": [
+        "Schoolyard"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-hallway",
+      "unitId": "vstep-b1",
+      "section": "education",
+      "category": "base_word",
+      "vietnamese": "Hành lang",
+      "english": "Hallway",
+      "acceptedAnswers": [
+        "Hallway"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-restroom",
+      "unitId": "vstep-b1",
+      "section": "education",
+      "category": "base_word",
+      "vietnamese": "Nhà vệ sinh (công cộng)",
+      "english": "Restroom",
+      "acceptedAnswers": [
+        "Restroom"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-study-materials",
+      "unitId": "vstep-b1",
+      "section": "education",
+      "category": "base_word",
+      "vietnamese": "Tài liệu học tập",
+      "english": "Study materials",
+      "acceptedAnswers": [
+        "Study materials"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-textbook",
+      "unitId": "vstep-b1",
+      "section": "education",
+      "category": "base_word",
+      "vietnamese": "Sách giáo khoa",
+      "english": "Textbook",
+      "acceptedAnswers": [
+        "Textbook"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-note",
+      "unitId": "vstep-b1",
+      "section": "education",
+      "category": "base_word",
+      "vietnamese": "Ghi chú",
+      "english": "Note",
+      "acceptedAnswers": [
+        "Note"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-assignment",
+      "unitId": "vstep-b1",
+      "section": "education",
+      "category": "base_word",
+      "vietnamese": "Bài tập, nhiệm vụ được giao",
+      "english": "Assignment",
+      "acceptedAnswers": [
+        "Assignment"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-deadline",
+      "unitId": "vstep-b1",
+      "section": "education",
+      "category": "base_word",
+      "vietnamese": "Hạn chót",
+      "english": "Deadline",
+      "acceptedAnswers": [
+        "Deadline"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-quiz",
+      "unitId": "vstep-b1",
+      "section": "education",
+      "category": "base_word",
+      "vietnamese": "Bài kiểm tra ngắn",
+      "english": "Quiz",
+      "acceptedAnswers": [
+        "Quiz"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-exam-preparation",
+      "unitId": "vstep-b1",
+      "section": "education",
+      "category": "base_word",
+      "vietnamese": "Sự chuẩn bị cho kỳ thi",
+      "english": "Exam preparation",
+      "acceptedAnswers": [
+        "Exam preparation"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-study-group",
+      "unitId": "vstep-b1",
+      "section": "education",
+      "category": "base_word",
+      "vietnamese": "Nhóm học tập",
+      "english": "Study group",
+      "acceptedAnswers": [
+        "Study group"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-review",
+      "unitId": "vstep-b1",
+      "section": "education",
+      "category": "base_word",
+      "vietnamese": "Ôn tập; xem lại",
+      "english": "Review",
+      "acceptedAnswers": [
+        "Review"
+      ],
+      "partOfSpeech": "v",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-preschool",
+      "unitId": "vstep-b1",
+      "section": "education",
+      "category": "base_word",
+      "vietnamese": "Trường mầm non/mẫu giáo",
+      "english": "Preschool",
+      "acceptedAnswers": [
+        "Preschool"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-high-school",
+      "unitId": "vstep-b1",
+      "section": "education",
+      "category": "base_word",
+      "vietnamese": "Trường trung học phổ thông",
+      "english": "High school",
+      "acceptedAnswers": [
+        "High school"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-college",
+      "unitId": "vstep-b1",
+      "section": "education",
+      "category": "base_word",
+      "vietnamese": "Trường cao đẳng/đại học (cấp CĐ)",
+      "english": "College",
+      "acceptedAnswers": [
+        "College"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-graduate-school",
+      "unitId": "vstep-b1",
+      "section": "education",
+      "category": "base_word",
+      "vietnamese": "Cao học (sau đại học)",
+      "english": "Graduate school",
+      "acceptedAnswers": [
+        "Graduate school"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-student",
+      "unitId": "vstep-b1",
+      "section": "education",
+      "category": "base_word",
+      "vietnamese": "Học sinh, sinh viên",
+      "english": "Student",
+      "acceptedAnswers": [
+        "Student"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-teacher",
+      "unitId": "vstep-b1",
+      "section": "education",
+      "category": "base_word",
+      "vietnamese": "Giáo viên",
+      "english": "Teacher",
+      "acceptedAnswers": [
+        "Teacher"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-teach",
+      "unitId": "vstep-b1",
+      "section": "education",
+      "category": "base_word",
+      "vietnamese": "Dạy học, giảng dạy",
+      "english": "Teach",
+      "acceptedAnswers": [
+        "Teach"
+      ],
+      "partOfSpeech": "v",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-study",
+      "unitId": "vstep-b1",
+      "section": "education",
+      "category": "base_word",
+      "vietnamese": "Học, nghiên cứu",
+      "english": "Study",
+      "acceptedAnswers": [
+        "Study"
+      ],
+      "partOfSpeech": "v",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-learn",
+      "unitId": "vstep-b1",
+      "section": "education",
+      "category": "base_word",
+      "vietnamese": "Học, học hỏi",
+      "english": "Learn",
+      "acceptedAnswers": [
+        "Learn"
+      ],
+      "partOfSpeech": "v",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-school",
+      "unitId": "vstep-b1",
+      "section": "education",
+      "category": "base_word",
+      "vietnamese": "Trường học; việc học ở trường",
+      "english": "School",
+      "acceptedAnswers": [
+        "School"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-exam",
+      "unitId": "vstep-b1",
+      "section": "education",
+      "category": "base_word",
+      "vietnamese": "Kỳ thi, bài thi",
+      "english": "Exam",
+      "acceptedAnswers": [
+        "Exam"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-mathematics",
+      "unitId": "vstep-b1",
+      "section": "education",
+      "category": "base_word",
+      "vietnamese": "Môn toán",
+      "english": "Mathematics (Math)",
+      "acceptedAnswers": [
+        "Mathematics",
+        "Mathematics (Math)",
+        "Math"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-history",
+      "unitId": "vstep-b1",
+      "section": "education",
+      "category": "base_word",
+      "vietnamese": "Môn lịch sử; lịch sử",
+      "english": "History",
+      "acceptedAnswers": [
+        "History"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-geography",
+      "unitId": "vstep-b1",
+      "section": "education",
+      "category": "base_word",
+      "vietnamese": "Môn địa lý; địa lý học",
+      "english": "Geography",
+      "acceptedAnswers": [
+        "Geography"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-physics",
+      "unitId": "vstep-b1",
+      "section": "education",
+      "category": "base_word",
+      "vietnamese": "Môn vật lý; vật lý học",
+      "english": "Physics",
+      "acceptedAnswers": [
+        "Physics"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-chemistry",
+      "unitId": "vstep-b1",
+      "section": "education",
+      "category": "base_word",
+      "vietnamese": "Môn hóa học",
+      "english": "Chemistry",
+      "acceptedAnswers": [
+        "Chemistry"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-biology",
+      "unitId": "vstep-b1",
+      "section": "education",
+      "category": "base_word",
+      "vietnamese": "Môn sinh học",
+      "english": "Biology",
+      "acceptedAnswers": [
+        "Biology"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-literature",
+      "unitId": "vstep-b1",
+      "section": "education",
+      "category": "base_word",
+      "vietnamese": "Môn văn học; văn chương",
+      "english": "Literature",
+      "acceptedAnswers": [
+        "Literature"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-art",
+      "unitId": "vstep-b1",
+      "section": "education",
+      "category": "base_word",
+      "vietnamese": "Môn mỹ thuật; nghệ thuật",
+      "english": "Art",
+      "acceptedAnswers": [
+        "Art"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-music",
+      "unitId": "vstep-b1",
+      "section": "education",
+      "category": "base_word",
+      "vietnamese": "Môn âm nhạc; âm nhạc",
+      "english": "Music",
+      "acceptedAnswers": [
+        "Music"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-accountant",
+      "unitId": "vstep-b1",
+      "section": "work",
+      "category": "base_word",
+      "vietnamese": "Nhân viên kế toán",
+      "english": "Accountant",
+      "acceptedAnswers": [
+        "Accountant"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-apply-for",
+      "unitId": "vstep-b1",
+      "section": "work",
+      "category": "base_word",
+      "vietnamese": "Nộp đơn ứng tuyển (công việc)",
+      "english": "Apply for",
+      "acceptedAnswers": [
+        "Apply for"
+      ],
+      "partOfSpeech": "phr.v",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-assistant",
+      "unitId": "vstep-b1",
+      "section": "work",
+      "category": "base_word",
+      "vietnamese": "Trợ lý",
+      "english": "Assistant",
+      "acceptedAnswers": [
+        "Assistant"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-career",
+      "unitId": "vstep-b1",
+      "section": "work",
+      "category": "base_word",
+      "vietnamese": "Sự nghiệp",
+      "english": "Career",
+      "acceptedAnswers": [
+        "Career"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-colleague",
+      "unitId": "vstep-b1",
+      "section": "work",
+      "category": "base_word",
+      "vietnamese": "Đồng nghiệp",
+      "english": "Colleague",
+      "acceptedAnswers": [
+        "Colleague"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-contract",
+      "unitId": "vstep-b1",
+      "section": "work",
+      "category": "base_word",
+      "vietnamese": "Hợp đồng",
+      "english": "Contract",
+      "acceptedAnswers": [
+        "Contract"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-director",
+      "unitId": "vstep-b1",
+      "section": "work",
+      "category": "base_word",
+      "vietnamese": "Giám đốc, đạo diễn",
+      "english": "Director",
+      "acceptedAnswers": [
+        "Director"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-employee",
+      "unitId": "vstep-b1",
+      "section": "work",
+      "category": "base_word",
+      "vietnamese": "Nhân viên, người lao động",
+      "english": "Employee",
+      "acceptedAnswers": [
+        "Employee"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-farming",
+      "unitId": "vstep-b1",
+      "section": "work",
+      "category": "base_word",
+      "vietnamese": "Nông nghiệp, việc canh tác",
+      "english": "Farming",
+      "acceptedAnswers": [
+        "Farming"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-full-time",
+      "unitId": "vstep-b1",
+      "section": "work",
+      "category": "base_word",
+      "vietnamese": "Toàn thời gian",
+      "english": "Full-time",
+      "acceptedAnswers": [
+        "Full-time"
+      ],
+      "partOfSpeech": "adj",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-income",
+      "unitId": "vstep-b1",
+      "section": "work",
+      "category": "base_word",
+      "vietnamese": "Thu nhập",
+      "english": "Income",
+      "acceptedAnswers": [
+        "Income"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-industry",
+      "unitId": "vstep-b1",
+      "section": "work",
+      "category": "base_word",
+      "vietnamese": "Ngành công nghiệp",
+      "english": "Industry",
+      "acceptedAnswers": [
+        "Industry"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-manage",
+      "unitId": "vstep-b1",
+      "section": "work",
+      "category": "base_word",
+      "vietnamese": "Quản lý, xoay xở",
+      "english": "Manage",
+      "acceptedAnswers": [
+        "Manage"
+      ],
+      "partOfSpeech": "v",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-out-of-work",
+      "unitId": "vstep-b1",
+      "section": "work",
+      "category": "base_word",
+      "vietnamese": "Thất nghiệp, không có việc làm",
+      "english": "Out of work",
+      "acceptedAnswers": [
+        "Out of work"
+      ],
+      "partOfSpeech": "idiom",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-profession",
+      "unitId": "vstep-b1",
+      "section": "work",
+      "category": "base_word",
+      "vietnamese": "Nghề nghiệp (đòi hỏi trình độ cao)",
+      "english": "Profession",
+      "acceptedAnswers": [
+        "Profession"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-promote",
+      "unitId": "vstep-b1",
+      "section": "work",
+      "category": "base_word",
+      "vietnamese": "Thăng chức; quảng bá",
+      "english": "Promote",
+      "acceptedAnswers": [
+        "Promote"
+      ],
+      "partOfSpeech": "v",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-retire",
+      "unitId": "vstep-b1",
+      "section": "work",
+      "category": "base_word",
+      "vietnamese": "Nghỉ hưu",
+      "english": "Retire",
+      "acceptedAnswers": [
+        "Retire"
+      ],
+      "partOfSpeech": "v",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-salary",
+      "unitId": "vstep-b1",
+      "section": "work",
+      "category": "base_word",
+      "vietnamese": "Tiền lương",
+      "english": "Salary",
+      "acceptedAnswers": [
+        "Salary"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-successful",
+      "unitId": "vstep-b1",
+      "section": "work",
+      "category": "base_word",
+      "vietnamese": "Thành công",
+      "english": "Successful",
+      "acceptedAnswers": [
+        "Successful"
+      ],
+      "partOfSpeech": "adj",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-tax",
+      "unitId": "vstep-b1",
+      "section": "work",
+      "category": "base_word",
+      "vietnamese": "Thuế",
+      "english": "Tax",
+      "acceptedAnswers": [
+        "Tax"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-work-for",
+      "unitId": "vstep-b1",
+      "section": "work",
+      "category": "base_word",
+      "vietnamese": "Làm việc cho (ai/công ty nào)",
+      "english": "Work for",
+      "acceptedAnswers": [
+        "Work for"
+      ],
+      "partOfSpeech": "phr.v",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-office",
+      "unitId": "vstep-b1",
+      "section": "work",
+      "category": "base_word",
+      "vietnamese": "Văn phòng",
+      "english": "Office",
+      "acceptedAnswers": [
+        "Office"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-boss",
+      "unitId": "vstep-b1",
+      "section": "work",
+      "category": "base_word",
+      "vietnamese": "Sếp, cấp trên",
+      "english": "Boss",
+      "acceptedAnswers": [
+        "Boss"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-manager",
+      "unitId": "vstep-b1",
+      "section": "work",
+      "category": "base_word",
+      "vietnamese": "Người quản lý",
+      "english": "Manager",
+      "acceptedAnswers": [
+        "Manager"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-meeting",
+      "unitId": "vstep-b1",
+      "section": "work",
+      "category": "base_word",
+      "vietnamese": "Cuộc họp",
+      "english": "Meeting",
+      "acceptedAnswers": [
+        "Meeting"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-task",
+      "unitId": "vstep-b1",
+      "section": "work",
+      "category": "base_word",
+      "vietnamese": "Nhiệm vụ, công việc phải làm",
+      "english": "Task",
+      "acceptedAnswers": [
+        "Task"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-overtime",
+      "unitId": "vstep-b1",
+      "section": "work",
+      "category": "base_word",
+      "vietnamese": "Giờ làm thêm, tăng ca",
+      "english": "Overtime",
+      "acceptedAnswers": [
+        "Overtime"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-employer",
+      "unitId": "vstep-b1",
+      "section": "work",
+      "category": "base_word",
+      "vietnamese": "Người tuyển dụng, chủ",
+      "english": "Employer",
+      "acceptedAnswers": [
+        "Employer"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-shift",
+      "unitId": "vstep-b1",
+      "section": "work",
+      "category": "base_word",
+      "vietnamese": "Ca làm việc",
+      "english": "Shift",
+      "acceptedAnswers": [
+        "Shift"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-internship",
+      "unitId": "vstep-b1",
+      "section": "work",
+      "category": "base_word",
+      "vietnamese": "Kỳ thực tập",
+      "english": "Internship",
+      "acceptedAnswers": [
+        "Internship"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-resume",
+      "unitId": "vstep-b1",
+      "section": "work",
+      "category": "base_word",
+      "vietnamese": "Sơ yếu lý lịch, CV",
+      "english": "Resume (CV)",
+      "acceptedAnswers": [
+        "Resume",
+        "Resume (CV)",
+        "CV"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-interview",
+      "unitId": "vstep-b1",
+      "section": "work",
+      "category": "base_word",
+      "vietnamese": "Phỏng vấn; buổi phỏng vấn",
+      "english": "Interview",
+      "acceptedAnswers": [
+        "Interview"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-skill",
+      "unitId": "vstep-b1",
+      "section": "work",
+      "category": "base_word",
+      "vietnamese": "Kỹ năng",
+      "english": "Skill",
+      "acceptedAnswers": [
+        "Skill"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-experience",
+      "unitId": "vstep-b1",
+      "section": "work",
+      "category": "base_word",
+      "vietnamese": "Kinh nghiệm",
+      "english": "Experience",
+      "acceptedAnswers": [
+        "Experience"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-coworker",
+      "unitId": "vstep-b1",
+      "section": "work",
+      "category": "base_word",
+      "vietnamese": "Đồng nghiệp",
+      "english": "Coworker",
+      "acceptedAnswers": [
+        "Coworker"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-career-path",
+      "unitId": "vstep-b1",
+      "section": "work",
+      "category": "base_word",
+      "vietnamese": "Con đường sự nghiệp",
+      "english": "Career path",
+      "acceptedAnswers": [
+        "Career path"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-break",
+      "unitId": "vstep-b1",
+      "section": "work",
+      "category": "base_word",
+      "vietnamese": "Giờ giải lao, giờ nghỉ",
+      "english": "Break",
+      "acceptedAnswers": [
+        "Break"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-workplace",
+      "unitId": "vstep-b1",
+      "section": "work",
+      "category": "base_word",
+      "vietnamese": "Nơi làm việc",
+      "english": "Workplace",
+      "acceptedAnswers": [
+        "Workplace"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-company",
+      "unitId": "vstep-b1",
+      "section": "work",
+      "category": "base_word",
+      "vietnamese": "Công ty",
+      "english": "Company",
+      "acceptedAnswers": [
+        "Company"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-business",
+      "unitId": "vstep-b1",
+      "section": "work",
+      "category": "base_word",
+      "vietnamese": "Việc kinh doanh; doanh nghiệp",
+      "english": "Business",
+      "acceptedAnswers": [
+        "Business"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-engineer",
+      "unitId": "vstep-b1",
+      "section": "work",
+      "category": "base_word",
+      "vietnamese": "Kỹ sư",
+      "english": "Engineer",
+      "acceptedAnswers": [
+        "Engineer"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-nurse",
+      "unitId": "vstep-b1",
+      "section": "work",
+      "category": "base_word",
+      "vietnamese": "Y tá",
+      "english": "Nurse",
+      "acceptedAnswers": [
+        "Nurse"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-farmer",
+      "unitId": "vstep-b1",
+      "section": "work",
+      "category": "base_word",
+      "vietnamese": "Nông dân",
+      "english": "Farmer",
+      "acceptedAnswers": [
+        "Farmer"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-lawyer",
+      "unitId": "vstep-b1",
+      "section": "work",
+      "category": "base_word",
+      "vietnamese": "Luật sư",
+      "english": "Lawyer",
+      "acceptedAnswers": [
+        "Lawyer"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-chef",
+      "unitId": "vstep-b1",
+      "section": "work",
+      "category": "base_word",
+      "vietnamese": "Đầu bếp (bếp trưởng)",
+      "english": "Chef",
+      "acceptedAnswers": [
+        "Chef"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-waiter",
+      "unitId": "vstep-b1",
+      "section": "work",
+      "category": "base_word",
+      "vietnamese": "Phục vụ nam",
+      "english": "Waiter",
+      "acceptedAnswers": [
+        "Waiter"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-waitress",
+      "unitId": "vstep-b1",
+      "section": "work",
+      "category": "base_word",
+      "vietnamese": "Phục vụ nữ",
+      "english": "Waitress",
+      "acceptedAnswers": [
+        "Waitress"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-driver",
+      "unitId": "vstep-b1",
+      "section": "work",
+      "category": "base_word",
+      "vietnamese": "Tài xế, người lái xe",
+      "english": "Driver",
+      "acceptedAnswers": [
+        "Driver"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-secretary",
+      "unitId": "vstep-b1",
+      "section": "work",
+      "category": "base_word",
+      "vietnamese": "Thư ký",
+      "english": "Secretary",
+      "acceptedAnswers": [
+        "Secretary"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-resign",
+      "unitId": "vstep-b1",
+      "section": "work",
+      "category": "base_word",
+      "vietnamese": "Từ chức, thôi việc",
+      "english": "Resign",
+      "acceptedAnswers": [
+        "Resign"
+      ],
+      "partOfSpeech": "v",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-hire",
+      "unitId": "vstep-b1",
+      "section": "work",
+      "category": "base_word",
+      "vietnamese": "Thuê, tuyển dụng",
+      "english": "Hire",
+      "acceptedAnswers": [
+        "Hire"
+      ],
+      "partOfSpeech": "v",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-fire",
+      "unitId": "vstep-b1",
+      "section": "work",
+      "category": "base_word",
+      "vietnamese": "Sa thải",
+      "english": "Fire (dismiss)",
+      "acceptedAnswers": [
+        "Fire",
+        "Fire (dismiss)"
+      ],
+      "partOfSpeech": "v",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-client",
+      "unitId": "vstep-b1",
+      "section": "work",
+      "category": "base_word",
+      "vietnamese": "Khách hàng (của dịch vụ)",
+      "english": "Client",
+      "acceptedAnswers": [
+        "Client"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-department",
+      "unitId": "vstep-b1",
+      "section": "work",
+      "category": "base_word",
+      "vietnamese": "Phòng ban, bộ phận",
+      "english": "Department",
+      "acceptedAnswers": [
+        "Department"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-ache",
+      "unitId": "vstep-b1",
+      "section": "health",
+      "category": "base_word",
+      "vietnamese": "Đau, nhức (thường dùng trong từ ghép: headache, v.v.)",
+      "english": "Ache",
+      "acceptedAnswers": [
+        "Ache"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-allergic",
+      "unitId": "vstep-b1",
+      "section": "health",
+      "category": "base_word",
+      "vietnamese": "Dị ứng (với)",
+      "english": "Allergic (to)",
+      "acceptedAnswers": [
+        "Allergic",
+        "Allergic to"
+      ],
+      "partOfSpeech": "adj",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-bandage",
+      "unitId": "vstep-b1",
+      "section": "health",
+      "category": "base_word",
+      "vietnamese": "Băng gạc; băng bó",
+      "english": "Bandage",
+      "acceptedAnswers": [
+        "Bandage"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-bleed",
+      "unitId": "vstep-b1",
+      "section": "health",
+      "category": "base_word",
+      "vietnamese": "Chảy máu",
+      "english": "Bleed",
+      "acceptedAnswers": [
+        "Bleed"
+      ],
+      "partOfSpeech": "v",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-checkup",
+      "unitId": "vstep-b1",
+      "section": "health",
+      "category": "base_word",
+      "vietnamese": "Khám sức khỏe tổng quát",
+      "english": "Checkup",
+      "acceptedAnswers": [
+        "Checkup"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-cold",
+      "unitId": "vstep-b1",
+      "section": "health",
+      "category": "base_word",
+      "vietnamese": "Cảm lạnh; bị cảm lạnh",
+      "english": "Cold",
+      "acceptedAnswers": [
+        "Cold"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-cure",
+      "unitId": "vstep-b1",
+      "section": "health",
+      "category": "base_word",
+      "vietnamese": "Chữa khỏi, chữa trị; phương thuốc",
+      "english": "Cure",
+      "acceptedAnswers": [
+        "Cure"
+      ],
+      "partOfSpeech": "v",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-cut",
+      "unitId": "vstep-b1",
+      "section": "health",
+      "category": "base_word",
+      "vietnamese": "Vết cắt; cắt",
+      "english": "Cut",
+      "acceptedAnswers": [
+        "Cut"
+      ],
+      "partOfSpeech": "v",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-diet",
+      "unitId": "vstep-b1",
+      "section": "health",
+      "category": "base_word",
+      "vietnamese": "Chế độ ăn uống, ăn kiêng",
+      "english": "Diet",
+      "acceptedAnswers": [
+        "Diet"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-doctor",
+      "unitId": "vstep-b1",
+      "section": "health",
+      "category": "base_word",
+      "vietnamese": "Bác sĩ",
+      "english": "Doctor",
+      "acceptedAnswers": [
+        "Doctor"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-emergency",
+      "unitId": "vstep-b1",
+      "section": "health",
+      "category": "base_word",
+      "vietnamese": "Tình trạng khẩn cấp; cấp cứu",
+      "english": "Emergency",
+      "acceptedAnswers": [
+        "Emergency"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-exercise",
+      "unitId": "vstep-b1",
+      "section": "health",
+      "category": "base_word",
+      "vietnamese": "Tập thể dục; bài tập thể dục",
+      "english": "Exercise",
+      "acceptedAnswers": [
+        "Exercise"
+      ],
+      "partOfSpeech": "v",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-fever",
+      "unitId": "vstep-b1",
+      "section": "health",
+      "category": "base_word",
+      "vietnamese": "Cơn sốt; sốt",
+      "english": "Fever",
+      "acceptedAnswers": [
+        "Fever"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-get-better",
+      "unitId": "vstep-b1",
+      "section": "health",
+      "category": "base_word",
+      "vietnamese": "Trở nên khỏe hơn, bình phục",
+      "english": "Get better",
+      "acceptedAnswers": [
+        "Get better"
+      ],
+      "partOfSpeech": "phr.v",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-gym",
+      "unitId": "vstep-b1",
+      "section": "health",
+      "category": "base_word",
+      "vietnamese": "Phòng tập gym; tập gym",
+      "english": "Gym",
+      "acceptedAnswers": [
+        "Gym"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-healthy",
+      "unitId": "vstep-b1",
+      "section": "health",
+      "category": "base_word",
+      "vietnamese": "Khỏe mạnh; lành mạnh (đồ ăn, lối sống)",
+      "english": "Healthy",
+      "acceptedAnswers": [
+        "Healthy"
+      ],
+      "partOfSpeech": "adj",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-medicine",
+      "unitId": "vstep-b1",
+      "section": "health",
+      "category": "base_word",
+      "vietnamese": "Thuốc, dược phẩm",
+      "english": "Medicine",
+      "acceptedAnswers": [
+        "Medicine"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-operation",
+      "unitId": "vstep-b1",
+      "section": "health",
+      "category": "base_word",
+      "vietnamese": "Ca phẫu thuật, sự phẫu thuật",
+      "english": "Operation",
+      "acceptedAnswers": [
+        "Operation"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-pharmacy",
+      "unitId": "vstep-b1",
+      "section": "health",
+      "category": "base_word",
+      "vietnamese": "Nhà thuốc, hiệu thuốc",
+      "english": "Pharmacy",
+      "acceptedAnswers": [
+        "Pharmacy"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-prescription",
+      "unitId": "vstep-b1",
+      "section": "health",
+      "category": "base_word",
+      "vietnamese": "Đơn thuốc",
+      "english": "Prescription",
+      "acceptedAnswers": [
+        "Prescription"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-recover",
+      "unitId": "vstep-b1",
+      "section": "health",
+      "category": "base_word",
+      "vietnamese": "Bình phục, hồi phục (sau…)",
+      "english": "Recover (from)",
+      "acceptedAnswers": [
+        "Recover",
+        "Recover from"
+      ],
+      "partOfSpeech": "v",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-rest",
+      "unitId": "vstep-b1",
+      "section": "health",
+      "category": "base_word",
+      "vietnamese": "Nghỉ ngơi; sự nghỉ ngơi",
+      "english": "Rest",
+      "acceptedAnswers": [
+        "Rest"
+      ],
+      "partOfSpeech": "v",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-sore-throat",
+      "unitId": "vstep-b1",
+      "section": "health",
+      "category": "base_word",
+      "vietnamese": "Đau họng",
+      "english": "Sore throat",
+      "acceptedAnswers": [
+        "Sore throat"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-suffer-from",
+      "unitId": "vstep-b1",
+      "section": "health",
+      "category": "base_word",
+      "vietnamese": "Chịu đựng, mắc phải (bệnh gì)",
+      "english": "Suffer from",
+      "acceptedAnswers": [
+        "Suffer from"
+      ],
+      "partOfSpeech": "phr.v",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-unwell",
+      "unitId": "vstep-b1",
+      "section": "health",
+      "category": "base_word",
+      "vietnamese": "Khó ở, thấy không khỏe",
+      "english": "Unwell",
+      "acceptedAnswers": [
+        "Unwell"
+      ],
+      "partOfSpeech": "adj",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-vitamin",
+      "unitId": "vstep-b1",
+      "section": "health",
+      "category": "base_word",
+      "vietnamese": "Vitamin",
+      "english": "Vitamin",
+      "acceptedAnswers": [
+        "Vitamin"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-nutrition",
+      "unitId": "vstep-b1",
+      "section": "health",
+      "category": "base_word",
+      "vietnamese": "Dinh dưỡng",
+      "english": "Nutrition",
+      "acceptedAnswers": [
+        "Nutrition"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-wellness",
+      "unitId": "vstep-b1",
+      "section": "health",
+      "category": "base_word",
+      "vietnamese": "Sức khỏe, sự khỏe mạnh (nói chung)",
+      "english": "Wellness",
+      "acceptedAnswers": [
+        "Wellness"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-mental-health",
+      "unitId": "vstep-b1",
+      "section": "health",
+      "category": "base_word",
+      "vietnamese": "Sức khỏe tinh thần",
+      "english": "Mental health",
+      "acceptedAnswers": [
+        "Mental health"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-physical-health",
+      "unitId": "vstep-b1",
+      "section": "health",
+      "category": "base_word",
+      "vietnamese": "Sức khỏe thể chất",
+      "english": "Physical health",
+      "acceptedAnswers": [
+        "Physical health"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-hospital",
+      "unitId": "vstep-b1",
+      "section": "health",
+      "category": "base_word",
+      "vietnamese": "Bệnh viện",
+      "english": "Hospital",
+      "acceptedAnswers": [
+        "Hospital"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-treatment",
+      "unitId": "vstep-b1",
+      "section": "health",
+      "category": "base_word",
+      "vietnamese": "Sự điều trị, phép trị bệnh",
+      "english": "Treatment",
+      "acceptedAnswers": [
+        "Treatment"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-symptom",
+      "unitId": "vstep-b1",
+      "section": "health",
+      "category": "base_word",
+      "vietnamese": "Triệu chứng",
+      "english": "Symptom",
+      "acceptedAnswers": [
+        "Symptom"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-healthy-lifestyle",
+      "unitId": "vstep-b1",
+      "section": "health",
+      "category": "base_word",
+      "vietnamese": "Lối sống lành mạnh",
+      "english": "Healthy lifestyle",
+      "acceptedAnswers": [
+        "Healthy lifestyle"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-hygiene",
+      "unitId": "vstep-b1",
+      "section": "health",
+      "category": "base_word",
+      "vietnamese": "Vệ sinh (sự sạch sẽ)",
+      "english": "Hygiene",
+      "acceptedAnswers": [
+        "Hygiene"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-fitness",
+      "unitId": "vstep-b1",
+      "section": "health",
+      "category": "base_word",
+      "vietnamese": "Thể lực; sự khỏe khoắn",
+      "english": "Fitness",
+      "acceptedAnswers": [
+        "Fitness"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-vaccine",
+      "unitId": "vstep-b1",
+      "section": "health",
+      "category": "base_word",
+      "vietnamese": "Vắc-xin",
+      "english": "Vaccine",
+      "acceptedAnswers": [
+        "Vaccine"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-well-being",
+      "unitId": "vstep-b1",
+      "section": "health",
+      "category": "base_word",
+      "vietnamese": "Sự khỏe mạnh, tình trạng hạnh phúc",
+      "english": "Well-being",
+      "acceptedAnswers": [
+        "Well-being"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-weight",
+      "unitId": "vstep-b1",
+      "section": "health",
+      "category": "base_word",
+      "vietnamese": "Cân nặng; trọng lượng",
+      "english": "Weight",
+      "acceptedAnswers": [
+        "Weight"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-blood-pressure",
+      "unitId": "vstep-b1",
+      "section": "health",
+      "category": "base_word",
+      "vietnamese": "Huyết áp",
+      "english": "Blood pressure",
+      "acceptedAnswers": [
+        "Blood pressure"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-dentist",
+      "unitId": "vstep-b1",
+      "section": "health",
+      "category": "base_word",
+      "vietnamese": "Nha sĩ",
+      "english": "Dentist",
+      "acceptedAnswers": [
+        "Dentist"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-therapy",
+      "unitId": "vstep-b1",
+      "section": "health",
+      "category": "base_word",
+      "vietnamese": "Liệu pháp trị liệu",
+      "english": "Therapy",
+      "acceptedAnswers": [
+        "Therapy"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-physical-therapy",
+      "unitId": "vstep-b1",
+      "section": "health",
+      "category": "base_word",
+      "vietnamese": "Vật lý trị liệu",
+      "english": "Physical therapy",
+      "acceptedAnswers": [
+        "Physical therapy"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-illness",
+      "unitId": "vstep-b1",
+      "section": "health",
+      "category": "base_word",
+      "vietnamese": "Bệnh, tình trạng bệnh",
+      "english": "Illness",
+      "acceptedAnswers": [
+        "Illness"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-disease",
+      "unitId": "vstep-b1",
+      "section": "health",
+      "category": "base_word",
+      "vietnamese": "Bệnh tật, căn bệnh",
+      "english": "Disease",
+      "acceptedAnswers": [
+        "Disease"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-infection",
+      "unitId": "vstep-b1",
+      "section": "health",
+      "category": "base_word",
+      "vietnamese": "Sự nhiễm trùng; bệnh truyền nhiễm",
+      "english": "Infection",
+      "acceptedAnswers": [
+        "Infection"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-virus",
+      "unitId": "vstep-b1",
+      "section": "health",
+      "category": "base_word",
+      "vietnamese": "Vi rút",
+      "english": "Virus",
+      "acceptedAnswers": [
+        "Virus"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-bacteria",
+      "unitId": "vstep-b1",
+      "section": "health",
+      "category": "base_word",
+      "vietnamese": "Vi khuẩn",
+      "english": "Bacteria",
+      "acceptedAnswers": [
+        "Bacteria"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-flu",
+      "unitId": "vstep-b1",
+      "section": "health",
+      "category": "base_word",
+      "vietnamese": "Cúm, bệnh cúm",
+      "english": "Flu",
+      "acceptedAnswers": [
+        "Flu"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-headache",
+      "unitId": "vstep-b1",
+      "section": "health",
+      "category": "base_word",
+      "vietnamese": "Đau đầu; cơn nhức đầu",
+      "english": "Headache",
+      "acceptedAnswers": [
+        "Headache"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-stomachache",
+      "unitId": "vstep-b1",
+      "section": "health",
+      "category": "base_word",
+      "vietnamese": "Đau bụng, đau dạ dày",
+      "english": "Stomachache",
+      "acceptedAnswers": [
+        "Stomachache"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-cough",
+      "unitId": "vstep-b1",
+      "section": "health",
+      "category": "base_word",
+      "vietnamese": "Ho; cơn ho",
+      "english": "Cough",
+      "acceptedAnswers": [
+        "Cough"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-pain",
+      "unitId": "vstep-b1",
+      "section": "health",
+      "category": "base_word",
+      "vietnamese": "Đau đớn; cơn đau",
+      "english": "Pain",
+      "acceptedAnswers": [
+        "Pain"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-allergy",
+      "unitId": "vstep-b1",
+      "section": "health",
+      "category": "base_word",
+      "vietnamese": "Dị ứng (sự dị ứng)",
+      "english": "Allergy",
+      "acceptedAnswers": [
+        "Allergy"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-asthma",
+      "unitId": "vstep-b1",
+      "section": "health",
+      "category": "base_word",
+      "vietnamese": "Bệnh hen suyễn",
+      "english": "Asthma",
+      "acceptedAnswers": [
+        "Asthma"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-diabetes",
+      "unitId": "vstep-b1",
+      "section": "health",
+      "category": "base_word",
+      "vietnamese": "Bệnh tiểu đường",
+      "english": "Diabetes",
+      "acceptedAnswers": [
+        "Diabetes"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-high-blood-pressure",
+      "unitId": "vstep-b1",
+      "section": "health",
+      "category": "base_word",
+      "vietnamese": "Cao huyết áp",
+      "english": "High blood pressure",
+      "acceptedAnswers": [
+        "High blood pressure"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-cancer",
+      "unitId": "vstep-b1",
+      "section": "health",
+      "category": "base_word",
+      "vietnamese": "Bệnh ung thư",
+      "english": "Cancer",
+      "acceptedAnswers": [
+        "Cancer"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-stroke",
+      "unitId": "vstep-b1",
+      "section": "health",
+      "category": "base_word",
+      "vietnamese": "Cơn đột quỵ",
+      "english": "Stroke",
+      "acceptedAnswers": [
+        "Stroke"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-heart-attack",
+      "unitId": "vstep-b1",
+      "section": "health",
+      "category": "base_word",
+      "vietnamese": "Cơn đau tim, nhồi máu cơ tim",
+      "english": "Heart attack",
+      "acceptedAnswers": [
+        "Heart attack"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-depression",
+      "unitId": "vstep-b1",
+      "section": "health",
+      "category": "base_word",
+      "vietnamese": "Bệnh trầm cảm; sự phiền muộn",
+      "english": "Depression",
+      "acceptedAnswers": [
+        "Depression"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-anxiety",
+      "unitId": "vstep-b1",
+      "section": "health",
+      "category": "base_word",
+      "vietnamese": "Sự lo âu, lo lắng",
+      "english": "Anxiety",
+      "acceptedAnswers": [
+        "Anxiety"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-insomnia",
+      "unitId": "vstep-b1",
+      "section": "health",
+      "category": "base_word",
+      "vietnamese": "Chứng mất ngủ",
+      "english": "Insomnia",
+      "acceptedAnswers": [
+        "Insomnia"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-ambulance",
+      "unitId": "vstep-b1",
+      "section": "health",
+      "category": "base_word",
+      "vietnamese": "Xe cứu thương",
+      "english": "Ambulance",
+      "acceptedAnswers": [
+        "Ambulance"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-patient",
+      "unitId": "vstep-b1",
+      "section": "health",
+      "category": "base_word",
+      "vietnamese": "Bệnh nhân",
+      "english": "Patient",
+      "acceptedAnswers": [
+        "Patient"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-sick",
+      "unitId": "vstep-b1",
+      "section": "health",
+      "category": "base_word",
+      "vietnamese": "Ốm, bệnh",
+      "english": "Sick (ill)",
+      "acceptedAnswers": [
+        "Sick",
+        "Sick (ill)",
+        "ill"
+      ],
+      "partOfSpeech": "adj",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-injure",
+      "unitId": "vstep-b1",
+      "section": "health",
+      "category": "base_word",
+      "vietnamese": "Làm bị thương",
+      "english": "Injure",
+      "acceptedAnswers": [
+        "Injure"
+      ],
+      "partOfSpeech": "v",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-injury",
+      "unitId": "vstep-b1",
+      "section": "health",
+      "category": "base_word",
+      "vietnamese": "Chấn thương, vết thương",
+      "english": "Injury",
+      "acceptedAnswers": [
+        "Injury"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-admire",
+      "unitId": "vstep-b1",
+      "section": "family",
+      "category": "base_word",
+      "vietnamese": "Ngưỡng mộ, khâm phục",
+      "english": "Admire",
+      "acceptedAnswers": [
+        "Admire"
+      ],
+      "partOfSpeech": "v",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-anniversary",
+      "unitId": "vstep-b1",
+      "section": "family",
+      "category": "base_word",
+      "vietnamese": "Ngày kỷ niệm",
+      "english": "Anniversary",
+      "acceptedAnswers": [
+        "Anniversary"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-argue",
+      "unitId": "vstep-b1",
+      "section": "family",
+      "category": "base_word",
+      "vietnamese": "Tranh cãi, cãi nhau",
+      "english": "Argue",
+      "acceptedAnswers": [
+        "Argue"
+      ],
+      "partOfSpeech": "v",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-bring-up",
+      "unitId": "vstep-b1",
+      "section": "family",
+      "category": "base_word",
+      "vietnamese": "Nuôi nấng, nuôi dạy",
+      "english": "Bring up",
+      "acceptedAnswers": [
+        "Bring up"
+      ],
+      "partOfSpeech": "phr.v",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-close-knit",
+      "unitId": "vstep-b1",
+      "section": "family",
+      "category": "base_word",
+      "vietnamese": "Gắn bó, khăng khít",
+      "english": "Close-knit",
+      "acceptedAnswers": [
+        "Close-knit"
+      ],
+      "partOfSpeech": "adj",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-family",
+      "unitId": "vstep-b1",
+      "section": "family",
+      "category": "base_word",
+      "vietnamese": "Gia đình",
+      "english": "Family",
+      "acceptedAnswers": [
+        "Family"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-friendship",
+      "unitId": "vstep-b1",
+      "section": "family",
+      "category": "base_word",
+      "vietnamese": "Tình bạn",
+      "english": "Friendship",
+      "acceptedAnswers": [
+        "Friendship"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-get-on",
+      "unitId": "vstep-b1",
+      "section": "family",
+      "category": "base_word",
+      "vietnamese": "Hòa hợp, hòa thuận (với ai)",
+      "english": "Get on (with)",
+      "acceptedAnswers": [
+        "Get on",
+        "Get on with"
+      ],
+      "partOfSpeech": "phr.v",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-get-together",
+      "unitId": "vstep-b1",
+      "section": "family",
+      "category": "base_word",
+      "vietnamese": "Tụ họp, gặp mặt nhau",
+      "english": "Get together",
+      "acceptedAnswers": [
+        "Get together"
+      ],
+      "partOfSpeech": "phr.v",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-go-out-with",
+      "unitId": "vstep-b1",
+      "section": "family",
+      "category": "base_word",
+      "vietnamese": "Hẹn hò với (ai)",
+      "english": "Go out with",
+      "acceptedAnswers": [
+        "Go out with"
+      ],
+      "partOfSpeech": "phr.v",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-introduce",
+      "unitId": "vstep-b1",
+      "section": "family",
+      "category": "base_word",
+      "vietnamese": "Giới thiệu",
+      "english": "Introduce",
+      "acceptedAnswers": [
+        "Introduce"
+      ],
+      "partOfSpeech": "v",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-jealous",
+      "unitId": "vstep-b1",
+      "section": "family",
+      "category": "base_word",
+      "vietnamese": "Ghen tị (với)",
+      "english": "Jealous (of)",
+      "acceptedAnswers": [
+        "Jealous",
+        "Jealous of"
+      ],
+      "partOfSpeech": "adj",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-look-after",
+      "unitId": "vstep-b1",
+      "section": "family",
+      "category": "base_word",
+      "vietnamese": "Chăm sóc, trông nom",
+      "english": "Look after",
+      "acceptedAnswers": [
+        "Look after"
+      ],
+      "partOfSpeech": "phr.v",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-make-friends",
+      "unitId": "vstep-b1",
+      "section": "family",
+      "category": "base_word",
+      "vietnamese": "Kết bạn (với ai)",
+      "english": "Make friends (with)",
+      "acceptedAnswers": [
+        "Make friends",
+        "Make friends with"
+      ],
+      "partOfSpeech": "phr.v",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-married",
+      "unitId": "vstep-b1",
+      "section": "family",
+      "category": "base_word",
+      "vietnamese": "Đã kết hôn (với)",
+      "english": "Married (to)",
+      "acceptedAnswers": [
+        "Married",
+        "Married to"
+      ],
+      "partOfSpeech": "adj",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-neighborhood",
+      "unitId": "vstep-b1",
+      "section": "family",
+      "category": "base_word",
+      "vietnamese": "Khu xóm, hàng xóm láng giềng",
+      "english": "Neighborhood",
+      "acceptedAnswers": [
+        "Neighborhood"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-relative",
+      "unitId": "vstep-b1",
+      "section": "family",
+      "category": "base_word",
+      "vietnamese": "Họ hàng, người thân",
+      "english": "Relative",
+      "acceptedAnswers": [
+        "Relative"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-reliable",
+      "unitId": "vstep-b1",
+      "section": "family",
+      "category": "base_word",
+      "vietnamese": "Đáng tin cậy",
+      "english": "Reliable",
+      "acceptedAnswers": [
+        "Reliable"
+      ],
+      "partOfSpeech": "adj",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-romantic",
+      "unitId": "vstep-b1",
+      "section": "family",
+      "category": "base_word",
+      "vietnamese": "Lãng mạn",
+      "english": "Romantic",
+      "acceptedAnswers": [
+        "Romantic"
+      ],
+      "partOfSpeech": "adj",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-support",
+      "unitId": "vstep-b1",
+      "section": "family",
+      "category": "base_word",
+      "vietnamese": "Ủng hộ, hỗ trợ",
+      "english": "Support",
+      "acceptedAnswers": [
+        "Support"
+      ],
+      "partOfSpeech": "v",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-visit-a-relation",
+      "unitId": "vstep-b1",
+      "section": "family",
+      "category": "base_word",
+      "vietnamese": "Thăm người thân",
+      "english": "Visit a relation",
+      "acceptedAnswers": [
+        "Visit a relation"
+      ],
+      "partOfSpeech": "phr.v",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-proud",
+      "unitId": "vstep-b1",
+      "section": "family",
+      "category": "base_word",
+      "vietnamese": "Tự hào (về)",
+      "english": "Proud (of)",
+      "acceptedAnswers": [
+        "Proud",
+        "Proud of"
+      ],
+      "partOfSpeech": "adj",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-personality",
+      "unitId": "vstep-b1",
+      "section": "family",
+      "category": "base_word",
+      "vietnamese": "Tính cách, cá tính",
+      "english": "Personality",
+      "acceptedAnswers": [
+        "Personality"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-quality-time",
+      "unitId": "vstep-b1",
+      "section": "family",
+      "category": "base_word",
+      "vietnamese": "Thời gian quý báu (cho gia đình…)",
+      "english": "Quality time",
+      "acceptedAnswers": [
+        "Quality time"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-father",
+      "unitId": "vstep-b1",
+      "section": "family",
+      "category": "base_word",
+      "vietnamese": "Bố, cha",
+      "english": "Father",
+      "acceptedAnswers": [
+        "Father"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-mother",
+      "unitId": "vstep-b1",
+      "section": "family",
+      "category": "base_word",
+      "vietnamese": "Mẹ",
+      "english": "Mother",
+      "acceptedAnswers": [
+        "Mother"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-parent",
+      "unitId": "vstep-b1",
+      "section": "family",
+      "category": "base_word",
+      "vietnamese": "Cha hoặc mẹ, phụ huynh",
+      "english": "Parent",
+      "acceptedAnswers": [
+        "Parent"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-husband",
+      "unitId": "vstep-b1",
+      "section": "family",
+      "category": "base_word",
+      "vietnamese": "Người chồng",
+      "english": "Husband",
+      "acceptedAnswers": [
+        "Husband"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-wife",
+      "unitId": "vstep-b1",
+      "section": "family",
+      "category": "base_word",
+      "vietnamese": "Người vợ",
+      "english": "Wife",
+      "acceptedAnswers": [
+        "Wife"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-spouse",
+      "unitId": "vstep-b1",
+      "section": "family",
+      "category": "base_word",
+      "vietnamese": "Vợ hoặc chồng (người phối ngẫu)",
+      "english": "Spouse",
+      "acceptedAnswers": [
+        "Spouse"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-son",
+      "unitId": "vstep-b1",
+      "section": "family",
+      "category": "base_word",
+      "vietnamese": "Con trai (của cha mẹ)",
+      "english": "Son",
+      "acceptedAnswers": [
+        "Son"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-daughter",
+      "unitId": "vstep-b1",
+      "section": "family",
+      "category": "base_word",
+      "vietnamese": "Con gái",
+      "english": "Daughter",
+      "acceptedAnswers": [
+        "Daughter"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-child",
+      "unitId": "vstep-b1",
+      "section": "family",
+      "category": "base_word",
+      "vietnamese": "Đứa trẻ, con (số nhiều: children)",
+      "english": "Child",
+      "acceptedAnswers": [
+        "Child"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-brother",
+      "unitId": "vstep-b1",
+      "section": "family",
+      "category": "base_word",
+      "vietnamese": "Anh/em trai",
+      "english": "Brother",
+      "acceptedAnswers": [
+        "Brother"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-sister",
+      "unitId": "vstep-b1",
+      "section": "family",
+      "category": "base_word",
+      "vietnamese": "Chị/em gái",
+      "english": "Sister",
+      "acceptedAnswers": [
+        "Sister"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-sibling",
+      "unitId": "vstep-b1",
+      "section": "family",
+      "category": "base_word",
+      "vietnamese": "Anh/chị/em ruột",
+      "english": "Sibling",
+      "acceptedAnswers": [
+        "Sibling"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-grandfather",
+      "unitId": "vstep-b1",
+      "section": "family",
+      "category": "base_word",
+      "vietnamese": "Ông (nội/ngoại)",
+      "english": "Grandfather",
+      "acceptedAnswers": [
+        "Grandfather"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-grandmother",
+      "unitId": "vstep-b1",
+      "section": "family",
+      "category": "base_word",
+      "vietnamese": "Bà (nội/ngoại)",
+      "english": "Grandmother",
+      "acceptedAnswers": [
+        "Grandmother"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-grandparent",
+      "unitId": "vstep-b1",
+      "section": "family",
+      "category": "base_word",
+      "vietnamese": "Ông bà (nội, ngoại)",
+      "english": "Grandparent",
+      "acceptedAnswers": [
+        "Grandparent"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-grandchild",
+      "unitId": "vstep-b1",
+      "section": "family",
+      "category": "base_word",
+      "vietnamese": "Cháu (của ông bà)",
+      "english": "Grandchild",
+      "acceptedAnswers": [
+        "Grandchild"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-uncle",
+      "unitId": "vstep-b1",
+      "section": "family",
+      "category": "base_word",
+      "vietnamese": "Chú, bác, cậu",
+      "english": "Uncle",
+      "acceptedAnswers": [
+        "Uncle"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-aunt",
+      "unitId": "vstep-b1",
+      "section": "family",
+      "category": "base_word",
+      "vietnamese": "Cô, dì, thím, mợ",
+      "english": "Aunt",
+      "acceptedAnswers": [
+        "Aunt"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-cousin",
+      "unitId": "vstep-b1",
+      "section": "family",
+      "category": "base_word",
+      "vietnamese": "Anh/chị/em họ",
+      "english": "Cousin",
+      "acceptedAnswers": [
+        "Cousin"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-nephew",
+      "unitId": "vstep-b1",
+      "section": "family",
+      "category": "base_word",
+      "vietnamese": "Cháu trai (con anh/chị/em)",
+      "english": "Nephew",
+      "acceptedAnswers": [
+        "Nephew"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-niece",
+      "unitId": "vstep-b1",
+      "section": "family",
+      "category": "base_word",
+      "vietnamese": "Cháu gái (con anh/chị/em)",
+      "english": "Niece",
+      "acceptedAnswers": [
+        "Niece"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-mother-in-law",
+      "unitId": "vstep-b1",
+      "section": "family",
+      "category": "base_word",
+      "vietnamese": "Mẹ chồng hoặc mẹ vợ",
+      "english": "Mother-in-law",
+      "acceptedAnswers": [
+        "Mother-in-law"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-stepmother",
+      "unitId": "vstep-b1",
+      "section": "family",
+      "category": "base_word",
+      "vietnamese": "Mẹ kế",
+      "english": "Stepmother",
+      "acceptedAnswers": [
+        "Stepmother"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-engaged",
+      "unitId": "vstep-b1",
+      "section": "family",
+      "category": "base_word",
+      "vietnamese": "Đã đính hôn",
+      "english": "Engaged",
+      "acceptedAnswers": [
+        "Engaged"
+      ],
+      "partOfSpeech": "adj",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-divorced",
+      "unitId": "vstep-b1",
+      "section": "family",
+      "category": "base_word",
+      "vietnamese": "Đã ly hôn",
+      "english": "Divorced",
+      "acceptedAnswers": [
+        "Divorced"
+      ],
+      "partOfSpeech": "adj",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-single",
+      "unitId": "vstep-b1",
+      "section": "family",
+      "category": "base_word",
+      "vietnamese": "Độc thân",
+      "english": "Single",
+      "acceptedAnswers": [
+        "Single"
+      ],
+      "partOfSpeech": "adj",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-widow",
+      "unitId": "vstep-b1",
+      "section": "family",
+      "category": "base_word",
+      "vietnamese": "Góa phụ (người đàn bà mất chồng)",
+      "english": "Widow",
+      "acceptedAnswers": [
+        "Widow"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-household",
+      "unitId": "vstep-b1",
+      "section": "family",
+      "category": "base_word",
+      "vietnamese": "Hộ gia đình",
+      "english": "Household",
+      "acceptedAnswers": [
+        "Household"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-nuclear-family",
+      "unitId": "vstep-b1",
+      "section": "family",
+      "category": "base_word",
+      "vietnamese": "Gia đình hạt nhân (chỉ gồm bố mẹ và con cái)",
+      "english": "Nuclear family",
+      "acceptedAnswers": [
+        "Nuclear family"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-extended-family",
+      "unitId": "vstep-b1",
+      "section": "family",
+      "category": "base_word",
+      "vietnamese": "Gia đình mở rộng (đa thế hệ)",
+      "english": "Extended family",
+      "acceptedAnswers": [
+        "Extended family"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-single-parent",
+      "unitId": "vstep-b1",
+      "section": "family",
+      "category": "base_word",
+      "vietnamese": "Bố/mẹ đơn thân",
+      "english": "Single parent",
+      "acceptedAnswers": [
+        "Single parent"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-generation-gap",
+      "unitId": "vstep-b1",
+      "section": "family",
+      "category": "base_word",
+      "vietnamese": "Khoảng cách thế hệ",
+      "english": "Generation gap",
+      "acceptedAnswers": [
+        "Generation gap"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-childhood",
+      "unitId": "vstep-b1",
+      "section": "family",
+      "category": "base_word",
+      "vietnamese": "Tuổi thơ, thời thơ ấu",
+      "english": "Childhood",
+      "acceptedAnswers": [
+        "Childhood"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-marry",
+      "unitId": "vstep-b1",
+      "section": "family",
+      "category": "base_word",
+      "vietnamese": "Kết hôn, lấy vợ/chồng",
+      "english": "Marry",
+      "acceptedAnswers": [
+        "Marry"
+      ],
+      "partOfSpeech": "v",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-aware",
+      "unitId": "vstep-b1",
+      "section": "environment",
+      "category": "base_word",
+      "vietnamese": "Nhận thức (về điều gì)",
+      "english": "Aware (of)",
+      "acceptedAnswers": [
+        "Aware",
+        "Aware of"
+      ],
+      "partOfSpeech": "adj",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-climate-change",
+      "unitId": "vstep-b1",
+      "section": "environment",
+      "category": "base_word",
+      "vietnamese": "Biến đổi khí hậu",
+      "english": "Climate change",
+      "acceptedAnswers": [
+        "Climate change"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-damage",
+      "unitId": "vstep-b1",
+      "section": "environment",
+      "category": "base_word",
+      "vietnamese": "Gây thiệt hại (cho…); sự thiệt hại",
+      "english": "Damage (to)",
+      "acceptedAnswers": [
+        "Damage",
+        "Damage to"
+      ],
+      "partOfSpeech": "v",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-earth",
+      "unitId": "vstep-b1",
+      "section": "environment",
+      "category": "base_word",
+      "vietnamese": "Trái Đất; đất, mặt đất",
+      "english": "Earth",
+      "acceptedAnswers": [
+        "Earth"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-environment",
+      "unitId": "vstep-b1",
+      "section": "environment",
+      "category": "base_word",
+      "vietnamese": "Môi trường",
+      "english": "Environment",
+      "acceptedAnswers": [
+        "Environment"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-environmentalist",
+      "unitId": "vstep-b1",
+      "section": "environment",
+      "category": "base_word",
+      "vietnamese": "Nhà môi trường học; người bảo vệ môi trường",
+      "english": "Environmentalist",
+      "acceptedAnswers": [
+        "Environmentalist"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-extinct",
+      "unitId": "vstep-b1",
+      "section": "environment",
+      "category": "base_word",
+      "vietnamese": "Tuyệt chủng",
+      "english": "Extinct",
+      "acceptedAnswers": [
+        "Extinct"
+      ],
+      "partOfSpeech": "adj",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-petrol",
+      "unitId": "vstep-b1",
+      "section": "environment",
+      "category": "base_word",
+      "vietnamese": "Xăng dầu (BrE)",
+      "english": "Petrol",
+      "acceptedAnswers": [
+        "Petrol"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-increase",
+      "unitId": "vstep-b1",
+      "section": "environment",
+      "category": "base_word",
+      "vietnamese": "Tăng lên; sự tăng",
+      "english": "Increase",
+      "acceptedAnswers": [
+        "Increase"
+      ],
+      "partOfSpeech": "v",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-insect",
+      "unitId": "vstep-b1",
+      "section": "environment",
+      "category": "base_word",
+      "vietnamese": "Côn trùng",
+      "english": "Insect",
+      "acceptedAnswers": [
+        "Insect"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-jungle",
+      "unitId": "vstep-b1",
+      "section": "environment",
+      "category": "base_word",
+      "vietnamese": "Rừng nhiệt đới, rừng rậm",
+      "english": "Jungle",
+      "acceptedAnswers": [
+        "Jungle"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-landscape",
+      "unitId": "vstep-b1",
+      "section": "environment",
+      "category": "base_word",
+      "vietnamese": "Phong cảnh, cảnh quan",
+      "english": "Landscape",
+      "acceptedAnswers": [
+        "Landscape"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-litter",
+      "unitId": "vstep-b1",
+      "section": "environment",
+      "category": "base_word",
+      "vietnamese": "Xả rác; rác (trên nơi công cộng)",
+      "english": "Litter",
+      "acceptedAnswers": [
+        "Litter"
+      ],
+      "partOfSpeech": "v",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-nature",
+      "unitId": "vstep-b1",
+      "section": "environment",
+      "category": "base_word",
+      "vietnamese": "Tự nhiên; thiên nhiên",
+      "english": "Nature",
+      "acceptedAnswers": [
+        "Nature"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-ocean",
+      "unitId": "vstep-b1",
+      "section": "environment",
+      "category": "base_word",
+      "vietnamese": "Đại dương, biển",
+      "english": "Ocean",
+      "acceptedAnswers": [
+        "Ocean"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-pollution",
+      "unitId": "vstep-b1",
+      "section": "environment",
+      "category": "base_word",
+      "vietnamese": "Sự ô nhiễm",
+      "english": "Pollution",
+      "acceptedAnswers": [
+        "Pollution"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-preserve",
+      "unitId": "vstep-b1",
+      "section": "environment",
+      "category": "base_word",
+      "vietnamese": "Bảo tồn, giữ gìn",
+      "english": "Preserve",
+      "acceptedAnswers": [
+        "Preserve"
+      ],
+      "partOfSpeech": "v",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-prevent",
+      "unitId": "vstep-b1",
+      "section": "environment",
+      "category": "base_word",
+      "vietnamese": "Ngăn chặn (khỏi…)",
+      "english": "Prevent (someone from)",
+      "acceptedAnswers": [
+        "Prevent",
+        "Prevent someone from"
+      ],
+      "partOfSpeech": "v",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-rainforest",
+      "unitId": "vstep-b1",
+      "section": "environment",
+      "category": "base_word",
+      "vietnamese": "Rừng mưa nhiệt đới",
+      "english": "Rainforest",
+      "acceptedAnswers": [
+        "Rainforest"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-recycle",
+      "unitId": "vstep-b1",
+      "section": "environment",
+      "category": "base_word",
+      "vietnamese": "Tái chế",
+      "english": "Recycle",
+      "acceptedAnswers": [
+        "Recycle"
+      ],
+      "partOfSpeech": "v",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-species",
+      "unitId": "vstep-b1",
+      "section": "environment",
+      "category": "base_word",
+      "vietnamese": "Loài, chủng loài",
+      "english": "Species",
+      "acceptedAnswers": [
+        "Species"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-waste",
+      "unitId": "vstep-b1",
+      "section": "environment",
+      "category": "base_word",
+      "vietnamese": "Lãng phí; rác thải, chất thải",
+      "english": "Waste",
+      "acceptedAnswers": [
+        "Waste"
+      ],
+      "partOfSpeech": "v",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-wildlife",
+      "unitId": "vstep-b1",
+      "section": "environment",
+      "category": "base_word",
+      "vietnamese": "Động vật hoang dã",
+      "english": "Wildlife",
+      "acceptedAnswers": [
+        "Wildlife"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-ecosystem",
+      "unitId": "vstep-b1",
+      "section": "environment",
+      "category": "base_word",
+      "vietnamese": "Hệ sinh thái",
+      "english": "Ecosystem",
+      "acceptedAnswers": [
+        "Ecosystem"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-biodiversity",
+      "unitId": "vstep-b1",
+      "section": "environment",
+      "category": "base_word",
+      "vietnamese": "Sự đa dạng sinh học",
+      "english": "Biodiversity",
+      "acceptedAnswers": [
+        "Biodiversity"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-global-warming",
+      "unitId": "vstep-b1",
+      "section": "environment",
+      "category": "base_word",
+      "vietnamese": "Sự nóng lên toàn cầu",
+      "english": "Global warming",
+      "acceptedAnswers": [
+        "Global warming"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-renewable-energy",
+      "unitId": "vstep-b1",
+      "section": "environment",
+      "category": "base_word",
+      "vietnamese": "Năng lượng tái tạo",
+      "english": "Renewable energy",
+      "acceptedAnswers": [
+        "Renewable energy"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-solar-power",
+      "unitId": "vstep-b1",
+      "section": "environment",
+      "category": "base_word",
+      "vietnamese": "Năng lượng mặt trời",
+      "english": "Solar power",
+      "acceptedAnswers": [
+        "Solar power"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-wind-energy",
+      "unitId": "vstep-b1",
+      "section": "environment",
+      "category": "base_word",
+      "vietnamese": "Năng lượng gió",
+      "english": "Wind energy",
+      "acceptedAnswers": [
+        "Wind energy"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-environmental-protection",
+      "unitId": "vstep-b1",
+      "section": "environment",
+      "category": "base_word",
+      "vietnamese": "Bảo vệ môi trường",
+      "english": "Environmental protection",
+      "acceptedAnswers": [
+        "Environmental protection"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-conservation",
+      "unitId": "vstep-b1",
+      "section": "environment",
+      "category": "base_word",
+      "vietnamese": "Sự bảo tồn",
+      "english": "Conservation",
+      "acceptedAnswers": [
+        "Conservation"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-sustainable",
+      "unitId": "vstep-b1",
+      "section": "environment",
+      "category": "base_word",
+      "vietnamese": "Bền vững (thân thiện với môi trường)",
+      "english": "Sustainable",
+      "acceptedAnswers": [
+        "Sustainable"
+      ],
+      "partOfSpeech": "adj",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-greenhouse-gas",
+      "unitId": "vstep-b1",
+      "section": "environment",
+      "category": "base_word",
+      "vietnamese": "Khí nhà kính",
+      "english": "Greenhouse gas",
+      "acceptedAnswers": [
+        "Greenhouse gas"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-deforestation",
+      "unitId": "vstep-b1",
+      "section": "environment",
+      "category": "base_word",
+      "vietnamese": "Nạn phá rừng",
+      "english": "Deforestation",
+      "acceptedAnswers": [
+        "Deforestation"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-forest",
+      "unitId": "vstep-b1",
+      "section": "environment",
+      "category": "base_word",
+      "vietnamese": "Rừng",
+      "english": "Forest",
+      "acceptedAnswers": [
+        "Forest"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-wildfire",
+      "unitId": "vstep-b1",
+      "section": "environment",
+      "category": "base_word",
+      "vietnamese": "Cháy rừng",
+      "english": "Wildfire",
+      "acceptedAnswers": [
+        "Wildfire"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-endangered-species",
+      "unitId": "vstep-b1",
+      "section": "environment",
+      "category": "base_word",
+      "vietnamese": "Loài có nguy cơ tuyệt chủng",
+      "english": "Endangered species",
+      "acceptedAnswers": [
+        "Endangered species"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-pollute",
+      "unitId": "vstep-b1",
+      "section": "environment",
+      "category": "base_word",
+      "vietnamese": "Gây ô nhiễm",
+      "english": "Pollute",
+      "acceptedAnswers": [
+        "Pollute"
+      ],
+      "partOfSpeech": "v",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-environmental",
+      "unitId": "vstep-b1",
+      "section": "environment",
+      "category": "base_word",
+      "vietnamese": "(Thuộc về) môi trường",
+      "english": "Environmental",
+      "acceptedAnswers": [
+        "Environmental"
+      ],
+      "partOfSpeech": "adj",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-eco-friendly",
+      "unitId": "vstep-b1",
+      "section": "environment",
+      "category": "base_word",
+      "vietnamese": "Thân thiện với môi trường",
+      "english": "Eco-friendly",
+      "acceptedAnswers": [
+        "Eco-friendly"
+      ],
+      "partOfSpeech": "adj",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-climate",
+      "unitId": "vstep-b1",
+      "section": "environment",
+      "category": "base_word",
+      "vietnamese": "Khí hậu",
+      "english": "Climate",
+      "acceptedAnswers": [
+        "Climate"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-flood",
+      "unitId": "vstep-b1",
+      "section": "environment",
+      "category": "base_word",
+      "vietnamese": "Lũ lụt; ngập lụt",
+      "english": "Flood",
+      "acceptedAnswers": [
+        "Flood"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-drought",
+      "unitId": "vstep-b1",
+      "section": "environment",
+      "category": "base_word",
+      "vietnamese": "Hạn hán",
+      "english": "Drought",
+      "acceptedAnswers": [
+        "Drought"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-earthquake",
+      "unitId": "vstep-b1",
+      "section": "environment",
+      "category": "base_word",
+      "vietnamese": "Động đất",
+      "english": "Earthquake",
+      "acceptedAnswers": [
+        "Earthquake"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-society",
+      "unitId": "vstep-b1",
+      "section": "society",
+      "category": "base_word",
+      "vietnamese": "Xã hội",
+      "english": "Society",
+      "acceptedAnswers": [
+        "Society"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-social",
+      "unitId": "vstep-b1",
+      "section": "society",
+      "category": "base_word",
+      "vietnamese": "Thuộc về xã hội; có tính xã hội",
+      "english": "Social",
+      "acceptedAnswers": [
+        "Social"
+      ],
+      "partOfSpeech": "adj",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-community",
+      "unitId": "vstep-b1",
+      "section": "society",
+      "category": "base_word",
+      "vietnamese": "Cộng đồng",
+      "english": "Community",
+      "acceptedAnswers": [
+        "Community"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-custom",
+      "unitId": "vstep-b1",
+      "section": "society",
+      "category": "base_word",
+      "vietnamese": "Phong tục, tập quán",
+      "english": "Custom",
+      "acceptedAnswers": [
+        "Custom"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-citizen",
+      "unitId": "vstep-b1",
+      "section": "society",
+      "category": "base_word",
+      "vietnamese": "Công dân",
+      "english": "Citizen",
+      "acceptedAnswers": [
+        "Citizen"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-government",
+      "unitId": "vstep-b1",
+      "section": "society",
+      "category": "base_word",
+      "vietnamese": "Chính phủ; sự cai trị",
+      "english": "Government",
+      "acceptedAnswers": [
+        "Government"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-law",
+      "unitId": "vstep-b1",
+      "section": "society",
+      "category": "base_word",
+      "vietnamese": "Pháp luật; luật (quy định)",
+      "english": "Law",
+      "acceptedAnswers": [
+        "Law"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-crime",
+      "unitId": "vstep-b1",
+      "section": "society",
+      "category": "base_word",
+      "vietnamese": "Tội phạm; tội ác",
+      "english": "Crime",
+      "acceptedAnswers": [
+        "Crime"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-police",
+      "unitId": "vstep-b1",
+      "section": "society",
+      "category": "base_word",
+      "vietnamese": "Cảnh sát (lực lượng)",
+      "english": "Police",
+      "acceptedAnswers": [
+        "Police"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-equality",
+      "unitId": "vstep-b1",
+      "section": "society",
+      "category": "base_word",
+      "vietnamese": "Sự bình đẳng",
+      "english": "Equality",
+      "acceptedAnswers": [
+        "Equality"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-discrimination",
+      "unitId": "vstep-b1",
+      "section": "society",
+      "category": "base_word",
+      "vietnamese": "Sự phân biệt đối xử",
+      "english": "Discrimination",
+      "acceptedAnswers": [
+        "Discrimination"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-poverty",
+      "unitId": "vstep-b1",
+      "section": "society",
+      "category": "base_word",
+      "vietnamese": "Cảnh nghèo nàn, sự nghèo đói",
+      "english": "Poverty",
+      "acceptedAnswers": [
+        "Poverty"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-unemployment",
+      "unitId": "vstep-b1",
+      "section": "society",
+      "category": "base_word",
+      "vietnamese": "Tình trạng thất nghiệp; nạn thất nghiệp",
+      "english": "Unemployment",
+      "acceptedAnswers": [
+        "Unemployment"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-homeless",
+      "unitId": "vstep-b1",
+      "section": "society",
+      "category": "base_word",
+      "vietnamese": "Vô gia cư (không có nhà ở)",
+      "english": "Homeless",
+      "acceptedAnswers": [
+        "Homeless"
+      ],
+      "partOfSpeech": "adj",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-homelessness",
+      "unitId": "vstep-b1",
+      "section": "society",
+      "category": "base_word",
+      "vietnamese": "Tình trạng vô gia cư",
+      "english": "Homelessness",
+      "acceptedAnswers": [
+        "Homelessness"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-charity",
+      "unitId": "vstep-b1",
+      "section": "society",
+      "category": "base_word",
+      "vietnamese": "Hoạt động từ thiện; tổ chức từ thiện",
+      "english": "Charity",
+      "acceptedAnswers": [
+        "Charity"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-volunteer",
+      "unitId": "vstep-b1",
+      "section": "society",
+      "category": "base_word",
+      "vietnamese": "Tình nguyện viên; tình nguyện",
+      "english": "Volunteer",
+      "acceptedAnswers": [
+        "Volunteer"
+      ],
+      "partOfSpeech": "v",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-public-transport",
+      "unitId": "vstep-b1",
+      "section": "society",
+      "category": "base_word",
+      "vietnamese": "Giao thông công cộng",
+      "english": "Public transport",
+      "acceptedAnswers": [
+        "Public transport"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-traffic-jam",
+      "unitId": "vstep-b1",
+      "section": "society",
+      "category": "base_word",
+      "vietnamese": "Nạn kẹt xe, tắc đường",
+      "english": "Traffic jam",
+      "acceptedAnswers": [
+        "Traffic jam"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-social-media",
+      "unitId": "vstep-b1",
+      "section": "society",
+      "category": "base_word",
+      "vietnamese": "Mạng xã hội (như Facebook, Twitter)",
+      "english": "Social media",
+      "acceptedAnswers": [
+        "Social media"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-urban",
+      "unitId": "vstep-b1",
+      "section": "society",
+      "category": "base_word",
+      "vietnamese": "Thuộc thành thị, đô thị",
+      "english": "Urban",
+      "acceptedAnswers": [
+        "Urban"
+      ],
+      "partOfSpeech": "adj",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-rural",
+      "unitId": "vstep-b1",
+      "section": "society",
+      "category": "base_word",
+      "vietnamese": "Thuộc nông thôn",
+      "english": "Rural",
+      "acceptedAnswers": [
+        "Rural"
+      ],
+      "partOfSpeech": "adj",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-festival",
+      "unitId": "vstep-b1",
+      "section": "society",
+      "category": "base_word",
+      "vietnamese": "Lễ hội",
+      "english": "Festival",
+      "acceptedAnswers": [
+        "Festival"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-population",
+      "unitId": "vstep-b1",
+      "section": "society",
+      "category": "base_word",
+      "vietnamese": "Dân số",
+      "english": "Population",
+      "acceptedAnswers": [
+        "Population"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-public",
+      "unitId": "vstep-b1",
+      "section": "society",
+      "category": "base_word",
+      "vietnamese": "Công cộng, chung",
+      "english": "Public",
+      "acceptedAnswers": [
+        "Public"
+      ],
+      "partOfSpeech": "adj",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-public-n",
+      "unitId": "vstep-b1",
+      "section": "society",
+      "category": "base_word",
+      "vietnamese": "Công chúng, người dân",
+      "english": "Public",
+      "acceptedAnswers": [
+        "Public"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-media",
+      "unitId": "vstep-b1",
+      "section": "society",
+      "category": "base_word",
+      "vietnamese": "Truyền thông đại chúng (báo, đài, TV…)",
+      "english": "Media",
+      "acceptedAnswers": [
+        "Media"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-news",
+      "unitId": "vstep-b1",
+      "section": "society",
+      "category": "base_word",
+      "vietnamese": "Tin tức; bản tin thời sự",
+      "english": "News",
+      "acceptedAnswers": [
+        "News"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-politics",
+      "unitId": "vstep-b1",
+      "section": "society",
+      "category": "base_word",
+      "vietnamese": "Chính trị",
+      "english": "Politics",
+      "acceptedAnswers": [
+        "Politics"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-economy",
+      "unitId": "vstep-b1",
+      "section": "society",
+      "category": "base_word",
+      "vietnamese": "Nền kinh tế",
+      "english": "Economy",
+      "acceptedAnswers": [
+        "Economy"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-freedom",
+      "unitId": "vstep-b1",
+      "section": "society",
+      "category": "base_word",
+      "vietnamese": "Sự tự do",
+      "english": "Freedom",
+      "acceptedAnswers": [
+        "Freedom"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-peace",
+      "unitId": "vstep-b1",
+      "section": "society",
+      "category": "base_word",
+      "vietnamese": "Hòa bình, sự yên bình",
+      "english": "Peace",
+      "acceptedAnswers": [
+        "Peace"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-human-rights",
+      "unitId": "vstep-b1",
+      "section": "society",
+      "category": "base_word",
+      "vietnamese": "Nhân quyền, quyền con người",
+      "english": "Human rights",
+      "acceptedAnswers": [
+        "Human rights"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-civilization",
+      "unitId": "vstep-b1",
+      "section": "society",
+      "category": "base_word",
+      "vietnamese": "Nền văn minh",
+      "english": "Civilization",
+      "acceptedAnswers": [
+        "Civilization"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-teenager",
+      "unitId": "vstep-b1",
+      "section": "society",
+      "category": "base_word",
+      "vietnamese": "Thanh thiếu niên (người 13-19 tuổi)",
+      "english": "Teenager",
+      "acceptedAnswers": [
+        "Teenager"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-adult",
+      "unitId": "vstep-b1",
+      "section": "society",
+      "category": "base_word",
+      "vietnamese": "Người trưởng thành, người lớn",
+      "english": "Adult",
+      "acceptedAnswers": [
+        "Adult"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-youth",
+      "unitId": "vstep-b1",
+      "section": "society",
+      "category": "base_word",
+      "vietnamese": "Thanh niên, tuổi trẻ",
+      "english": "Youth",
+      "acceptedAnswers": [
+        "Youth"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-gender",
+      "unitId": "vstep-b1",
+      "section": "society",
+      "category": "base_word",
+      "vietnamese": "Giới tính",
+      "english": "Gender",
+      "acceptedAnswers": [
+        "Gender"
+      ],
+      "partOfSpeech": "n",
+      "sourceRow": null
+    },
+    {
+      "id": "vstep-b1-influence",
+      "unitId": "vstep-b1",
+      "section": "society",
+      "category": "base_word",
+      "vietnamese": "Ảnh hưởng; sự ảnh hưởng",
+      "english": "Influence",
+      "acceptedAnswers": [
+        "Influence"
+      ],
+      "partOfSpeech": "v",
+      "sourceRow": null
+    }
+  ],
+  "reviewNotes": []
+}

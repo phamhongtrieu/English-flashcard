@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "unit": {
+    "id": "vstep-b1",
+    "title": "VSTEP B1",
+    "description": "Bộ 407 thẻ từ vựng VSTEP B1 chia theo 7 chủ đề thông dụng.",
+    "sections": [
+      {
+        "id": "travel",
+        "title": "Du lịch (Travel)",
+        "description": "74 từ vựng chủ đề Du lịch."
+      },
+      {
+        "id": "education",
+        "title": "Học tập (Education)",
+        "description": "70 từ vựng chủ đề Học tập."
+      },
+      {
+        "id": "work",
+        "title": "Công việc (Work)",
+        "description": "54 từ vựng chủ đề Công việc."
+      },
+      {
+        "id": "health",
+        "title": "Sức khỏe (Health)",
+        "description": "68 từ vựng chủ đề Sức khỏe."
+      },
+      {
+        "id": "family",
+        "title": "Gia đình (Family)",
+        "description": "58 từ vựng chủ đề Gia đình."
+      },
+      {
+        "id": "environment",
+        "title": "Môi trường (Environment)",
+        "description": "44 từ vựng chủ đề Môi trường."
+      },
+      {
+        "id": "society",
+        "title": "Xã hội (Society)",
+        "description": "39 từ vựng chủ đề Xã hội."
+      }
+    ],
+    "dataFile": "data/vstep-b1/vstep-b1.json"
+  }
+}
