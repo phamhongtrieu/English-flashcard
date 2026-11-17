@@ -2,6 +2,7 @@ import type { Flashcard, LoadedUnit, PartOfSpeech, Unit, UnitData } from '../typ
 import { quizApproved, validateQuizLesson, validateQuizManifest } from './toeicQuizLoader'
 
 export const TOEIC_UNIT_ID = 'toeic-600'
+export const VSTEP_B1_UNIT_ID = 'vstep-b1'
 
 const toeicPosMap: Record<string, PartOfSpeech> = {
   'n.': 'n', n: 'n', 'v.': 'v', v: 'v', 'adj.': 'adj', adj: 'adj', 'adv.': 'adv', adv: 'adv',
@@ -14,7 +15,7 @@ function mapToeicPartOfSpeech(value: string | null): PartOfSpeech | null {
 }
 
 const categories = new Set(['base_word', 'word_family', 'synonym', 'collocation'])
-const parts = new Set(['n', 'v', 'adj', 'adv', 'v/adj', 'n/adj', 'adj/n', 'v/n', 'n/v', 'n.pl', 'phr.v'])
+const parts = new Set(['n', 'v', 'adj', 'adv', 'v/adj', 'n/adj', 'adj/n', 'v/n', 'n/v', 'n.pl', 'phr.v', 'prep', 'idiom'])
 const object = (value: unknown): value is Record<string, unknown> => typeof value === 'object' && value !== null && !Array.isArray(value)
 const text = (value: unknown): value is string => typeof value === 'string' && value.trim().length > 0
 const identifier = (value: unknown): value is string => text(value) && /^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(value)
@@ -47,7 +48,7 @@ export function validateUnitData(value: unknown, unit: Unit): UnitData {
       || !text(card.english) || !text(card.vietnamese) || !text(card.category) || !categories.has(card.category)
       || (card.acceptedAnswers !== undefined && (!Array.isArray(card.acceptedAnswers) || !card.acceptedAnswers.length || !card.acceptedAnswers.every(text)))
       || (card.partOfSpeech !== null && (!text(card.partOfSpeech) || !parts.has(card.partOfSpeech)))
-      || !Number.isInteger(card.sourceRow) || Number(card.sourceRow) < 1) throw new Error(`Flashcard của ${unit.title} không hợp lệ, sai Unit hoặc trùng ID.`)
+      || (card.sourceRow !== null && (!Number.isInteger(card.sourceRow) || Number(card.sourceRow) < 1))) throw new Error(`Flashcard của ${unit.title} không hợp lệ, sai Unit hoặc trùng ID.`)
     ids.add(card.id)
   }
   for (const note of value.reviewNotes) {
@@ -101,11 +102,20 @@ async function loadToeicFlashcardUnit(signal?: AbortSignal): Promise<LoadedUnit>
   return { unit, data: { schemaVersion: 1, unitId: TOEIC_UNIT_ID, flashcards, reviewNotes: [] } }
 }
 
+async function loadVstepB1Unit(signal?: AbortSignal): Promise<LoadedUnit> {
+  const manifest = await readJson('data/vstep-b1/manifest.json', signal)
+  if (!object(manifest) || manifest.schemaVersion !== 1 || !object(manifest.unit)) throw new Error('Manifest VSTEP B1 không hợp lệ.')
+  const unit = manifest.unit as unknown as Unit
+  const data = validateUnitData(await readJson(unit.dataFile, signal), unit)
+  return { unit, data }
+}
+
 export async function loadManifest(signal?: AbortSignal): Promise<Unit[]> {
   return validateManifest(await readJson('data/units.json', signal))
 }
 export async function loadUnit(unitId: string, signal?: AbortSignal): Promise<LoadedUnit> {
   if (unitId === TOEIC_UNIT_ID) return loadToeicFlashcardUnit(signal)
+  if (unitId === VSTEP_B1_UNIT_ID) return loadVstepB1Unit(signal)
   const manifest = await loadManifest(signal)
   const unit = manifest.find(item => item.id === unitId)
   if (!unit) throw new Error('Unit không tồn tại hoặc chưa được xuất bản.')
@@ -116,17 +126,18 @@ export async function loadCatalog(signal?: AbortSignal): Promise<{ entries: Load
   const results = await Promise.allSettled([
     ...manifest.map(async unit => ({ unit, data: validateUnitData(await readJson(unit.dataFile, signal), unit) })),
     loadToeicFlashcardUnit(signal),
+    loadVstepB1Unit(signal),
   ])
   const entries: LoadedUnit[] = []
   const warnings: string[] = []
   results.forEach((result, index) => {
     if (result.status === 'fulfilled') entries.push(result.value)
     else {
-      const title = index < manifest.length ? manifest[index].title : '600 Từ Vựng TOEIC'
+      const title = index < manifest.length ? manifest[index].title : index === manifest.length ? '600 Từ Vựng TOEIC' : 'VSTEP B1'
       warnings.push(`Không thể hiển thị ${title}: ${result.reason instanceof Error ? result.reason.message : 'Dữ liệu lỗi.'}`)
     }
   })
   return { entries, warnings }
 }
-export const unitStudyPath = (unit: Unit) => `/study/${encodeURIComponent(unit.id)}`
-export const unitLabel = (unit: Unit) => unit.number ? `UNIT ${String(unit.number).padStart(2, '0')}` : unit.id === TOEIC_UNIT_ID ? 'TOEIC 600' : unit.title
+export const unitStudyPath = (unit: Unit) => unit.id === VSTEP_B1_UNIT_ID ? '/vstep-b1' : `/study/${encodeURIComponent(unit.id)}`
+export const unitLabel = (unit: Unit) => unit.number ? `UNIT ${String(unit.number).padStart(2, '0')}` : unit.id === TOEIC_UNIT_ID ? 'TOEIC 600' : unit.id === VSTEP_B1_UNIT_ID ? 'VSTEP B1' : unit.title
